@@ -89,7 +89,7 @@ jobs:
         shell: bash
         run: |
           mv vtscan-results-all.json "vt-scan-results/$RELEASE-all.json"
-          mv vtscan-results-warning.json "vt-scan-results/$RELEASE-warning.json"
+          mv vtscan-results-warnings.json "vt-scan-results/$RELEASE-warning.json"
           
           python3 html.py > index.html
           
