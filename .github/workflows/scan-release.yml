@@ -35,7 +35,9 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           RELEASE: ${{ inputs.release }}
-        run: ./download-release.sh
+        run: |
+          ./download-release.sh
+          echo "RELEASE=$RELEASE" >> $GITHUB_ENV
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -64,15 +66,6 @@ jobs:
             vtscan-results-all.json
             vtscan-results-warnings.json
 
-#      - name: Post message
-#        uses: slackapi/slack-github-action@v2.0.0
-#        with:
-#          method: chat.postMessage
-#          token: ${{ secrets.SLACK_BOT_TOKEN }}
-#          payload: |
-#            channel: ${{ secrets.SLACK_CHANNEL_ID }}
-#            text: "${{ env.SCAN_STATUS }}"
-
   upload:
     # Making it a standalone job to limit its security perimeter
     runs-on: ubuntu-latest
@@ -95,10 +88,15 @@ jobs:
       - name: Commit scan results
         shell: bash
         run: |
+          mv vtscan-results-all.json "vt-scan-results/$RELEASE-all.json"
+          mv vtscan-results-warning.json "vt-scan-results/$RELEASE-warning.json"
+          
+          python3 html.py > index.html
+          
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
-          git commit -a -m "VT scan results"
+          git commit -a -m "Updated VT scan results"
 
       - name: Push changes
         uses: ad-m/github-push-action@master

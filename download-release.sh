@@ -33,6 +33,8 @@ else
     echo "Release variable is specified"
 fi
 
+export RELEASE
+
 echo "Downloading binaries for release $RELEASE to $(pwd)"
 
 gh release download "$RELEASE" --clobber --dir "$OUTPUT" --pattern "*.exe" --repo "$REPO"
