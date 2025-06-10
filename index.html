@@ -1,0 +1,14 @@
+<h1>Antivirus scaner for Flowkeeper</h1>
+
+<p>There are three things in this repo:</p>
+
+<ol>
+  <li>A Python script which uploads Flowkeeper EXE files to VirusTotal using its API</li>
+  <li>Scan results in JSON format, which are then hosted via GitHub Pages, for flowkeeper.org website to consume:
+    <ul>
+      <li><a href="/vtscan-results-all.json">vtscan-results-all.json</a></li>
+      <li><a href="/vtscan-results-warnings.json">vtscan-results-warnings.json</a></li>
+    </ul>
+  </li>
+  <li>A GitHub Actions workflow, which runs nightly, downloads the latest Flowkeeper release binaries, and triggers the scan</li>
+</ol>
