@@ -1,0 +1,14 @@
+name: Nightly job
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  call-scan:
+    uses: flowkeeper-org/av-scan/.github/workflows/scan-release.yml@main
+    with:
+      release: ''
+    secrets: inherit
+    permissions:
+      contents: write
