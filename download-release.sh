@@ -33,7 +33,7 @@ else
     echo "Release variable is specified"
 fi
 
-export RELEASE
+echo "$RELEASE" > release.txt
 
 echo "Downloading binaries for release $RELEASE to $(pwd)"
 
