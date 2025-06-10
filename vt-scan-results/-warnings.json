@@ -1,417 +1,407 @@
 {
     "flowkeeper-0.10.0-windows-2019-nuitka-installer.exe": {
-        "Skyhigh": {
-            "type": "malicious",
-            "details": "Artemis",
-            "date": "2025-06-10T21:35:08.882280"
-        },
         "Ikarus": {
             "type": "malicious",
             "details": "PUA.Python.Nuitka",
-            "date": "2025-06-10T21:35:08.882328"
+            "date": "2025-06-10T21:47:12.366902"
         },
         "Google": {
             "type": "malicious",
             "details": "Detected",
-            "date": "2025-06-10T21:35:08.882332"
+            "date": "2025-06-10T21:47:12.366908"
         },
         "Varist": {
             "type": "malicious",
             "details": "W64/ABApplication.ZYKK-8857",
-            "date": "2025-06-10T21:35:08.882349"
+            "date": "2025-06-10T21:47:12.366922"
         },
         "Fortinet": {
             "type": "malicious",
             "details": "Riskware/Application",
-            "date": "2025-06-10T21:35:08.882368"
+            "date": "2025-06-10T21:47:12.366947"
         },
         "DeepInstinct": {
             "type": "malicious",
             "details": "MALICIOUS",
-            "date": "2025-06-10T21:35:08.882371"
+            "date": "2025-06-10T21:47:12.366950"
         }
     },
     "flowkeeper-0.10.0-windows-2019-pyinstaller-portable.exe": {},
-    "flowkeeper-0.10.0-windows-2022-pyinstaller-installer.exe": {},
-    "flowkeeper-0.10.0-windows-2025-nuitka-portable.exe": {
-        "Lionic": {
-            "type": "malicious",
-            "details": "Trojan.Win32.GenericKDQ.4!c",
-            "date": "2025-06-10T21:36:09.801838"
-        },
-        "MicroWorld-eScan": {
-            "type": "malicious",
-            "details": "QD:Trojan.GenericKDQ.0613B21059",
-            "date": "2025-06-10T21:36:09.801842"
-        },
-        "Skyhigh": {
-            "type": "malicious",
-            "details": "Artemis",
-            "date": "2025-06-10T21:36:09.801847"
-        },
-        "ALYac": {
-            "type": "malicious",
-            "details": "QD:Trojan.GenericKDQ.0613B21059",
-            "date": "2025-06-10T21:36:09.801848"
-        },
-        "Avast": {
-            "type": "malicious",
-            "details": "Win64:MalwareX-gen [Ransom]",
-            "date": "2025-06-10T21:36:09.801878"
-        },
-        "VIPRE": {
-            "type": "malicious",
-            "details": "QD:Trojan.GenericKDQ.0613B21059",
-            "date": "2025-06-10T21:36:09.801885"
-        },
-        "McAfeeD": {
-            "type": "malicious",
-            "details": "ti!ADDA90D15255",
-            "date": "2025-06-10T21:36:09.801888"
-        },
-        "CTX": {
-            "type": "malicious",
-            "details": "exe.trojan.generickdq",
-            "date": "2025-06-10T21:36:09.801891"
-        },
-        "Emsisoft": {
-            "type": "malicious",
-            "details": "QD:Trojan.GenericKDQ.0613B21059 (B)",
-            "date": "2025-06-10T21:36:09.801893"
-        },
+    "flowkeeper-0.10.0-windows-2022-nuitka-standalone.exe": {
         "Ikarus": {
             "type": "malicious",
             "details": "Trojan-Dropper.Win32.Agent",
-            "date": "2025-06-10T21:36:09.801895"
-        },
-        "Arcabit": {
-            "type": "malicious",
-            "details": "QD:Trojan.GenericQ.0613B21059",
-            "date": "2025-06-10T21:36:09.801907"
+            "date": "2025-06-10T21:47:32.407221"
         },
         "GData": {
             "type": "malicious",
-            "details": "QD:Trojan.GenericKDQ.0613B21059",
-            "date": "2025-06-10T21:36:09.801914"
+            "details": "Win64.Trojan.Agent.522OMY",
+            "date": "2025-06-10T21:47:32.407239"
         },
         "Google": {
             "type": "malicious",
             "details": "Detected",
-            "date": "2025-06-10T21:36:09.801915"
-        },
-        "MaxSecure": {
-            "type": "malicious",
-            "details": "Trojan.Malware.373980502.susgen",
-            "date": "2025-06-10T21:36:09.801934"
-        },
-        "Fortinet": {
-            "type": "malicious",
-            "details": "W32/PossibleThreat",
-            "date": "2025-06-10T21:36:09.801935"
-        },
-        "AVG": {
-            "type": "malicious",
-            "details": "Win64:MalwareX-gen [Ransom]",
-            "date": "2025-06-10T21:36:09.801937"
-        },
-        "DeepInstinct": {
-            "type": "malicious",
-            "details": "MALICIOUS",
-            "date": "2025-06-10T21:36:09.801939"
-        }
-    },
-    "flowkeeper-0.10.0-windows-2025-pyinstaller-standalone.exe": {
-        "APEX": {
-            "type": "malicious",
-            "details": "Malicious",
-            "date": "2025-06-10T21:36:29.668674"
-        }
-    },
-    "flowkeeper-0.10.0-windows-2019-nuitka-portable.exe": {
-        "Elastic": {
-            "type": "malicious",
-            "details": "malicious (high confidence)",
-            "date": "2025-06-10T21:34:28.849168"
-        },
-        "CAT-QuickHeal": {
-            "type": "malicious",
-            "details": "Trojan.Ghanarava.1749160190c5c2c5",
-            "date": "2025-06-10T21:34:28.849173"
-        },
-        "Skyhigh": {
-            "type": "malicious",
-            "details": "Artemis",
-            "date": "2025-06-10T21:34:28.849175"
-        },
-        "Symantec": {
-            "type": "malicious",
-            "details": "ML.Attribute.HighConfidence",
-            "date": "2025-06-10T21:34:28.849193"
-        },
-        "Google": {
-            "type": "malicious",
-            "details": "Detected",
-            "date": "2025-06-10T21:34:28.849212"
-        },
-        "McAfeeD": {
-            "type": "malicious",
-            "details": "ti!A6BC1DF7A3CC",
-            "date": "2025-06-10T21:34:28.849222"
-        },
-        "Sophos": {
-            "type": "malicious",
-            "details": "Mal/Generic-S",
-            "date": "2025-06-10T21:34:28.849227"
-        },
-        "Ikarus": {
-            "type": "malicious",
-            "details": "Trojan.Python.Psw",
-            "date": "2025-06-10T21:34:28.849228"
-        },
-        "Fortinet": {
-            "type": "malicious",
-            "details": "Riskware/Application",
-            "date": "2025-06-10T21:34:28.849267"
-        },
-        "DeepInstinct": {
-            "type": "malicious",
-            "details": "MALICIOUS",
-            "date": "2025-06-10T21:34:28.849270"
-        }
-    },
-    "flowkeeper-0.10.0-windows-2022-nuitka-portable.exe": {
-        "Lionic": {
-            "type": "malicious",
-            "details": "Trojan.Win32.GenericKDQ.4!c",
-            "date": "2025-06-10T21:35:08.855884"
-        },
-        "MicroWorld-eScan": {
-            "type": "malicious",
-            "details": "QD:Trojan.GenericKDQ.E13E6693E0",
-            "date": "2025-06-10T21:35:08.855888"
-        },
-        "CTX": {
-            "type": "malicious",
-            "details": "exe.trojan.generickdq",
-            "date": "2025-06-10T21:35:08.855889"
-        },
-        "Skyhigh": {
-            "type": "malicious",
-            "details": "Artemis",
-            "date": "2025-06-10T21:35:08.855893"
-        },
-        "ALYac": {
-            "type": "malicious",
-            "details": "QD:Trojan.GenericKDQ.E13E6693E0",
-            "date": "2025-06-10T21:35:08.855894"
-        },
-        "BitDefender": {
-            "type": "malicious",
-            "details": "QD:Trojan.GenericKDQ.E13E6693E0",
-            "date": "2025-06-10T21:35:08.855922"
-        },
-        "Avast": {
-            "type": "malicious",
-            "details": "Win64:MalwareX-gen [Ransom]",
-            "date": "2025-06-10T21:35:08.855927"
-        },
-        "Emsisoft": {
-            "type": "malicious",
-            "details": "QD:Trojan.GenericKDQ.E13E6693E0 (B)",
-            "date": "2025-06-10T21:35:08.855930"
-        },
-        "Google": {
-            "type": "malicious",
-            "details": "Detected",
-            "date": "2025-06-10T21:35:08.855932"
-        },
-        "VIPRE": {
-            "type": "malicious",
-            "details": "QD:Trojan.GenericKDQ.E13E6693E0",
-            "date": "2025-06-10T21:35:08.855936"
-        },
-        "McAfeeD": {
-            "type": "malicious",
-            "details": "ti!F69BEE5EEEE3",
-            "date": "2025-06-10T21:35:08.855939"
-        },
-        "Ikarus": {
-            "type": "malicious",
-            "details": "Trojan-Dropper.Win32.Agent",
-            "date": "2025-06-10T21:35:08.855946"
-        },
-        "Arcabit": {
-            "type": "malicious",
-            "details": "QD:Trojan.GenericQ.E13E6693E0",
-            "date": "2025-06-10T21:35:08.855961"
-        },
-        "GData": {
-            "type": "malicious",
-            "details": "QD:Trojan.GenericKDQ.E13E6693E0",
-            "date": "2025-06-10T21:35:08.855965"
-        },
-        "Fortinet": {
-            "type": "malicious",
-            "details": "W32/PossibleThreat",
-            "date": "2025-06-10T21:35:08.855983"
-        },
-        "AVG": {
-            "type": "malicious",
-            "details": "Win64:MalwareX-gen [Ransom]",
-            "date": "2025-06-10T21:35:08.855985"
-        },
-        "DeepInstinct": {
-            "type": "malicious",
-            "details": "MALICIOUS",
-            "date": "2025-06-10T21:35:08.855987"
+            "date": "2025-06-10T21:47:32.407241"
         }
     },
     "flowkeeper-0.10.0-windows-2025-nuitka-installer.exe": {
         "Ikarus": {
             "type": "malicious",
             "details": "Trojan-Dropper.Win32.Agent",
-            "date": "2025-06-10T21:36:09.376750"
+            "date": "2025-06-10T21:46:51.989624"
         }
     },
-    "flowkeeper-0.10.0-windows-2025-pyinstaller-portable.exe": {},
-    "flowkeeper-0.10.0-windows-2019-nuitka-standalone.exe": {
+    "flowkeeper-0.10.0-windows-2025-pyinstaller-installer.exe": {},
+    "flowkeeper-0.10.0-windows-2019-nuitka-portable.exe": {
         "Elastic": {
             "type": "malicious",
-            "details": "malicious (moderate confidence)",
-            "date": "2025-06-10T21:35:29.042165"
-        },
-        "CTX": {
-            "type": "malicious",
-            "details": "exe.unknown.artemis",
-            "date": "2025-06-10T21:35:29.042168"
+            "details": "malicious (high confidence)",
+            "date": "2025-06-10T21:46:11.619191"
         },
         "CAT-QuickHeal": {
             "type": "malicious",
-            "details": "Trojan.Ghanarava.1749504731822667",
-            "date": "2025-06-10T21:35:29.042170"
+            "details": "Trojan.Ghanarava.1749160190c5c2c5",
+            "date": "2025-06-10T21:46:11.619197"
         },
         "Skyhigh": {
             "type": "malicious",
             "details": "Artemis",
-            "date": "2025-06-10T21:35:29.042172"
-        },
-        "Malwarebytes": {
-            "type": "malicious",
-            "details": "Generic.Malware/Suspicious",
-            "date": "2025-06-10T21:35:29.042175"
+            "date": "2025-06-10T21:46:11.619199"
         },
         "Symantec": {
             "type": "malicious",
             "details": "ML.Attribute.HighConfidence",
-            "date": "2025-06-10T21:35:29.042190"
+            "date": "2025-06-10T21:46:11.619216"
+        },
+        "McAfeeD": {
+            "type": "malicious",
+            "details": "ti!A6BC1DF7A3CC",
+            "date": "2025-06-10T21:46:11.619241"
         },
         "Sophos": {
             "type": "malicious",
-            "details": "Generic Reputation PUA (PUA)",
-            "date": "2025-06-10T21:35:29.042227"
+            "details": "Mal/Generic-S",
+            "date": "2025-06-10T21:46:11.619246"
         },
         "Ikarus": {
             "type": "malicious",
-            "details": "PUA.Python.Nuitka",
-            "date": "2025-06-10T21:35:29.042229"
-        },
-        "Varist": {
-            "type": "malicious",
-            "details": "W64/ABApplication.HKQK-7182",
-            "date": "2025-06-10T21:35:29.042234"
-        },
-        "Microsoft": {
-            "type": "malicious",
-            "details": "PUA:Win32/Puwaders.C!ml",
-            "date": "2025-06-10T21:35:29.042240"
-        },
-        "GData": {
-            "type": "malicious",
-            "details": "Win64.Application.Agent.P9EM3X",
-            "date": "2025-06-10T21:35:29.042248"
+            "details": "Trojan.Python.Psw",
+            "date": "2025-06-10T21:46:11.619247"
         },
         "Google": {
             "type": "malicious",
             "details": "Detected",
-            "date": "2025-06-10T21:35:29.042250"
-        },
-        "Cylance": {
-            "type": "malicious",
-            "details": "Unsafe",
-            "date": "2025-06-10T21:35:29.042258"
-        },
-        "TrellixENS": {
-            "type": "malicious",
-            "details": "Artemis!FCBCE02D9FC4",
-            "date": "2025-06-10T21:35:29.042267"
+            "date": "2025-06-10T21:46:11.619270"
         },
         "Fortinet": {
             "type": "malicious",
             "details": "Riskware/Application",
-            "date": "2025-06-10T21:35:29.042272"
+            "date": "2025-06-10T21:46:11.619288"
         },
         "DeepInstinct": {
             "type": "malicious",
             "details": "MALICIOUS",
-            "date": "2025-06-10T21:35:29.042275"
+            "date": "2025-06-10T21:46:11.619291"
+        }
+    },
+    "flowkeeper-0.10.0-windows-2022-pyinstaller-portable.exe": {},
+    "flowkeeper-0.10.0-windows-2019-nuitka-standalone.exe": {
+        "Elastic": {
+            "type": "malicious",
+            "details": "malicious (moderate confidence)",
+            "date": "2025-06-10T21:46:51.935722"
+        },
+        "CTX": {
+            "type": "malicious",
+            "details": "exe.unknown.artemis",
+            "date": "2025-06-10T21:46:51.935726"
+        },
+        "CAT-QuickHeal": {
+            "type": "malicious",
+            "details": "Trojan.Ghanarava.1749504731822667",
+            "date": "2025-06-10T21:46:51.935727"
+        },
+        "Skyhigh": {
+            "type": "malicious",
+            "details": "Artemis",
+            "date": "2025-06-10T21:46:51.935729"
+        },
+        "Cylance": {
+            "type": "malicious",
+            "details": "Unsafe",
+            "date": "2025-06-10T21:46:51.935733"
+        },
+        "Symantec": {
+            "type": "malicious",
+            "details": "ML.Attribute.HighConfidence",
+            "date": "2025-06-10T21:46:51.935748"
+        },
+        "Sophos": {
+            "type": "malicious",
+            "details": "Generic Reputation PUA (PUA)",
+            "date": "2025-06-10T21:46:51.935781"
+        },
+        "Ikarus": {
+            "type": "malicious",
+            "details": "PUA.Python.Nuitka",
+            "date": "2025-06-10T21:46:51.935783"
+        },
+        "GData": {
+            "type": "malicious",
+            "details": "Win64.Application.Agent.P9EM3X",
+            "date": "2025-06-10T21:46:51.935785"
+        },
+        "Varist": {
+            "type": "malicious",
+            "details": "W64/ABApplication.HKQK-7182",
+            "date": "2025-06-10T21:46:51.935790"
+        },
+        "Microsoft": {
+            "type": "malicious",
+            "details": "PUA:Win32/Puwaders.C!ml",
+            "date": "2025-06-10T21:46:51.935802"
+        },
+        "Google": {
+            "type": "malicious",
+            "details": "Detected",
+            "date": "2025-06-10T21:46:51.935804"
+        },
+        "TrellixENS": {
+            "type": "malicious",
+            "details": "Artemis!FCBCE02D9FC4",
+            "date": "2025-06-10T21:46:51.935818"
+        },
+        "Fortinet": {
+            "type": "malicious",
+            "details": "Riskware/Application",
+            "date": "2025-06-10T21:46:51.935823"
+        },
+        "DeepInstinct": {
+            "type": "malicious",
+            "details": "MALICIOUS",
+            "date": "2025-06-10T21:46:51.935826"
         }
     },
     "flowkeeper-0.10.0-windows-2019-pyinstaller-standalone.exe": {
         "APEX": {
             "type": "malicious",
             "details": "Malicious",
-            "date": "2025-06-10T21:35:08.857327"
+            "date": "2025-06-10T21:46:52.104410"
         }
     },
-    "flowkeeper-0.10.0-windows-2022-nuitka-standalone.exe": {
+    "flowkeeper-0.10.0-windows-2022-nuitka-portable.exe": {
+        "Lionic": {
+            "type": "malicious",
+            "details": "Trojan.Win32.GenericKDQ.4!c",
+            "date": "2025-06-10T21:46:11.728136"
+        },
+        "MicroWorld-eScan": {
+            "type": "malicious",
+            "details": "QD:Trojan.GenericKDQ.E13E6693E0",
+            "date": "2025-06-10T21:46:11.728140"
+        },
+        "CTX": {
+            "type": "malicious",
+            "details": "exe.trojan.generickdq",
+            "date": "2025-06-10T21:46:11.728141"
+        },
+        "Skyhigh": {
+            "type": "malicious",
+            "details": "Artemis",
+            "date": "2025-06-10T21:46:11.728145"
+        },
+        "ALYac": {
+            "type": "malicious",
+            "details": "QD:Trojan.GenericKDQ.E13E6693E0",
+            "date": "2025-06-10T21:46:11.728146"
+        },
+        "VIPRE": {
+            "type": "malicious",
+            "details": "QD:Trojan.GenericKDQ.E13E6693E0",
+            "date": "2025-06-10T21:46:11.728149"
+        },
+        "BitDefender": {
+            "type": "malicious",
+            "details": "QD:Trojan.GenericKDQ.E13E6693E0",
+            "date": "2025-06-10T21:46:11.728172"
+        },
+        "Avast": {
+            "type": "malicious",
+            "details": "Win64:MalwareX-gen [Ransom]",
+            "date": "2025-06-10T21:46:11.728176"
+        },
+        "Emsisoft": {
+            "type": "malicious",
+            "details": "QD:Trojan.GenericKDQ.E13E6693E0 (B)",
+            "date": "2025-06-10T21:46:11.728179"
+        },
+        "McAfeeD": {
+            "type": "malicious",
+            "details": "ti!F69BEE5EEEE3",
+            "date": "2025-06-10T21:46:11.728186"
+        },
         "Ikarus": {
             "type": "malicious",
             "details": "Trojan-Dropper.Win32.Agent",
-            "date": "2025-06-10T21:35:29.433912"
+            "date": "2025-06-10T21:46:11.728194"
         },
         "GData": {
             "type": "malicious",
-            "details": "Win64.Trojan.Agent.522OMY",
-            "date": "2025-06-10T21:35:29.433914"
+            "details": "QD:Trojan.GenericKDQ.E13E6693E0",
+            "date": "2025-06-10T21:46:11.728196"
         },
         "Google": {
             "type": "malicious",
             "details": "Detected",
-            "date": "2025-06-10T21:35:29.433933"
+            "date": "2025-06-10T21:46:11.728200"
+        },
+        "Arcabit": {
+            "type": "malicious",
+            "details": "QD:Trojan.GenericQ.E13E6693E0",
+            "date": "2025-06-10T21:46:11.728210"
+        },
+        "MaxSecure": {
+            "type": "malicious",
+            "details": "Trojan.Malware.343584761.susgen",
+            "date": "2025-06-10T21:46:11.728231"
+        },
+        "Fortinet": {
+            "type": "malicious",
+            "details": "W32/PossibleThreat",
+            "date": "2025-06-10T21:46:11.728233"
+        },
+        "AVG": {
+            "type": "malicious",
+            "details": "Win64:MalwareX-gen [Ransom]",
+            "date": "2025-06-10T21:46:11.728235"
+        },
+        "DeepInstinct": {
+            "type": "malicious",
+            "details": "MALICIOUS",
+            "date": "2025-06-10T21:46:11.728236"
         }
     },
     "flowkeeper-0.10.0-windows-2022-pyinstaller-standalone.exe": {
         "APEX": {
             "type": "malicious",
             "details": "Malicious",
-            "date": "2025-06-10T21:34:28.995122"
+            "date": "2025-06-10T21:46:11.715240"
         }
     },
-    "flowkeeper-0.10.0-windows-2025-pyinstaller-installer.exe": {},
+    "flowkeeper-0.10.0-windows-2025-nuitka-standalone.exe": {
+        "Ikarus": {
+            "type": "malicious",
+            "details": "Trojan-Dropper.Win32.Agent",
+            "date": "2025-06-10T21:48:53.135515"
+        },
+        "GData": {
+            "type": "malicious",
+            "details": "Win64.Trojan.Agent.2XWEVP",
+            "date": "2025-06-10T21:48:53.135517"
+        },
+        "Google": {
+            "type": "malicious",
+            "details": "Detected",
+            "date": "2025-06-10T21:48:53.135522"
+        }
+    },
+    "flowkeeper-0.10.0-windows-2025-pyinstaller-standalone.exe": {
+        "APEX": {
+            "type": "malicious",
+            "details": "Malicious",
+            "date": "2025-06-10T21:47:32.311826"
+        }
+    },
     "flowkeeper-0.10.0-windows-2019-pyinstaller-installer.exe": {},
     "flowkeeper-0.10.0-windows-2022-nuitka-installer.exe": {
         "Ikarus": {
             "type": "malicious",
             "details": "Trojan-Dropper.Win32.Agent",
-            "date": "2025-06-10T21:35:09.077626"
+            "date": "2025-06-10T21:47:32.376320"
         }
     },
-    "flowkeeper-0.10.0-windows-2022-pyinstaller-portable.exe": {},
-    "flowkeeper-0.10.0-windows-2025-nuitka-standalone.exe": {
+    "flowkeeper-0.10.0-windows-2022-pyinstaller-installer.exe": {},
+    "flowkeeper-0.10.0-windows-2025-nuitka-portable.exe": {
+        "Lionic": {
+            "type": "malicious",
+            "details": "Trojan.Win32.GenericKDQ.4!c",
+            "date": "2025-06-10T21:46:52.043412"
+        },
+        "MicroWorld-eScan": {
+            "type": "malicious",
+            "details": "QD:Trojan.GenericKDQ.0613B21059",
+            "date": "2025-06-10T21:46:52.043417"
+        },
+        "CTX": {
+            "type": "malicious",
+            "details": "exe.trojan.generickdq",
+            "date": "2025-06-10T21:46:52.043419"
+        },
+        "Skyhigh": {
+            "type": "malicious",
+            "details": "Artemis",
+            "date": "2025-06-10T21:46:52.043423"
+        },
+        "VIPRE": {
+            "type": "malicious",
+            "details": "QD:Trojan.GenericKDQ.0613B21059",
+            "date": "2025-06-10T21:46:52.043426"
+        },
+        "BitDefender": {
+            "type": "malicious",
+            "details": "QD:Trojan.GenericKDQ.0613B21059",
+            "date": "2025-06-10T21:46:52.043462"
+        },
+        "Avast": {
+            "type": "malicious",
+            "details": "Win64:MalwareX-gen [Ransom]",
+            "date": "2025-06-10T21:46:52.043468"
+        },
+        "McAfeeD": {
+            "type": "malicious",
+            "details": "ti!ADDA90D15255",
+            "date": "2025-06-10T21:46:52.043480"
+        },
+        "Emsisoft": {
+            "type": "malicious",
+            "details": "QD:Trojan.GenericKDQ.0613B21059 (B)",
+            "date": "2025-06-10T21:46:52.043485"
+        },
         "Ikarus": {
             "type": "malicious",
             "details": "Trojan-Dropper.Win32.Agent",
-            "date": "2025-06-10T21:36:29.513111"
-        },
-        "GData": {
-            "type": "malicious",
-            "details": "Win64.Trojan.Agent.2XWEVP",
-            "date": "2025-06-10T21:36:29.513114"
+            "date": "2025-06-10T21:46:52.043487"
         },
         "Google": {
             "type": "malicious",
             "details": "Detected",
-            "date": "2025-06-10T21:36:29.513135"
+            "date": "2025-06-10T21:46:52.043492"
+        },
+        "Arcabit": {
+            "type": "malicious",
+            "details": "QD:Trojan.GenericQ.0613B21059",
+            "date": "2025-06-10T21:46:52.043505"
+        },
+        "GData": {
+            "type": "malicious",
+            "details": "QD:Trojan.GenericKDQ.0613B21059",
+            "date": "2025-06-10T21:46:52.043511"
+        },
+        "Fortinet": {
+            "type": "malicious",
+            "details": "W32/PossibleThreat",
+            "date": "2025-06-10T21:46:52.043533"
+        },
+        "AVG": {
+            "type": "malicious",
+            "details": "Win64:MalwareX-gen [Ransom]",
+            "date": "2025-06-10T21:46:52.043535"
+        },
+        "DeepInstinct": {
+            "type": "malicious",
+            "details": "MALICIOUS",
+            "date": "2025-06-10T21:46:52.043537"
         }
-    }
+    },
+    "flowkeeper-0.10.0-windows-2025-pyinstaller-portable.exe": {}
 }
