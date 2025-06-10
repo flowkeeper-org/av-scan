@@ -64,14 +64,14 @@ jobs:
             vtscan-results-all.json
             vtscan-results-warnings.json
 
-      - name: Post message
-        uses: slackapi/slack-github-action@v2.0.0
-        with:
-          method: chat.postMessage
-          token: ${{ secrets.SLACK_BOT_TOKEN }}
-          payload: |
-            channel: ${{ secrets.SLACK_CHANNEL_ID }}
-            text: "${{ env.SCAN_STATUS }}"
+#      - name: Post message
+#        uses: slackapi/slack-github-action@v2.0.0
+#        with:
+#          method: chat.postMessage
+#          token: ${{ secrets.SLACK_BOT_TOKEN }}
+#          payload: |
+#            channel: ${{ secrets.SLACK_CHANNEL_ID }}
+#            text: "${{ env.SCAN_STATUS }}"
 
   upload:
     # Making it a standalone job to limit its security perimeter
