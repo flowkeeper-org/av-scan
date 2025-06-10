@@ -74,7 +74,7 @@ jobs:
             text: "${{ env.SCAN_STATUS }}"
 
   upload:
-    # Making it a standalone job to limit security its perimeter
+    # Making it a standalone job to limit its security perimeter
     runs-on: ubuntu-latest
     needs: scan
     permissions:
@@ -82,6 +82,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+          fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
 
       - name: Download artifacts
         uses: actions/download-artifact@v4
@@ -89,9 +92,15 @@ jobs:
           name: vtscan-results
           path: .
 
-      - name: Upload scan results back to release
+      - name: Commit scan results
         shell: bash
-        env:
-          GH_TOKEN: ${{ github.token }}
-          RELEASE: ${{ inputs.release }}
-        run: ./upload-release.sh vtscan-results-all.json vtscan-results-warnings.json
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -a -m "VT scan results"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
