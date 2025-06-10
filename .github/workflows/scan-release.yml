@@ -39,7 +39,7 @@ jobs:
           ./download-release.sh
           RELEASE="$(cat release.txt)"
           rm -rf release.txt
-          echo "RELEASE=$RELEASE" >> $GITHUB_ENV
+          echo "::set-output name=release::$RELEASE"
           echo "Downloaded release $RELEASE"
 
       - name: Setup Python
@@ -90,11 +90,13 @@ jobs:
 
       - name: Commit scan results
         shell: bash
+        env:
+          RELEASE: "${{ steps.scan.outputs.release }}"
         run: |
-          echo "Will upload files for release ${{ env.RELEASE }}"
+          echo "Will upload files for release $RELEASE"
           
-          mv vtscan-results-all.json "vt-scan-results/${{ env.RELEASE }}-all.json"
-          mv vtscan-results-warnings.json "vt-scan-results/${{ env.RELEASE }}-warnings.json"
+          mv vtscan-results-all.json "vt-scan-results/$RELEASE-all.json"
+          mv vtscan-results-warnings.json "vt-scan-results/$RELEASE-warnings.json"
           
           python3 html.py > index.html
           
