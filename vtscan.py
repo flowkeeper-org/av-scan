@@ -68,8 +68,7 @@ async def process_analysis_results(apikey,
             result = results[engine]
             # See https://virustotal.github.io/vt-py/_modules/vt/object.html
             j = {'type': result['category'],
-                 'details': result["result"],
-                 'date': datetime.datetime.now().isoformat()}
+                 'details': result["result"]}
             to_add_all[engine] = j
             if result['category'] == 'malicious':
                 detected.append(f'* *{engine}*: {result["result"]}\n')
@@ -97,11 +96,23 @@ async def main(key: str, paths: list[str]):
         ]
     )
 
+    # Sort
+    def sort_dict(d):
+        return {k: d[k] for k in sorted(d)}
+
+    now = str(datetime.datetime.now(tz=datetime.timezone.utc))
+
     with open('vtscan-results-all.json', 'w') as f:
-        json.dump(output_all, f, indent=4)
+        json.dump({
+            'date': now,
+            'results': sort_dict(output_all)
+        }, f, indent=4)
 
     with open('vtscan-results-warnings.json', 'w') as f:
-        json.dump(output_warn, f, indent=4)
+        json.dump({
+            'date': now,
+            'results': sort_dict(output_warn)
+        }, f, indent=4)
 
 
 if __name__ == '__main__':
