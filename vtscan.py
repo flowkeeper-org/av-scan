@@ -19,6 +19,7 @@ import itertools
 import json
 import os
 import sys
+from collections import OrderedDict
 
 import vt
 
@@ -96,23 +97,19 @@ async def main(key: str, paths: list[str]):
         ]
     )
 
-    # Sort
-    def sort_dict(d):
-        return {k: d[k] for k in sorted(d)}
-
     now = str(datetime.datetime.now(tz=datetime.timezone.utc))
 
     with open('vtscan-results-all.json', 'w') as f:
         json.dump({
             'date': now,
-            'results': sort_dict(output_all)
-        }, f, indent=4)
+            'results': output_all
+        }, f, indent=4, sort_keys=True)
 
     with open('vtscan-results-warnings.json', 'w') as f:
         json.dump({
             'date': now,
-            'results': sort_dict(output_warn)
-        }, f, indent=4)
+            'results': output_warn
+        }, f, indent=4, sort_keys=True)
 
 
 if __name__ == '__main__':
