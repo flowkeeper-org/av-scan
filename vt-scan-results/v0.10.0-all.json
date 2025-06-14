@@ -1,7 +1,7 @@
 {
-    "date": "2025-06-14 01:48:36.397358+00:00",
+    "date": "2025-06-14 12:59:25.316665+00:00",
     "results": {
-        "flowkeeper-0.10.0-windows-2019-nuitka-installer.exe": {
+        "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Bkav": {
                 "type": "undetected",
                 "details": null
@@ -62,19 +62,11 @@
                 "type": "undetected",
                 "details": null
             },
-            "huorong": {
-                "type": "undetected",
-                "details": null
-            },
             "Baidu": {
                 "type": "undetected",
                 "details": null
             },
             "VirIT": {
-                "type": "undetected",
-                "details": null
-            },
-            "Paloalto": {
                 "type": "undetected",
                 "details": null
             },
@@ -98,7 +90,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "Avast": {
+            "Paloalto": {
                 "type": "undetected",
                 "details": null
             },
@@ -119,6 +111,10 @@
                 "details": null
             },
             "SUPERAntiSpyware": {
+                "type": "undetected",
+                "details": null
+            },
+            "Avast": {
                 "type": "undetected",
                 "details": null
             },
@@ -147,6 +143,10 @@
                 "details": null
             },
             "McAfeeD": {
+                "type": "undetected",
+                "details": null
+            },
+            "SentinelOne": {
                 "type": "undetected",
                 "details": null
             },
@@ -262,7 +262,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "SentinelOne": {
+            "huorong": {
                 "type": "undetected",
                 "details": null
             },
@@ -307,7 +307,7 @@
                 "details": null
             }
         },
-        "flowkeeper-0.10.0-windows-2019-nuitka-portable.exe": {
+        "flowkeeper-1.0.0-windows-2019-nuitka-portable.exe": {
             "Bkav": {
                 "type": "undetected",
                 "details": null
@@ -316,15 +316,19 @@
                 "type": "undetected",
                 "details": null
             },
-            "tehtris": {
+            "AVG": {
                 "type": "undetected",
                 "details": null
             },
-            "ClamAV": {
+            "Elastic": {
+                "type": "malicious",
+                "details": "malicious (high confidence)"
+            },
+            "MicroWorld-eScan": {
                 "type": "undetected",
                 "details": null
             },
-            "CMC": {
+            "CTX": {
                 "type": "undetected",
                 "details": null
             },
@@ -356,7 +360,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "BitDefender": {
+            "Alibaba": {
                 "type": "undetected",
                 "details": null
             },
@@ -380,11 +384,15 @@
                 "type": "malicious",
                 "details": "ML.Attribute.HighConfidence"
             },
-            "Elastic": {
-                "type": "malicious",
-                "details": "malicious (high confidence)"
+            "tehtris": {
+                "type": "undetected",
+                "details": null
             },
             "ESET-NOD32": {
+                "type": "undetected",
+                "details": null
+            },
+            "Cynet": {
                 "type": "undetected",
                 "details": null
             },
@@ -396,7 +404,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "Cynet": {
+            "ClamAV": {
                 "type": "undetected",
                 "details": null
             },
@@ -404,7 +412,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "Alibaba": {
+            "BitDefender": {
                 "type": "undetected",
                 "details": null
             },
@@ -412,11 +420,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "ViRobot": {
-                "type": "undetected",
-                "details": null
-            },
-            "MicroWorld-eScan": {
+            "SUPERAntiSpyware": {
                 "type": "undetected",
                 "details": null
             },
@@ -424,7 +428,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "Tencent": {
+            "Rising": {
                 "type": "undetected",
                 "details": null
             },
@@ -450,7 +454,7 @@
             },
             "McAfeeD": {
                 "type": "malicious",
-                "details": "ti!8671E7271264"
+                "details": "ti!DD1F478AB96B"
             },
             "SentinelOne": {
                 "type": "undetected",
@@ -460,7 +464,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "CTX": {
+            "CMC": {
                 "type": "undetected",
                 "details": null
             },
@@ -472,10 +476,6 @@
                 "type": "malicious",
                 "details": "Trojan.Python.Psw"
             },
-            "GData": {
-                "type": "undetected",
-                "details": null
-            },
             "Jiangmin": {
                 "type": "undetected",
                 "details": null
@@ -484,9 +484,9 @@
                 "type": "undetected",
                 "details": null
             },
-            "Google": {
-                "type": "malicious",
-                "details": "Detected"
+            "Varist": {
+                "type": "undetected",
+                "details": null
             },
             "Avira": {
                 "type": "undetected",
@@ -497,6 +497,10 @@
                 "details": null
             },
             "Kingsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Microsoft": {
                 "type": "undetected",
                 "details": null
             },
@@ -512,7 +516,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "SUPERAntiSpyware": {
+            "ViRobot": {
                 "type": "undetected",
                 "details": null
             },
@@ -520,13 +524,13 @@
                 "type": "undetected",
                 "details": null
             },
-            "Microsoft": {
+            "GData": {
                 "type": "undetected",
                 "details": null
             },
-            "Varist": {
-                "type": "undetected",
-                "details": null
+            "Google": {
+                "type": "malicious",
+                "details": "Detected"
             },
             "AhnLab-V3": {
                 "type": "undetected",
@@ -552,15 +556,11 @@
                 "type": "undetected",
                 "details": null
             },
-            "Zoner": {
-                "type": "undetected",
-                "details": null
-            },
             "TrendMicro-HouseCall": {
                 "type": "undetected",
                 "details": null
             },
-            "Rising": {
+            "Tencent": {
                 "type": "undetected",
                 "details": null
             },
@@ -584,7 +584,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "AVG": {
+            "Zoner": {
                 "type": "undetected",
                 "details": null
             },
@@ -613,7 +613,7 @@
                 "details": null
             }
         },
-        "flowkeeper-0.10.0-windows-2019-nuitka-standalone.exe": {
+        "flowkeeper-1.0.0-windows-2019-nuitka-standalone.exe": {
             "Bkav": {
                 "type": "undetected",
                 "details": null
@@ -686,6 +686,10 @@
                 "type": "undetected",
                 "details": null
             },
+            "Paloalto": {
+                "type": "undetected",
+                "details": null
+            },
             "Symantec": {
                 "type": "malicious",
                 "details": "ML.Attribute.HighConfidence"
@@ -706,7 +710,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "Paloalto": {
+            "Avast": {
                 "type": "undetected",
                 "details": null
             },
@@ -727,10 +731,6 @@
                 "details": null
             },
             "SUPERAntiSpyware": {
-                "type": "undetected",
-                "details": null
-            },
-            "Avast": {
                 "type": "undetected",
                 "details": null
             },
@@ -782,6 +782,10 @@
                 "type": "malicious",
                 "details": "PUA.Python.Nuitka"
             },
+            "GData": {
+                "type": "undetected",
+                "details": null
+            },
             "Jiangmin": {
                 "type": "undetected",
                 "details": null
@@ -806,10 +810,6 @@
                 "type": "undetected",
                 "details": null
             },
-            "Microsoft": {
-                "type": "malicious",
-                "details": "Trojan:Win32/Wacatac.B!ml"
-            },
             "Gridinsoft": {
                 "type": "undetected",
                 "details": null
@@ -830,7 +830,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "GData": {
+            "Microsoft": {
                 "type": "undetected",
                 "details": null
             },
@@ -919,11 +919,7 @@
                 "details": null
             }
         },
-        "flowkeeper-0.10.0-windows-2019-pyinstaller-installer.exe": {
-            "Bkav": {
-                "type": "undetected",
-                "details": null
-            },
+        "flowkeeper-1.0.0-windows-2019-pyinstaller-installer.exe": {
             "Lionic": {
                 "type": "undetected",
                 "details": null
@@ -937,618 +933,6 @@
                 "details": null
             },
             "CMC": {
-                "type": "undetected",
-                "details": null
-            },
-            "CAT-QuickHeal": {
-                "type": "undetected",
-                "details": null
-            },
-            "Skyhigh": {
-                "type": "malicious",
-                "details": "Artemis"
-            },
-            "ALYac": {
-                "type": "undetected",
-                "details": null
-            },
-            "Malwarebytes": {
-                "type": "undetected",
-                "details": null
-            },
-            "Zillya": {
-                "type": "undetected",
-                "details": null
-            },
-            "Sangfor": {
-                "type": "undetected",
-                "details": null
-            },
-            "K7AntiVirus": {
-                "type": "undetected",
-                "details": null
-            },
-            "Alibaba": {
-                "type": "undetected",
-                "details": null
-            },
-            "K7GW": {
-                "type": "undetected",
-                "details": null
-            },
-            "CrowdStrike": {
-                "type": "undetected",
-                "details": null
-            },
-            "huorong": {
-                "type": "undetected",
-                "details": null
-            },
-            "Baidu": {
-                "type": "undetected",
-                "details": null
-            },
-            "VirIT": {
-                "type": "undetected",
-                "details": null
-            },
-            "Symantec": {
-                "type": "undetected",
-                "details": null
-            },
-            "ESET-NOD32": {
-                "type": "undetected",
-                "details": null
-            },
-            "Zoner": {
-                "type": "undetected",
-                "details": null
-            },
-            "APEX": {
-                "type": "undetected",
-                "details": null
-            },
-            "Paloalto": {
-                "type": "undetected",
-                "details": null
-            },
-            "ClamAV": {
-                "type": "undetected",
-                "details": null
-            },
-            "Kaspersky": {
-                "type": "undetected",
-                "details": null
-            },
-            "BitDefender": {
-                "type": "undetected",
-                "details": null
-            },
-            "NANO-Antivirus": {
-                "type": "undetected",
-                "details": null
-            },
-            "SUPERAntiSpyware": {
-                "type": "undetected",
-                "details": null
-            },
-            "Avast": {
-                "type": "malicious",
-                "details": "Win64:Malware-gen"
-            },
-            "Rising": {
-                "type": "undetected",
-                "details": null
-            },
-            "Sophos": {
-                "type": "undetected",
-                "details": null
-            },
-            "F-Secure": {
-                "type": "undetected",
-                "details": null
-            },
-            "DrWeb": {
-                "type": "undetected",
-                "details": null
-            },
-            "VIPRE": {
-                "type": "undetected",
-                "details": null
-            },
-            "TrendMicro": {
-                "type": "undetected",
-                "details": null
-            },
-            "McAfeeD": {
-                "type": "undetected",
-                "details": null
-            },
-            "Trapmine": {
-                "type": "undetected",
-                "details": null
-            },
-            "CTX": {
-                "type": "undetected",
-                "details": null
-            },
-            "Emsisoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "Ikarus": {
-                "type": "undetected",
-                "details": null
-            },
-            "Jiangmin": {
-                "type": "undetected",
-                "details": null
-            },
-            "Webroot": {
-                "type": "undetected",
-                "details": null
-            },
-            "Varist": {
-                "type": "undetected",
-                "details": null
-            },
-            "Avira": {
-                "type": "undetected",
-                "details": null
-            },
-            "Antiy-AVL": {
-                "type": "undetected",
-                "details": null
-            },
-            "Kingsoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "Microsoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "Gridinsoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "Xcitium": {
-                "type": "undetected",
-                "details": null
-            },
-            "Arcabit": {
-                "type": "undetected",
-                "details": null
-            },
-            "ViRobot": {
-                "type": "undetected",
-                "details": null
-            },
-            "ZoneAlarm": {
-                "type": "undetected",
-                "details": null
-            },
-            "GData": {
-                "type": "undetected",
-                "details": null
-            },
-            "Google": {
-                "type": "undetected",
-                "details": null
-            },
-            "AhnLab-V3": {
-                "type": "undetected",
-                "details": null
-            },
-            "Acronis": {
-                "type": "undetected",
-                "details": null
-            },
-            "VBA32": {
-                "type": "undetected",
-                "details": null
-            },
-            "TACHYON": {
-                "type": "undetected",
-                "details": null
-            },
-            "Cylance": {
-                "type": "undetected",
-                "details": null
-            },
-            "Panda": {
-                "type": "undetected",
-                "details": null
-            },
-            "TrendMicro-HouseCall": {
-                "type": "undetected",
-                "details": null
-            },
-            "Tencent": {
-                "type": "undetected",
-                "details": null
-            },
-            "Yandex": {
-                "type": "undetected",
-                "details": null
-            },
-            "TrellixENS": {
-                "type": "undetected",
-                "details": null
-            },
-            "SentinelOne": {
-                "type": "undetected",
-                "details": null
-            },
-            "MaxSecure": {
-                "type": "undetected",
-                "details": null
-            },
-            "Fortinet": {
-                "type": "undetected",
-                "details": null
-            },
-            "AVG": {
-                "type": "malicious",
-                "details": "Win64:Malware-gen"
-            },
-            "DeepInstinct": {
-                "type": "undetected",
-                "details": null
-            },
-            "alibabacloud": {
-                "type": "undetected",
-                "details": null
-            },
-            "Avast-Mobile": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "SymantecMobileInsight": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "BitDefenderFalx": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "Elastic": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "Cynet": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "Trustlook": {
-                "type": "type-unsupported",
-                "details": null
-            }
-        },
-        "flowkeeper-0.10.0-windows-2019-pyinstaller-portable.exe": {
-            "Bkav": {
-                "type": "undetected",
-                "details": null
-            },
-            "Lionic": {
-                "type": "undetected",
-                "details": null
-            },
-            "tehtris": {
-                "type": "undetected",
-                "details": null
-            },
-            "MicroWorld-eScan": {
-                "type": "undetected",
-                "details": null
-            },
-            "CTX": {
-                "type": "undetected",
-                "details": null
-            },
-            "CAT-QuickHeal": {
-                "type": "undetected",
-                "details": null
-            },
-            "Malwarebytes": {
-                "type": "undetected",
-                "details": null
-            },
-            "VIPRE": {
-                "type": "undetected",
-                "details": null
-            },
-            "Sangfor": {
-                "type": "undetected",
-                "details": null
-            },
-            "K7AntiVirus": {
-                "type": "undetected",
-                "details": null
-            },
-            "Alibaba": {
-                "type": "undetected",
-                "details": null
-            },
-            "K7GW": {
-                "type": "undetected",
-                "details": null
-            },
-            "CrowdStrike": {
-                "type": "undetected",
-                "details": null
-            },
-            "Baidu": {
-                "type": "undetected",
-                "details": null
-            },
-            "Symantec": {
-                "type": "undetected",
-                "details": null
-            },
-            "ESET-NOD32": {
-                "type": "undetected",
-                "details": null
-            },
-            "Zoner": {
-                "type": "undetected",
-                "details": null
-            },
-            "APEX": {
-                "type": "undetected",
-                "details": null
-            },
-            "Paloalto": {
-                "type": "undetected",
-                "details": null
-            },
-            "Kaspersky": {
-                "type": "undetected",
-                "details": null
-            },
-            "BitDefender": {
-                "type": "undetected",
-                "details": null
-            },
-            "NANO-Antivirus": {
-                "type": "undetected",
-                "details": null
-            },
-            "SUPERAntiSpyware": {
-                "type": "undetected",
-                "details": null
-            },
-            "Avast": {
-                "type": "undetected",
-                "details": null
-            },
-            "Tencent": {
-                "type": "undetected",
-                "details": null
-            },
-            "Emsisoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "F-Secure": {
-                "type": "undetected",
-                "details": null
-            },
-            "DrWeb": {
-                "type": "undetected",
-                "details": null
-            },
-            "Zillya": {
-                "type": "undetected",
-                "details": null
-            },
-            "TrendMicro": {
-                "type": "undetected",
-                "details": null
-            },
-            "McAfeeD": {
-                "type": "undetected",
-                "details": null
-            },
-            "SentinelOne": {
-                "type": "undetected",
-                "details": null
-            },
-            "Trapmine": {
-                "type": "undetected",
-                "details": null
-            },
-            "CMC": {
-                "type": "undetected",
-                "details": null
-            },
-            "Sophos": {
-                "type": "undetected",
-                "details": null
-            },
-            "Ikarus": {
-                "type": "undetected",
-                "details": null
-            },
-            "Jiangmin": {
-                "type": "undetected",
-                "details": null
-            },
-            "Webroot": {
-                "type": "undetected",
-                "details": null
-            },
-            "Google": {
-                "type": "undetected",
-                "details": null
-            },
-            "Avira": {
-                "type": "undetected",
-                "details": null
-            },
-            "Antiy-AVL": {
-                "type": "undetected",
-                "details": null
-            },
-            "Kingsoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "Microsoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "Gridinsoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "Xcitium": {
-                "type": "undetected",
-                "details": null
-            },
-            "Arcabit": {
-                "type": "undetected",
-                "details": null
-            },
-            "ViRobot": {
-                "type": "undetected",
-                "details": null
-            },
-            "ZoneAlarm": {
-                "type": "undetected",
-                "details": null
-            },
-            "GData": {
-                "type": "undetected",
-                "details": null
-            },
-            "Varist": {
-                "type": "undetected",
-                "details": null
-            },
-            "AhnLab-V3": {
-                "type": "undetected",
-                "details": null
-            },
-            "Acronis": {
-                "type": "undetected",
-                "details": null
-            },
-            "VBA32": {
-                "type": "undetected",
-                "details": null
-            },
-            "TACHYON": {
-                "type": "undetected",
-                "details": null
-            },
-            "Cylance": {
-                "type": "undetected",
-                "details": null
-            },
-            "Panda": {
-                "type": "undetected",
-                "details": null
-            },
-            "TrendMicro-HouseCall": {
-                "type": "undetected",
-                "details": null
-            },
-            "Rising": {
-                "type": "undetected",
-                "details": null
-            },
-            "Yandex": {
-                "type": "undetected",
-                "details": null
-            },
-            "TrellixENS": {
-                "type": "undetected",
-                "details": null
-            },
-            "huorong": {
-                "type": "undetected",
-                "details": null
-            },
-            "Fortinet": {
-                "type": "undetected",
-                "details": null
-            },
-            "AVG": {
-                "type": "undetected",
-                "details": null
-            },
-            "DeepInstinct": {
-                "type": "undetected",
-                "details": null
-            },
-            "alibabacloud": {
-                "type": "undetected",
-                "details": null
-            },
-            "MaxSecure": {
-                "type": "timeout",
-                "details": null
-            },
-            "Skyhigh": {
-                "type": "timeout",
-                "details": null
-            },
-            "ClamAV": {
-                "type": "timeout",
-                "details": null
-            },
-            "VirIT": {
-                "type": "timeout",
-                "details": null
-            },
-            "Avast-Mobile": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "SymantecMobileInsight": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "BitDefenderFalx": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "Elastic": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "Cynet": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "Trustlook": {
-                "type": "type-unsupported",
-                "details": null
-            }
-        },
-        "flowkeeper-0.10.0-windows-2019-pyinstaller-standalone.exe": {
-            "Bkav": {
-                "type": "undetected",
-                "details": null
-            },
-            "Lionic": {
-                "type": "undetected",
-                "details": null
-            },
-            "AVG": {
-                "type": "malicious",
-                "details": "Win64:Malware-gen"
-            },
-            "tehtris": {
-                "type": "undetected",
-                "details": null
-            },
-            "MicroWorld-eScan": {
-                "type": "undetected",
-                "details": null
-            },
-            "CTX": {
                 "type": "undetected",
                 "details": null
             },
@@ -1592,312 +976,6 @@
                 "type": "undetected",
                 "details": null
             },
-            "huorong": {
-                "type": "undetected",
-                "details": null
-            },
-            "Baidu": {
-                "type": "undetected",
-                "details": null
-            },
-            "VirIT": {
-                "type": "undetected",
-                "details": null
-            },
-            "Symantec": {
-                "type": "undetected",
-                "details": null
-            },
-            "Elastic": {
-                "type": "malicious",
-                "details": "malicious (moderate confidence)"
-            },
-            "ESET-NOD32": {
-                "type": "undetected",
-                "details": null
-            },
-            "Cynet": {
-                "type": "undetected",
-                "details": null
-            },
-            "APEX": {
-                "type": "undetected",
-                "details": null
-            },
-            "Paloalto": {
-                "type": "undetected",
-                "details": null
-            },
-            "ClamAV": {
-                "type": "undetected",
-                "details": null
-            },
-            "Kaspersky": {
-                "type": "undetected",
-                "details": null
-            },
-            "BitDefender": {
-                "type": "undetected",
-                "details": null
-            },
-            "NANO-Antivirus": {
-                "type": "undetected",
-                "details": null
-            },
-            "SUPERAntiSpyware": {
-                "type": "undetected",
-                "details": null
-            },
-            "Avast": {
-                "type": "malicious",
-                "details": "Win64:Malware-gen"
-            },
-            "Rising": {
-                "type": "undetected",
-                "details": null
-            },
-            "Sophos": {
-                "type": "undetected",
-                "details": null
-            },
-            "F-Secure": {
-                "type": "undetected",
-                "details": null
-            },
-            "DrWeb": {
-                "type": "undetected",
-                "details": null
-            },
-            "VIPRE": {
-                "type": "undetected",
-                "details": null
-            },
-            "TrendMicro": {
-                "type": "undetected",
-                "details": null
-            },
-            "McAfeeD": {
-                "type": "undetected",
-                "details": null
-            },
-            "Trapmine": {
-                "type": "undetected",
-                "details": null
-            },
-            "CMC": {
-                "type": "undetected",
-                "details": null
-            },
-            "Emsisoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "Ikarus": {
-                "type": "undetected",
-                "details": null
-            },
-            "Jiangmin": {
-                "type": "undetected",
-                "details": null
-            },
-            "Webroot": {
-                "type": "undetected",
-                "details": null
-            },
-            "Varist": {
-                "type": "undetected",
-                "details": null
-            },
-            "Avira": {
-                "type": "undetected",
-                "details": null
-            },
-            "Antiy-AVL": {
-                "type": "undetected",
-                "details": null
-            },
-            "Kingsoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "Microsoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "Gridinsoft": {
-                "type": "malicious",
-                "details": "Trojan.Win64.Agent.oa!s1"
-            },
-            "Xcitium": {
-                "type": "undetected",
-                "details": null
-            },
-            "Arcabit": {
-                "type": "undetected",
-                "details": null
-            },
-            "ViRobot": {
-                "type": "undetected",
-                "details": null
-            },
-            "ZoneAlarm": {
-                "type": "undetected",
-                "details": null
-            },
-            "GData": {
-                "type": "undetected",
-                "details": null
-            },
-            "Google": {
-                "type": "undetected",
-                "details": null
-            },
-            "AhnLab-V3": {
-                "type": "undetected",
-                "details": null
-            },
-            "Acronis": {
-                "type": "undetected",
-                "details": null
-            },
-            "VBA32": {
-                "type": "undetected",
-                "details": null
-            },
-            "TACHYON": {
-                "type": "undetected",
-                "details": null
-            },
-            "Cylance": {
-                "type": "undetected",
-                "details": null
-            },
-            "Panda": {
-                "type": "undetected",
-                "details": null
-            },
-            "TrendMicro-HouseCall": {
-                "type": "undetected",
-                "details": null
-            },
-            "Tencent": {
-                "type": "undetected",
-                "details": null
-            },
-            "Yandex": {
-                "type": "undetected",
-                "details": null
-            },
-            "TrellixENS": {
-                "type": "malicious",
-                "details": "Artemis!A65A215EA35B"
-            },
-            "SentinelOne": {
-                "type": "undetected",
-                "details": null
-            },
-            "MaxSecure": {
-                "type": "undetected",
-                "details": null
-            },
-            "Fortinet": {
-                "type": "undetected",
-                "details": null
-            },
-            "Zoner": {
-                "type": "undetected",
-                "details": null
-            },
-            "DeepInstinct": {
-                "type": "undetected",
-                "details": null
-            },
-            "alibabacloud": {
-                "type": "undetected",
-                "details": null
-            },
-            "Trustlook": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "SymantecMobileInsight": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "BitDefenderFalx": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "Avast-Mobile": {
-                "type": "type-unsupported",
-                "details": null
-            }
-        },
-        "flowkeeper-0.10.0-windows-2022-nuitka-installer.exe": {
-            "Bkav": {
-                "type": "undetected",
-                "details": null
-            },
-            "Lionic": {
-                "type": "undetected",
-                "details": null
-            },
-            "Elastic": {
-                "type": "undetected",
-                "details": null
-            },
-            "MicroWorld-eScan": {
-                "type": "undetected",
-                "details": null
-            },
-            "CTX": {
-                "type": "undetected",
-                "details": null
-            },
-            "CAT-QuickHeal": {
-                "type": "undetected",
-                "details": null
-            },
-            "Skyhigh": {
-                "type": "undetected",
-                "details": null
-            },
-            "ALYac": {
-                "type": "undetected",
-                "details": null
-            },
-            "Malwarebytes": {
-                "type": "undetected",
-                "details": null
-            },
-            "VIPRE": {
-                "type": "undetected",
-                "details": null
-            },
-            "Sangfor": {
-                "type": "undetected",
-                "details": null
-            },
-            "K7AntiVirus": {
-                "type": "undetected",
-                "details": null
-            },
-            "Alibaba": {
-                "type": "undetected",
-                "details": null
-            },
-            "K7GW": {
-                "type": "undetected",
-                "details": null
-            },
-            "CrowdStrike": {
-                "type": "undetected",
-                "details": null
-            },
-            "huorong": {
-                "type": "undetected",
-                "details": null
-            },
             "Baidu": {
                 "type": "undetected",
                 "details": null
@@ -1914,912 +992,6 @@
                 "type": "undetected",
                 "details": null
             },
-            "tehtris": {
-                "type": "undetected",
-                "details": null
-            },
-            "ESET-NOD32": {
-                "type": "undetected",
-                "details": null
-            },
-            "Zoner": {
-                "type": "undetected",
-                "details": null
-            },
-            "APEX": {
-                "type": "undetected",
-                "details": null
-            },
-            "Avast": {
-                "type": "undetected",
-                "details": null
-            },
-            "ClamAV": {
-                "type": "undetected",
-                "details": null
-            },
-            "Kaspersky": {
-                "type": "undetected",
-                "details": null
-            },
-            "BitDefender": {
-                "type": "undetected",
-                "details": null
-            },
-            "NANO-Antivirus": {
-                "type": "undetected",
-                "details": null
-            },
-            "SUPERAntiSpyware": {
-                "type": "undetected",
-                "details": null
-            },
-            "Rising": {
-                "type": "undetected",
-                "details": null
-            },
-            "Emsisoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "F-Secure": {
-                "type": "undetected",
-                "details": null
-            },
-            "DrWeb": {
-                "type": "undetected",
-                "details": null
-            },
-            "Zillya": {
-                "type": "undetected",
-                "details": null
-            },
-            "TrendMicro": {
-                "type": "undetected",
-                "details": null
-            },
-            "McAfeeD": {
-                "type": "malicious",
-                "details": "ti!A73ADC00A3D2"
-            },
-            "Trapmine": {
-                "type": "undetected",
-                "details": null
-            },
-            "CMC": {
-                "type": "undetected",
-                "details": null
-            },
-            "Sophos": {
-                "type": "undetected",
-                "details": null
-            },
-            "Ikarus": {
-                "type": "malicious",
-                "details": "Trojan-Dropper.Win32.Agent"
-            },
-            "Jiangmin": {
-                "type": "undetected",
-                "details": null
-            },
-            "Webroot": {
-                "type": "undetected",
-                "details": null
-            },
-            "Google": {
-                "type": "undetected",
-                "details": null
-            },
-            "Avira": {
-                "type": "undetected",
-                "details": null
-            },
-            "Antiy-AVL": {
-                "type": "undetected",
-                "details": null
-            },
-            "Kingsoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "Microsoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "Gridinsoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "Xcitium": {
-                "type": "undetected",
-                "details": null
-            },
-            "Arcabit": {
-                "type": "undetected",
-                "details": null
-            },
-            "ViRobot": {
-                "type": "undetected",
-                "details": null
-            },
-            "ZoneAlarm": {
-                "type": "undetected",
-                "details": null
-            },
-            "GData": {
-                "type": "undetected",
-                "details": null
-            },
-            "Varist": {
-                "type": "undetected",
-                "details": null
-            },
-            "AhnLab-V3": {
-                "type": "undetected",
-                "details": null
-            },
-            "Acronis": {
-                "type": "undetected",
-                "details": null
-            },
-            "VBA32": {
-                "type": "undetected",
-                "details": null
-            },
-            "TACHYON": {
-                "type": "undetected",
-                "details": null
-            },
-            "Cylance": {
-                "type": "undetected",
-                "details": null
-            },
-            "Panda": {
-                "type": "undetected",
-                "details": null
-            },
-            "TrendMicro-HouseCall": {
-                "type": "undetected",
-                "details": null
-            },
-            "Tencent": {
-                "type": "undetected",
-                "details": null
-            },
-            "Yandex": {
-                "type": "undetected",
-                "details": null
-            },
-            "TrellixENS": {
-                "type": "undetected",
-                "details": null
-            },
-            "SentinelOne": {
-                "type": "undetected",
-                "details": null
-            },
-            "MaxSecure": {
-                "type": "undetected",
-                "details": null
-            },
-            "Fortinet": {
-                "type": "undetected",
-                "details": null
-            },
-            "AVG": {
-                "type": "undetected",
-                "details": null
-            },
-            "DeepInstinct": {
-                "type": "undetected",
-                "details": null
-            },
-            "alibabacloud": {
-                "type": "undetected",
-                "details": null
-            },
-            "Cynet": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "Trustlook": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "SymantecMobileInsight": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "BitDefenderFalx": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "Avast-Mobile": {
-                "type": "type-unsupported",
-                "details": null
-            }
-        },
-        "flowkeeper-0.10.0-windows-2022-nuitka-portable.exe": {
-            "Bkav": {
-                "type": "undetected",
-                "details": null
-            },
-            "Lionic": {
-                "type": "undetected",
-                "details": null
-            },
-            "Elastic": {
-                "type": "undetected",
-                "details": null
-            },
-            "MicroWorld-eScan": {
-                "type": "malicious",
-                "details": "Gen:Variant.Mikey.178486"
-            },
-            "CTX": {
-                "type": "malicious",
-                "details": "exe.trojan.mikey"
-            },
-            "CAT-QuickHeal": {
-                "type": "undetected",
-                "details": null
-            },
-            "Skyhigh": {
-                "type": "malicious",
-                "details": "Artemis"
-            },
-            "ALYac": {
-                "type": "malicious",
-                "details": "Gen:Variant.Mikey.178486"
-            },
-            "Malwarebytes": {
-                "type": "undetected",
-                "details": null
-            },
-            "VIPRE": {
-                "type": "malicious",
-                "details": "Gen:Variant.Mikey.178486"
-            },
-            "Sangfor": {
-                "type": "undetected",
-                "details": null
-            },
-            "K7AntiVirus": {
-                "type": "undetected",
-                "details": null
-            },
-            "Alibaba": {
-                "type": "undetected",
-                "details": null
-            },
-            "K7GW": {
-                "type": "undetected",
-                "details": null
-            },
-            "CrowdStrike": {
-                "type": "undetected",
-                "details": null
-            },
-            "huorong": {
-                "type": "undetected",
-                "details": null
-            },
-            "Baidu": {
-                "type": "undetected",
-                "details": null
-            },
-            "VirIT": {
-                "type": "undetected",
-                "details": null
-            },
-            "Paloalto": {
-                "type": "malicious",
-                "details": "generic.ml"
-            },
-            "Symantec": {
-                "type": "undetected",
-                "details": null
-            },
-            "tehtris": {
-                "type": "undetected",
-                "details": null
-            },
-            "ESET-NOD32": {
-                "type": "undetected",
-                "details": null
-            },
-            "APEX": {
-                "type": "undetected",
-                "details": null
-            },
-            "TrendMicro-HouseCall": {
-                "type": "undetected",
-                "details": null
-            },
-            "Avast": {
-                "type": "malicious",
-                "details": "Win64:MalwareX-gen [Ransom]"
-            },
-            "ClamAV": {
-                "type": "undetected",
-                "details": null
-            },
-            "Kaspersky": {
-                "type": "undetected",
-                "details": null
-            },
-            "BitDefender": {
-                "type": "malicious",
-                "details": "Gen:Variant.Mikey.178486"
-            },
-            "NANO-Antivirus": {
-                "type": "undetected",
-                "details": null
-            },
-            "SUPERAntiSpyware": {
-                "type": "undetected",
-                "details": null
-            },
-            "Rising": {
-                "type": "undetected",
-                "details": null
-            },
-            "Emsisoft": {
-                "type": "malicious",
-                "details": "Gen:Variant.Mikey.178486 (B)"
-            },
-            "Google": {
-                "type": "malicious",
-                "details": "Detected"
-            },
-            "F-Secure": {
-                "type": "undetected",
-                "details": null
-            },
-            "DrWeb": {
-                "type": "undetected",
-                "details": null
-            },
-            "Zillya": {
-                "type": "undetected",
-                "details": null
-            },
-            "TrendMicro": {
-                "type": "undetected",
-                "details": null
-            },
-            "McAfeeD": {
-                "type": "malicious",
-                "details": "ti!91C30066DBBF"
-            },
-            "Trapmine": {
-                "type": "undetected",
-                "details": null
-            },
-            "CMC": {
-                "type": "undetected",
-                "details": null
-            },
-            "Sophos": {
-                "type": "undetected",
-                "details": null
-            },
-            "Ikarus": {
-                "type": "malicious",
-                "details": "Trojan-Dropper.Win32.Agent"
-            },
-            "Jiangmin": {
-                "type": "undetected",
-                "details": null
-            },
-            "Webroot": {
-                "type": "undetected",
-                "details": null
-            },
-            "Varist": {
-                "type": "undetected",
-                "details": null
-            },
-            "Avira": {
-                "type": "undetected",
-                "details": null
-            },
-            "Antiy-AVL": {
-                "type": "undetected",
-                "details": null
-            },
-            "Kingsoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "Microsoft": {
-                "type": "malicious",
-                "details": "Trojan:Win32/Wacatac.B!ml"
-            },
-            "Gridinsoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "Xcitium": {
-                "type": "undetected",
-                "details": null
-            },
-            "Arcabit": {
-                "type": "malicious",
-                "details": "Trojan.Mikey.D2B936"
-            },
-            "ViRobot": {
-                "type": "undetected",
-                "details": null
-            },
-            "ZoneAlarm": {
-                "type": "undetected",
-                "details": null
-            },
-            "GData": {
-                "type": "malicious",
-                "details": "Gen:Variant.Mikey.178486"
-            },
-            "Cynet": {
-                "type": "undetected",
-                "details": null
-            },
-            "AhnLab-V3": {
-                "type": "undetected",
-                "details": null
-            },
-            "Acronis": {
-                "type": "undetected",
-                "details": null
-            },
-            "VBA32": {
-                "type": "undetected",
-                "details": null
-            },
-            "TACHYON": {
-                "type": "undetected",
-                "details": null
-            },
-            "Cylance": {
-                "type": "undetected",
-                "details": null
-            },
-            "Panda": {
-                "type": "undetected",
-                "details": null
-            },
-            "Zoner": {
-                "type": "undetected",
-                "details": null
-            },
-            "Tencent": {
-                "type": "undetected",
-                "details": null
-            },
-            "Yandex": {
-                "type": "undetected",
-                "details": null
-            },
-            "TrellixENS": {
-                "type": "undetected",
-                "details": null
-            },
-            "SentinelOne": {
-                "type": "undetected",
-                "details": null
-            },
-            "MaxSecure": {
-                "type": "undetected",
-                "details": null
-            },
-            "Fortinet": {
-                "type": "undetected",
-                "details": null
-            },
-            "AVG": {
-                "type": "malicious",
-                "details": "Win64:MalwareX-gen [Ransom]"
-            },
-            "DeepInstinct": {
-                "type": "malicious",
-                "details": "MALICIOUS"
-            },
-            "alibabacloud": {
-                "type": "undetected",
-                "details": null
-            },
-            "Trustlook": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "SymantecMobileInsight": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "BitDefenderFalx": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "Avast-Mobile": {
-                "type": "type-unsupported",
-                "details": null
-            }
-        },
-        "flowkeeper-0.10.0-windows-2022-nuitka-standalone.exe": {
-            "Bkav": {
-                "type": "undetected",
-                "details": null
-            },
-            "Lionic": {
-                "type": "undetected",
-                "details": null
-            },
-            "Elastic": {
-                "type": "undetected",
-                "details": null
-            },
-            "MicroWorld-eScan": {
-                "type": "undetected",
-                "details": null
-            },
-            "CTX": {
-                "type": "undetected",
-                "details": null
-            },
-            "CAT-QuickHeal": {
-                "type": "undetected",
-                "details": null
-            },
-            "Malwarebytes": {
-                "type": "undetected",
-                "details": null
-            },
-            "VIPRE": {
-                "type": "undetected",
-                "details": null
-            },
-            "Sangfor": {
-                "type": "undetected",
-                "details": null
-            },
-            "K7AntiVirus": {
-                "type": "undetected",
-                "details": null
-            },
-            "Alibaba": {
-                "type": "undetected",
-                "details": null
-            },
-            "K7GW": {
-                "type": "undetected",
-                "details": null
-            },
-            "CrowdStrike": {
-                "type": "undetected",
-                "details": null
-            },
-            "Baidu": {
-                "type": "undetected",
-                "details": null
-            },
-            "Symantec": {
-                "type": "undetected",
-                "details": null
-            },
-            "tehtris": {
-                "type": "undetected",
-                "details": null
-            },
-            "ESET-NOD32": {
-                "type": "undetected",
-                "details": null
-            },
-            "Zoner": {
-                "type": "undetected",
-                "details": null
-            },
-            "APEX": {
-                "type": "undetected",
-                "details": null
-            },
-            "Paloalto": {
-                "type": "undetected",
-                "details": null
-            },
-            "Cynet": {
-                "type": "undetected",
-                "details": null
-            },
-            "Kaspersky": {
-                "type": "undetected",
-                "details": null
-            },
-            "BitDefender": {
-                "type": "undetected",
-                "details": null
-            },
-            "NANO-Antivirus": {
-                "type": "undetected",
-                "details": null
-            },
-            "SUPERAntiSpyware": {
-                "type": "undetected",
-                "details": null
-            },
-            "Avast": {
-                "type": "undetected",
-                "details": null
-            },
-            "Tencent": {
-                "type": "undetected",
-                "details": null
-            },
-            "Emsisoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "F-Secure": {
-                "type": "undetected",
-                "details": null
-            },
-            "DrWeb": {
-                "type": "undetected",
-                "details": null
-            },
-            "Zillya": {
-                "type": "undetected",
-                "details": null
-            },
-            "TrendMicro": {
-                "type": "undetected",
-                "details": null
-            },
-            "McAfeeD": {
-                "type": "undetected",
-                "details": null
-            },
-            "SentinelOne": {
-                "type": "undetected",
-                "details": null
-            },
-            "Trapmine": {
-                "type": "undetected",
-                "details": null
-            },
-            "CMC": {
-                "type": "undetected",
-                "details": null
-            },
-            "Sophos": {
-                "type": "undetected",
-                "details": null
-            },
-            "Ikarus": {
-                "type": "malicious",
-                "details": "Trojan-Dropper.Win32.Agent"
-            },
-            "Jiangmin": {
-                "type": "undetected",
-                "details": null
-            },
-            "Webroot": {
-                "type": "undetected",
-                "details": null
-            },
-            "Google": {
-                "type": "malicious",
-                "details": "Detected"
-            },
-            "Avira": {
-                "type": "undetected",
-                "details": null
-            },
-            "Antiy-AVL": {
-                "type": "undetected",
-                "details": null
-            },
-            "Kingsoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "Microsoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "Gridinsoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "Xcitium": {
-                "type": "undetected",
-                "details": null
-            },
-            "Arcabit": {
-                "type": "undetected",
-                "details": null
-            },
-            "ViRobot": {
-                "type": "undetected",
-                "details": null
-            },
-            "ZoneAlarm": {
-                "type": "undetected",
-                "details": null
-            },
-            "GData": {
-                "type": "undetected",
-                "details": null
-            },
-            "Varist": {
-                "type": "undetected",
-                "details": null
-            },
-            "AhnLab-V3": {
-                "type": "undetected",
-                "details": null
-            },
-            "Acronis": {
-                "type": "undetected",
-                "details": null
-            },
-            "VBA32": {
-                "type": "undetected",
-                "details": null
-            },
-            "TACHYON": {
-                "type": "undetected",
-                "details": null
-            },
-            "Cylance": {
-                "type": "undetected",
-                "details": null
-            },
-            "Panda": {
-                "type": "undetected",
-                "details": null
-            },
-            "TrendMicro-HouseCall": {
-                "type": "undetected",
-                "details": null
-            },
-            "Rising": {
-                "type": "undetected",
-                "details": null
-            },
-            "Yandex": {
-                "type": "undetected",
-                "details": null
-            },
-            "TrellixENS": {
-                "type": "undetected",
-                "details": null
-            },
-            "huorong": {
-                "type": "undetected",
-                "details": null
-            },
-            "Fortinet": {
-                "type": "undetected",
-                "details": null
-            },
-            "AVG": {
-                "type": "undetected",
-                "details": null
-            },
-            "DeepInstinct": {
-                "type": "undetected",
-                "details": null
-            },
-            "alibabacloud": {
-                "type": "undetected",
-                "details": null
-            },
-            "MaxSecure": {
-                "type": "timeout",
-                "details": null
-            },
-            "Skyhigh": {
-                "type": "timeout",
-                "details": null
-            },
-            "ClamAV": {
-                "type": "timeout",
-                "details": null
-            },
-            "VirIT": {
-                "type": "timeout",
-                "details": null
-            },
-            "Trustlook": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "SymantecMobileInsight": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "BitDefenderFalx": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "Avast-Mobile": {
-                "type": "type-unsupported",
-                "details": null
-            }
-        },
-        "flowkeeper-0.10.0-windows-2022-pyinstaller-installer.exe": {
-            "Bkav": {
-                "type": "undetected",
-                "details": null
-            },
-            "Lionic": {
-                "type": "undetected",
-                "details": null
-            },
-            "tehtris": {
-                "type": "undetected",
-                "details": null
-            },
-            "MicroWorld-eScan": {
-                "type": "undetected",
-                "details": null
-            },
-            "CMC": {
-                "type": "undetected",
-                "details": null
-            },
-            "CAT-QuickHeal": {
-                "type": "undetected",
-                "details": null
-            },
-            "Skyhigh": {
-                "type": "malicious",
-                "details": "Artemis"
-            },
-            "ALYac": {
-                "type": "undetected",
-                "details": null
-            },
-            "Cylance": {
-                "type": "undetected",
-                "details": null
-            },
-            "VIPRE": {
-                "type": "undetected",
-                "details": null
-            },
-            "Sangfor": {
-                "type": "undetected",
-                "details": null
-            },
-            "K7AntiVirus": {
-                "type": "undetected",
-                "details": null
-            },
-            "Alibaba": {
-                "type": "undetected",
-                "details": null
-            },
-            "K7GW": {
-                "type": "undetected",
-                "details": null
-            },
-            "CrowdStrike": {
-                "type": "undetected",
-                "details": null
-            },
-            "Baidu": {
-                "type": "undetected",
-                "details": null
-            },
-            "VirIT": {
-                "type": "undetected",
-                "details": null
-            },
-            "Symantec": {
-                "type": "undetected",
-                "details": null
-            },
             "ESET-NOD32": {
                 "type": "undetected",
                 "details": null
@@ -2829,30 +1001,6 @@
                 "details": null
             },
             "TrendMicro-HouseCall": {
-                "type": "undetected",
-                "details": null
-            },
-            "Paloalto": {
-                "type": "undetected",
-                "details": null
-            },
-            "ClamAV": {
-                "type": "undetected",
-                "details": null
-            },
-            "Kaspersky": {
-                "type": "undetected",
-                "details": null
-            },
-            "BitDefender": {
-                "type": "undetected",
-                "details": null
-            },
-            "NANO-Antivirus": {
-                "type": "undetected",
-                "details": null
-            },
-            "SUPERAntiSpyware": {
                 "type": "undetected",
                 "details": null
             },
@@ -2860,6 +1008,26 @@
                 "type": "malicious",
                 "details": "Win64:Malware-gen"
             },
+            "ClamAV": {
+                "type": "undetected",
+                "details": null
+            },
+            "Kaspersky": {
+                "type": "undetected",
+                "details": null
+            },
+            "BitDefender": {
+                "type": "undetected",
+                "details": null
+            },
+            "NANO-Antivirus": {
+                "type": "undetected",
+                "details": null
+            },
+            "SUPERAntiSpyware": {
+                "type": "undetected",
+                "details": null
+            },
             "Rising": {
                 "type": "undetected",
                 "details": null
@@ -2876,7 +1044,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "Zillya": {
+            "VIPRE": {
                 "type": "undetected",
                 "details": null
             },
@@ -2885,8 +1053,12 @@
                 "details": null
             },
             "McAfeeD": {
-                "type": "malicious",
-                "details": "ti!EB853D76BE4C"
+                "type": "undetected",
+                "details": null
+            },
+            "SentinelOne": {
+                "type": "undetected",
+                "details": null
             },
             "Trapmine": {
                 "type": "undetected",
@@ -2900,7 +1072,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "SentinelOne": {
+            "Ikarus": {
                 "type": "undetected",
                 "details": null
             },
@@ -2912,7 +1084,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "Varist": {
+            "Google": {
                 "type": "undetected",
                 "details": null
             },
@@ -2956,7 +1128,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "Google": {
+            "Varist": {
                 "type": "undetected",
                 "details": null
             },
@@ -2976,7 +1148,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "Ikarus": {
+            "Cylance": {
                 "type": "undetected",
                 "details": null
             },
@@ -3024,7 +1196,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "Malwarebytes": {
+            "Bkav": {
                 "type": "failure",
                 "details": null
             },
@@ -3053,7 +1225,1537 @@
                 "details": null
             }
         },
-        "flowkeeper-0.10.0-windows-2022-pyinstaller-portable.exe": {
+        "flowkeeper-1.0.0-windows-2019-pyinstaller-portable.exe": {
+            "Lionic": {
+                "type": "undetected",
+                "details": null
+            },
+            "tehtris": {
+                "type": "undetected",
+                "details": null
+            },
+            "MicroWorld-eScan": {
+                "type": "undetected",
+                "details": null
+            },
+            "CMC": {
+                "type": "undetected",
+                "details": null
+            },
+            "CAT-QuickHeal": {
+                "type": "undetected",
+                "details": null
+            },
+            "Skyhigh": {
+                "type": "undetected",
+                "details": null
+            },
+            "ALYac": {
+                "type": "undetected",
+                "details": null
+            },
+            "Malwarebytes": {
+                "type": "undetected",
+                "details": null
+            },
+            "VIPRE": {
+                "type": "undetected",
+                "details": null
+            },
+            "Sangfor": {
+                "type": "undetected",
+                "details": null
+            },
+            "K7AntiVirus": {
+                "type": "undetected",
+                "details": null
+            },
+            "BitDefender": {
+                "type": "undetected",
+                "details": null
+            },
+            "K7GW": {
+                "type": "undetected",
+                "details": null
+            },
+            "CrowdStrike": {
+                "type": "undetected",
+                "details": null
+            },
+            "Baidu": {
+                "type": "undetected",
+                "details": null
+            },
+            "VirIT": {
+                "type": "undetected",
+                "details": null
+            },
+            "Paloalto": {
+                "type": "undetected",
+                "details": null
+            },
+            "Symantec": {
+                "type": "undetected",
+                "details": null
+            },
+            "ESET-NOD32": {
+                "type": "undetected",
+                "details": null
+            },
+            "Zoner": {
+                "type": "undetected",
+                "details": null
+            },
+            "TrendMicro-HouseCall": {
+                "type": "undetected",
+                "details": null
+            },
+            "Avast": {
+                "type": "undetected",
+                "details": null
+            },
+            "ClamAV": {
+                "type": "undetected",
+                "details": null
+            },
+            "Kaspersky": {
+                "type": "undetected",
+                "details": null
+            },
+            "Alibaba": {
+                "type": "undetected",
+                "details": null
+            },
+            "NANO-Antivirus": {
+                "type": "undetected",
+                "details": null
+            },
+            "SUPERAntiSpyware": {
+                "type": "undetected",
+                "details": null
+            },
+            "Rising": {
+                "type": "undetected",
+                "details": null
+            },
+            "Emsisoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "F-Secure": {
+                "type": "undetected",
+                "details": null
+            },
+            "DrWeb": {
+                "type": "undetected",
+                "details": null
+            },
+            "Zillya": {
+                "type": "undetected",
+                "details": null
+            },
+            "TrendMicro": {
+                "type": "undetected",
+                "details": null
+            },
+            "McAfeeD": {
+                "type": "undetected",
+                "details": null
+            },
+            "SentinelOne": {
+                "type": "undetected",
+                "details": null
+            },
+            "Trapmine": {
+                "type": "undetected",
+                "details": null
+            },
+            "CTX": {
+                "type": "undetected",
+                "details": null
+            },
+            "Sophos": {
+                "type": "undetected",
+                "details": null
+            },
+            "Ikarus": {
+                "type": "undetected",
+                "details": null
+            },
+            "Jiangmin": {
+                "type": "undetected",
+                "details": null
+            },
+            "Webroot": {
+                "type": "undetected",
+                "details": null
+            },
+            "Google": {
+                "type": "undetected",
+                "details": null
+            },
+            "Avira": {
+                "type": "undetected",
+                "details": null
+            },
+            "Antiy-AVL": {
+                "type": "undetected",
+                "details": null
+            },
+            "Kingsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Microsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Gridinsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Xcitium": {
+                "type": "undetected",
+                "details": null
+            },
+            "Arcabit": {
+                "type": "undetected",
+                "details": null
+            },
+            "ViRobot": {
+                "type": "undetected",
+                "details": null
+            },
+            "ZoneAlarm": {
+                "type": "undetected",
+                "details": null
+            },
+            "GData": {
+                "type": "undetected",
+                "details": null
+            },
+            "Varist": {
+                "type": "undetected",
+                "details": null
+            },
+            "AhnLab-V3": {
+                "type": "undetected",
+                "details": null
+            },
+            "Acronis": {
+                "type": "undetected",
+                "details": null
+            },
+            "VBA32": {
+                "type": "undetected",
+                "details": null
+            },
+            "TACHYON": {
+                "type": "undetected",
+                "details": null
+            },
+            "Cylance": {
+                "type": "undetected",
+                "details": null
+            },
+            "Panda": {
+                "type": "undetected",
+                "details": null
+            },
+            "APEX": {
+                "type": "undetected",
+                "details": null
+            },
+            "Tencent": {
+                "type": "undetected",
+                "details": null
+            },
+            "Yandex": {
+                "type": "undetected",
+                "details": null
+            },
+            "TrellixENS": {
+                "type": "undetected",
+                "details": null
+            },
+            "huorong": {
+                "type": "undetected",
+                "details": null
+            },
+            "MaxSecure": {
+                "type": "undetected",
+                "details": null
+            },
+            "Fortinet": {
+                "type": "undetected",
+                "details": null
+            },
+            "AVG": {
+                "type": "undetected",
+                "details": null
+            },
+            "DeepInstinct": {
+                "type": "undetected",
+                "details": null
+            },
+            "alibabacloud": {
+                "type": "undetected",
+                "details": null
+            },
+            "Bkav": {
+                "type": "failure",
+                "details": null
+            },
+            "Avast-Mobile": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "SymantecMobileInsight": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "BitDefenderFalx": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "Elastic": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "Cynet": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "Trustlook": {
+                "type": "type-unsupported",
+                "details": null
+            }
+        },
+        "flowkeeper-1.0.0-windows-2019-pyinstaller-standalone.exe": {
+            "Bkav": {
+                "type": "undetected",
+                "details": null
+            },
+            "Lionic": {
+                "type": "undetected",
+                "details": null
+            },
+            "Elastic": {
+                "type": "malicious",
+                "details": "malicious (moderate confidence)"
+            },
+            "MicroWorld-eScan": {
+                "type": "undetected",
+                "details": null
+            },
+            "CTX": {
+                "type": "undetected",
+                "details": null
+            },
+            "CAT-QuickHeal": {
+                "type": "undetected",
+                "details": null
+            },
+            "Skyhigh": {
+                "type": "undetected",
+                "details": null
+            },
+            "ALYac": {
+                "type": "undetected",
+                "details": null
+            },
+            "Malwarebytes": {
+                "type": "undetected",
+                "details": null
+            },
+            "Zillya": {
+                "type": "undetected",
+                "details": null
+            },
+            "Sangfor": {
+                "type": "undetected",
+                "details": null
+            },
+            "K7AntiVirus": {
+                "type": "undetected",
+                "details": null
+            },
+            "Alibaba": {
+                "type": "undetected",
+                "details": null
+            },
+            "K7GW": {
+                "type": "undetected",
+                "details": null
+            },
+            "CrowdStrike": {
+                "type": "undetected",
+                "details": null
+            },
+            "Baidu": {
+                "type": "undetected",
+                "details": null
+            },
+            "VirIT": {
+                "type": "undetected",
+                "details": null
+            },
+            "Symantec": {
+                "type": "undetected",
+                "details": null
+            },
+            "tehtris": {
+                "type": "undetected",
+                "details": null
+            },
+            "ESET-NOD32": {
+                "type": "undetected",
+                "details": null
+            },
+            "APEX": {
+                "type": "undetected",
+                "details": null
+            },
+            "TrendMicro-HouseCall": {
+                "type": "undetected",
+                "details": null
+            },
+            "Paloalto": {
+                "type": "undetected",
+                "details": null
+            },
+            "ClamAV": {
+                "type": "undetected",
+                "details": null
+            },
+            "Kaspersky": {
+                "type": "undetected",
+                "details": null
+            },
+            "BitDefender": {
+                "type": "undetected",
+                "details": null
+            },
+            "NANO-Antivirus": {
+                "type": "undetected",
+                "details": null
+            },
+            "SUPERAntiSpyware": {
+                "type": "undetected",
+                "details": null
+            },
+            "Avast": {
+                "type": "malicious",
+                "details": "Win64:Malware-gen"
+            },
+            "Rising": {
+                "type": "undetected",
+                "details": null
+            },
+            "Emsisoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Google": {
+                "type": "undetected",
+                "details": null
+            },
+            "F-Secure": {
+                "type": "undetected",
+                "details": null
+            },
+            "DrWeb": {
+                "type": "undetected",
+                "details": null
+            },
+            "VIPRE": {
+                "type": "undetected",
+                "details": null
+            },
+            "TrendMicro": {
+                "type": "undetected",
+                "details": null
+            },
+            "McAfeeD": {
+                "type": "undetected",
+                "details": null
+            },
+            "SentinelOne": {
+                "type": "undetected",
+                "details": null
+            },
+            "Trapmine": {
+                "type": "undetected",
+                "details": null
+            },
+            "CMC": {
+                "type": "undetected",
+                "details": null
+            },
+            "Sophos": {
+                "type": "undetected",
+                "details": null
+            },
+            "Ikarus": {
+                "type": "undetected",
+                "details": null
+            },
+            "Jiangmin": {
+                "type": "undetected",
+                "details": null
+            },
+            "Webroot": {
+                "type": "undetected",
+                "details": null
+            },
+            "Varist": {
+                "type": "undetected",
+                "details": null
+            },
+            "Avira": {
+                "type": "undetected",
+                "details": null
+            },
+            "Antiy-AVL": {
+                "type": "undetected",
+                "details": null
+            },
+            "Kingsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Microsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Gridinsoft": {
+                "type": "malicious",
+                "details": "Trojan.Win64.Agent.oa!s1"
+            },
+            "Xcitium": {
+                "type": "undetected",
+                "details": null
+            },
+            "Arcabit": {
+                "type": "undetected",
+                "details": null
+            },
+            "ViRobot": {
+                "type": "undetected",
+                "details": null
+            },
+            "ZoneAlarm": {
+                "type": "undetected",
+                "details": null
+            },
+            "GData": {
+                "type": "undetected",
+                "details": null
+            },
+            "Cynet": {
+                "type": "undetected",
+                "details": null
+            },
+            "AhnLab-V3": {
+                "type": "undetected",
+                "details": null
+            },
+            "Acronis": {
+                "type": "undetected",
+                "details": null
+            },
+            "VBA32": {
+                "type": "undetected",
+                "details": null
+            },
+            "TACHYON": {
+                "type": "undetected",
+                "details": null
+            },
+            "Cylance": {
+                "type": "undetected",
+                "details": null
+            },
+            "Panda": {
+                "type": "undetected",
+                "details": null
+            },
+            "Zoner": {
+                "type": "undetected",
+                "details": null
+            },
+            "Tencent": {
+                "type": "undetected",
+                "details": null
+            },
+            "Yandex": {
+                "type": "undetected",
+                "details": null
+            },
+            "TrellixENS": {
+                "type": "undetected",
+                "details": null
+            },
+            "huorong": {
+                "type": "undetected",
+                "details": null
+            },
+            "MaxSecure": {
+                "type": "undetected",
+                "details": null
+            },
+            "Fortinet": {
+                "type": "undetected",
+                "details": null
+            },
+            "AVG": {
+                "type": "malicious",
+                "details": "Win64:Malware-gen"
+            },
+            "DeepInstinct": {
+                "type": "undetected",
+                "details": null
+            },
+            "alibabacloud": {
+                "type": "undetected",
+                "details": null
+            },
+            "Trustlook": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "SymantecMobileInsight": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "BitDefenderFalx": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "Avast-Mobile": {
+                "type": "type-unsupported",
+                "details": null
+            }
+        },
+        "flowkeeper-1.0.0-windows-2022-nuitka-installer.exe": {
+            "Bkav": {
+                "type": "undetected",
+                "details": null
+            },
+            "Lionic": {
+                "type": "undetected",
+                "details": null
+            },
+            "Elastic": {
+                "type": "undetected",
+                "details": null
+            },
+            "MicroWorld-eScan": {
+                "type": "undetected",
+                "details": null
+            },
+            "CMC": {
+                "type": "undetected",
+                "details": null
+            },
+            "CAT-QuickHeal": {
+                "type": "undetected",
+                "details": null
+            },
+            "Skyhigh": {
+                "type": "undetected",
+                "details": null
+            },
+            "ALYac": {
+                "type": "undetected",
+                "details": null
+            },
+            "Malwarebytes": {
+                "type": "undetected",
+                "details": null
+            },
+            "VIPRE": {
+                "type": "undetected",
+                "details": null
+            },
+            "Sangfor": {
+                "type": "undetected",
+                "details": null
+            },
+            "K7AntiVirus": {
+                "type": "undetected",
+                "details": null
+            },
+            "Alibaba": {
+                "type": "undetected",
+                "details": null
+            },
+            "K7GW": {
+                "type": "undetected",
+                "details": null
+            },
+            "CrowdStrike": {
+                "type": "undetected",
+                "details": null
+            },
+            "Baidu": {
+                "type": "undetected",
+                "details": null
+            },
+            "VirIT": {
+                "type": "undetected",
+                "details": null
+            },
+            "Symantec": {
+                "type": "undetected",
+                "details": null
+            },
+            "tehtris": {
+                "type": "undetected",
+                "details": null
+            },
+            "ESET-NOD32": {
+                "type": "undetected",
+                "details": null
+            },
+            "Zoner": {
+                "type": "undetected",
+                "details": null
+            },
+            "APEX": {
+                "type": "undetected",
+                "details": null
+            },
+            "Paloalto": {
+                "type": "undetected",
+                "details": null
+            },
+            "ClamAV": {
+                "type": "undetected",
+                "details": null
+            },
+            "Kaspersky": {
+                "type": "undetected",
+                "details": null
+            },
+            "BitDefender": {
+                "type": "undetected",
+                "details": null
+            },
+            "NANO-Antivirus": {
+                "type": "undetected",
+                "details": null
+            },
+            "SUPERAntiSpyware": {
+                "type": "undetected",
+                "details": null
+            },
+            "Avast": {
+                "type": "undetected",
+                "details": null
+            },
+            "Rising": {
+                "type": "undetected",
+                "details": null
+            },
+            "Emsisoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "F-Secure": {
+                "type": "undetected",
+                "details": null
+            },
+            "DrWeb": {
+                "type": "undetected",
+                "details": null
+            },
+            "Zillya": {
+                "type": "undetected",
+                "details": null
+            },
+            "TrendMicro": {
+                "type": "undetected",
+                "details": null
+            },
+            "McAfeeD": {
+                "type": "undetected",
+                "details": null
+            },
+            "SentinelOne": {
+                "type": "undetected",
+                "details": null
+            },
+            "Trapmine": {
+                "type": "undetected",
+                "details": null
+            },
+            "CTX": {
+                "type": "undetected",
+                "details": null
+            },
+            "Sophos": {
+                "type": "undetected",
+                "details": null
+            },
+            "Ikarus": {
+                "type": "malicious",
+                "details": "Trojan-Dropper.Win32.Agent"
+            },
+            "Jiangmin": {
+                "type": "undetected",
+                "details": null
+            },
+            "Webroot": {
+                "type": "undetected",
+                "details": null
+            },
+            "Google": {
+                "type": "undetected",
+                "details": null
+            },
+            "Avira": {
+                "type": "undetected",
+                "details": null
+            },
+            "Antiy-AVL": {
+                "type": "undetected",
+                "details": null
+            },
+            "Kingsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Microsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Gridinsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Xcitium": {
+                "type": "undetected",
+                "details": null
+            },
+            "Arcabit": {
+                "type": "undetected",
+                "details": null
+            },
+            "ViRobot": {
+                "type": "undetected",
+                "details": null
+            },
+            "ZoneAlarm": {
+                "type": "undetected",
+                "details": null
+            },
+            "GData": {
+                "type": "undetected",
+                "details": null
+            },
+            "Varist": {
+                "type": "undetected",
+                "details": null
+            },
+            "AhnLab-V3": {
+                "type": "undetected",
+                "details": null
+            },
+            "Acronis": {
+                "type": "undetected",
+                "details": null
+            },
+            "VBA32": {
+                "type": "undetected",
+                "details": null
+            },
+            "TACHYON": {
+                "type": "undetected",
+                "details": null
+            },
+            "Cylance": {
+                "type": "undetected",
+                "details": null
+            },
+            "Panda": {
+                "type": "undetected",
+                "details": null
+            },
+            "TrendMicro-HouseCall": {
+                "type": "undetected",
+                "details": null
+            },
+            "Tencent": {
+                "type": "undetected",
+                "details": null
+            },
+            "Yandex": {
+                "type": "undetected",
+                "details": null
+            },
+            "TrellixENS": {
+                "type": "undetected",
+                "details": null
+            },
+            "huorong": {
+                "type": "undetected",
+                "details": null
+            },
+            "MaxSecure": {
+                "type": "undetected",
+                "details": null
+            },
+            "Fortinet": {
+                "type": "undetected",
+                "details": null
+            },
+            "AVG": {
+                "type": "undetected",
+                "details": null
+            },
+            "DeepInstinct": {
+                "type": "undetected",
+                "details": null
+            },
+            "alibabacloud": {
+                "type": "undetected",
+                "details": null
+            },
+            "BitDefenderFalx": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "Trustlook": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "SymantecMobileInsight": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "Cynet": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "Avast-Mobile": {
+                "type": "type-unsupported",
+                "details": null
+            }
+        },
+        "flowkeeper-1.0.0-windows-2022-nuitka-portable.exe": {
+            "Bkav": {
+                "type": "undetected",
+                "details": null
+            },
+            "Lionic": {
+                "type": "undetected",
+                "details": null
+            },
+            "AVG": {
+                "type": "malicious",
+                "details": "Win64:MalwareX-gen [Ransom]"
+            },
+            "Elastic": {
+                "type": "undetected",
+                "details": null
+            },
+            "MicroWorld-eScan": {
+                "type": "malicious",
+                "details": "Gen:Variant.Mikey.178486"
+            },
+            "CTX": {
+                "type": "malicious",
+                "details": "exe.unknown.mikey"
+            },
+            "CAT-QuickHeal": {
+                "type": "undetected",
+                "details": null
+            },
+            "Skyhigh": {
+                "type": "undetected",
+                "details": null
+            },
+            "ALYac": {
+                "type": "malicious",
+                "details": "Gen:Variant.Mikey.178486"
+            },
+            "Malwarebytes": {
+                "type": "undetected",
+                "details": null
+            },
+            "VIPRE": {
+                "type": "malicious",
+                "details": "Gen:Variant.Mikey.178486"
+            },
+            "Sangfor": {
+                "type": "undetected",
+                "details": null
+            },
+            "K7AntiVirus": {
+                "type": "undetected",
+                "details": null
+            },
+            "Alibaba": {
+                "type": "undetected",
+                "details": null
+            },
+            "K7GW": {
+                "type": "undetected",
+                "details": null
+            },
+            "CrowdStrike": {
+                "type": "undetected",
+                "details": null
+            },
+            "huorong": {
+                "type": "undetected",
+                "details": null
+            },
+            "Baidu": {
+                "type": "undetected",
+                "details": null
+            },
+            "Paloalto": {
+                "type": "undetected",
+                "details": null
+            },
+            "Symantec": {
+                "type": "undetected",
+                "details": null
+            },
+            "tehtris": {
+                "type": "undetected",
+                "details": null
+            },
+            "ESET-NOD32": {
+                "type": "undetected",
+                "details": null
+            },
+            "Cynet": {
+                "type": "undetected",
+                "details": null
+            },
+            "APEX": {
+                "type": "undetected",
+                "details": null
+            },
+            "Avast": {
+                "type": "malicious",
+                "details": "Win64:MalwareX-gen [Ransom]"
+            },
+            "ClamAV": {
+                "type": "undetected",
+                "details": null
+            },
+            "Kaspersky": {
+                "type": "undetected",
+                "details": null
+            },
+            "BitDefender": {
+                "type": "malicious",
+                "details": "Gen:Variant.Mikey.178486"
+            },
+            "NANO-Antivirus": {
+                "type": "undetected",
+                "details": null
+            },
+            "SUPERAntiSpyware": {
+                "type": "undetected",
+                "details": null
+            },
+            "Rising": {
+                "type": "undetected",
+                "details": null
+            },
+            "Sophos": {
+                "type": "undetected",
+                "details": null
+            },
+            "F-Secure": {
+                "type": "undetected",
+                "details": null
+            },
+            "DrWeb": {
+                "type": "undetected",
+                "details": null
+            },
+            "Zillya": {
+                "type": "undetected",
+                "details": null
+            },
+            "TrendMicro": {
+                "type": "undetected",
+                "details": null
+            },
+            "McAfeeD": {
+                "type": "undetected",
+                "details": null
+            },
+            "Trapmine": {
+                "type": "undetected",
+                "details": null
+            },
+            "CMC": {
+                "type": "undetected",
+                "details": null
+            },
+            "Emsisoft": {
+                "type": "malicious",
+                "details": "Gen:Variant.Mikey.178486 (B)"
+            },
+            "Ikarus": {
+                "type": "malicious",
+                "details": "Trojan-Dropper.Win32.Agent"
+            },
+            "Jiangmin": {
+                "type": "undetected",
+                "details": null
+            },
+            "Webroot": {
+                "type": "undetected",
+                "details": null
+            },
+            "Varist": {
+                "type": "undetected",
+                "details": null
+            },
+            "Avira": {
+                "type": "undetected",
+                "details": null
+            },
+            "Antiy-AVL": {
+                "type": "undetected",
+                "details": null
+            },
+            "Kingsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Microsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Gridinsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Xcitium": {
+                "type": "undetected",
+                "details": null
+            },
+            "Arcabit": {
+                "type": "malicious",
+                "details": "Trojan.Mikey.D2B936"
+            },
+            "ViRobot": {
+                "type": "undetected",
+                "details": null
+            },
+            "ZoneAlarm": {
+                "type": "undetected",
+                "details": null
+            },
+            "GData": {
+                "type": "malicious",
+                "details": "Gen:Variant.Mikey.178486"
+            },
+            "Google": {
+                "type": "malicious",
+                "details": "Detected"
+            },
+            "AhnLab-V3": {
+                "type": "undetected",
+                "details": null
+            },
+            "Acronis": {
+                "type": "undetected",
+                "details": null
+            },
+            "VBA32": {
+                "type": "undetected",
+                "details": null
+            },
+            "TACHYON": {
+                "type": "undetected",
+                "details": null
+            },
+            "Cylance": {
+                "type": "undetected",
+                "details": null
+            },
+            "Panda": {
+                "type": "undetected",
+                "details": null
+            },
+            "TrendMicro-HouseCall": {
+                "type": "undetected",
+                "details": null
+            },
+            "Tencent": {
+                "type": "undetected",
+                "details": null
+            },
+            "Yandex": {
+                "type": "undetected",
+                "details": null
+            },
+            "TrellixENS": {
+                "type": "undetected",
+                "details": null
+            },
+            "SentinelOne": {
+                "type": "undetected",
+                "details": null
+            },
+            "MaxSecure": {
+                "type": "undetected",
+                "details": null
+            },
+            "Fortinet": {
+                "type": "undetected",
+                "details": null
+            },
+            "Zoner": {
+                "type": "undetected",
+                "details": null
+            },
+            "DeepInstinct": {
+                "type": "undetected",
+                "details": null
+            },
+            "alibabacloud": {
+                "type": "undetected",
+                "details": null
+            },
+            "VirIT": {
+                "type": "timeout",
+                "details": null
+            },
+            "Trustlook": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "SymantecMobileInsight": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "BitDefenderFalx": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "Avast-Mobile": {
+                "type": "type-unsupported",
+                "details": null
+            }
+        },
+        "flowkeeper-1.0.0-windows-2022-nuitka-standalone.exe": {
+            "Bkav": {
+                "type": "undetected",
+                "details": null
+            },
+            "Lionic": {
+                "type": "undetected",
+                "details": null
+            },
+            "AVG": {
+                "type": "undetected",
+                "details": null
+            },
+            "tehtris": {
+                "type": "undetected",
+                "details": null
+            },
+            "MicroWorld-eScan": {
+                "type": "undetected",
+                "details": null
+            },
+            "CTX": {
+                "type": "undetected",
+                "details": null
+            },
+            "CAT-QuickHeal": {
+                "type": "undetected",
+                "details": null
+            },
+            "Skyhigh": {
+                "type": "undetected",
+                "details": null
+            },
+            "ALYac": {
+                "type": "undetected",
+                "details": null
+            },
+            "Cylance": {
+                "type": "undetected",
+                "details": null
+            },
+            "Zillya": {
+                "type": "undetected",
+                "details": null
+            },
+            "Sangfor": {
+                "type": "undetected",
+                "details": null
+            },
+            "K7AntiVirus": {
+                "type": "undetected",
+                "details": null
+            },
+            "Alibaba": {
+                "type": "undetected",
+                "details": null
+            },
+            "K7GW": {
+                "type": "undetected",
+                "details": null
+            },
+            "CrowdStrike": {
+                "type": "undetected",
+                "details": null
+            },
+            "huorong": {
+                "type": "undetected",
+                "details": null
+            },
+            "Baidu": {
+                "type": "undetected",
+                "details": null
+            },
+            "VirIT": {
+                "type": "undetected",
+                "details": null
+            },
+            "Symantec": {
+                "type": "undetected",
+                "details": null
+            },
+            "Elastic": {
+                "type": "undetected",
+                "details": null
+            },
+            "ESET-NOD32": {
+                "type": "undetected",
+                "details": null
+            },
+            "Cynet": {
+                "type": "undetected",
+                "details": null
+            },
+            "APEX": {
+                "type": "undetected",
+                "details": null
+            },
+            "Paloalto": {
+                "type": "undetected",
+                "details": null
+            },
+            "ClamAV": {
+                "type": "undetected",
+                "details": null
+            },
+            "Kaspersky": {
+                "type": "undetected",
+                "details": null
+            },
+            "BitDefender": {
+                "type": "undetected",
+                "details": null
+            },
+            "NANO-Antivirus": {
+                "type": "undetected",
+                "details": null
+            },
+            "SUPERAntiSpyware": {
+                "type": "undetected",
+                "details": null
+            },
+            "Avast": {
+                "type": "undetected",
+                "details": null
+            },
+            "Rising": {
+                "type": "undetected",
+                "details": null
+            },
+            "Emsisoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "F-Secure": {
+                "type": "undetected",
+                "details": null
+            },
+            "DrWeb": {
+                "type": "undetected",
+                "details": null
+            },
+            "VIPRE": {
+                "type": "undetected",
+                "details": null
+            },
+            "TrendMicro": {
+                "type": "undetected",
+                "details": null
+            },
+            "McAfeeD": {
+                "type": "undetected",
+                "details": null
+            },
+            "Trapmine": {
+                "type": "undetected",
+                "details": null
+            },
+            "CMC": {
+                "type": "undetected",
+                "details": null
+            },
+            "Sophos": {
+                "type": "undetected",
+                "details": null
+            },
+            "Ikarus": {
+                "type": "malicious",
+                "details": "Trojan-Dropper.Win32.Agent"
+            },
+            "Jiangmin": {
+                "type": "undetected",
+                "details": null
+            },
+            "Webroot": {
+                "type": "undetected",
+                "details": null
+            },
+            "Varist": {
+                "type": "undetected",
+                "details": null
+            },
+            "Avira": {
+                "type": "undetected",
+                "details": null
+            },
+            "Antiy-AVL": {
+                "type": "undetected",
+                "details": null
+            },
+            "Kingsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Microsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Gridinsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Xcitium": {
+                "type": "undetected",
+                "details": null
+            },
+            "Arcabit": {
+                "type": "undetected",
+                "details": null
+            },
+            "ViRobot": {
+                "type": "undetected",
+                "details": null
+            },
+            "ZoneAlarm": {
+                "type": "undetected",
+                "details": null
+            },
+            "GData": {
+                "type": "undetected",
+                "details": null
+            },
+            "Google": {
+                "type": "malicious",
+                "details": "Detected"
+            },
+            "AhnLab-V3": {
+                "type": "undetected",
+                "details": null
+            },
+            "Acronis": {
+                "type": "undetected",
+                "details": null
+            },
+            "VBA32": {
+                "type": "undetected",
+                "details": null
+            },
+            "TACHYON": {
+                "type": "undetected",
+                "details": null
+            },
+            "Malwarebytes": {
+                "type": "undetected",
+                "details": null
+            },
+            "Panda": {
+                "type": "undetected",
+                "details": null
+            },
+            "TrendMicro-HouseCall": {
+                "type": "undetected",
+                "details": null
+            },
+            "Tencent": {
+                "type": "undetected",
+                "details": null
+            },
+            "Yandex": {
+                "type": "undetected",
+                "details": null
+            },
+            "TrellixENS": {
+                "type": "undetected",
+                "details": null
+            },
+            "SentinelOne": {
+                "type": "undetected",
+                "details": null
+            },
+            "MaxSecure": {
+                "type": "undetected",
+                "details": null
+            },
+            "Fortinet": {
+                "type": "undetected",
+                "details": null
+            },
+            "Zoner": {
+                "type": "undetected",
+                "details": null
+            },
+            "DeepInstinct": {
+                "type": "undetected",
+                "details": null
+            },
+            "alibabacloud": {
+                "type": "undetected",
+                "details": null
+            },
+            "Trustlook": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "SymantecMobileInsight": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "BitDefenderFalx": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "Avast-Mobile": {
+                "type": "type-unsupported",
+                "details": null
+            }
+        },
+        "flowkeeper-1.0.0-windows-2022-pyinstaller-installer.exe": {
             "Bkav": {
                 "type": "undetected",
                 "details": null
@@ -3090,7 +2792,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "Zillya": {
+            "VIPRE": {
                 "type": "undetected",
                 "details": null
             },
@@ -3102,7 +2804,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "BitDefender": {
+            "Alibaba": {
                 "type": "undetected",
                 "details": null
             },
@@ -3154,7 +2856,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "Alibaba": {
+            "BitDefender": {
                 "type": "undetected",
                 "details": null
             },
@@ -3167,8 +2869,8 @@
                 "details": null
             },
             "Avast": {
-                "type": "undetected",
-                "details": null
+                "type": "malicious",
+                "details": "Win64:Malware-gen"
             },
             "Rising": {
                 "type": "undetected",
@@ -3186,7 +2888,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "VIPRE": {
+            "Zillya": {
                 "type": "undetected",
                 "details": null
             },
@@ -3214,10 +2916,6 @@
                 "type": "undetected",
                 "details": null
             },
-            "GData": {
-                "type": "undetected",
-                "details": null
-            },
             "Jiangmin": {
                 "type": "undetected",
                 "details": null
@@ -3242,6 +2940,10 @@
                 "type": "undetected",
                 "details": null
             },
+            "Microsoft": {
+                "type": "undetected",
+                "details": null
+            },
             "Gridinsoft": {
                 "type": "undetected",
                 "details": null
@@ -3262,7 +2964,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "Microsoft": {
+            "GData": {
                 "type": "undetected",
                 "details": null
             },
@@ -3323,6 +3025,312 @@
                 "details": null
             },
             "AVG": {
+                "type": "malicious",
+                "details": "Win64:Malware-gen"
+            },
+            "DeepInstinct": {
+                "type": "undetected",
+                "details": null
+            },
+            "alibabacloud": {
+                "type": "undetected",
+                "details": null
+            },
+            "Avast-Mobile": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "SymantecMobileInsight": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "BitDefenderFalx": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "Elastic": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "Cynet": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "Trustlook": {
+                "type": "type-unsupported",
+                "details": null
+            }
+        },
+        "flowkeeper-1.0.0-windows-2022-pyinstaller-portable.exe": {
+            "Bkav": {
+                "type": "undetected",
+                "details": null
+            },
+            "Lionic": {
+                "type": "undetected",
+                "details": null
+            },
+            "tehtris": {
+                "type": "undetected",
+                "details": null
+            },
+            "MicroWorld-eScan": {
+                "type": "undetected",
+                "details": null
+            },
+            "CMC": {
+                "type": "undetected",
+                "details": null
+            },
+            "CAT-QuickHeal": {
+                "type": "undetected",
+                "details": null
+            },
+            "Skyhigh": {
+                "type": "undetected",
+                "details": null
+            },
+            "ALYac": {
+                "type": "undetected",
+                "details": null
+            },
+            "Malwarebytes": {
+                "type": "undetected",
+                "details": null
+            },
+            "VIPRE": {
+                "type": "undetected",
+                "details": null
+            },
+            "Sangfor": {
+                "type": "undetected",
+                "details": null
+            },
+            "K7AntiVirus": {
+                "type": "undetected",
+                "details": null
+            },
+            "BitDefender": {
+                "type": "undetected",
+                "details": null
+            },
+            "K7GW": {
+                "type": "undetected",
+                "details": null
+            },
+            "CrowdStrike": {
+                "type": "undetected",
+                "details": null
+            },
+            "Baidu": {
+                "type": "undetected",
+                "details": null
+            },
+            "VirIT": {
+                "type": "undetected",
+                "details": null
+            },
+            "Symantec": {
+                "type": "undetected",
+                "details": null
+            },
+            "ESET-NOD32": {
+                "type": "undetected",
+                "details": null
+            },
+            "Zoner": {
+                "type": "undetected",
+                "details": null
+            },
+            "TrendMicro-HouseCall": {
+                "type": "undetected",
+                "details": null
+            },
+            "Paloalto": {
+                "type": "undetected",
+                "details": null
+            },
+            "ClamAV": {
+                "type": "undetected",
+                "details": null
+            },
+            "Kaspersky": {
+                "type": "undetected",
+                "details": null
+            },
+            "Alibaba": {
+                "type": "undetected",
+                "details": null
+            },
+            "NANO-Antivirus": {
+                "type": "undetected",
+                "details": null
+            },
+            "SUPERAntiSpyware": {
+                "type": "undetected",
+                "details": null
+            },
+            "Avast": {
+                "type": "undetected",
+                "details": null
+            },
+            "Rising": {
+                "type": "undetected",
+                "details": null
+            },
+            "Emsisoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "F-Secure": {
+                "type": "undetected",
+                "details": null
+            },
+            "DrWeb": {
+                "type": "undetected",
+                "details": null
+            },
+            "Zillya": {
+                "type": "undetected",
+                "details": null
+            },
+            "TrendMicro": {
+                "type": "undetected",
+                "details": null
+            },
+            "McAfeeD": {
+                "type": "undetected",
+                "details": null
+            },
+            "SentinelOne": {
+                "type": "undetected",
+                "details": null
+            },
+            "Trapmine": {
+                "type": "undetected",
+                "details": null
+            },
+            "CTX": {
+                "type": "undetected",
+                "details": null
+            },
+            "Sophos": {
+                "type": "undetected",
+                "details": null
+            },
+            "Ikarus": {
+                "type": "undetected",
+                "details": null
+            },
+            "Jiangmin": {
+                "type": "undetected",
+                "details": null
+            },
+            "Webroot": {
+                "type": "undetected",
+                "details": null
+            },
+            "Google": {
+                "type": "undetected",
+                "details": null
+            },
+            "Avira": {
+                "type": "undetected",
+                "details": null
+            },
+            "Antiy-AVL": {
+                "type": "undetected",
+                "details": null
+            },
+            "Kingsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Microsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Gridinsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Xcitium": {
+                "type": "undetected",
+                "details": null
+            },
+            "Arcabit": {
+                "type": "undetected",
+                "details": null
+            },
+            "ViRobot": {
+                "type": "undetected",
+                "details": null
+            },
+            "ZoneAlarm": {
+                "type": "undetected",
+                "details": null
+            },
+            "GData": {
+                "type": "undetected",
+                "details": null
+            },
+            "Varist": {
+                "type": "undetected",
+                "details": null
+            },
+            "AhnLab-V3": {
+                "type": "undetected",
+                "details": null
+            },
+            "Acronis": {
+                "type": "undetected",
+                "details": null
+            },
+            "VBA32": {
+                "type": "undetected",
+                "details": null
+            },
+            "TACHYON": {
+                "type": "undetected",
+                "details": null
+            },
+            "Cylance": {
+                "type": "undetected",
+                "details": null
+            },
+            "Panda": {
+                "type": "undetected",
+                "details": null
+            },
+            "APEX": {
+                "type": "undetected",
+                "details": null
+            },
+            "Tencent": {
+                "type": "undetected",
+                "details": null
+            },
+            "Yandex": {
+                "type": "undetected",
+                "details": null
+            },
+            "TrellixENS": {
+                "type": "undetected",
+                "details": null
+            },
+            "huorong": {
+                "type": "undetected",
+                "details": null
+            },
+            "MaxSecure": {
+                "type": "undetected",
+                "details": null
+            },
+            "Fortinet": {
+                "type": "undetected",
+                "details": null
+            },
+            "AVG": {
                 "type": "undetected",
                 "details": null
             },
@@ -3359,7 +3367,7 @@
                 "details": null
             }
         },
-        "flowkeeper-0.10.0-windows-2022-pyinstaller-standalone.exe": {
+        "flowkeeper-1.0.0-windows-2022-pyinstaller-standalone.exe": {
             "Bkav": {
                 "type": "undetected",
                 "details": null
@@ -3389,10 +3397,6 @@
                 "details": null
             },
             "Skyhigh": {
-                "type": "undetected",
-                "details": null
-            },
-            "ALYac": {
                 "type": "undetected",
                 "details": null
             },
@@ -3621,8 +3625,8 @@
                 "details": null
             },
             "TrellixENS": {
-                "type": "malicious",
-                "details": "Artemis!2939A90F4AFA"
+                "type": "undetected",
+                "details": null
             },
             "huorong": {
                 "type": "undetected",
@@ -3665,11 +3669,7 @@
                 "details": null
             }
         },
-        "flowkeeper-0.10.0-windows-2025-nuitka-installer.exe": {
-            "Bkav": {
-                "type": "undetected",
-                "details": null
-            },
+        "flowkeeper-1.0.0-windows-2025-nuitka-installer.exe": {
             "Lionic": {
                 "type": "undetected",
                 "details": null
@@ -3682,7 +3682,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "CTX": {
+            "CMC": {
                 "type": "undetected",
                 "details": null
             },
@@ -3702,7 +3702,11 @@
                 "type": "undetected",
                 "details": null
             },
-            "Zillya": {
+            "VIPRE": {
+                "type": "undetected",
+                "details": null
+            },
+            "Sangfor": {
                 "type": "undetected",
                 "details": null
             },
@@ -3722,10 +3726,6 @@
                 "type": "undetected",
                 "details": null
             },
-            "Arcabit": {
-                "type": "undetected",
-                "details": null
-            },
             "huorong": {
                 "type": "undetected",
                 "details": null
@@ -3735,6 +3735,10 @@
                 "details": null
             },
             "VirIT": {
+                "type": "undetected",
+                "details": null
+            },
+            "Paloalto": {
                 "type": "undetected",
                 "details": null
             },
@@ -3750,15 +3754,15 @@
                 "type": "undetected",
                 "details": null
             },
-            "Zoner": {
+            "TrendMicro-HouseCall": {
                 "type": "undetected",
                 "details": null
             },
-            "APEX": {
+            "Avast": {
                 "type": "undetected",
                 "details": null
             },
-            "Paloalto": {
+            "ClamAV": {
                 "type": "undetected",
                 "details": null
             },
@@ -3778,15 +3782,11 @@
                 "type": "undetected",
                 "details": null
             },
-            "Avast": {
-                "type": "undetected",
-                "details": null
-            },
             "Rising": {
                 "type": "undetected",
                 "details": null
             },
-            "Sophos": {
+            "Emsisoft": {
                 "type": "undetected",
                 "details": null
             },
@@ -3798,7 +3798,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "VIPRE": {
+            "Zillya": {
                 "type": "undetected",
                 "details": null
             },
@@ -3807,18 +3807,18 @@
                 "details": null
             },
             "McAfeeD": {
-                "type": "malicious",
-                "details": "ti!A52A94AC48D4"
+                "type": "undetected",
+                "details": null
             },
             "Trapmine": {
                 "type": "undetected",
                 "details": null
             },
-            "CMC": {
+            "CTX": {
                 "type": "undetected",
                 "details": null
             },
-            "Emsisoft": {
+            "Sophos": {
                 "type": "undetected",
                 "details": null
             },
@@ -3834,7 +3834,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "Varist": {
+            "Google": {
                 "type": "undetected",
                 "details": null
             },
@@ -3850,6 +3850,10 @@
                 "type": "undetected",
                 "details": null
             },
+            "Microsoft": {
+                "type": "undetected",
+                "details": null
+            },
             "Gridinsoft": {
                 "type": "undetected",
                 "details": null
@@ -3858,7 +3862,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "Microsoft": {
+            "Arcabit": {
                 "type": "undetected",
                 "details": null
             },
@@ -3874,7 +3878,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "Google": {
+            "Varist": {
                 "type": "undetected",
                 "details": null
             },
@@ -3902,7 +3906,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "TrendMicro-HouseCall": {
+            "APEX": {
                 "type": "undetected",
                 "details": null
             },
@@ -3914,7 +3918,15 @@
                 "type": "undetected",
                 "details": null
             },
+            "TrellixENS": {
+                "type": "undetected",
+                "details": null
+            },
             "SentinelOne": {
+                "type": "undetected",
+                "details": null
+            },
+            "MaxSecure": {
                 "type": "undetected",
                 "details": null
             },
@@ -3934,20 +3946,12 @@
                 "type": "undetected",
                 "details": null
             },
-            "MaxSecure": {
-                "type": "timeout",
+            "Bkav": {
+                "type": "failure",
                 "details": null
             },
-            "Sangfor": {
-                "type": "timeout",
-                "details": null
-            },
-            "ClamAV": {
-                "type": "timeout",
-                "details": null
-            },
-            "TrellixENS": {
-                "type": "timeout",
+            "Zoner": {
+                "type": "failure",
                 "details": null
             },
             "Cynet": {
@@ -3971,18 +3975,10 @@
                 "details": null
             }
         },
-        "flowkeeper-0.10.0-windows-2025-nuitka-portable.exe": {
-            "Bkav": {
-                "type": "undetected",
-                "details": null
-            },
+        "flowkeeper-1.0.0-windows-2025-nuitka-portable.exe": {
             "Lionic": {
                 "type": "undetected",
                 "details": null
-            },
-            "AVG": {
-                "type": "malicious",
-                "details": "Win64:MalwareX-gen [Ransom]"
             },
             "Elastic": {
                 "type": "undetected",
@@ -3992,17 +3988,17 @@
                 "type": "malicious",
                 "details": "Gen:Variant.Mikey.178486"
             },
-            "CTX": {
-                "type": "malicious",
-                "details": "exe.trojan.mikey"
+            "CMC": {
+                "type": "undetected",
+                "details": null
             },
             "CAT-QuickHeal": {
                 "type": "undetected",
                 "details": null
             },
             "Skyhigh": {
-                "type": "malicious",
-                "details": "Artemis"
+                "type": "undetected",
+                "details": null
             },
             "ALYac": {
                 "type": "malicious",
@@ -4012,9 +4008,9 @@
                 "type": "undetected",
                 "details": null
             },
-            "Zillya": {
-                "type": "undetected",
-                "details": null
+            "VIPRE": {
+                "type": "malicious",
+                "details": "Gen:Variant.Mikey.178486"
             },
             "Sangfor": {
                 "type": "undetected",
@@ -4048,6 +4044,10 @@
                 "type": "undetected",
                 "details": null
             },
+            "Paloalto": {
+                "type": "undetected",
+                "details": null
+            },
             "Symantec": {
                 "type": "undetected",
                 "details": null
@@ -4064,13 +4064,13 @@
                 "type": "undetected",
                 "details": null
             },
-            "APEX": {
+            "TrendMicro-HouseCall": {
                 "type": "undetected",
                 "details": null
             },
-            "Paloalto": {
+            "Avast": {
                 "type": "malicious",
-                "details": "generic.ml"
+                "details": "Win64:MalwareX-gen [Ransom]"
             },
             "ClamAV": {
                 "type": "undetected",
@@ -4092,11 +4092,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "Avast": {
-                "type": "malicious",
-                "details": "Win64:MalwareX-gen [Ransom]"
-            },
-            "Tencent": {
+            "Rising": {
                 "type": "undetected",
                 "details": null
             },
@@ -4112,9 +4108,9 @@
                 "type": "undetected",
                 "details": null
             },
-            "VIPRE": {
-                "type": "malicious",
-                "details": "Gen:Variant.Mikey.178486"
+            "Zillya": {
+                "type": "undetected",
+                "details": null
             },
             "TrendMicro": {
                 "type": "undetected",
@@ -4128,9 +4124,9 @@
                 "type": "undetected",
                 "details": null
             },
-            "CMC": {
-                "type": "undetected",
-                "details": null
+            "CTX": {
+                "type": "malicious",
+                "details": "exe.unknown.mikey"
             },
             "Sophos": {
                 "type": "undetected",
@@ -4139,10 +4135,6 @@
             "Ikarus": {
                 "type": "malicious",
                 "details": "Trojan-Dropper.Win32.Agent"
-            },
-            "GData": {
-                "type": "malicious",
-                "details": "Gen:Variant.Mikey.178486"
             },
             "Jiangmin": {
                 "type": "undetected",
@@ -4165,6 +4157,10 @@
                 "details": null
             },
             "Kingsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Microsoft": {
                 "type": "undetected",
                 "details": null
             },
@@ -4188,9 +4184,9 @@
                 "type": "undetected",
                 "details": null
             },
-            "Microsoft": {
+            "GData": {
                 "type": "malicious",
-                "details": "Trojan:Win32/Wacatac.B!ml"
+                "details": "Gen:Variant.Mikey.178486"
             },
             "Google": {
                 "type": "malicious",
@@ -4220,11 +4216,11 @@
                 "type": "undetected",
                 "details": null
             },
-            "TrendMicro-HouseCall": {
+            "APEX": {
                 "type": "undetected",
                 "details": null
             },
-            "Rising": {
+            "Tencent": {
                 "type": "undetected",
                 "details": null
             },
@@ -4248,16 +4244,24 @@
                 "type": "undetected",
                 "details": null
             },
-            "Zoner": {
+            "AVG": {
+                "type": "malicious",
+                "details": "Win64:MalwareX-gen [Ransom]"
+            },
+            "DeepInstinct": {
                 "type": "undetected",
                 "details": null
             },
-            "DeepInstinct": {
-                "type": "malicious",
-                "details": "MALICIOUS"
-            },
             "alibabacloud": {
                 "type": "undetected",
+                "details": null
+            },
+            "Bkav": {
+                "type": "failure",
+                "details": null
+            },
+            "Zoner": {
+                "type": "failure",
                 "details": null
             },
             "Trustlook": {
@@ -4277,16 +4281,12 @@
                 "details": null
             }
         },
-        "flowkeeper-0.10.0-windows-2025-nuitka-standalone.exe": {
+        "flowkeeper-1.0.0-windows-2025-nuitka-standalone.exe": {
             "Bkav": {
                 "type": "undetected",
                 "details": null
             },
             "Lionic": {
-                "type": "undetected",
-                "details": null
-            },
-            "AVG": {
                 "type": "undetected",
                 "details": null
             },
@@ -4526,6 +4526,10 @@
                 "type": "undetected",
                 "details": null
             },
+            "Zoner": {
+                "type": "undetected",
+                "details": null
+            },
             "TrendMicro-HouseCall": {
                 "type": "undetected",
                 "details": null
@@ -4543,300 +4547,6 @@
                 "details": null
             },
             "huorong": {
-                "type": "undetected",
-                "details": null
-            },
-            "MaxSecure": {
-                "type": "undetected",
-                "details": null
-            },
-            "Fortinet": {
-                "type": "undetected",
-                "details": null
-            },
-            "Zoner": {
-                "type": "undetected",
-                "details": null
-            },
-            "DeepInstinct": {
-                "type": "undetected",
-                "details": null
-            },
-            "alibabacloud": {
-                "type": "undetected",
-                "details": null
-            },
-            "Trustlook": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "SymantecMobileInsight": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "BitDefenderFalx": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "Avast-Mobile": {
-                "type": "type-unsupported",
-                "details": null
-            }
-        },
-        "flowkeeper-0.10.0-windows-2025-pyinstaller-installer.exe": {
-            "Bkav": {
-                "type": "undetected",
-                "details": null
-            },
-            "Lionic": {
-                "type": "undetected",
-                "details": null
-            },
-            "tehtris": {
-                "type": "undetected",
-                "details": null
-            },
-            "MicroWorld-eScan": {
-                "type": "undetected",
-                "details": null
-            },
-            "CMC": {
-                "type": "undetected",
-                "details": null
-            },
-            "CAT-QuickHeal": {
-                "type": "undetected",
-                "details": null
-            },
-            "Skyhigh": {
-                "type": "malicious",
-                "details": "Artemis"
-            },
-            "Cylance": {
-                "type": "undetected",
-                "details": null
-            },
-            "VIPRE": {
-                "type": "undetected",
-                "details": null
-            },
-            "Sangfor": {
-                "type": "undetected",
-                "details": null
-            },
-            "K7AntiVirus": {
-                "type": "undetected",
-                "details": null
-            },
-            "BitDefender": {
-                "type": "undetected",
-                "details": null
-            },
-            "K7GW": {
-                "type": "undetected",
-                "details": null
-            },
-            "CrowdStrike": {
-                "type": "undetected",
-                "details": null
-            },
-            "huorong": {
-                "type": "undetected",
-                "details": null
-            },
-            "Baidu": {
-                "type": "undetected",
-                "details": null
-            },
-            "VirIT": {
-                "type": "undetected",
-                "details": null
-            },
-            "Symantec": {
-                "type": "undetected",
-                "details": null
-            },
-            "ESET-NOD32": {
-                "type": "undetected",
-                "details": null
-            },
-            "APEX": {
-                "type": "undetected",
-                "details": null
-            },
-            "Paloalto": {
-                "type": "undetected",
-                "details": null
-            },
-            "ClamAV": {
-                "type": "undetected",
-                "details": null
-            },
-            "Kaspersky": {
-                "type": "undetected",
-                "details": null
-            },
-            "Alibaba": {
-                "type": "undetected",
-                "details": null
-            },
-            "NANO-Antivirus": {
-                "type": "undetected",
-                "details": null
-            },
-            "SUPERAntiSpyware": {
-                "type": "undetected",
-                "details": null
-            },
-            "Rising": {
-                "type": "undetected",
-                "details": null
-            },
-            "Emsisoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "F-Secure": {
-                "type": "undetected",
-                "details": null
-            },
-            "DrWeb": {
-                "type": "undetected",
-                "details": null
-            },
-            "Zillya": {
-                "type": "undetected",
-                "details": null
-            },
-            "TrendMicro": {
-                "type": "undetected",
-                "details": null
-            },
-            "McAfeeD": {
-                "type": "malicious",
-                "details": "ti!3BA51A63178D"
-            },
-            "Trapmine": {
-                "type": "undetected",
-                "details": null
-            },
-            "CTX": {
-                "type": "undetected",
-                "details": null
-            },
-            "Sophos": {
-                "type": "undetected",
-                "details": null
-            },
-            "Ikarus": {
-                "type": "undetected",
-                "details": null
-            },
-            "GData": {
-                "type": "undetected",
-                "details": null
-            },
-            "Jiangmin": {
-                "type": "undetected",
-                "details": null
-            },
-            "Webroot": {
-                "type": "undetected",
-                "details": null
-            },
-            "Google": {
-                "type": "undetected",
-                "details": null
-            },
-            "Avira": {
-                "type": "undetected",
-                "details": null
-            },
-            "Antiy-AVL": {
-                "type": "undetected",
-                "details": null
-            },
-            "Kingsoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "Gridinsoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "Xcitium": {
-                "type": "undetected",
-                "details": null
-            },
-            "Arcabit": {
-                "type": "undetected",
-                "details": null
-            },
-            "ViRobot": {
-                "type": "undetected",
-                "details": null
-            },
-            "ZoneAlarm": {
-                "type": "undetected",
-                "details": null
-            },
-            "Microsoft": {
-                "type": "undetected",
-                "details": null
-            },
-            "Varist": {
-                "type": "undetected",
-                "details": null
-            },
-            "AhnLab-V3": {
-                "type": "undetected",
-                "details": null
-            },
-            "Acronis": {
-                "type": "undetected",
-                "details": null
-            },
-            "VBA32": {
-                "type": "undetected",
-                "details": null
-            },
-            "TACHYON": {
-                "type": "undetected",
-                "details": null
-            },
-            "DeepInstinct": {
-                "type": "undetected",
-                "details": null
-            },
-            "Malwarebytes": {
-                "type": "undetected",
-                "details": null
-            },
-            "Panda": {
-                "type": "undetected",
-                "details": null
-            },
-            "Zoner": {
-                "type": "undetected",
-                "details": null
-            },
-            "TrendMicro-HouseCall": {
-                "type": "undetected",
-                "details": null
-            },
-            "Tencent": {
-                "type": "undetected",
-                "details": null
-            },
-            "Yandex": {
-                "type": "undetected",
-                "details": null
-            },
-            "TrellixENS": {
-                "type": "undetected",
-                "details": null
-            },
-            "SentinelOne": {
                 "type": "undetected",
                 "details": null
             },
@@ -4849,18 +4559,18 @@
                 "details": null
             },
             "AVG": {
-                "type": "malicious",
-                "details": "Win64:Malware-gen"
+                "type": "undetected",
+                "details": null
             },
-            "Avast": {
-                "type": "malicious",
-                "details": "Win64:Malware-gen"
+            "DeepInstinct": {
+                "type": "undetected",
+                "details": null
             },
             "alibabacloud": {
                 "type": "undetected",
                 "details": null
             },
-            "Avast-Mobile": {
+            "Trustlook": {
                 "type": "type-unsupported",
                 "details": null
             },
@@ -4872,20 +4582,12 @@
                 "type": "type-unsupported",
                 "details": null
             },
-            "Elastic": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "Cynet": {
-                "type": "type-unsupported",
-                "details": null
-            },
-            "Trustlook": {
+            "Avast-Mobile": {
                 "type": "type-unsupported",
                 "details": null
             }
         },
-        "flowkeeper-0.10.0-windows-2025-pyinstaller-portable.exe": {
+        "flowkeeper-1.0.0-windows-2025-pyinstaller-installer.exe": {
             "Bkav": {
                 "type": "undetected",
                 "details": null
@@ -4995,14 +4697,14 @@
                 "details": null
             },
             "Avast": {
-                "type": "undetected",
-                "details": null
+                "type": "malicious",
+                "details": "Win64:Malware-gen"
             },
             "Rising": {
                 "type": "undetected",
                 "details": null
             },
-            "Emsisoft": {
+            "Sophos": {
                 "type": "undetected",
                 "details": null
             },
@@ -5038,7 +4740,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "Sophos": {
+            "Emsisoft": {
                 "type": "undetected",
                 "details": null
             },
@@ -5155,8 +4857,8 @@
                 "details": null
             },
             "AVG": {
-                "type": "undetected",
-                "details": null
+                "type": "malicious",
+                "details": "Win64:Malware-gen"
             },
             "DeepInstinct": {
                 "type": "undetected",
@@ -5191,7 +4893,313 @@
                 "details": null
             }
         },
-        "flowkeeper-0.10.0-windows-2025-pyinstaller-standalone.exe": {
+        "flowkeeper-1.0.0-windows-2025-pyinstaller-portable.exe": {
+            "Bkav": {
+                "type": "undetected",
+                "details": null
+            },
+            "Lionic": {
+                "type": "undetected",
+                "details": null
+            },
+            "tehtris": {
+                "type": "undetected",
+                "details": null
+            },
+            "MicroWorld-eScan": {
+                "type": "undetected",
+                "details": null
+            },
+            "CMC": {
+                "type": "undetected",
+                "details": null
+            },
+            "CAT-QuickHeal": {
+                "type": "undetected",
+                "details": null
+            },
+            "Skyhigh": {
+                "type": "undetected",
+                "details": null
+            },
+            "ALYac": {
+                "type": "undetected",
+                "details": null
+            },
+            "Malwarebytes": {
+                "type": "undetected",
+                "details": null
+            },
+            "VIPRE": {
+                "type": "undetected",
+                "details": null
+            },
+            "Sangfor": {
+                "type": "undetected",
+                "details": null
+            },
+            "K7AntiVirus": {
+                "type": "undetected",
+                "details": null
+            },
+            "Alibaba": {
+                "type": "undetected",
+                "details": null
+            },
+            "K7GW": {
+                "type": "undetected",
+                "details": null
+            },
+            "CrowdStrike": {
+                "type": "undetected",
+                "details": null
+            },
+            "Baidu": {
+                "type": "undetected",
+                "details": null
+            },
+            "Paloalto": {
+                "type": "undetected",
+                "details": null
+            },
+            "Symantec": {
+                "type": "undetected",
+                "details": null
+            },
+            "ESET-NOD32": {
+                "type": "undetected",
+                "details": null
+            },
+            "Zoner": {
+                "type": "undetected",
+                "details": null
+            },
+            "TrendMicro-HouseCall": {
+                "type": "undetected",
+                "details": null
+            },
+            "Avast": {
+                "type": "undetected",
+                "details": null
+            },
+            "ClamAV": {
+                "type": "undetected",
+                "details": null
+            },
+            "Kaspersky": {
+                "type": "undetected",
+                "details": null
+            },
+            "BitDefender": {
+                "type": "undetected",
+                "details": null
+            },
+            "NANO-Antivirus": {
+                "type": "undetected",
+                "details": null
+            },
+            "SUPERAntiSpyware": {
+                "type": "undetected",
+                "details": null
+            },
+            "Rising": {
+                "type": "undetected",
+                "details": null
+            },
+            "Emsisoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "F-Secure": {
+                "type": "undetected",
+                "details": null
+            },
+            "DrWeb": {
+                "type": "undetected",
+                "details": null
+            },
+            "Zillya": {
+                "type": "undetected",
+                "details": null
+            },
+            "TrendMicro": {
+                "type": "undetected",
+                "details": null
+            },
+            "McAfeeD": {
+                "type": "undetected",
+                "details": null
+            },
+            "SentinelOne": {
+                "type": "undetected",
+                "details": null
+            },
+            "Trapmine": {
+                "type": "undetected",
+                "details": null
+            },
+            "CTX": {
+                "type": "undetected",
+                "details": null
+            },
+            "Sophos": {
+                "type": "undetected",
+                "details": null
+            },
+            "Ikarus": {
+                "type": "undetected",
+                "details": null
+            },
+            "Jiangmin": {
+                "type": "undetected",
+                "details": null
+            },
+            "Webroot": {
+                "type": "undetected",
+                "details": null
+            },
+            "Google": {
+                "type": "undetected",
+                "details": null
+            },
+            "Avira": {
+                "type": "undetected",
+                "details": null
+            },
+            "Antiy-AVL": {
+                "type": "undetected",
+                "details": null
+            },
+            "Kingsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Microsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Gridinsoft": {
+                "type": "undetected",
+                "details": null
+            },
+            "Xcitium": {
+                "type": "undetected",
+                "details": null
+            },
+            "Arcabit": {
+                "type": "undetected",
+                "details": null
+            },
+            "ViRobot": {
+                "type": "undetected",
+                "details": null
+            },
+            "ZoneAlarm": {
+                "type": "undetected",
+                "details": null
+            },
+            "GData": {
+                "type": "undetected",
+                "details": null
+            },
+            "Varist": {
+                "type": "undetected",
+                "details": null
+            },
+            "AhnLab-V3": {
+                "type": "undetected",
+                "details": null
+            },
+            "Acronis": {
+                "type": "undetected",
+                "details": null
+            },
+            "VBA32": {
+                "type": "undetected",
+                "details": null
+            },
+            "TACHYON": {
+                "type": "undetected",
+                "details": null
+            },
+            "Cylance": {
+                "type": "undetected",
+                "details": null
+            },
+            "Panda": {
+                "type": "undetected",
+                "details": null
+            },
+            "APEX": {
+                "type": "undetected",
+                "details": null
+            },
+            "Tencent": {
+                "type": "undetected",
+                "details": null
+            },
+            "Yandex": {
+                "type": "undetected",
+                "details": null
+            },
+            "TrellixENS": {
+                "type": "undetected",
+                "details": null
+            },
+            "huorong": {
+                "type": "undetected",
+                "details": null
+            },
+            "MaxSecure": {
+                "type": "undetected",
+                "details": null
+            },
+            "Fortinet": {
+                "type": "undetected",
+                "details": null
+            },
+            "AVG": {
+                "type": "undetected",
+                "details": null
+            },
+            "DeepInstinct": {
+                "type": "undetected",
+                "details": null
+            },
+            "alibabacloud": {
+                "type": "undetected",
+                "details": null
+            },
+            "VirIT": {
+                "type": "timeout",
+                "details": null
+            },
+            "Avast-Mobile": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "SymantecMobileInsight": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "BitDefenderFalx": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "Elastic": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "Cynet": {
+                "type": "type-unsupported",
+                "details": null
+            },
+            "Trustlook": {
+                "type": "type-unsupported",
+                "details": null
+            }
+        },
+        "flowkeeper-1.0.0-windows-2025-pyinstaller-standalone.exe": {
             "Bkav": {
                 "type": "undetected",
                 "details": null
@@ -5216,6 +5224,10 @@
                 "type": "undetected",
                 "details": null
             },
+            "Skyhigh": {
+                "type": "undetected",
+                "details": null
+            },
             "ALYac": {
                 "type": "undetected",
                 "details": null
@@ -5245,10 +5257,6 @@
                 "details": null
             },
             "CrowdStrike": {
-                "type": "undetected",
-                "details": null
-            },
-            "huorong": {
                 "type": "undetected",
                 "details": null
             },
@@ -5336,6 +5344,10 @@
                 "type": "undetected",
                 "details": null
             },
+            "SentinelOne": {
+                "type": "undetected",
+                "details": null
+            },
             "Trapmine": {
                 "type": "undetected",
                 "details": null
@@ -5448,7 +5460,11 @@
                 "type": "undetected",
                 "details": null
             },
-            "SentinelOne": {
+            "TrellixENS": {
+                "type": "undetected",
+                "details": null
+            },
+            "huorong": {
                 "type": "undetected",
                 "details": null
             },
@@ -5472,15 +5488,7 @@
                 "type": "undetected",
                 "details": null
             },
-            "Skyhigh": {
-                "type": "failure",
-                "details": null
-            },
-            "TrellixENS": {
-                "type": "failure",
-                "details": null
-            },
-            "Avast-Mobile": {
+            "Trustlook": {
                 "type": "type-unsupported",
                 "details": null
             },
@@ -5492,7 +5500,7 @@
                 "type": "type-unsupported",
                 "details": null
             },
-            "Trustlook": {
+            "Avast-Mobile": {
                 "type": "type-unsupported",
                 "details": null
             }
