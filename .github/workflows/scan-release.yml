@@ -87,7 +87,7 @@ jobs:
       - name: Commit scan results
         shell: bash
         env:
-          RELEASE: "v0.10.0"
+          RELEASE: "v1.0.0"
         run: |
           echo "Will upload files for release $RELEASE"
           
