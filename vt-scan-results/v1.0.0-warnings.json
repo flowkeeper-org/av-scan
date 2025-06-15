@@ -1,313 +1,365 @@
 {
-    "date": "2025-06-14 15:09:35.595708+00:00",
+    "date": "2025-06-15 02:00:17.084744+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
-                "type": "malicious",
-                "details": "PUA.Python.Nuitka"
+                "details": "PUA.Python.Nuitka",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2019-nuitka-portable.exe": {
             "Elastic": {
-                "type": "malicious",
-                "details": "malicious (high confidence)"
-            },
-            "Symantec": {
-                "type": "malicious",
-                "details": "ML.Attribute.HighConfidence"
-            },
-            "McAfeeD": {
-                "type": "malicious",
-                "details": "ti!DD1F478AB96B"
-            },
-            "Ikarus": {
-                "type": "malicious",
-                "details": "Trojan.Python.Psw"
+                "details": "malicious (high confidence)",
+                "type": "malicious"
             },
             "Google": {
-                "type": "malicious",
-                "details": "Detected"
+                "details": "Detected",
+                "type": "malicious"
+            },
+            "Ikarus": {
+                "details": "Trojan.Python.Psw",
+                "type": "malicious"
+            },
+            "McAfeeD": {
+                "details": "ti!DD1F478AB96B",
+                "type": "malicious"
+            },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
+            },
+            "Symantec": {
+                "details": "ML.Attribute.HighConfidence",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2019-nuitka-standalone.exe": {
             "Elastic": {
-                "type": "malicious",
-                "details": "malicious (moderate confidence)"
+                "details": "malicious (moderate confidence)",
+                "type": "malicious"
             },
-            "Symantec": {
-                "type": "malicious",
-                "details": "ML.Attribute.HighConfidence"
+            "GData": {
+                "details": "Win64.Application.Agent.29EKXN",
+                "type": "malicious"
             },
             "Ikarus": {
-                "type": "malicious",
-                "details": "PUA.Python.Nuitka"
+                "details": "PUA.Python.Nuitka",
+                "type": "malicious"
+            },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
+            },
+            "Symantec": {
+                "details": "ML.Attribute.HighConfidence",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2019-pyinstaller-installer.exe": {
-            "Skyhigh": {
-                "type": "malicious",
-                "details": "Artemis"
+            "AVG": {
+                "details": "Win64:Malware-gen",
+                "type": "malicious"
             },
             "Avast": {
-                "type": "malicious",
-                "details": "Win64:Malware-gen"
+                "details": "Win64:Malware-gen",
+                "type": "malicious"
             },
-            "AVG": {
-                "type": "malicious",
-                "details": "Win64:Malware-gen"
+            "Skyhigh": {
+                "details": "Artemis",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2019-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.0-windows-2019-pyinstaller-standalone.exe": {
-            "Elastic": {
-                "type": "malicious",
-                "details": "malicious (moderate confidence)"
+            "AVG": {
+                "details": "Win64:Malware-gen",
+                "type": "malicious"
             },
             "Avast": {
-                "type": "malicious",
-                "details": "Win64:Malware-gen"
+                "details": "Win64:Malware-gen",
+                "type": "malicious"
+            },
+            "Elastic": {
+                "details": "malicious (moderate confidence)",
+                "type": "malicious"
             },
             "Gridinsoft": {
-                "type": "malicious",
-                "details": "Trojan.Win64.Agent.oa!s1"
+                "details": "Trojan.Win64.Agent.oa!s1",
+                "type": "malicious"
+            },
+            "Jiangmin": {
+                "details": "Trojan.PSW.Python.ll",
+                "type": "malicious"
             },
             "TrellixENS": {
-                "type": "malicious",
-                "details": "Artemis!24BFCA5AB134"
-            },
-            "AVG": {
-                "type": "malicious",
-                "details": "Win64:Malware-gen"
+                "details": "Artemis!24BFCA5AB134",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-installer.exe": {
             "Ikarus": {
-                "type": "malicious",
-                "details": "Trojan-Dropper.Win32.Agent"
+                "details": "Trojan-Dropper.Win32.Agent",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-portable.exe": {
             "AVG": {
-                "type": "malicious",
-                "details": "Win64:MalwareX-gen [Ransom]"
-            },
-            "MicroWorld-eScan": {
-                "type": "malicious",
-                "details": "Gen:Variant.Mikey.178486"
-            },
-            "CTX": {
-                "type": "malicious",
-                "details": "exe.unknown.mikey"
-            },
-            "Skyhigh": {
-                "type": "malicious",
-                "details": "Artemis"
-            },
-            "ALYac": {
-                "type": "malicious",
-                "details": "Gen:Variant.Mikey.178486"
-            },
-            "Paloalto": {
-                "type": "malicious",
-                "details": "generic.ml"
-            },
-            "BitDefender": {
-                "type": "malicious",
-                "details": "Gen:Variant.Mikey.178486"
-            },
-            "Avast": {
-                "type": "malicious",
-                "details": "Win64:MalwareX-gen [Ransom]"
-            },
-            "Emsisoft": {
-                "type": "malicious",
-                "details": "Gen:Variant.Mikey.178486 (B)"
-            },
-            "VIPRE": {
-                "type": "malicious",
-                "details": "Gen:Variant.Mikey.178486"
-            },
-            "Ikarus": {
-                "type": "malicious",
-                "details": "Trojan-Dropper.Win32.Agent"
-            },
-            "GData": {
-                "type": "malicious",
-                "details": "Gen:Variant.Mikey.178486"
+                "details": "Win64:MalwareX-gen [Ransom]",
+                "type": "malicious"
             },
             "Arcabit": {
-                "type": "malicious",
-                "details": "Trojan.Mikey.D2B936"
+                "details": "Trojan.Mikey.D2B936",
+                "type": "malicious"
             },
-            "Microsoft": {
-                "type": "malicious",
-                "details": "Trojan:Win32/Wacatac.B!ml"
+            "Avast": {
+                "details": "Win64:MalwareX-gen [Ransom]",
+                "type": "malicious"
             },
-            "Google": {
-                "type": "malicious",
-                "details": "Detected"
+            "BitDefender": {
+                "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
+            },
+            "CTX": {
+                "details": "exe.trojan.mikey",
+                "type": "malicious"
             },
             "DeepInstinct": {
-                "type": "malicious",
-                "details": "MALICIOUS"
+                "details": "MALICIOUS",
+                "type": "malicious"
+            },
+            "Emsisoft": {
+                "details": "Gen:Variant.Mikey.178486 (B)",
+                "type": "malicious"
+            },
+            "Fortinet": {
+                "details": "W32/PossibleThreat",
+                "type": "malicious"
+            },
+            "GData": {
+                "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
+            },
+            "Google": {
+                "details": "Detected",
+                "type": "malicious"
+            },
+            "Ikarus": {
+                "details": "Trojan-Dropper.Win32.Agent",
+                "type": "malicious"
+            },
+            "MicroWorld-eScan": {
+                "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
+            },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
+            },
+            "Paloalto": {
+                "details": "generic.ml",
+                "type": "malicious"
+            },
+            "Skyhigh": {
+                "details": "Artemis",
+                "type": "malicious"
+            },
+            "Symantec": {
+                "details": "ML.Attribute.HighConfidence",
+                "type": "malicious"
+            },
+            "VIPRE": {
+                "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-standalone.exe": {
-            "Ikarus": {
-                "type": "malicious",
-                "details": "Trojan-Dropper.Win32.Agent"
+            "GData": {
+                "details": "Win64.Trojan.Agent.U5PLEJ",
+                "type": "malicious"
             },
             "Google": {
-                "type": "malicious",
-                "details": "Detected"
+                "details": "Detected",
+                "type": "malicious"
+            },
+            "Ikarus": {
+                "details": "Trojan-Dropper.Win32.Agent",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2022-pyinstaller-installer.exe": {
-            "Skyhigh": {
-                "type": "malicious",
-                "details": "Artemis"
+            "AVG": {
+                "details": "Win64:Malware-gen",
+                "type": "malicious"
             },
             "Avast": {
-                "type": "malicious",
-                "details": "Win64:Malware-gen"
+                "details": "Win64:Malware-gen",
+                "type": "malicious"
             },
-            "AVG": {
-                "type": "malicious",
-                "details": "Win64:Malware-gen"
+            "Skyhigh": {
+                "details": "Artemis",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2022-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.0-windows-2022-pyinstaller-standalone.exe": {
-            "Elastic": {
-                "type": "malicious",
-                "details": "malicious (moderate confidence)"
+            "AVG": {
+                "details": "Win64:Malware-gen",
+                "type": "malicious"
             },
             "Avast": {
-                "type": "malicious",
-                "details": "Win64:Malware-gen"
+                "details": "Win64:Malware-gen",
+                "type": "malicious"
+            },
+            "Elastic": {
+                "details": "malicious (moderate confidence)",
+                "type": "malicious"
             },
             "Gridinsoft": {
-                "type": "malicious",
-                "details": "Trojan.Win64.Agent.oa!s1"
+                "details": "Trojan.Win64.Agent.oa!s1",
+                "type": "malicious"
+            },
+            "Jiangmin": {
+                "details": "Trojan.PSW.Python.ll",
+                "type": "malicious"
             },
             "TrellixENS": {
-                "type": "malicious",
-                "details": "Artemis!ACC6432F29A5"
-            },
-            "AVG": {
-                "type": "malicious",
-                "details": "Win64:Malware-gen"
+                "details": "Artemis!ACC6432F29A5",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-installer.exe": {
             "Ikarus": {
-                "type": "malicious",
-                "details": "Trojan-Dropper.Win32.Agent"
+                "details": "Trojan-Dropper.Win32.Agent",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-portable.exe": {
-            "AVG": {
-                "type": "malicious",
-                "details": "Win64:MalwareX-gen [Ransom]"
-            },
-            "MicroWorld-eScan": {
-                "type": "malicious",
-                "details": "Gen:Variant.Mikey.178486"
-            },
-            "CTX": {
-                "type": "malicious",
-                "details": "exe.unknown.mikey"
-            },
-            "Skyhigh": {
-                "type": "malicious",
-                "details": "Artemis"
-            },
             "ALYac": {
-                "type": "malicious",
-                "details": "Gen:Variant.Mikey.178486"
+                "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
             },
-            "Paloalto": {
-                "type": "malicious",
-                "details": "generic.ml"
-            },
-            "BitDefender": {
-                "type": "malicious",
-                "details": "Gen:Variant.Mikey.178486"
-            },
-            "Avast": {
-                "type": "malicious",
-                "details": "Win64:MalwareX-gen [Ransom]"
-            },
-            "Emsisoft": {
-                "type": "malicious",
-                "details": "Gen:Variant.Mikey.178486 (B)"
-            },
-            "VIPRE": {
-                "type": "malicious",
-                "details": "Gen:Variant.Mikey.178486"
-            },
-            "Ikarus": {
-                "type": "malicious",
-                "details": "Trojan-Dropper.Win32.Agent"
-            },
-            "GData": {
-                "type": "malicious",
-                "details": "Gen:Variant.Mikey.178486"
+            "AVG": {
+                "details": "Win64:MalwareX-gen [Ransom]",
+                "type": "malicious"
             },
             "Arcabit": {
-                "type": "malicious",
-                "details": "Trojan.Mikey.D2B936"
+                "details": "Trojan.Mikey.D2B936",
+                "type": "malicious"
             },
-            "Google": {
-                "type": "malicious",
-                "details": "Detected"
+            "Avast": {
+                "details": "Win64:MalwareX-gen [Ransom]",
+                "type": "malicious"
+            },
+            "BitDefender": {
+                "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
+            },
+            "CTX": {
+                "details": "exe.trojan.mikey",
+                "type": "malicious"
             },
             "DeepInstinct": {
-                "type": "malicious",
-                "details": "MALICIOUS"
+                "details": "MALICIOUS",
+                "type": "malicious"
+            },
+            "Emsisoft": {
+                "details": "Gen:Variant.Mikey.178486 (B)",
+                "type": "malicious"
+            },
+            "Fortinet": {
+                "details": "W32/PossibleThreat",
+                "type": "malicious"
+            },
+            "GData": {
+                "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
+            },
+            "Google": {
+                "details": "Detected",
+                "type": "malicious"
+            },
+            "Ikarus": {
+                "details": "Trojan-Dropper.Win32.Agent",
+                "type": "malicious"
+            },
+            "MicroWorld-eScan": {
+                "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
+            },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
+            },
+            "Paloalto": {
+                "details": "generic.ml",
+                "type": "malicious"
+            },
+            "Skyhigh": {
+                "details": "Artemis",
+                "type": "malicious"
+            },
+            "VIPRE": {
+                "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-standalone.exe": {
-            "Ikarus": {
-                "type": "malicious",
-                "details": "Trojan-Dropper.Win32.Agent"
+            "GData": {
+                "details": "Win64.Trojan.Agent.6DN9BX",
+                "type": "malicious"
             },
             "Google": {
-                "type": "malicious",
-                "details": "Detected"
+                "details": "Detected",
+                "type": "malicious"
+            },
+            "Ikarus": {
+                "details": "Trojan-Dropper.Win32.Agent",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2025-pyinstaller-installer.exe": {
-            "Skyhigh": {
-                "type": "malicious",
-                "details": "Artemis"
+            "AVG": {
+                "details": "Win64:Malware-gen",
+                "type": "malicious"
+            },
+            "Avast": {
+                "details": "Win64:Malware-gen",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2025-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.0-windows-2025-pyinstaller-standalone.exe": {
-            "Elastic": {
-                "type": "malicious",
-                "details": "malicious (moderate confidence)"
-            },
             "APEX": {
-                "type": "malicious",
-                "details": "Malicious"
-            },
-            "Avast": {
-                "type": "malicious",
-                "details": "Win64:Malware-gen"
-            },
-            "Gridinsoft": {
-                "type": "malicious",
-                "details": "Trojan.Win64.Agent.oa!s1"
-            },
-            "TrellixENS": {
-                "type": "malicious",
-                "details": "Artemis!912703F2D86C"
+                "details": "Malicious",
+                "type": "malicious"
             },
             "AVG": {
-                "type": "malicious",
-                "details": "Win64:Malware-gen"
+                "details": "Win64:Malware-gen",
+                "type": "malicious"
+            },
+            "Avast": {
+                "details": "Win64:Malware-gen",
+                "type": "malicious"
+            },
+            "Elastic": {
+                "details": "malicious (moderate confidence)",
+                "type": "malicious"
+            },
+            "Gridinsoft": {
+                "details": "Trojan.Win64.Agent.oa!s1",
+                "type": "malicious"
+            },
+            "Jiangmin": {
+                "details": "Trojan.PSW.Python.ll",
+                "type": "malicious"
+            },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
+            },
+            "TrellixENS": {
+                "details": "Artemis!912703F2D86C",
+                "type": "malicious"
             }
         }
     }
