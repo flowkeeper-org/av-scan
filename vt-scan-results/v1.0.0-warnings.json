@@ -1,5 +1,5 @@
 {
-    "date": "2025-06-15 02:00:17.084744+00:00",
+    "date": "2025-06-15 16:06:40.304601+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -34,6 +34,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2019-nuitka-standalone.exe": {
+            "DeepInstinct": {
+                "details": "MALICIOUS",
+                "type": "malicious"
+            },
             "Elastic": {
                 "details": "malicious (moderate confidence)",
                 "type": "malicious"
@@ -55,20 +59,7 @@
                 "type": "malicious"
             }
         },
-        "flowkeeper-1.0.0-windows-2019-pyinstaller-installer.exe": {
-            "AVG": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
-            },
-            "Avast": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
-            },
-            "Skyhigh": {
-                "details": "Artemis",
-                "type": "malicious"
-            }
-        },
+        "flowkeeper-1.0.0-windows-2019-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.0-windows-2019-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.0-windows-2019-pyinstaller-standalone.exe": {
             "AVG": {
@@ -103,6 +94,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-portable.exe": {
+            "ALYac": {
+                "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
+            },
             "AVG": {
                 "details": "Win64:MalwareX-gen [Ransom]",
                 "type": "malicious"
@@ -147,6 +142,10 @@
                 "details": "Trojan-Dropper.Win32.Agent",
                 "type": "malicious"
             },
+            "Lionic": {
+                "details": "Trojan.Win32.Generic.4!c",
+                "type": "malicious"
+            },
             "MicroWorld-eScan": {
                 "details": "Gen:Variant.Mikey.178486",
                 "type": "malicious"
@@ -169,6 +168,10 @@
             },
             "VIPRE": {
                 "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
+            },
+            "Varist": {
+                "details": "W64/ABTrojan.FXAS-2017",
                 "type": "malicious"
             }
         },
@@ -282,6 +285,10 @@
                 "details": "Trojan-Dropper.Win32.Agent",
                 "type": "malicious"
             },
+            "Lionic": {
+                "details": "Trojan.Win32.Generic.4!c",
+                "type": "malicious"
+            },
             "MicroWorld-eScan": {
                 "details": "Gen:Variant.Mikey.178486",
                 "type": "malicious"
@@ -296,6 +303,10 @@
             },
             "Skyhigh": {
                 "details": "Artemis",
+                "type": "malicious"
+            },
+            "Symantec": {
+                "details": "ML.Attribute.HighConfidence",
                 "type": "malicious"
             },
             "VIPRE": {
@@ -315,6 +326,10 @@
             "Ikarus": {
                 "details": "Trojan-Dropper.Win32.Agent",
                 "type": "malicious"
+            },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2025-pyinstaller-installer.exe": {
@@ -324,6 +339,10 @@
             },
             "Avast": {
                 "details": "Win64:Malware-gen",
+                "type": "malicious"
+            },
+            "Skyhigh": {
+                "details": "Artemis",
                 "type": "malicious"
             }
         },
@@ -339,6 +358,10 @@
             },
             "Avast": {
                 "details": "Win64:Malware-gen",
+                "type": "malicious"
+            },
+            "DeepInstinct": {
+                "details": "MALICIOUS",
                 "type": "malicious"
             },
             "Elastic": {
