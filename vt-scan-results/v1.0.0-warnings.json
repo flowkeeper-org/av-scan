@@ -1,5 +1,5 @@
 {
-    "date": "2025-06-16 02:04:09.071754+00:00",
+    "date": "2025-06-17 01:51:43.643463+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -46,10 +46,6 @@
                 "details": "PUA.Python.Nuitka",
                 "type": "malicious"
             },
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
-            },
             "Symantec": {
                 "details": "ML.Attribute.HighConfidence",
                 "type": "malicious"
@@ -62,6 +58,14 @@
             },
             "Avast": {
                 "details": "Win64:Malware-gen",
+                "type": "malicious"
+            },
+            "McAfeeD": {
+                "details": "ti!35F8261CB639",
+                "type": "malicious"
+            },
+            "Skyhigh": {
+                "details": "Artemis",
                 "type": "malicious"
             }
         },
@@ -85,6 +89,10 @@
             },
             "Jiangmin": {
                 "details": "Trojan.PSW.Python.ll",
+                "type": "malicious"
+            },
+            "TrellixENS": {
+                "details": "Artemis!24BFCA5AB134",
                 "type": "malicious"
             }
         },
@@ -147,16 +155,20 @@
                 "details": "Trojan.Win32.Generic.4!c",
                 "type": "malicious"
             },
+            "McAfeeD": {
+                "details": "ti!15F10090BA1B",
+                "type": "malicious"
+            },
             "MicroWorld-eScan": {
                 "details": "Gen:Variant.Mikey.178486",
                 "type": "malicious"
             },
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
-            },
             "Paloalto": {
                 "details": "generic.ml",
+                "type": "malicious"
+            },
+            "Panda": {
+                "details": "Trj/Chgt.AD",
                 "type": "malicious"
             },
             "Skyhigh": {
@@ -194,14 +206,18 @@
             "Avast": {
                 "details": "Win64:Malware-gen",
                 "type": "malicious"
-            },
-            "Skyhigh": {
-                "details": "Artemis",
-                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2022-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.0-windows-2022-pyinstaller-standalone.exe": {
+            "AVG": {
+                "details": "Win64:Malware-gen",
+                "type": "malicious"
+            },
+            "Avast": {
+                "details": "Win64:Malware-gen",
+                "type": "malicious"
+            },
             "Elastic": {
                 "details": "malicious (moderate confidence)",
                 "type": "malicious"
@@ -210,8 +226,8 @@
                 "details": "Trojan.Win64.Agent.oa!s1",
                 "type": "malicious"
             },
-            "TrellixENS": {
-                "details": "Artemis!ACC6432F29A5",
+            "Jiangmin": {
+                "details": "Trojan.PSW.Python.ll",
                 "type": "malicious"
             }
         },
@@ -274,6 +290,10 @@
                 "details": "Trojan.Win32.Generic.4!c",
                 "type": "malicious"
             },
+            "McAfeeD": {
+                "details": "ti!35189CF0DCB9",
+                "type": "malicious"
+            },
             "MicroWorld-eScan": {
                 "details": "Gen:Variant.Mikey.178486",
                 "type": "malicious"
@@ -288,6 +308,10 @@
             },
             "Skyhigh": {
                 "details": "Artemis",
+                "type": "malicious"
+            },
+            "Symantec": {
+                "details": "ML.Attribute.HighConfidence",
                 "type": "malicious"
             },
             "VIPRE": {
@@ -308,8 +332,8 @@
                 "details": "Trojan-Dropper.Win32.Agent",
                 "type": "malicious"
             },
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
+            "McAfeeD": {
+                "details": "ti!E78927992CDE",
                 "type": "malicious"
             }
         },
@@ -355,6 +379,10 @@
             },
             "Jiangmin": {
                 "details": "Trojan.PSW.Python.ll",
+                "type": "malicious"
+            },
+            "McAfeeD": {
+                "details": "ti!6377547437F2",
                 "type": "malicious"
             },
             "Microsoft": {

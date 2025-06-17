@@ -1,5 +1,5 @@
 {
-    "date": "2025-06-16 02:04:09.071754+00:00",
+    "date": "2025-06-17 01:51:43.643463+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "ALYac": {
@@ -660,7 +660,7 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefender": {
                 "details": null,
@@ -688,7 +688,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -772,7 +772,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "MaxSecure": {
                 "details": null,
@@ -787,8 +787,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -804,7 +804,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -820,7 +820,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -848,7 +848,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -872,7 +872,7 @@
             },
             "Varist": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ViRobot": {
                 "details": null,
@@ -920,10 +920,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2019-pyinstaller-installer.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -1085,8 +1081,8 @@
                 "type": "undetected"
             },
             "McAfeeD": {
-                "details": null,
-                "type": "undetected"
+                "details": "ti!35F8261CB639",
+                "type": "malicious"
             },
             "MicroWorld-eScan": {
                 "details": null,
@@ -1125,8 +1121,8 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": null,
-                "type": "undetected"
+                "details": "Artemis",
+                "type": "malicious"
             },
             "Sophos": {
                 "details": null,
@@ -1578,7 +1574,7 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefender": {
                 "details": null,
@@ -1606,7 +1602,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1722,7 +1718,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -1738,7 +1734,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -1765,8 +1761,8 @@
                 "type": "undetected"
             },
             "TrellixENS": {
-                "details": null,
-                "type": "timeout"
+                "details": "Artemis!24BFCA5AB134",
+                "type": "malicious"
             },
             "TrendMicro": {
                 "details": null,
@@ -1790,7 +1786,7 @@
             },
             "Varist": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ViRobot": {
                 "details": null,
@@ -1838,6 +1834,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-installer.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -1992,7 +1992,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "MaxSecure": {
                 "details": null,
@@ -2305,16 +2305,16 @@
                 "type": "undetected"
             },
             "McAfeeD": {
-                "details": null,
-                "type": "undetected"
+                "details": "ti!15F10090BA1B",
+                "type": "malicious"
             },
             "MicroWorld-eScan": {
                 "details": "Gen:Variant.Mikey.178486",
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -2325,8 +2325,8 @@
                 "type": "malicious"
             },
             "Panda": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trj/Chgt.AD",
+                "type": "malicious"
             },
             "Rising": {
                 "details": null,
@@ -2446,6 +2446,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-standalone.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2604,7 +2608,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -2953,8 +2957,8 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": "Artemis",
-                "type": "malicious"
+                "details": null,
+                "type": "failure"
             },
             "Sophos": {
                 "details": null,
@@ -3336,7 +3340,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -3369,8 +3373,8 @@
                 "type": "undetected"
             },
             "AVG": {
-                "details": null,
-                "type": "timeout"
+                "details": "Win64:Malware-gen",
+                "type": "malicious"
             },
             "Acronis": {
                 "details": null,
@@ -3393,8 +3397,8 @@
                 "type": "undetected"
             },
             "Avast": {
-                "details": null,
-                "type": "timeout"
+                "details": "Win64:Malware-gen",
+                "type": "malicious"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -3454,7 +3458,7 @@
             },
             "DrWeb": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ESET-NOD32": {
                 "details": null,
@@ -3493,8 +3497,8 @@
                 "type": "undetected"
             },
             "Jiangmin": {
-                "details": null,
-                "type": "timeout"
+                "details": "Trojan.PSW.Python.ll",
+                "type": "malicious"
             },
             "K7AntiVirus": {
                 "details": null,
@@ -3518,11 +3522,11 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "MaxSecure": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": null,
@@ -3550,7 +3554,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -3566,7 +3570,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -3593,8 +3597,8 @@
                 "type": "undetected"
             },
             "TrellixENS": {
-                "details": "Artemis!ACC6432F29A5",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -3618,7 +3622,7 @@
             },
             "Varist": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ViRobot": {
                 "details": null,
@@ -3740,7 +3744,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3828,7 +3832,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": null,
@@ -4046,7 +4050,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -4134,11 +4138,11 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "McAfeeD": {
-                "details": null,
-                "type": "undetected"
+                "details": "ti!35189CF0DCB9",
+                "type": "malicious"
             },
             "MicroWorld-eScan": {
                 "details": "Gen:Variant.Mikey.178486",
@@ -4185,8 +4189,8 @@
                 "type": "undetected"
             },
             "Symantec": {
-                "details": null,
-                "type": "undetected"
+                "details": "ML.Attribute.HighConfidence",
+                "type": "malicious"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -4443,16 +4447,16 @@
                 "type": "undetected"
             },
             "McAfeeD": {
-                "details": null,
-                "type": "undetected"
+                "details": "ti!E78927992CDE",
+                "type": "malicious"
             },
             "MicroWorld-eScan": {
                 "details": null,
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -4584,10 +4588,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-pyinstaller-installer.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -5361,8 +5361,8 @@
                 "type": "undetected"
             },
             "McAfeeD": {
-                "details": null,
-                "type": "undetected"
+                "details": "ti!6377547437F2",
+                "type": "malicious"
             },
             "MicroWorld-eScan": {
                 "details": null,
