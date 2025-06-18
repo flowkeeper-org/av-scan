@@ -1,5 +1,5 @@
 {
-    "date": "2025-06-17 01:51:43.643463+00:00",
+    "date": "2025-06-18 01:52:11.168760+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -46,6 +46,10 @@
                 "details": "PUA.Python.Nuitka",
                 "type": "malicious"
             },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
+            },
             "Symantec": {
                 "details": "ML.Attribute.HighConfidence",
                 "type": "malicious"
@@ -58,10 +62,6 @@
             },
             "Avast": {
                 "details": "Win64:Malware-gen",
-                "type": "malicious"
-            },
-            "McAfeeD": {
-                "details": "ti!35F8261CB639",
                 "type": "malicious"
             },
             "Skyhigh": {
@@ -87,10 +87,6 @@
                 "details": "Trojan.Win64.Agent.oa!s1",
                 "type": "malicious"
             },
-            "Jiangmin": {
-                "details": "Trojan.PSW.Python.ll",
-                "type": "malicious"
-            },
             "TrellixENS": {
                 "details": "Artemis!24BFCA5AB134",
                 "type": "malicious"
@@ -98,7 +94,7 @@
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-installer.exe": {
             "Ikarus": {
-                "details": "Trojan-Dropper.Win32.Agent",
+                "details": "Win32.Outbreak",
                 "type": "malicious"
             }
         },
@@ -163,6 +159,10 @@
                 "details": "Gen:Variant.Mikey.178486",
                 "type": "malicious"
             },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
+            },
             "Paloalto": {
                 "details": "generic.ml",
                 "type": "malicious"
@@ -182,6 +182,10 @@
             "VIPRE": {
                 "details": "Gen:Variant.Mikey.178486",
                 "type": "malicious"
+            },
+            "Varist": {
+                "details": "W64/ABTrojan.FXAS-2017",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-standalone.exe": {
@@ -194,7 +198,7 @@
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Trojan-Dropper.Win32.Agent",
+                "details": "Win32.Outbreak",
                 "type": "malicious"
             }
         },
@@ -205,6 +209,10 @@
             },
             "Avast": {
                 "details": "Win64:Malware-gen",
+                "type": "malicious"
+            },
+            "Skyhigh": {
+                "details": "Artemis",
                 "type": "malicious"
             }
         },
@@ -226,8 +234,12 @@
                 "details": "Trojan.Win64.Agent.oa!s1",
                 "type": "malicious"
             },
-            "Jiangmin": {
-                "details": "Trojan.PSW.Python.ll",
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
+            },
+            "TrellixENS": {
+                "details": "Artemis!ACC6432F29A5",
                 "type": "malicious"
             }
         },
@@ -331,21 +343,9 @@
             "Ikarus": {
                 "details": "Trojan-Dropper.Win32.Agent",
                 "type": "malicious"
-            },
-            "McAfeeD": {
-                "details": "ti!E78927992CDE",
-                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2025-pyinstaller-installer.exe": {
-            "AVG": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
-            },
-            "Avast": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
-            },
             "Skyhigh": {
                 "details": "Artemis",
                 "type": "malicious"
@@ -377,8 +377,8 @@
                 "details": "Trojan.Win64.Agent.oa!s1",
                 "type": "malicious"
             },
-            "Jiangmin": {
-                "details": "Trojan.PSW.Python.ll",
+            "MaxSecure": {
+                "details": "Trojan.Malware.338148470.susgen",
                 "type": "malicious"
             },
             "McAfeeD": {

@@ -1,5 +1,5 @@
 {
-    "date": "2025-06-17 01:51:43.643463+00:00",
+    "date": "2025-06-18 01:52:11.168760+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "ALYac": {
@@ -772,7 +772,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "MaxSecure": {
                 "details": null,
@@ -787,8 +787,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -812,7 +812,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SentinelOne": {
                 "details": null,
@@ -920,6 +920,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2019-pyinstaller-installer.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -1081,8 +1085,8 @@
                 "type": "undetected"
             },
             "McAfeeD": {
-                "details": "ti!35F8261CB639",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "MicroWorld-eScan": {
                 "details": null,
@@ -1296,7 +1300,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1661,8 +1665,8 @@
                 "type": "undetected"
             },
             "Jiangmin": {
-                "details": "Trojan.PSW.Python.ll",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "K7AntiVirus": {
                 "details": null,
@@ -1836,7 +1840,7 @@
         "flowkeeper-1.0.0-windows-2022-nuitka-installer.exe": {
             "ALYac": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "APEX": {
                 "details": null,
@@ -1864,7 +1868,7 @@
             },
             "Arcabit": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast": {
                 "details": null,
@@ -1884,7 +1888,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -1904,11 +1908,11 @@
             },
             "CTX": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1928,7 +1932,7 @@
             },
             "DrWeb": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "ESET-NOD32": {
                 "details": null,
@@ -1940,7 +1944,7 @@
             },
             "Emsisoft": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "F-Secure": {
                 "details": null,
@@ -1952,7 +1956,7 @@
             },
             "GData": {
                 "details": null,
-                "type": "undetected"
+                "type": "confirmed-timeout"
             },
             "Google": {
                 "details": null,
@@ -1963,7 +1967,7 @@
                 "type": "undetected"
             },
             "Ikarus": {
-                "details": "Trojan-Dropper.Win32.Agent",
+                "details": "Win32.Outbreak",
                 "type": "malicious"
             },
             "Jiangmin": {
@@ -1992,7 +1996,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "MaxSecure": {
                 "details": null,
@@ -2100,7 +2104,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Webroot": {
                 "details": null,
@@ -2313,8 +2317,8 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -2397,8 +2401,8 @@
                 "type": "malicious"
             },
             "Varist": {
-                "details": null,
-                "type": "undetected"
+                "details": "W64/ABTrojan.FXAS-2017",
+                "type": "malicious"
             },
             "ViRobot": {
                 "details": null,
@@ -2406,7 +2410,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Webroot": {
                 "details": null,
@@ -2575,7 +2579,7 @@
                 "type": "undetected"
             },
             "Ikarus": {
-                "details": "Trojan-Dropper.Win32.Agent",
+                "details": "Win32.Outbreak",
                 "type": "malicious"
             },
             "Jiangmin": {
@@ -2608,7 +2612,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": null,
@@ -2957,8 +2961,8 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": null,
-                "type": "failure"
+                "details": "Artemis",
+                "type": "malicious"
             },
             "Sophos": {
                 "details": null,
@@ -3132,7 +3136,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3497,8 +3501,8 @@
                 "type": "undetected"
             },
             "Jiangmin": {
-                "details": "Trojan.PSW.Python.ll",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "K7AntiVirus": {
                 "details": null,
@@ -3522,7 +3526,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "MaxSecure": {
                 "details": null,
@@ -3537,8 +3541,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -3570,7 +3574,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -3597,8 +3601,8 @@
                 "type": "undetected"
             },
             "TrellixENS": {
-                "details": null,
-                "type": "undetected"
+                "details": "Artemis!ACC6432F29A5",
+                "type": "malicious"
             },
             "TrendMicro": {
                 "details": null,
@@ -3630,7 +3634,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Webroot": {
                 "details": null,
@@ -4447,8 +4451,8 @@
                 "type": "undetected"
             },
             "McAfeeD": {
-                "details": "ti!E78927992CDE",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "MicroWorld-eScan": {
                 "details": null,
@@ -4548,7 +4552,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Webroot": {
                 "details": null,
@@ -4588,13 +4592,17 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-pyinstaller-installer.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
             },
             "AVG": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -4617,8 +4625,8 @@
                 "type": "undetected"
             },
             "Avast": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -4658,7 +4666,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -4782,7 +4790,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SentinelOne": {
                 "details": null,
@@ -5329,8 +5337,8 @@
                 "type": "undetected"
             },
             "Jiangmin": {
-                "details": "Trojan.PSW.Python.ll",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "K7AntiVirus": {
                 "details": null,
@@ -5357,8 +5365,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Malware.338148470.susgen",
+                "type": "malicious"
             },
             "McAfeeD": {
                 "details": "ti!6377547437F2",
