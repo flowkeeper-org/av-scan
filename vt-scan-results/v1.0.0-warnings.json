@@ -1,5 +1,5 @@
 {
-    "date": "2025-06-19 01:51:21.157880+00:00",
+    "date": "2025-06-20 01:50:52.743334+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -56,14 +56,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2019-pyinstaller-installer.exe": {
-            "AVG": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
-            },
-            "Avast": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
-            },
             "Skyhigh": {
                 "details": "Artemis",
                 "type": "malicious"
@@ -71,14 +63,6 @@
         },
         "flowkeeper-1.0.0-windows-2019-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.0-windows-2019-pyinstaller-standalone.exe": {
-            "AVG": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
-            },
-            "Avast": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
-            },
             "Elastic": {
                 "details": "malicious (moderate confidence)",
                 "type": "malicious"
@@ -99,10 +83,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-portable.exe": {
-            "ALYac": {
-                "details": "Gen:Variant.Mikey.178486",
-                "type": "malicious"
-            },
             "AVG": {
                 "details": "Win64:MalwareX-gen [Ransom]",
                 "type": "malicious"
@@ -120,7 +100,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "cld.trojan.agent",
+                "details": "Trojan.Agent",
                 "type": "malicious"
             },
             "CTX": {
@@ -163,10 +143,6 @@
                 "details": "Gen:Variant.Mikey.178486",
                 "type": "malicious"
             },
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
-            },
             "Paloalto": {
                 "details": "generic.ml",
                 "type": "malicious"
@@ -207,14 +183,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-pyinstaller-installer.exe": {
-            "AVG": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
-            },
-            "Avast": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
-            },
             "Skyhigh": {
                 "details": "Artemis",
                 "type": "malicious"
@@ -222,14 +190,6 @@
         },
         "flowkeeper-1.0.0-windows-2022-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.0-windows-2022-pyinstaller-standalone.exe": {
-            "AVG": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
-            },
-            "Avast": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
-            },
             "Elastic": {
                 "details": "malicious (moderate confidence)",
                 "type": "malicious"
@@ -271,15 +231,11 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "cld.trojan.mikey",
+                "details": "Trojan.Agent",
                 "type": "malicious"
             },
             "CTX": {
                 "details": "exe.trojan.mikey",
-                "type": "malicious"
-            },
-            "DeepInstinct": {
-                "details": "MALICIOUS",
                 "type": "malicious"
             },
             "Emsisoft": {
@@ -354,12 +310,8 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-pyinstaller-installer.exe": {
-            "AVG": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
-            },
-            "Avast": {
-                "details": "Win64:Malware-gen",
+            "Skyhigh": {
+                "details": "Artemis",
                 "type": "malicious"
             }
         },
@@ -367,14 +319,6 @@
         "flowkeeper-1.0.0-windows-2025-pyinstaller-standalone.exe": {
             "APEX": {
                 "details": "Malicious",
-                "type": "malicious"
-            },
-            "AVG": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
-            },
-            "Avast": {
-                "details": "Win64:Malware-gen",
                 "type": "malicious"
             },
             "DeepInstinct": {
@@ -387,6 +331,10 @@
             },
             "Gridinsoft": {
                 "details": "Trojan.Win64.Agent.oa!s1",
+                "type": "malicious"
+            },
+            "MaxSecure": {
+                "details": "Trojan.Malware.338148470.susgen",
                 "type": "malicious"
             },
             "McAfeeD": {

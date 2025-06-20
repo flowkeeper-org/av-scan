@@ -1,5 +1,5 @@
 {
-    "date": "2025-06-19 01:51:21.157880+00:00",
+    "date": "2025-06-20 01:50:52.743334+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "ALYac": {
@@ -929,8 +929,8 @@
                 "type": "undetected"
             },
             "AVG": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -953,8 +953,8 @@
                 "type": "undetected"
             },
             "Avast": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -1541,8 +1541,8 @@
                 "type": "undetected"
             },
             "AVG": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -1565,8 +1565,8 @@
                 "type": "undetected"
             },
             "Avast": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -2144,10 +2144,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-portable.exe": {
-            "ALYac": {
-                "details": "Gen:Variant.Mikey.178486",
-                "type": "malicious"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2205,7 +2201,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "cld.trojan.agent",
+                "details": "Trojan.Agent",
                 "type": "malicious"
             },
             "CMC": {
@@ -2317,8 +2313,8 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -2765,8 +2761,8 @@
                 "type": "undetected"
             },
             "AVG": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -2789,8 +2785,8 @@
                 "type": "undetected"
             },
             "Avast": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -3136,7 +3132,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3260,7 +3256,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SentinelOne": {
                 "details": null,
@@ -3377,8 +3373,8 @@
                 "type": "undetected"
             },
             "AVG": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -3401,8 +3397,8 @@
                 "type": "undetected"
             },
             "Avast": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -3426,7 +3422,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -4041,7 +4037,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "cld.trojan.mikey",
+                "details": "Trojan.Agent",
                 "type": "malicious"
             },
             "CMC": {
@@ -4069,8 +4065,8 @@
                 "type": "undetected"
             },
             "DeepInstinct": {
-                "details": "MALICIOUS",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "DrWeb": {
                 "details": null,
@@ -4286,6 +4282,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-standalone.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -4597,8 +4597,8 @@
                 "type": "undetected"
             },
             "AVG": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -4621,8 +4621,8 @@
                 "type": "undetected"
             },
             "Avast": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -4793,8 +4793,8 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": null,
-                "type": "undetected"
+                "details": "Artemis",
+                "type": "malicious"
             },
             "Sophos": {
                 "details": null,
@@ -4968,7 +4968,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -5184,7 +5184,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "alibabacloud": {
                 "details": null,
@@ -5209,8 +5209,8 @@
                 "type": "malicious"
             },
             "AVG": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -5233,8 +5233,8 @@
                 "type": "undetected"
             },
             "Avast": {
-                "details": "Win64:Malware-gen",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -5361,8 +5361,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Malware.338148470.susgen",
+                "type": "malicious"
             },
             "McAfeeD": {
                 "details": "ti!6377547437F2",
