@@ -1,5 +1,5 @@
 {
-    "date": "2025-06-20 01:50:52.743334+00:00",
+    "date": "2025-06-21 01:48:48.605547+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "ALYac": {
@@ -1085,8 +1085,8 @@
                 "type": "undetected"
             },
             "McAfeeD": {
-                "details": null,
-                "type": "undetected"
+                "details": "ti!35F8261CB639",
+                "type": "malicious"
             },
             "MicroWorld-eScan": {
                 "details": null,
@@ -1125,8 +1125,8 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": "Artemis",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -1633,8 +1633,8 @@
                 "type": "undetected"
             },
             "Elastic": {
-                "details": "malicious (moderate confidence)",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Emsisoft": {
                 "details": null,
@@ -1765,8 +1765,8 @@
                 "type": "undetected"
             },
             "TrellixENS": {
-                "details": "Artemis!24BFCA5AB134",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -2144,6 +2144,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-portable.exe": {
+            "ALYac": {
+                "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2313,8 +2317,8 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -2608,7 +2612,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -2619,8 +2623,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -2957,8 +2961,8 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": "Artemis",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -3132,7 +3136,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3256,7 +3260,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SentinelOne": {
                 "details": null,
@@ -3422,7 +3426,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -3465,8 +3469,8 @@
                 "type": "undetected"
             },
             "Elastic": {
-                "details": "malicious (moderate confidence)",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Emsisoft": {
                 "details": null,
@@ -3537,8 +3541,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -3597,8 +3601,8 @@
                 "type": "undetected"
             },
             "TrellixENS": {
-                "details": "Artemis!ACC6432F29A5",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -3976,10 +3980,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-portable.exe": {
-            "ALYac": {
-                "details": "Gen:Variant.Mikey.178486",
-                "type": "malicious"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -4065,8 +4065,8 @@
                 "type": "undetected"
             },
             "DeepInstinct": {
-                "details": null,
-                "type": "undetected"
+                "details": "MALICIOUS",
+                "type": "malicious"
             },
             "DrWeb": {
                 "details": null,
@@ -4793,8 +4793,8 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": "Artemis",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -4968,7 +4968,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -5301,8 +5301,8 @@
                 "type": "undetected"
             },
             "Elastic": {
-                "details": "malicious (moderate confidence)",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Emsisoft": {
                 "details": null,
@@ -5433,8 +5433,8 @@
                 "type": "undetected"
             },
             "TrellixENS": {
-                "details": "Artemis!912703F2D86C",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
