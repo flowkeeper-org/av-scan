@@ -1,5 +1,5 @@
 {
-    "date": "2025-06-21 01:48:48.605547+00:00",
+    "date": "2025-06-22 01:59:55.028082+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -46,21 +46,12 @@
                 "details": "PUA.Python.Nuitka",
                 "type": "malicious"
             },
-            "MaxSecure": {
-                "details": "Trojan.Malware.324995110.susgen",
-                "type": "malicious"
-            },
             "Symantec": {
                 "details": "ML.Attribute.HighConfidence",
                 "type": "malicious"
             }
         },
-        "flowkeeper-1.0.0-windows-2019-pyinstaller-installer.exe": {
-            "McAfeeD": {
-                "details": "ti!35F8261CB639",
-                "type": "malicious"
-            }
-        },
+        "flowkeeper-1.0.0-windows-2019-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.0-windows-2019-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.0-windows-2019-pyinstaller-standalone.exe": {
             "Gridinsoft": {
@@ -181,6 +172,10 @@
                 "details": "Trojan-Dropper.Win32.Agent",
                 "type": "malicious"
             },
+            "McAfeeD": {
+                "details": "ti!8B41AEC1138B",
+                "type": "malicious"
+            },
             "Microsoft": {
                 "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
@@ -189,12 +184,12 @@
         "flowkeeper-1.0.0-windows-2022-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.0-windows-2022-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.0-windows-2022-pyinstaller-standalone.exe": {
-            "Gridinsoft": {
-                "details": "Trojan.Win64.Agent.oa!s1",
+            "Elastic": {
+                "details": "malicious (moderate confidence)",
                 "type": "malicious"
             },
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
+            "Gridinsoft": {
+                "details": "Trojan.Win64.Agent.oa!s1",
                 "type": "malicious"
             }
         },
@@ -205,6 +200,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-portable.exe": {
+            "ALYac": {
+                "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
+            },
             "AVG": {
                 "details": "Win64:MalwareX-gen [Ransom]",
                 "type": "malicious"
