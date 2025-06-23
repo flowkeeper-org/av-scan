@@ -1,5 +1,5 @@
 {
-    "date": "2025-06-22 01:59:55.028082+00:00",
+    "date": "2025-06-23 01:58:42.466173+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -44,6 +44,10 @@
             },
             "Ikarus": {
                 "details": "PUA.Python.Nuitka",
+                "type": "malicious"
+            },
+            "MaxSecure": {
+                "details": "Trojan.Malware.324995110.susgen",
                 "type": "malicious"
             },
             "Symantec": {
@@ -184,10 +188,6 @@
         "flowkeeper-1.0.0-windows-2022-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.0-windows-2022-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.0-windows-2022-pyinstaller-standalone.exe": {
-            "Elastic": {
-                "details": "malicious (moderate confidence)",
-                "type": "malicious"
-            },
             "Gridinsoft": {
                 "details": "Trojan.Win64.Agent.oa!s1",
                 "type": "malicious"
