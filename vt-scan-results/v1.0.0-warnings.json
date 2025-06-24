@@ -1,5 +1,5 @@
 {
-    "date": "2025-06-23 01:58:42.466173+00:00",
+    "date": "2025-06-24 01:56:31.402848+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -58,8 +58,8 @@
         "flowkeeper-1.0.0-windows-2019-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.0-windows-2019-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.0-windows-2019-pyinstaller-standalone.exe": {
-            "Gridinsoft": {
-                "details": "Trojan.Win64.Agent.oa!s1",
+            "Zillya": {
+                "details": "Trojan.Agent.Win32.4270125",
                 "type": "malicious"
             }
         },
@@ -188,8 +188,8 @@
         "flowkeeper-1.0.0-windows-2022-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.0-windows-2022-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.0-windows-2022-pyinstaller-standalone.exe": {
-            "Gridinsoft": {
-                "details": "Trojan.Win64.Agent.oa!s1",
+            "Zillya": {
+                "details": "Trojan.Agent.Win32.4270125",
                 "type": "malicious"
             }
         },
@@ -301,6 +301,10 @@
             "Ikarus": {
                 "details": "Trojan-Dropper.Win32.Agent",
                 "type": "malicious"
+            },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2025-pyinstaller-installer.exe": {},
@@ -314,16 +318,16 @@
                 "details": "MALICIOUS",
                 "type": "malicious"
             },
-            "Gridinsoft": {
-                "details": "Trojan.Win64.Agent.oa!s1",
-                "type": "malicious"
-            },
             "MaxSecure": {
                 "details": "Trojan.Malware.338148470.susgen",
                 "type": "malicious"
             },
             "McAfeeD": {
                 "details": "ti!6377547437F2",
+                "type": "malicious"
+            },
+            "Zillya": {
+                "details": "Trojan.Agent.Win32.4270125",
                 "type": "malicious"
             }
         }
