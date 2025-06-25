@@ -1,5 +1,5 @@
 {
-    "date": "2025-06-24 01:56:31.402848+00:00",
+    "date": "2025-06-25 01:52:57.695472+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "ALYac": {
@@ -268,7 +268,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Webroot": {
                 "details": null,
@@ -715,8 +715,8 @@
                 "type": "undetected"
             },
             "Elastic": {
-                "details": "malicious (moderate confidence)",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Emsisoft": {
                 "details": null,
@@ -880,7 +880,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Webroot": {
                 "details": null,
@@ -1170,7 +1170,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": null,
@@ -1186,7 +1186,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Webroot": {
                 "details": null,
@@ -1236,7 +1236,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -1260,7 +1260,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -1276,7 +1276,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -1809,8 +1809,8 @@
                 "type": "undetected"
             },
             "Yandex": {
-                "details": null,
-                "type": "undetected"
+                "details": "Riskware.PyInstaller!+pAutz/Crs4",
+                "type": "malicious"
             },
             "Zillya": {
                 "details": "Trojan.Agent.Win32.4270125",
@@ -1912,7 +1912,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2205,7 +2205,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Agent",
+                "details": "Trojan.Ghanarava.1750804582ddff84",
                 "type": "malicious"
             },
             "CMC": {
@@ -2230,7 +2230,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
@@ -2265,8 +2265,8 @@
                 "type": "malicious"
             },
             "Google": {
-                "details": "Detected",
-                "type": "malicious"
+                "details": null,
+                "type": "failure"
             },
             "Gridinsoft": {
                 "details": null,
@@ -2394,7 +2394,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": "Gen:Variant.Mikey.178486",
@@ -2410,7 +2410,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Webroot": {
                 "details": null,
@@ -2716,7 +2716,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Webroot": {
                 "details": null,
@@ -3108,7 +3108,7 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefender": {
                 "details": null,
@@ -3136,7 +3136,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3224,7 +3224,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": null,
@@ -3328,7 +3328,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Webroot": {
                 "details": null,
@@ -3630,7 +3630,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Webroot": {
                 "details": null,
@@ -3641,8 +3641,8 @@
                 "type": "undetected"
             },
             "Yandex": {
-                "details": null,
-                "type": "undetected"
+                "details": "Riskware.PyInstaller!+pAutz/Crs4",
+                "type": "malicious"
             },
             "Zillya": {
                 "details": "Trojan.Agent.Win32.4270125",
@@ -3936,7 +3936,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Webroot": {
                 "details": null,
@@ -4037,7 +4037,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Agent",
+                "details": "Trojan.Ghanarava.17508045824b3bb2",
                 "type": "malicious"
             },
             "CMC": {
@@ -4242,7 +4242,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Webroot": {
                 "details": null,
@@ -4282,10 +4282,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-standalone.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -4447,8 +4443,8 @@
                 "type": "undetected"
             },
             "McAfeeD": {
-                "details": null,
-                "type": "undetected"
+                "details": "ti!E78927992CDE",
+                "type": "malicious"
             },
             "MicroWorld-eScan": {
                 "details": null,
@@ -4598,7 +4594,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -4622,7 +4618,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -4634,11 +4630,11 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -4662,7 +4658,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -4750,7 +4746,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -4822,7 +4818,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -4854,7 +4850,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Webroot": {
                 "details": null,
@@ -5361,8 +5357,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": "Trojan.Malware.338148470.susgen",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": "ti!6377547437F2",
@@ -5466,7 +5462,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Webroot": {
                 "details": null,
@@ -5477,8 +5473,8 @@
                 "type": "undetected"
             },
             "Yandex": {
-                "details": null,
-                "type": "undetected"
+                "details": "Riskware.PyInstaller!+pAutz/Crs4",
+                "type": "malicious"
             },
             "Zillya": {
                 "details": "Trojan.Agent.Win32.4270125",
