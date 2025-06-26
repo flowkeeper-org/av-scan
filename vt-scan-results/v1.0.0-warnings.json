@@ -1,5 +1,5 @@
 {
-    "date": "2025-06-25 01:52:57.695472+00:00",
+    "date": "2025-06-26 01:51:29.060439+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -91,7 +91,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1750804582ddff84",
+                "details": "Trojan.Ghanarava.1750890103ddff84",
                 "type": "malicious"
             },
             "CTX": {
@@ -112,6 +112,10 @@
             },
             "GData": {
                 "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
+            },
+            "Google": {
+                "details": "Detected",
                 "type": "malicious"
             },
             "Ikarus": {
@@ -175,10 +179,6 @@
             "McAfeeD": {
                 "details": "ti!8B41AEC1138B",
                 "type": "malicious"
-            },
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2022-pyinstaller-installer.exe": {},
@@ -221,7 +221,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17508045824b3bb2",
+                "details": "Trojan.Ghanarava.17508901034b3bb2",
                 "type": "malicious"
             },
             "CTX": {
@@ -305,10 +305,6 @@
             "McAfeeD": {
                 "details": "ti!E78927992CDE",
                 "type": "malicious"
-            },
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2025-pyinstaller-installer.exe": {},
@@ -322,12 +318,12 @@
                 "details": "MALICIOUS",
                 "type": "malicious"
             },
-            "McAfeeD": {
-                "details": "ti!6377547437F2",
+            "MaxSecure": {
+                "details": "Trojan.Malware.338148470.susgen",
                 "type": "malicious"
             },
-            "Yandex": {
-                "details": "Riskware.PyInstaller!+pAutz/Crs4",
+            "McAfeeD": {
+                "details": "ti!6377547437F2",
                 "type": "malicious"
             },
             "Zillya": {
