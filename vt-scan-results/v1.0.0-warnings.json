@@ -1,5 +1,5 @@
 {
-    "date": "2025-06-26 01:51:29.060439+00:00",
+    "date": "2025-06-27 01:53:13.625715+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -91,7 +91,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1750890103ddff84",
+                "details": "Trojan.Ghanarava.1750975230ddff84",
                 "type": "malicious"
             },
             "CTX": {
@@ -175,10 +175,6 @@
             "Ikarus": {
                 "details": "Trojan-Dropper.Win32.Agent",
                 "type": "malicious"
-            },
-            "McAfeeD": {
-                "details": "ti!8B41AEC1138B",
-                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2022-pyinstaller-installer.exe": {},
@@ -221,7 +217,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17508901034b3bb2",
+                "details": "Trojan.Ghanarava.17509752304b3bb2",
                 "type": "malicious"
             },
             "CTX": {
@@ -301,10 +297,6 @@
             "Ikarus": {
                 "details": "Trojan-Dropper.Win32.Agent",
                 "type": "malicious"
-            },
-            "McAfeeD": {
-                "details": "ti!E78927992CDE",
-                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2025-pyinstaller-installer.exe": {},
@@ -324,6 +316,10 @@
             },
             "McAfeeD": {
                 "details": "ti!6377547437F2",
+                "type": "malicious"
+            },
+            "Yandex": {
+                "details": "Riskware.PyInstaller!+pAutz/Crs4",
                 "type": "malicious"
             },
             "Zillya": {
