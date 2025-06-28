@@ -1,5 +1,5 @@
 {
-    "date": "2025-06-27 01:53:13.625715+00:00",
+    "date": "2025-06-28 01:49:42.666344+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -91,7 +91,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1750975230ddff84",
+                "details": "Trojan.Ghanarava.1751062696ddff84",
                 "type": "malicious"
             },
             "CTX": {
@@ -180,6 +180,10 @@
         "flowkeeper-1.0.0-windows-2022-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.0-windows-2022-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.0-windows-2022-pyinstaller-standalone.exe": {
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
+            },
             "Yandex": {
                 "details": "Riskware.PyInstaller!+pAutz/Crs4",
                 "type": "malicious"
@@ -217,7 +221,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17509752304b3bb2",
+                "details": "Trojan.Ghanarava.17510626964b3bb2",
                 "type": "malicious"
             },
             "CTX": {

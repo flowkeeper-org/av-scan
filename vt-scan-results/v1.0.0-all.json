@@ -1,5 +1,5 @@
 {
-    "date": "2025-06-27 01:53:13.625715+00:00",
+    "date": "2025-06-28 01:49:42.666344+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "ALYac": {
@@ -12,7 +12,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -36,7 +36,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -48,11 +48,11 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -60,11 +60,11 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CMC": {
                 "details": null,
@@ -76,7 +76,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -148,7 +148,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Kingsoft": {
                 "details": null,
@@ -164,7 +164,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -208,7 +208,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -236,11 +236,11 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro-HouseCall": {
                 "details": null,
@@ -260,7 +260,7 @@
             },
             "Varist": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "ViRobot": {
                 "details": null,
@@ -318,7 +318,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -342,7 +342,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -354,11 +354,11 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -370,7 +370,7 @@
             },
             "CAT-QuickHeal": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CMC": {
                 "details": null,
@@ -382,7 +382,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -454,7 +454,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Kingsoft": {
                 "details": null,
@@ -470,7 +470,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": "ti!DD1F478AB96B",
@@ -514,7 +514,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -542,11 +542,11 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro-HouseCall": {
                 "details": null,
@@ -566,7 +566,7 @@
             },
             "Varist": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "ViRobot": {
                 "details": null,
@@ -672,7 +672,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -1582,7 +1582,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -1622,7 +1622,7 @@
             },
             "DeepInstinct": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "DrWeb": {
                 "details": null,
@@ -1738,7 +1738,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -1766,11 +1766,11 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro-HouseCall": {
                 "details": null,
@@ -1838,10 +1838,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-installer.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2205,7 +2201,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1750975230ddff84",
+                "details": "Trojan.Ghanarava.1751062696ddff84",
                 "type": "malicious"
             },
             "CMC": {
@@ -2410,7 +2406,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Webroot": {
                 "details": null,
@@ -2814,7 +2810,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -3120,7 +3116,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -3541,8 +3537,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -3732,7 +3728,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -4041,7 +4037,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17509752304b3bb2",
+                "details": "Trojan.Ghanarava.17510626964b3bb2",
                 "type": "malicious"
             },
             "CMC": {
@@ -4344,7 +4340,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -4642,7 +4638,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -4666,7 +4662,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -4826,7 +4822,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -4956,7 +4952,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -5204,10 +5200,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-pyinstaller-standalone.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": "Malicious",
                 "type": "malicious"
@@ -5262,7 +5254,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
