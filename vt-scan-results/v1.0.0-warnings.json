@@ -1,5 +1,5 @@
 {
-    "date": "2025-06-28 01:49:42.666344+00:00",
+    "date": "2025-06-29 02:02:17.139763+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -54,10 +54,6 @@
         "flowkeeper-1.0.0-windows-2019-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.0-windows-2019-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.0-windows-2019-pyinstaller-standalone.exe": {
-            "Yandex": {
-                "details": "Riskware.PyInstaller!+pAutz/Crs4",
-                "type": "malicious"
-            },
             "Zillya": {
                 "details": "Trojan.Agent.Win32.4270125",
                 "type": "malicious"
@@ -91,7 +87,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1751062696ddff84",
+                "details": "Trojan.Mikey",
                 "type": "malicious"
             },
             "CTX": {
@@ -184,10 +180,6 @@
                 "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             },
-            "Yandex": {
-                "details": "Riskware.PyInstaller!+pAutz/Crs4",
-                "type": "malicious"
-            },
             "Zillya": {
                 "details": "Trojan.Agent.Win32.4270125",
                 "type": "malicious"
@@ -221,7 +213,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17510626964b3bb2",
+                "details": "Trojan.Ghanarava.17511468884b3bb2",
                 "type": "malicious"
             },
             "CTX": {
@@ -320,10 +312,6 @@
             },
             "McAfeeD": {
                 "details": "ti!6377547437F2",
-                "type": "malicious"
-            },
-            "Yandex": {
-                "details": "Riskware.PyInstaller!+pAutz/Crs4",
                 "type": "malicious"
             },
             "Zillya": {
