@@ -1,5 +1,5 @@
 {
-    "date": "2025-06-29 02:02:17.139763+00:00",
+    "date": "2025-06-30 01:58:23.488116+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -176,10 +176,6 @@
         "flowkeeper-1.0.0-windows-2022-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.0-windows-2022-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.0-windows-2022-pyinstaller-standalone.exe": {
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
-            },
             "Zillya": {
                 "details": "Trojan.Agent.Win32.4270125",
                 "type": "malicious"
