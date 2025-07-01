@@ -1,5 +1,5 @@
 {
-    "date": "2025-06-30 01:58:23.488116+00:00",
+    "date": "2025-07-01 02:04:13.690124+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -61,7 +61,7 @@
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-installer.exe": {
             "Ikarus": {
-                "details": "Trojan-Dropper.Win32.Agent",
+                "details": "Trojan.Win64.Agent",
                 "type": "malicious"
             }
         },
@@ -169,7 +169,7 @@
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Trojan-Dropper.Win32.Agent",
+                "details": "Trojan.Win64.Agent",
                 "type": "malicious"
             }
         },
@@ -183,7 +183,7 @@
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-installer.exe": {
             "Ikarus": {
-                "details": "Trojan-Dropper.Win32.Agent",
+                "details": "Trojan.Win64.Agent",
                 "type": "malicious"
             }
         },
@@ -287,7 +287,7 @@
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Trojan-Dropper.Win32.Agent",
+                "details": "Trojan.Win64.Agent",
                 "type": "malicious"
             }
         },
