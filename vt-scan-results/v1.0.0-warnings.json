@@ -1,5 +1,5 @@
 {
-    "date": "2025-07-04 01:53:23.514086+00:00",
+    "date": "2025-07-05 01:49:38.149765+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -30,6 +30,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2019-nuitka-standalone.exe": {
+            "DeepInstinct": {
+                "details": "MALICIOUS",
+                "type": "malicious"
+            },
             "GData": {
                 "details": "Win64.Application.Agent.29EKXN",
                 "type": "malicious"
@@ -79,7 +83,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1751582179ddff84",
+                "details": "Trojan.Ghanarava.1751669355ddff84",
                 "type": "malicious"
             },
             "CTX": {
@@ -130,6 +134,10 @@
                 "details": "Trj/Chgt.AD",
                 "type": "malicious"
             },
+            "Skyhigh": {
+                "details": "Artemis",
+                "type": "malicious"
+            },
             "Symantec": {
                 "details": "ML.Attribute.HighConfidence",
                 "type": "malicious"
@@ -176,8 +184,16 @@
                 "details": "Gen:Variant.Mikey.178486",
                 "type": "malicious"
             },
+            "AVG": {
+                "details": "Win64:MalwareX-gen [Ransom]",
+                "type": "malicious"
+            },
             "Arcabit": {
                 "details": "Trojan.Mikey.D2B936",
+                "type": "malicious"
+            },
+            "Avast": {
+                "details": "Win64:MalwareX-gen [Ransom]",
                 "type": "malicious"
             },
             "BitDefender": {
@@ -185,7 +201,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17515251114b3bb2",
+                "details": "Trojan.Ghanarava.17516127204b3bb2",
                 "type": "malicious"
             },
             "CTX": {
@@ -236,8 +252,8 @@
                 "details": "Trj/Chgt.AD",
                 "type": "malicious"
             },
-            "Symantec": {
-                "details": "ML.Attribute.HighConfidence",
+            "Skyhigh": {
+                "details": "Artemis",
                 "type": "malicious"
             },
             "VIPRE": {
