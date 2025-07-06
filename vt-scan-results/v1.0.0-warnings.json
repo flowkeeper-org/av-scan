@@ -1,5 +1,5 @@
 {
-    "date": "2025-07-05 01:49:38.149765+00:00",
+    "date": "2025-07-06 02:00:45.370379+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -57,7 +57,7 @@
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-installer.exe": {
             "Ikarus": {
-                "details": "Trojan.Win64.Agent",
+                "details": "Trojan-Dropper.Win32.Agent",
                 "type": "malicious"
             }
         },
@@ -83,7 +83,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1751669355ddff84",
+                "details": "Trojan.Ghanarava.1751753538ddff84",
                 "type": "malicious"
             },
             "CTX": {
@@ -161,7 +161,7 @@
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Trojan.Win64.Agent",
+                "details": "Trojan-Dropper.Win32.Agent",
                 "type": "malicious"
             }
         },
@@ -175,7 +175,7 @@
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-installer.exe": {
             "Ikarus": {
-                "details": "Trojan.Win64.Agent",
+                "details": "Trojan-Dropper.Win32.Agent",
                 "type": "malicious"
             }
         },
@@ -201,7 +201,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17516127204b3bb2",
+                "details": "Trojan.Ghanarava.17516999674b3bb2",
                 "type": "malicious"
             },
             "CTX": {
@@ -256,6 +256,10 @@
                 "details": "Artemis",
                 "type": "malicious"
             },
+            "Symantec": {
+                "details": "ML.Attribute.HighConfidence",
+                "type": "malicious"
+            },
             "VIPRE": {
                 "details": "Gen:Variant.Mikey.178486",
                 "type": "malicious"
@@ -275,7 +279,11 @@
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Trojan.Win64.Agent",
+                "details": "Trojan-Dropper.Win32.Agent",
+                "type": "malicious"
+            },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             }
         },
