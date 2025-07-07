@@ -1,5 +1,5 @@
 {
-    "date": "2025-07-06 02:00:45.370379+00:00",
+    "date": "2025-07-07 01:58:23.737827+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -41,10 +41,6 @@
             "Ikarus": {
                 "details": "PUA.Python.Nuitka",
                 "type": "malicious"
-            },
-            "MaxSecure": {
-                "details": "Trojan.Malware.324995110.susgen",
-                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2019-pyinstaller-installer.exe": {},
@@ -83,7 +79,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1751753538ddff84",
+                "details": "Trojan.Ghanarava.1751839852ddff84",
                 "type": "malicious"
             },
             "CTX": {
@@ -126,6 +122,10 @@
                 "details": "Gen:Variant.Mikey.178486",
                 "type": "malicious"
             },
+            "Microsoft": {
+                "details": "Program:Win32/Wacapew.C!ml",
+                "type": "malicious"
+            },
             "Paloalto": {
                 "details": "generic.ml",
                 "type": "malicious"
@@ -162,6 +162,10 @@
             },
             "Ikarus": {
                 "details": "Trojan-Dropper.Win32.Agent",
+                "type": "malicious"
+            },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             }
         },
@@ -201,7 +205,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17516999674b3bb2",
+                "details": "Trojan.Ghanarava.17517865954b3bb2",
                 "type": "malicious"
             },
             "CTX": {
@@ -282,8 +286,8 @@
                 "details": "Trojan-Dropper.Win32.Agent",
                 "type": "malicious"
             },
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
+            "McAfeeD": {
+                "details": "ti!E78927992CDE",
                 "type": "malicious"
             }
         },
@@ -296,10 +300,6 @@
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
-                "type": "malicious"
-            },
-            "MaxSecure": {
-                "details": "Trojan.Malware.338148470.susgen",
                 "type": "malicious"
             },
             "McAfeeD": {
