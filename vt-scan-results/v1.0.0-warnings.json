@@ -1,5 +1,5 @@
 {
-    "date": "2025-07-08 01:53:03.488465+00:00",
+    "date": "2025-07-09 02:02:44.726894+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -57,7 +57,7 @@
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-installer.exe": {
             "Ikarus": {
-                "details": "Trojan-Dropper.Win32.Agent",
+                "details": "Dump.Generic.Python",
                 "type": "malicious"
             }
         },
@@ -161,11 +161,7 @@
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Trojan-Dropper.Win32.Agent",
-                "type": "malicious"
-            },
-            "McAfeeD": {
-                "details": "ti!8B41AEC1138B",
+                "details": "Dump.Generic.Python",
                 "type": "malicious"
             }
         },
@@ -179,7 +175,7 @@
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-installer.exe": {
             "Ikarus": {
-                "details": "Trojan-Dropper.Win32.Agent",
+                "details": "Dump.Generic.Python",
                 "type": "malicious"
             }
         },
@@ -274,20 +270,16 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-standalone.exe": {
-            "GData": {
-                "details": "Win64.Trojan.Agent.6DN9BX",
-                "type": "malicious"
-            },
             "Google": {
                 "details": "Detected",
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Trojan-Dropper.Win32.Agent",
+                "details": "Dump.Generic.Python",
                 "type": "malicious"
             },
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
+            "McAfeeD": {
+                "details": "ti!E78927992CDE",
                 "type": "malicious"
             }
         },
@@ -308,10 +300,6 @@
             },
             "McAfeeD": {
                 "details": "ti!6377547437F2",
-                "type": "malicious"
-            },
-            "Zillya": {
-                "details": "Trojan.Agent.Win32.4270125",
                 "type": "malicious"
             }
         }
