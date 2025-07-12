@@ -1,5 +1,5 @@
 {
-    "date": "2025-07-11 02:04:45.869407+00:00",
+    "date": "2025-07-12 01:58:18.849070+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -83,7 +83,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1752131523ddff84",
+                "details": "Trojan.Ghanarava.1752219242ddff84",
                 "type": "malicious"
             },
             "CTX": {
@@ -126,16 +126,16 @@
                 "details": "Gen:Variant.Mikey.178486",
                 "type": "malicious"
             },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
+            },
             "Paloalto": {
                 "details": "generic.ml",
                 "type": "malicious"
             },
             "Panda": {
                 "details": "Trj/Chgt.AD",
-                "type": "malicious"
-            },
-            "Skyhigh": {
-                "details": "Artemis",
                 "type": "malicious"
             },
             "Symantec": {
@@ -201,7 +201,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17521315234b3bb2",
+                "details": "Trojan.Ghanarava.17522192424b3bb2",
                 "type": "malicious"
             },
             "CTX": {
@@ -292,6 +292,10 @@
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
+                "type": "malicious"
+            },
+            "MaxSecure": {
+                "details": "Trojan.Malware.338148470.susgen",
                 "type": "malicious"
             },
             "McAfeeD": {
