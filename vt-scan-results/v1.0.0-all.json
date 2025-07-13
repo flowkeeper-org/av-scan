@@ -1,5 +1,5 @@
 {
-    "date": "2025-07-12 01:58:18.849070+00:00",
+    "date": "2025-07-13 02:05:36.764873+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "ALYac": {
@@ -1532,6 +1532,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2019-pyinstaller-standalone.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -1586,7 +1590,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -1602,7 +1606,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1766,7 +1770,7 @@
             },
             "TrendMicro": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro-HouseCall": {
                 "details": null,
@@ -2201,7 +2205,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1752219242ddff84",
+                "details": "Trojan.Ghanarava.1752314659ddff84",
                 "type": "malicious"
             },
             "CMC": {
@@ -2214,7 +2218,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2338,15 +2342,15 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SentinelOne": {
                 "details": null,
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": null,
-                "type": "timeout"
+                "details": "Artemis",
+                "type": "malicious"
             },
             "Sophos": {
                 "details": null,
@@ -2374,7 +2378,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -2422,7 +2426,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -3364,10 +3368,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-pyinstaller-standalone.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -3570,7 +3570,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -3936,7 +3936,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Webroot": {
                 "details": null,
@@ -4037,7 +4037,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17522192424b3bb2",
+                "details": "Trojan.Ghanarava.17523146594b3bb2",
                 "type": "malicious"
             },
             "CMC": {
@@ -4662,7 +4662,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -5200,6 +5200,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-pyinstaller-standalone.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": "Malicious",
                 "type": "malicious"
@@ -5462,7 +5466,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Webroot": {
                 "details": null,

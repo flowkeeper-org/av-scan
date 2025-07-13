@@ -1,5 +1,5 @@
 {
-    "date": "2025-07-12 01:58:18.849070+00:00",
+    "date": "2025-07-13 02:05:36.764873+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -83,7 +83,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1752219242ddff84",
+                "details": "Trojan.Ghanarava.1752314659ddff84",
                 "type": "malicious"
             },
             "CTX": {
@@ -136,6 +136,10 @@
             },
             "Panda": {
                 "details": "Trj/Chgt.AD",
+                "type": "malicious"
+            },
+            "Skyhigh": {
+                "details": "Artemis",
                 "type": "malicious"
             },
             "Symantec": {
@@ -201,7 +205,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17522192424b3bb2",
+                "details": "Trojan.Ghanarava.17523146594b3bb2",
                 "type": "malicious"
             },
             "CTX": {
