@@ -1,10 +1,10 @@
 {
-    "date": "2025-07-14 02:02:09.229158+00:00",
+    "date": "2025-07-15 02:02:51.688515+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "ALYac": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "APEX": {
                 "details": null,
@@ -12,7 +12,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -32,11 +32,11 @@
             },
             "Arcabit": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -52,7 +52,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -64,7 +64,7 @@
             },
             "CAT-QuickHeal": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CMC": {
                 "details": null,
@@ -72,11 +72,11 @@
             },
             "CTX": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -96,19 +96,19 @@
             },
             "DrWeb": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ESET-NOD32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Elastic": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Emsisoft": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "F-Secure": {
                 "details": null,
@@ -116,11 +116,11 @@
             },
             "Fortinet": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "GData": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             },
             "Google": {
                 "details": null,
@@ -136,7 +136,7 @@
             },
             "Jiangmin": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "K7AntiVirus": {
                 "details": null,
@@ -148,7 +148,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Kingsoft": {
                 "details": null,
@@ -164,7 +164,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -188,11 +188,11 @@
             },
             "Panda": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -200,7 +200,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SentinelOne": {
                 "details": null,
@@ -208,7 +208,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -236,7 +236,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -252,7 +252,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": null,
@@ -260,7 +260,7 @@
             },
             "Varist": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ViRobot": {
                 "details": null,
@@ -280,7 +280,7 @@
             },
             "Yandex": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Zillya": {
                 "details": null,
@@ -614,10 +614,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2019-nuitka-standalone.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -1432,7 +1428,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Sophos": {
                 "details": null,
@@ -2205,7 +2201,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1752395788ddff84",
+                "details": "Trojan.Ghanarava.1752472198ddff84",
                 "type": "malicious"
             },
             "CMC": {
@@ -2317,7 +2313,7 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
+                "details": "Program:Win32/Wacapew.C!ml",
                 "type": "malicious"
             },
             "NANO-Antivirus": {
@@ -3442,7 +3438,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3674,6 +3670,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-installer.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -3976,6 +3976,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-portable.exe": {
+            "ALYac": {
+                "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -4033,7 +4037,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17523957884b3bb2",
+                "details": "Trojan.Ghanarava.17524721984b3bb2",
                 "type": "malicious"
             },
             "CMC": {
@@ -4058,7 +4062,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
@@ -4278,6 +4282,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-standalone.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -4582,7 +4590,7 @@
         "flowkeeper-1.0.0-windows-2025-pyinstaller-installer.exe": {
             "ALYac": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "APEX": {
                 "details": null,
@@ -4590,7 +4598,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -4610,11 +4618,11 @@
             },
             "Arcabit": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -4630,7 +4638,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -4642,7 +4650,7 @@
             },
             "CAT-QuickHeal": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CMC": {
                 "details": null,
@@ -4650,7 +4658,7 @@
             },
             "CTX": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ClamAV": {
                 "details": null,
@@ -4674,19 +4682,19 @@
             },
             "DrWeb": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ESET-NOD32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Elastic": {
                 "details": null,
-                "type": "timeout"
+                "type": "type-unsupported"
             },
             "Emsisoft": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "F-Secure": {
                 "details": null,
@@ -4694,11 +4702,11 @@
             },
             "Fortinet": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "GData": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             },
             "Google": {
                 "details": null,
@@ -4714,7 +4722,7 @@
             },
             "Jiangmin": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "K7AntiVirus": {
                 "details": null,
@@ -4726,7 +4734,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Kingsoft": {
                 "details": null,
@@ -4766,11 +4774,11 @@
             },
             "Panda": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -4778,7 +4786,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SentinelOne": {
                 "details": null,
@@ -4786,7 +4794,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -4814,7 +4822,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -4830,7 +4838,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": null,
@@ -4838,7 +4846,7 @@
             },
             "Varist": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ViRobot": {
                 "details": null,
@@ -4858,7 +4866,7 @@
             },
             "Yandex": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Zillya": {
                 "details": null,
@@ -5194,7 +5202,7 @@
         "flowkeeper-1.0.0-windows-2025-pyinstaller-standalone.exe": {
             "ALYac": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "APEX": {
                 "details": "Malicious",
@@ -5202,7 +5210,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -5222,11 +5230,11 @@
             },
             "Arcabit": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -5242,7 +5250,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -5254,7 +5262,7 @@
             },
             "CAT-QuickHeal": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CMC": {
                 "details": null,
@@ -5262,11 +5270,11 @@
             },
             "CTX": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -5286,7 +5294,7 @@
             },
             "DrWeb": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ESET-NOD32": {
                 "details": null,
@@ -5294,11 +5302,11 @@
             },
             "Elastic": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Emsisoft": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "F-Secure": {
                 "details": null,
@@ -5306,11 +5314,11 @@
             },
             "Fortinet": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "GData": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             },
             "Google": {
                 "details": null,
@@ -5326,7 +5334,7 @@
             },
             "Jiangmin": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "K7AntiVirus": {
                 "details": null,
@@ -5338,7 +5346,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Kingsoft": {
                 "details": null,
@@ -5378,11 +5386,11 @@
             },
             "Panda": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -5398,7 +5406,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -5426,7 +5434,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -5450,7 +5458,7 @@
             },
             "Varist": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ViRobot": {
                 "details": null,
@@ -5486,7 +5494,7 @@
             },
             "alibabacloud": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "huorong": {
                 "details": null,
