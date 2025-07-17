@@ -1,5 +1,5 @@
 {
-    "date": "2025-07-16 02:06:34.622306+00:00",
+    "date": "2025-07-17 01:58:51.516513+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "ALYac": {
@@ -610,6 +610,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2019-nuitka-standalone.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -1452,7 +1456,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -1698,7 +1702,7 @@
             },
             "Microsoft": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -1758,7 +1762,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -1830,6 +1834,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-installer.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -1984,7 +1992,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "MaxSecure": {
                 "details": null,
@@ -2141,8 +2149,8 @@
                 "type": "undetected"
             },
             "AVG": {
-                "details": "Win64:MalwareX-gen [Ransom]",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -2165,8 +2173,8 @@
                 "type": "malicious"
             },
             "Avast": {
-                "details": "Win64:MalwareX-gen [Ransom]",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -2193,7 +2201,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1752570833ddff84",
+                "details": "Trojan.Ghanarava.1752657604ddff84",
                 "type": "malicious"
             },
             "CMC": {
@@ -2294,7 +2302,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": "ti!15F10090BA1B",
@@ -2305,7 +2313,7 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
+                "details": "Program:Win32/Wacapew.C!ml",
                 "type": "malicious"
             },
             "NANO-Antivirus": {
@@ -2337,8 +2345,8 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": "Artemis",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -2438,10 +2446,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-standalone.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2802,7 +2806,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -3060,7 +3064,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -3084,7 +3088,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -3212,7 +3216,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -3256,7 +3260,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -3968,10 +3972,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-portable.exe": {
-            "ALYac": {
-                "details": "Gen:Variant.Mikey.178486",
-                "type": "malicious"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -4029,7 +4029,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17525708334b3bb2",
+                "details": "Trojan.Ghanarava.17526576044b3bb2",
                 "type": "malicious"
             },
             "CMC": {
@@ -4202,7 +4202,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -4274,6 +4274,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-standalone.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -4428,7 +4432,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "MaxSecure": {
                 "details": null,
@@ -4892,7 +4896,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -4916,7 +4920,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -5044,7 +5048,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -5088,7 +5092,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -5188,6 +5192,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-pyinstaller-standalone.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": "Malicious",
                 "type": "malicious"

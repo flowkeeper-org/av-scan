@@ -1,5 +1,5 @@
 {
-    "date": "2025-07-16 02:06:34.622306+00:00",
+    "date": "2025-07-17 01:58:51.516513+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -66,16 +66,8 @@
                 "details": "Gen:Variant.Mikey.178486",
                 "type": "malicious"
             },
-            "AVG": {
-                "details": "Win64:MalwareX-gen [Ransom]",
-                "type": "malicious"
-            },
             "Arcabit": {
                 "details": "Trojan.Mikey.D2B936",
-                "type": "malicious"
-            },
-            "Avast": {
-                "details": "Win64:MalwareX-gen [Ransom]",
                 "type": "malicious"
             },
             "BitDefender": {
@@ -83,7 +75,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1752570833ddff84",
+                "details": "Trojan.Ghanarava.1752657604ddff84",
                 "type": "malicious"
             },
             "CTX": {
@@ -127,7 +119,7 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
+                "details": "Program:Win32/Wacapew.C!ml",
                 "type": "malicious"
             },
             "Paloalto": {
@@ -136,10 +128,6 @@
             },
             "Panda": {
                 "details": "Trj/Chgt.AD",
-                "type": "malicious"
-            },
-            "Skyhigh": {
-                "details": "Artemis",
                 "type": "malicious"
             },
             "Symantec": {
@@ -184,10 +172,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-portable.exe": {
-            "ALYac": {
-                "details": "Gen:Variant.Mikey.178486",
-                "type": "malicious"
-            },
             "AVG": {
                 "details": "Win64:MalwareX-gen [Ransom]",
                 "type": "malicious"
@@ -205,7 +189,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17525708334b3bb2",
+                "details": "Trojan.Ghanarava.17526576044b3bb2",
                 "type": "malicious"
             },
             "CTX": {
