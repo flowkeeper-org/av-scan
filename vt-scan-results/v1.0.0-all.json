@@ -1,5 +1,5 @@
 {
-    "date": "2025-07-18 02:00:09.221594+00:00",
+    "date": "2025-07-19 01:54:52.870481+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "ALYac": {
@@ -248,7 +248,7 @@
             },
             "Trustlook": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "timeout"
             },
             "VBA32": {
                 "details": null,
@@ -775,8 +775,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Malware.324995110.susgen",
+                "type": "malicious"
             },
             "McAfeeD": {
                 "details": null,
@@ -1516,7 +1516,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "alibabacloud": {
                 "details": null,
@@ -1838,10 +1838,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-installer.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2036,7 +2032,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SentinelOne": {
                 "details": null,
@@ -2205,7 +2201,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1752733495ddff84",
+                "details": "Trojan.Ghanarava.1752828848ddff84",
                 "type": "malicious"
             },
             "CMC": {
@@ -2317,7 +2313,7 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.C!ml",
+                "details": "Program:Win32/Wacapew.C!ml",
                 "type": "malicious"
             },
             "NANO-Antivirus": {
@@ -3062,6 +3058,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-pyinstaller-portable.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -3670,10 +3670,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-installer.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -4037,7 +4033,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17527334954b3bb2",
+                "details": "Trojan.Ghanarava.17528288484b3bb2",
                 "type": "malicious"
             },
             "CMC": {
@@ -4894,6 +4890,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-pyinstaller-portable.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -5196,10 +5196,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-pyinstaller-standalone.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": "Malicious",
                 "type": "malicious"
