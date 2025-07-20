@@ -1,5 +1,5 @@
 {
-    "date": "2025-07-19 01:54:52.870481+00:00",
+    "date": "2025-07-20 02:07:48.677734+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -10,10 +10,6 @@
         "flowkeeper-1.0.0-windows-2019-nuitka-portable.exe": {
             "Elastic": {
                 "details": "malicious (high confidence)",
-                "type": "malicious"
-            },
-            "Google": {
-                "details": "Detected",
                 "type": "malicious"
             },
             "Ikarus": {
@@ -62,10 +58,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-portable.exe": {
-            "ALYac": {
-                "details": "Gen:Variant.Mikey.178486",
-                "type": "malicious"
-            },
             "AVG": {
                 "details": "Win64:MalwareX-gen [Ransom]",
                 "type": "malicious"
@@ -83,7 +75,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1752828848ddff84",
+                "details": "Trojan.Ghanarava.1752913499ddff84",
                 "type": "malicious"
             },
             "CTX": {
@@ -127,7 +119,7 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Program:Win32/Wacapew.C!ml",
+                "details": "Trojan:Win32/Wacatac.C!ml",
                 "type": "malicious"
             },
             "Paloalto": {
@@ -205,7 +197,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17528288484b3bb2",
+                "details": "Trojan.Ghanarava.17529134994b3bb2",
                 "type": "malicious"
             },
             "CTX": {
