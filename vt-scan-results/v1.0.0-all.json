@@ -1,5 +1,5 @@
 {
-    "date": "2025-07-24 01:59:39.390661+00:00",
+    "date": "2025-07-25 01:59:27.075608+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "ALYac": {
@@ -308,10 +308,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2019-nuitka-portable.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -812,7 +808,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SentinelOne": {
                 "details": null,
@@ -994,7 +990,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1532,10 +1528,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2019-pyinstaller-standalone.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -1848,7 +1840,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -1872,7 +1864,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -1888,7 +1880,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -2036,7 +2028,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SentinelOne": {
                 "details": null,
@@ -2044,7 +2036,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -2072,7 +2064,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -2120,7 +2112,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -2218,7 +2210,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2230,7 +2222,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
@@ -2265,8 +2257,8 @@
                 "type": "malicious"
             },
             "Google": {
-                "details": "Detected",
-                "type": "malicious"
+                "details": null,
+                "type": "failure"
             },
             "Gridinsoft": {
                 "details": null,
@@ -2349,8 +2341,8 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": "Artemis",
-                "type": "malicious"
+                "details": null,
+                "type": "failure"
             },
             "Sophos": {
                 "details": null,
@@ -2378,7 +2370,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "TrendMicro": {
                 "details": null,
@@ -2524,7 +2516,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2612,7 +2604,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -3268,7 +3260,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -3296,7 +3288,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -3368,6 +3360,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-pyinstaller-standalone.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -3744,7 +3740,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -4181,8 +4177,8 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": null,
-                "type": "failure"
+                "details": "Artemis",
+                "type": "malicious"
             },
             "Sophos": {
                 "details": null,
@@ -5100,7 +5096,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -5184,7 +5180,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "alibabacloud": {
                 "details": null,
