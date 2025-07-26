@@ -1,5 +1,5 @@
 {
-    "date": "2025-07-25 01:59:27.075608+00:00",
+    "date": "2025-07-26 01:57:13.702325+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -110,6 +110,10 @@
                 "details": "Gen:Variant.Mikey.178486",
                 "type": "malicious"
             },
+            "Google": {
+                "details": "Detected",
+                "type": "malicious"
+            },
             "Ikarus": {
                 "details": "Trojan-Dropper.Win32.Agent",
                 "type": "malicious"
@@ -136,6 +140,10 @@
             },
             "Panda": {
                 "details": "Trj/Chgt.AD",
+                "type": "malicious"
+            },
+            "Skyhigh": {
+                "details": "Artemis",
                 "type": "malicious"
             },
             "Symantec": {
@@ -250,10 +258,6 @@
             },
             "Panda": {
                 "details": "Trj/Chgt.AD",
-                "type": "malicious"
-            },
-            "Skyhigh": {
-                "details": "Artemis",
                 "type": "malicious"
             },
             "Symantec": {
