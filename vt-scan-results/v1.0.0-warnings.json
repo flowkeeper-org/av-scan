@@ -1,5 +1,5 @@
 {
-    "date": "2025-07-26 01:57:13.702325+00:00",
+    "date": "2025-07-27 02:16:51.250765+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -40,10 +40,6 @@
             },
             "Ikarus": {
                 "details": "PUA.Python.Nuitka",
-                "type": "malicious"
-            },
-            "MaxSecure": {
-                "details": "Trojan.Malware.324995110.susgen",
                 "type": "malicious"
             },
             "Symantec": {
@@ -87,7 +83,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1753197235ddff84",
+                "details": "Trojan.Ghanarava.1753580275ddff84",
                 "type": "malicious"
             },
             "CTX": {
@@ -128,10 +124,6 @@
             },
             "MicroWorld-eScan": {
                 "details": "Gen:Variant.Mikey.178486",
-                "type": "malicious"
-            },
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             },
             "Paloalto": {
@@ -188,10 +180,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-portable.exe": {
-            "ALYac": {
-                "details": "Gen:Variant.Mikey.178486",
-                "type": "malicious"
-            },
             "AVG": {
                 "details": "Win64:MalwareX-gen [Ransom]",
                 "type": "malicious"
@@ -209,7 +197,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17531972354b3bb2",
+                "details": "Trojan.Ghanarava.17535802754b3bb2",
                 "type": "malicious"
             },
             "CTX": {
@@ -258,6 +246,10 @@
             },
             "Panda": {
                 "details": "Trj/Chgt.AD",
+                "type": "malicious"
+            },
+            "Skyhigh": {
+                "details": "Artemis",
                 "type": "malicious"
             },
             "Symantec": {
