@@ -1,5 +1,5 @@
 {
-    "date": "2025-07-28 02:05:27.284207+00:00",
+    "date": "2025-07-29 02:12:32.044504+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -54,12 +54,8 @@
         "flowkeeper-1.0.0-windows-2019-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.0-windows-2019-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.0-windows-2019-pyinstaller-standalone.exe": {
-            "K7GW": {
+            "K7AntiVirus": {
                 "details": "Trojan ( 005cadf01 )",
-                "type": "malicious"
-            },
-            "Zillya": {
-                "details": "Trojan.Agent.Win32.4270125",
                 "type": "malicious"
             }
         },
@@ -91,7 +87,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1753580275ddff84",
+                "details": "Trojan.Ghanarava.1753689790ddff84",
                 "type": "malicious"
             },
             "CTX": {
@@ -180,12 +176,8 @@
         "flowkeeper-1.0.0-windows-2022-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.0-windows-2022-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.0-windows-2022-pyinstaller-standalone.exe": {
-            "K7GW": {
+            "K7AntiVirus": {
                 "details": "Trojan ( 005cadf01 )",
-                "type": "malicious"
-            },
-            "Zillya": {
-                "details": "Trojan.Agent.Win32.4270125",
                 "type": "malicious"
             }
         },
@@ -217,7 +209,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17535802754b3bb2",
+                "details": "Trojan.Ghanarava.17536897904b3bb2",
                 "type": "malicious"
             },
             "CTX": {
@@ -310,7 +302,7 @@
                 "details": "MALICIOUS",
                 "type": "malicious"
             },
-            "K7GW": {
+            "K7AntiVirus": {
                 "details": "Trojan ( 005cadf01 )",
                 "type": "malicious"
             },
@@ -320,10 +312,6 @@
             },
             "McAfeeD": {
                 "details": "ti!6377547437F2",
-                "type": "malicious"
-            },
-            "Zillya": {
-                "details": "Trojan.Agent.Win32.4270125",
                 "type": "malicious"
             }
         }
