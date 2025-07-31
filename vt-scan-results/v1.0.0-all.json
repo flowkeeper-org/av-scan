@@ -1,7 +1,11 @@
 {
-    "date": "2025-07-30 02:10:45.925575+00:00",
+    "date": "2025-07-31 02:01:17.773792+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -304,6 +308,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2019-nuitka-portable.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -1520,6 +1528,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2019-pyinstaller-standalone.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -1722,7 +1734,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -1896,7 +1908,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2088,7 +2100,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Webroot": {
                 "details": null,
@@ -2189,7 +2201,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1753777022ddff84",
+                "details": "Trojan.Ghanarava.1753861690ddff84",
                 "type": "malicious"
             },
             "CMC": {
@@ -2202,7 +2214,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2362,7 +2374,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -2434,10 +2446,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-standalone.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2508,7 +2516,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3046,6 +3054,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-pyinstaller-portable.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -3348,6 +3360,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-pyinstaller-standalone.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -3724,7 +3740,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3956,13 +3972,17 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-portable.exe": {
+            "ALYac": {
+                "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
             },
             "AVG": {
-                "details": "Win64:MalwareX-gen [Ransom]",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -3985,8 +4005,8 @@
                 "type": "malicious"
             },
             "Avast": {
-                "details": "Win64:MalwareX-gen [Ransom]",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -3998,11 +4018,11 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefender": {
-                "details": "Gen:Variant.Mikey.178486",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -4013,7 +4033,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17537770224b3bb2",
+                "details": "Trojan.Ghanarava.17538616904b3bb2",
                 "type": "malicious"
             },
             "CMC": {
@@ -4026,7 +4046,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -4054,7 +4074,7 @@
             },
             "Elastic": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Emsisoft": {
                 "details": "Gen:Variant.Mikey.178486 (B)",
@@ -4186,7 +4206,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -4209,8 +4229,8 @@
                 "type": "malicious"
             },
             "Varist": {
-                "details": "W64/ABTrojan.RTAO-5180",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "ViRobot": {
                 "details": null,
@@ -4332,7 +4352,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -5250,7 +5270,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -5442,7 +5462,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Webroot": {
                 "details": null,
