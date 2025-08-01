@@ -1,5 +1,5 @@
 {
-    "date": "2025-07-31 02:01:17.773792+00:00",
+    "date": "2025-08-01 02:11:37.742099+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "ALYac": {
@@ -160,7 +160,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "MaxSecure": {
                 "details": null,
@@ -466,7 +466,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "MaxSecure": {
                 "details": null,
@@ -772,7 +772,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "MaxSecure": {
                 "details": "Trojan.Malware.324995110.susgen",
@@ -1078,7 +1078,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "MaxSecure": {
                 "details": null,
@@ -1226,6 +1226,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2019-pyinstaller-portable.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -1380,7 +1384,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "MaxSecure": {
                 "details": null,
@@ -1528,10 +1532,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2019-pyinstaller-standalone.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -1834,17 +1834,13 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-installer.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -1868,7 +1864,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -1880,11 +1876,11 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -1896,7 +1892,7 @@
             },
             "CAT-QuickHeal": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CMC": {
                 "details": null,
@@ -1908,7 +1904,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1948,7 +1944,7 @@
             },
             "Fortinet": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "GData": {
                 "details": null,
@@ -1992,7 +1988,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "MaxSecure": {
                 "details": null,
@@ -2068,7 +2064,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -2100,7 +2096,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Webroot": {
                 "details": null,
@@ -2201,7 +2197,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1753861690ddff84",
+                "details": "Trojan.Ghanarava.1753952406ddff84",
                 "type": "malicious"
             },
             "CMC": {
@@ -2214,7 +2210,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2298,7 +2294,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "MaxSecure": {
                 "details": null,
@@ -2374,7 +2370,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -2446,6 +2442,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-standalone.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2600,7 +2600,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "MaxSecure": {
                 "details": null,
@@ -3212,7 +3212,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "MaxSecure": {
                 "details": null,
@@ -3518,7 +3518,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "MaxSecure": {
                 "details": null,
@@ -3824,7 +3824,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "MaxSecure": {
                 "details": null,
@@ -3981,8 +3981,8 @@
                 "type": "undetected"
             },
             "AVG": {
-                "details": null,
-                "type": "timeout"
+                "details": "Win64:MalwareX-gen [Ransom]",
+                "type": "malicious"
             },
             "Acronis": {
                 "details": null,
@@ -4005,8 +4005,8 @@
                 "type": "malicious"
             },
             "Avast": {
-                "details": null,
-                "type": "timeout"
+                "details": "Win64:MalwareX-gen [Ransom]",
+                "type": "malicious"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -4018,11 +4018,11 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefender": {
-                "details": null,
-                "type": "timeout"
+                "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -4033,7 +4033,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17538616904b3bb2",
+                "details": "Trojan.Ghanarava.17539524064b3bb2",
                 "type": "malicious"
             },
             "CMC": {
@@ -4046,7 +4046,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -4130,7 +4130,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "MaxSecure": {
                 "details": null,
@@ -4206,7 +4206,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -4230,7 +4230,7 @@
             },
             "Varist": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ViRobot": {
                 "details": null,
@@ -4436,7 +4436,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "MaxSecure": {
                 "details": null,
@@ -4742,7 +4742,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "MaxSecure": {
                 "details": null,
@@ -5048,7 +5048,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "MaxSecure": {
                 "details": null,
@@ -5354,7 +5354,7 @@
             },
             "Malwarebytes": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "MaxSecure": {
                 "details": "Trojan.Malware.338148470.susgen",
