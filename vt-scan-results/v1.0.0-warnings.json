@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-01 02:11:37.742099+00:00",
+    "date": "2025-08-02 02:04:18.774709+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -110,11 +110,15 @@
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Trojan-Dropper.Win32.Agent",
+                "details": "Dump.Generic.Python",
                 "type": "malicious"
             },
             "Lionic": {
                 "details": "Trojan.Win32.Generic.4!c",
+                "type": "malicious"
+            },
+            "Malwarebytes": {
+                "details": "Malware.AI.2578617360",
                 "type": "malicious"
             },
             "McAfeeD": {
@@ -227,11 +231,15 @@
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Trojan-Dropper.Win32.Agent",
+                "details": "Dump.Generic.Python",
                 "type": "malicious"
             },
             "Lionic": {
                 "details": "Trojan.Win32.Generic.4!c",
+                "type": "malicious"
+            },
+            "Malwarebytes": {
+                "details": "Malware.AI.2578617360",
                 "type": "malicious"
             },
             "McAfeeD": {
@@ -260,6 +268,10 @@
             },
             "VIPRE": {
                 "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
+            },
+            "Varist": {
+                "details": "W64/ABTrojan.RTAO-5180",
                 "type": "malicious"
             }
         },
