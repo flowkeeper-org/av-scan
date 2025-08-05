@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-04 02:09:06.246585+00:00",
+    "date": "2025-08-05 02:13:14.901847+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -186,16 +186,12 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-portable.exe": {
-            "AVG": {
-                "details": "Win64:MalwareX-gen [Ransom]",
+            "ALYac": {
+                "details": "Gen:Variant.Mikey.178486",
                 "type": "malicious"
             },
             "Arcabit": {
                 "details": "Trojan.Mikey.D2B936",
-                "type": "malicious"
-            },
-            "Avast": {
-                "details": "Win64:MalwareX-gen [Ransom]",
                 "type": "malicious"
             },
             "BitDefender": {
@@ -286,10 +282,6 @@
             },
             "Ikarus": {
                 "details": "Dump.Generic.Python",
-                "type": "malicious"
-            },
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             }
         },
