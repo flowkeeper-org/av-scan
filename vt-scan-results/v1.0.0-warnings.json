@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-05 02:13:14.901847+00:00",
+    "date": "2025-08-06 02:02:29.446029+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -129,10 +129,6 @@
                 "details": "Gen:Variant.Mikey.178486",
                 "type": "malicious"
             },
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
-            },
             "Paloalto": {
                 "details": "generic.ml",
                 "type": "malicious"
@@ -170,10 +166,6 @@
             "Ikarus": {
                 "details": "Dump.Generic.Python",
                 "type": "malicious"
-            },
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
             }
         },
         "flowkeeper-1.0.0-windows-2022-pyinstaller-installer.exe": {},
@@ -190,8 +182,16 @@
                 "details": "Gen:Variant.Mikey.178486",
                 "type": "malicious"
             },
+            "AVG": {
+                "details": "Win64:MalwareX-gen [Ransom]",
+                "type": "malicious"
+            },
             "Arcabit": {
                 "details": "Trojan.Mikey.D2B936",
+                "type": "malicious"
+            },
+            "Avast": {
+                "details": "Win64:MalwareX-gen [Ransom]",
                 "type": "malicious"
             },
             "BitDefender": {
@@ -256,10 +256,6 @@
             },
             "Skyhigh": {
                 "details": "Artemis",
-                "type": "malicious"
-            },
-            "Symantec": {
-                "details": "ML.Attribute.HighConfidence",
                 "type": "malicious"
             },
             "VIPRE": {
