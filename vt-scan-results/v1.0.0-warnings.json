@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-06 02:02:29.446029+00:00",
+    "date": "2025-08-07 02:04:41.295183+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -24,6 +24,10 @@
                 "details": "ti!DD1F478AB96B",
                 "type": "malicious"
             },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
+            },
             "Symantec": {
                 "details": "ML.Attribute.HighConfidence",
                 "type": "malicious"
@@ -42,10 +46,6 @@
                 "details": "PUA.Python.Nuitka",
                 "type": "malicious"
             },
-            "MaxSecure": {
-                "details": "Trojan.Malware.324995110.susgen",
-                "type": "malicious"
-            },
             "Symantec": {
                 "details": "ML.Attribute.HighConfidence",
                 "type": "malicious"
@@ -56,7 +56,7 @@
         "flowkeeper-1.0.0-windows-2019-pyinstaller-standalone.exe": {},
         "flowkeeper-1.0.0-windows-2022-nuitka-installer.exe": {
             "Ikarus": {
-                "details": "Dump.Generic.Python",
+                "details": "Trojan.Python.Psw",
                 "type": "malicious"
             }
         },
@@ -79,10 +79,6 @@
             },
             "BitDefender": {
                 "details": "Gen:Variant.Mikey.178486",
-                "type": "malicious"
-            },
-            "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1754210022ddff84",
                 "type": "malicious"
             },
             "CTX": {
@@ -110,7 +106,7 @@
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Dump.Generic.Python",
+                "details": "Trojan.Python.Psw",
                 "type": "malicious"
             },
             "Lionic": {
@@ -127,6 +123,10 @@
             },
             "MicroWorld-eScan": {
                 "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
+            },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             },
             "Paloalto": {
@@ -164,7 +164,11 @@
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Dump.Generic.Python",
+                "details": "Trojan.Python.Psw",
+                "type": "malicious"
+            },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             }
         },
@@ -173,7 +177,7 @@
         "flowkeeper-1.0.0-windows-2022-pyinstaller-standalone.exe": {},
         "flowkeeper-1.0.0-windows-2025-nuitka-installer.exe": {
             "Ikarus": {
-                "details": "Dump.Generic.Python",
+                "details": "Trojan.Python.Psw",
                 "type": "malicious"
             }
         },
@@ -227,7 +231,7 @@
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Dump.Generic.Python",
+                "details": "Trojan.Python.Psw",
                 "type": "malicious"
             },
             "Lionic": {
@@ -258,6 +262,10 @@
                 "details": "Artemis",
                 "type": "malicious"
             },
+            "Symantec": {
+                "details": "ML.Attribute.HighConfidence",
+                "type": "malicious"
+            },
             "VIPRE": {
                 "details": "Gen:Variant.Mikey.178486",
                 "type": "malicious"
@@ -277,7 +285,7 @@
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Dump.Generic.Python",
+                "details": "Trojan.Python.Psw",
                 "type": "malicious"
             }
         },

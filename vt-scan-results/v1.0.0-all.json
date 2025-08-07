@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-06 02:02:29.446029+00:00",
+    "date": "2025-08-07 02:04:41.295183+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "ALYac": {
@@ -481,8 +481,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -676,7 +676,7 @@
             },
             "CAT-QuickHeal": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CMC": {
                 "details": null,
@@ -775,8 +775,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": "Trojan.Malware.324995110.susgen",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -864,7 +864,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "VIPRE": {
                 "details": null,
@@ -920,10 +920,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2019-pyinstaller-installer.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -1606,7 +1602,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1766,7 +1762,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -1888,7 +1884,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -1912,7 +1908,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1967,7 +1963,7 @@
                 "type": "undetected"
             },
             "Ikarus": {
-                "details": "Dump.Generic.Python",
+                "details": "Trojan.Python.Psw",
                 "type": "malicious"
             },
             "Jiangmin": {
@@ -2072,7 +2068,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -2205,8 +2201,8 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1754210022ddff84",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "CMC": {
                 "details": null,
@@ -2218,7 +2214,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2273,7 +2269,7 @@
                 "type": "undetected"
             },
             "Ikarus": {
-                "details": "Dump.Generic.Python",
+                "details": "Trojan.Python.Psw",
                 "type": "malicious"
             },
             "Jiangmin": {
@@ -2317,8 +2313,8 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -2394,7 +2390,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "VIPRE": {
                 "details": "Gen:Variant.Mikey.178486",
@@ -2579,7 +2575,7 @@
                 "type": "undetected"
             },
             "Ikarus": {
-                "details": "Dump.Generic.Python",
+                "details": "Trojan.Python.Psw",
                 "type": "malicious"
             },
             "Jiangmin": {
@@ -2623,8 +2619,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -2878,7 +2874,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Gridinsoft": {
                 "details": null,
@@ -3442,7 +3438,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3803,7 +3799,7 @@
                 "type": "undetected"
             },
             "Ikarus": {
-                "details": "Dump.Generic.Python",
+                "details": "Trojan.Python.Psw",
                 "type": "malicious"
             },
             "Jiangmin": {
@@ -4054,7 +4050,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -4109,7 +4105,7 @@
                 "type": "undetected"
             },
             "Ikarus": {
-                "details": "Dump.Generic.Python",
+                "details": "Trojan.Python.Psw",
                 "type": "malicious"
             },
             "Jiangmin": {
@@ -4193,8 +4189,8 @@
                 "type": "undetected"
             },
             "Symantec": {
-                "details": null,
-                "type": "undetected"
+                "details": "ML.Attribute.HighConfidence",
+                "type": "malicious"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -4336,7 +4332,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -4360,7 +4356,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -4415,7 +4411,7 @@
                 "type": "undetected"
             },
             "Ikarus": {
-                "details": "Dump.Generic.Python",
+                "details": "Trojan.Python.Psw",
                 "type": "malicious"
             },
             "Jiangmin": {
@@ -4520,7 +4516,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -4882,7 +4878,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "alibabacloud": {
                 "details": null,
@@ -5020,7 +5016,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Gridinsoft": {
                 "details": null,
