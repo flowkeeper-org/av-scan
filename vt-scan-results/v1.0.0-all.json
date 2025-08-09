@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-08 02:02:04.855435+00:00",
+    "date": "2025-08-09 02:00:29.969690+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "ALYac": {
@@ -481,8 +481,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": "Program:Win32/Wacapew.C!ml",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -820,7 +820,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -2273,7 +2273,7 @@
                 "type": "undetected"
             },
             "Ikarus": {
-                "details": "Trojan.Python.Psw",
+                "details": "Trojan.Win64.Agent",
                 "type": "malicious"
             },
             "Jiangmin": {
@@ -2508,7 +2508,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -3046,7 +3046,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "alibabacloud": {
                 "details": null,
@@ -3184,7 +3184,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Gridinsoft": {
                 "details": null,
@@ -3426,7 +3426,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -3748,7 +3748,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3956,7 +3956,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -3989,8 +3989,8 @@
                 "type": "undetected"
             },
             "AVG": {
-                "details": null,
-                "type": "timeout"
+                "details": "Win64:MalwareX-gen [Ransom]",
+                "type": "malicious"
             },
             "Acronis": {
                 "details": null,
@@ -4013,8 +4013,8 @@
                 "type": "malicious"
             },
             "Avast": {
-                "details": null,
-                "type": "timeout"
+                "details": "Win64:MalwareX-gen [Ransom]",
+                "type": "malicious"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -4026,7 +4026,7 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefender": {
                 "details": "Gen:Variant.Mikey.178486",
@@ -4054,7 +4054,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -4109,7 +4109,7 @@
                 "type": "undetected"
             },
             "Ikarus": {
-                "details": "Trojan.Python.Psw",
+                "details": "Trojan.Win64.Agent",
                 "type": "malicious"
             },
             "Jiangmin": {
@@ -4178,23 +4178,23 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SentinelOne": {
                 "details": null,
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": null,
-                "type": "timeout"
+                "details": "Artemis",
+                "type": "malicious"
             },
             "Sophos": {
                 "details": null,
                 "type": "undetected"
             },
             "Symantec": {
-                "details": "ML.Attribute.HighConfidence",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -4214,7 +4214,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -4666,7 +4666,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -5365,8 +5365,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": "Trojan.Malware.338148470.susgen",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": "ti!6377547437F2",
@@ -5402,7 +5402,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SentinelOne": {
                 "details": null,

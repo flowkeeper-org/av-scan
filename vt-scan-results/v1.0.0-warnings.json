@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-08 02:02:04.855435+00:00",
+    "date": "2025-08-09 02:00:29.969690+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -22,10 +22,6 @@
             },
             "McAfeeD": {
                 "details": "ti!DD1F478AB96B",
-                "type": "malicious"
-            },
-            "Microsoft": {
-                "details": "Program:Win32/Wacapew.C!ml",
                 "type": "malicious"
             },
             "Symantec": {
@@ -114,7 +110,7 @@
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Trojan.Python.Psw",
+                "details": "Trojan.Win64.Agent",
                 "type": "malicious"
             },
             "Lionic": {
@@ -190,8 +186,16 @@
                 "details": "Gen:Variant.Mikey.178486",
                 "type": "malicious"
             },
+            "AVG": {
+                "details": "Win64:MalwareX-gen [Ransom]",
+                "type": "malicious"
+            },
             "Arcabit": {
                 "details": "Trojan.Mikey.D2B936",
+                "type": "malicious"
+            },
+            "Avast": {
+                "details": "Win64:MalwareX-gen [Ransom]",
                 "type": "malicious"
             },
             "BitDefender": {
@@ -227,7 +231,7 @@
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Trojan.Python.Psw",
+                "details": "Trojan.Win64.Agent",
                 "type": "malicious"
             },
             "Lionic": {
@@ -254,8 +258,8 @@
                 "details": "Trj/Chgt.AD",
                 "type": "malicious"
             },
-            "Symantec": {
-                "details": "ML.Attribute.HighConfidence",
+            "Skyhigh": {
+                "details": "Artemis",
                 "type": "malicious"
             },
             "VIPRE": {
@@ -286,10 +290,6 @@
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
-                "type": "malicious"
-            },
-            "MaxSecure": {
-                "details": "Trojan.Malware.338148470.susgen",
                 "type": "malicious"
             },
             "McAfeeD": {
