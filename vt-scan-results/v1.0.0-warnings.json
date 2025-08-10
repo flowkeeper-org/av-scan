@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-09 02:00:29.969690+00:00",
+    "date": "2025-08-10 02:06:46.742314+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -42,10 +42,6 @@
                 "details": "PUA.Python.Nuitka",
                 "type": "malicious"
             },
-            "MaxSecure": {
-                "details": "Trojan.Malware.324995110.susgen",
-                "type": "malicious"
-            },
             "Symantec": {
                 "details": "ML.Attribute.HighConfidence",
                 "type": "malicious"
@@ -61,10 +57,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-portable.exe": {
-            "ALYac": {
-                "details": "Gen:Variant.Mikey.178486",
-                "type": "malicious"
-            },
             "AVG": {
                 "details": "Win64:MalwareX-gen [Ransom]",
                 "type": "malicious"
@@ -130,7 +122,7 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
+                "details": "Program:Win32/Wacapew.C!ml",
                 "type": "malicious"
             },
             "Paloalto": {
@@ -258,8 +250,8 @@
                 "details": "Trj/Chgt.AD",
                 "type": "malicious"
             },
-            "Skyhigh": {
-                "details": "Artemis",
+            "Symantec": {
+                "details": "ML.Attribute.HighConfidence",
                 "type": "malicious"
             },
             "VIPRE": {
@@ -290,6 +282,10 @@
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
+                "type": "malicious"
+            },
+            "MaxSecure": {
+                "details": "Trojan.Malware.338148470.susgen",
                 "type": "malicious"
             },
             "McAfeeD": {
