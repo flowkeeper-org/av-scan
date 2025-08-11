@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-10 02:06:46.742314+00:00",
+    "date": "2025-08-11 02:01:39.594186+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "ALYac": {
@@ -614,10 +614,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2019-nuitka-standalone.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -664,7 +660,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -688,7 +684,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -775,8 +771,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Malware.324995110.susgen",
+                "type": "malicious"
             },
             "McAfeeD": {
                 "details": null,
@@ -804,7 +800,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -848,7 +844,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -920,10 +916,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2019-pyinstaller-installer.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -1838,6 +1830,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-installer.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2140,6 +2136,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-portable.exe": {
+            "ALYac": {
+                "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2309,7 +2309,7 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Program:Win32/Wacapew.C!ml",
+                "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             },
             "NANO-Antivirus": {
@@ -3128,7 +3128,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3260,7 +3260,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -3288,7 +3288,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -4046,7 +4046,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -4177,8 +4177,8 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": null,
-                "type": "timeout"
+                "details": "Artemis",
+                "type": "malicious"
             },
             "Sophos": {
                 "details": null,
@@ -4206,7 +4206,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -4229,8 +4229,8 @@
                 "type": "malicious"
             },
             "Varist": {
-                "details": null,
-                "type": "undetected"
+                "details": "W64/ABTrojan.RTAO-5180",
+                "type": "malicious"
             },
             "ViRobot": {
                 "details": null,
@@ -4484,7 +4484,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Sophos": {
                 "details": null,
@@ -5012,7 +5012,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Gridinsoft": {
                 "details": null,
