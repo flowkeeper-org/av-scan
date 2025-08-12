@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-11 02:01:39.594186+00:00",
+    "date": "2025-08-12 01:51:02.897479+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -182,10 +182,6 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-portable.exe": {
-            "ALYac": {
-                "details": "Gen:Variant.Mikey.178486",
-                "type": "malicious"
-            },
             "AVG": {
                 "details": "Win64:MalwareX-gen [Ransom]",
                 "type": "malicious"
