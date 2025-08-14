@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-13 01:53:57.868905+00:00",
+    "date": "2025-08-14 02:02:12.899291+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "Ikarus": {
@@ -53,7 +53,16 @@
         },
         "flowkeeper-1.0.0-windows-2019-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.0-windows-2019-pyinstaller-portable.exe": {},
-        "flowkeeper-1.0.0-windows-2019-pyinstaller-standalone.exe": {},
+        "flowkeeper-1.0.0-windows-2019-pyinstaller-standalone.exe": {
+            "Sophos": {
+                "details": "Troj/PWS-COO",
+                "type": "malicious"
+            },
+            "ZoneAlarm": {
+                "details": "Troj/PWS-COO",
+                "type": "malicious"
+            }
+        },
         "flowkeeper-1.0.0-windows-2022-nuitka-installer.exe": {
             "Ikarus": {
                 "details": "Trojan.Python.Psw",
@@ -61,6 +70,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-portable.exe": {
+            "ALYac": {
+                "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
+            },
             "AVG": {
                 "details": "Win64:MalwareX-gen [Ransom]",
                 "type": "malicious"
@@ -78,7 +91,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1754210022ddff84",
+                "details": "Trojan.Ghanarava.1755070536ddff84",
                 "type": "malicious"
             },
             "CTX": {
@@ -170,7 +183,16 @@
         },
         "flowkeeper-1.0.0-windows-2022-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.0-windows-2022-pyinstaller-portable.exe": {},
-        "flowkeeper-1.0.0-windows-2022-pyinstaller-standalone.exe": {},
+        "flowkeeper-1.0.0-windows-2022-pyinstaller-standalone.exe": {
+            "Sophos": {
+                "details": "Troj/PWS-COO",
+                "type": "malicious"
+            },
+            "ZoneAlarm": {
+                "details": "Troj/PWS-COO",
+                "type": "malicious"
+            }
+        },
         "flowkeeper-1.0.0-windows-2025-nuitka-installer.exe": {
             "Ikarus": {
                 "details": "Trojan.Python.Psw",
@@ -199,7 +221,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17539524064b3bb2",
+                "details": "Trojan.Ghanarava.17550705364b3bb2",
                 "type": "malicious"
             },
             "CTX": {
@@ -276,10 +298,6 @@
                 "details": "Win64.Trojan.Agent.6DN9BX",
                 "type": "malicious"
             },
-            "Google": {
-                "details": "Detected",
-                "type": "malicious"
-            },
             "Ikarus": {
                 "details": "Trojan.Python.Psw",
                 "type": "malicious"
@@ -302,6 +320,14 @@
             },
             "McAfeeD": {
                 "details": "ti!6377547437F2",
+                "type": "malicious"
+            },
+            "Sophos": {
+                "details": "Troj/PWS-COO",
+                "type": "malicious"
+            },
+            "ZoneAlarm": {
+                "details": "Troj/PWS-COO",
                 "type": "malicious"
             }
         }

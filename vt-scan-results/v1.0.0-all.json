@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-13 01:53:57.868905+00:00",
+    "date": "2025-08-14 02:02:12.899291+00:00",
     "results": {
         "flowkeeper-1.0.0-windows-2019-nuitka-installer.exe": {
             "ALYac": {
@@ -308,6 +308,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2019-nuitka-portable.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -510,7 +514,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Sophos": {
                 "details": null,
@@ -610,6 +614,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2019-nuitka-standalone.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -1202,7 +1210,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "alibabacloud": {
                 "details": null,
@@ -1730,11 +1738,11 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
-                "details": null,
-                "type": "undetected"
+                "details": "Troj/PWS-COO",
+                "type": "malicious"
             },
             "Symantec": {
                 "details": null,
@@ -1809,8 +1817,8 @@
                 "type": "undetected"
             },
             "ZoneAlarm": {
-                "details": null,
-                "type": "undetected"
+                "details": "Troj/PWS-COO",
+                "type": "malicious"
             },
             "Zoner": {
                 "details": null,
@@ -1840,7 +1848,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -1864,7 +1872,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -1952,7 +1960,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Gridinsoft": {
                 "details": null,
@@ -2036,7 +2044,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -2064,7 +2072,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -2136,6 +2144,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2022-nuitka-portable.exe": {
+            "ALYac": {
+                "details": "Gen:Variant.Mikey.178486",
+                "type": "malicious"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2193,7 +2205,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1754210022ddff84",
+                "details": "Trojan.Ghanarava.1755070536ddff84",
                 "type": "malicious"
             },
             "CMC": {
@@ -3240,7 +3252,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -3565,8 +3577,8 @@
                 "type": "undetected"
             },
             "Sophos": {
-                "details": null,
-                "type": "undetected"
+                "details": "Troj/PWS-COO",
+                "type": "malicious"
             },
             "Symantec": {
                 "details": null,
@@ -3641,8 +3653,8 @@
                 "type": "undetected"
             },
             "ZoneAlarm": {
-                "details": null,
-                "type": "undetected"
+                "details": "Troj/PWS-COO",
+                "type": "malicious"
             },
             "Zoner": {
                 "details": null,
@@ -3662,6 +3674,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-nuitka-installer.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -3732,7 +3748,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -4025,7 +4041,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.17539524064b3bb2",
+                "details": "Trojan.Ghanarava.17550705364b3bb2",
                 "type": "malicious"
             },
             "CMC": {
@@ -4050,7 +4066,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
@@ -4280,7 +4296,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -4304,7 +4320,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -4344,7 +4360,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -4391,8 +4407,8 @@
                 "type": "malicious"
             },
             "Google": {
-                "details": "Detected",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "Gridinsoft": {
                 "details": null,
@@ -4476,7 +4492,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -4504,7 +4520,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -4576,6 +4592,10 @@
             }
         },
         "flowkeeper-1.0.0-windows-2025-pyinstaller-installer.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -5393,8 +5413,8 @@
                 "type": "undetected"
             },
             "Sophos": {
-                "details": null,
-                "type": "undetected"
+                "details": "Troj/PWS-COO",
+                "type": "malicious"
             },
             "Symantec": {
                 "details": null,
@@ -5469,8 +5489,8 @@
                 "type": "undetected"
             },
             "ZoneAlarm": {
-                "details": null,
-                "type": "undetected"
+                "details": "Troj/PWS-COO",
+                "type": "malicious"
             },
             "Zoner": {
                 "details": null,
