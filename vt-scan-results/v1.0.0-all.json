@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-17 01:58:54.407086+00:00",
+    "date": "2025-08-18 01:59:15.206495+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -377,8 +377,8 @@
                 "type": "undetected"
             },
             "CTX": {
-                "details": "exe.unknown.cerbu",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "ClamAV": {
                 "details": null,
@@ -397,8 +397,8 @@
                 "type": "undetected"
             },
             "DeepInstinct": {
-                "details": null,
-                "type": "undetected"
+                "details": "MALICIOUS",
+                "type": "malicious"
             },
             "DrWeb": {
                 "details": null,
@@ -421,8 +421,8 @@
                 "type": "undetected"
             },
             "Fortinet": {
-                "details": null,
-                "type": "undetected"
+                "details": "W32/PossibleThreat",
+                "type": "malicious"
             },
             "GData": {
                 "details": "Gen:Variant.Cerbu.259885",
@@ -473,24 +473,24 @@
                 "type": "undetected"
             },
             "McAfeeD": {
-                "details": null,
-                "type": "undetected"
+                "details": "ti!36427F3032FF",
+                "type": "malicious"
             },
             "MicroWorld-eScan": {
                 "details": "Gen:Variant.Cerbu.259885",
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
             },
             "NANO-Antivirus": {
                 "details": null,
                 "type": "undetected"
             },
             "Paloalto": {
-                "details": null,
-                "type": "undetected"
+                "details": "generic.ml",
+                "type": "malicious"
             },
             "Panda": {
                 "details": null,
@@ -731,8 +731,8 @@
                 "type": "undetected"
             },
             "GData": {
-                "details": null,
-                "type": "undetected"
+                "details": "Win64.Trojan.Agent.VEDYKK",
+                "type": "malicious"
             },
             "Google": {
                 "details": "Detected",
@@ -787,8 +787,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -2213,8 +2213,8 @@
                 "type": "undetected"
             },
             "CTX": {
-                "details": "exe.unknown.cerbu",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "ClamAV": {
                 "details": null,
@@ -2233,8 +2233,8 @@
                 "type": "undetected"
             },
             "DeepInstinct": {
-                "details": null,
-                "type": "undetected"
+                "details": "MALICIOUS",
+                "type": "malicious"
             },
             "DrWeb": {
                 "details": null,
@@ -2257,8 +2257,8 @@
                 "type": "undetected"
             },
             "Fortinet": {
-                "details": null,
-                "type": "undetected"
+                "details": "W32/PossibleThreat",
+                "type": "malicious"
             },
             "GData": {
                 "details": "Gen:Variant.Cerbu.259885",
@@ -2317,16 +2317,16 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
             },
             "NANO-Antivirus": {
                 "details": null,
                 "type": "undetected"
             },
             "Paloalto": {
-                "details": null,
-                "type": "undetected"
+                "details": "generic.ml",
+                "type": "malicious"
             },
             "Panda": {
                 "details": null,
@@ -2567,8 +2567,8 @@
                 "type": "undetected"
             },
             "GData": {
-                "details": null,
-                "type": "undetected"
+                "details": "Win64.Trojan.Agent.VIG3FZ",
+                "type": "malicious"
             },
             "Google": {
                 "details": "Detected",
@@ -2623,8 +2623,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -3136,7 +3136,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3260,7 +3260,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SentinelOne": {
                 "details": null,
@@ -3352,7 +3352,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "alibabacloud": {
                 "details": null,
@@ -3442,7 +3442,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3566,7 +3566,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SentinelOne": {
                 "details": null,

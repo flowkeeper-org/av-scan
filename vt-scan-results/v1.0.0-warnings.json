@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-17 01:58:54.407086+00:00",
+    "date": "2025-08-18 01:59:15.206495+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "Ikarus": {
@@ -20,12 +20,16 @@
                 "details": "Gen:Variant.Cerbu.259885",
                 "type": "malicious"
             },
-            "CTX": {
-                "details": "exe.unknown.cerbu",
+            "DeepInstinct": {
+                "details": "MALICIOUS",
                 "type": "malicious"
             },
             "Emsisoft": {
                 "details": "Gen:Variant.Cerbu.259885 (B)",
+                "type": "malicious"
+            },
+            "Fortinet": {
+                "details": "W32/PossibleThreat",
                 "type": "malicious"
             },
             "GData": {
@@ -40,8 +44,20 @@
                 "details": "Trojan.Win64.Agent",
                 "type": "malicious"
             },
+            "McAfeeD": {
+                "details": "ti!36427F3032FF",
+                "type": "malicious"
+            },
             "MicroWorld-eScan": {
                 "details": "Gen:Variant.Cerbu.259885",
+                "type": "malicious"
+            },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
+            },
+            "Paloalto": {
+                "details": "generic.ml",
                 "type": "malicious"
             },
             "VIPRE": {
@@ -50,12 +66,20 @@
             }
         },
         "flowkeeper-1.0.1-windows-2022-nuitka-standalone.exe": {
+            "GData": {
+                "details": "Win64.Trojan.Agent.VEDYKK",
+                "type": "malicious"
+            },
             "Google": {
                 "details": "Detected",
                 "type": "malicious"
             },
             "Ikarus": {
                 "details": "Trojan.Python.Psw",
+                "type": "malicious"
+            },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             }
         },
@@ -98,12 +122,16 @@
                 "details": "Gen:Variant.Cerbu.259885",
                 "type": "malicious"
             },
-            "CTX": {
-                "details": "exe.unknown.cerbu",
+            "DeepInstinct": {
+                "details": "MALICIOUS",
                 "type": "malicious"
             },
             "Emsisoft": {
                 "details": "Gen:Variant.Cerbu.259885 (B)",
+                "type": "malicious"
+            },
+            "Fortinet": {
+                "details": "W32/PossibleThreat",
                 "type": "malicious"
             },
             "GData": {
@@ -122,18 +150,34 @@
                 "details": "Gen:Variant.Cerbu.259885",
                 "type": "malicious"
             },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
+            },
+            "Paloalto": {
+                "details": "generic.ml",
+                "type": "malicious"
+            },
             "VIPRE": {
                 "details": "Gen:Variant.Cerbu.259885",
                 "type": "malicious"
             }
         },
         "flowkeeper-1.0.1-windows-2025-nuitka-standalone.exe": {
+            "GData": {
+                "details": "Win64.Trojan.Agent.VIG3FZ",
+                "type": "malicious"
+            },
             "Google": {
                 "details": "Detected",
                 "type": "malicious"
             },
             "Ikarus": {
                 "details": "Trojan.Python.Psw",
+                "type": "malicious"
+            },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             }
         },
