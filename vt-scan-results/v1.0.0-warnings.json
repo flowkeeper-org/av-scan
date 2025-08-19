@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-18 01:59:15.206495+00:00",
+    "date": "2025-08-19 01:47:48.048351+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "Ikarus": {
@@ -18,6 +18,10 @@
             },
             "BitDefender": {
                 "details": "Gen:Variant.Cerbu.259885",
+                "type": "malicious"
+            },
+            "CTX": {
+                "details": "exe.trojan.cerbu",
                 "type": "malicious"
             },
             "DeepInstinct": {
@@ -60,6 +64,10 @@
                 "details": "generic.ml",
                 "type": "malicious"
             },
+            "Skyhigh": {
+                "details": "Artemis",
+                "type": "malicious"
+            },
             "VIPRE": {
                 "details": "Gen:Variant.Cerbu.259885",
                 "type": "malicious"
@@ -76,10 +84,6 @@
             },
             "Ikarus": {
                 "details": "Trojan.Python.Psw",
-                "type": "malicious"
-            },
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             }
         },
@@ -110,16 +114,16 @@
             }
         },
         "flowkeeper-1.0.1-windows-2025-nuitka-portable.exe": {
-            "ALYac": {
-                "details": "Gen:Variant.Cerbu.259885",
-                "type": "malicious"
-            },
             "Arcabit": {
                 "details": "Trojan.Cerbu.D3F72D",
                 "type": "malicious"
             },
             "BitDefender": {
                 "details": "Gen:Variant.Cerbu.259885",
+                "type": "malicious"
+            },
+            "CTX": {
+                "details": "exe.trojan.cerbu",
                 "type": "malicious"
             },
             "DeepInstinct": {
@@ -151,11 +155,15 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
+                "details": "Program:Win32/Wacapew.C!ml",
                 "type": "malicious"
             },
             "Paloalto": {
                 "details": "generic.ml",
+                "type": "malicious"
+            },
+            "Skyhigh": {
+                "details": "Artemis",
                 "type": "malicious"
             },
             "VIPRE": {
@@ -175,10 +183,6 @@
             "Ikarus": {
                 "details": "Trojan.Python.Psw",
                 "type": "malicious"
-            },
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
             }
         },
         "flowkeeper-1.0.1-windows-2025-pyinstaller-installer.exe": {},
@@ -190,6 +194,10 @@
             },
             "Jiangmin": {
                 "details": "Trojan.Tedy.fp",
+                "type": "malicious"
+            },
+            "Microsoft": {
+                "details": "Program:Win32/Wacapew.C!ml",
                 "type": "malicious"
             },
             "Zillya": {

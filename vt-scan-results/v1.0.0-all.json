@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-18 01:59:15.206495+00:00",
+    "date": "2025-08-19 01:47:48.048351+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -377,8 +377,8 @@
                 "type": "undetected"
             },
             "CTX": {
-                "details": null,
-                "type": "undetected"
+                "details": "exe.trojan.cerbu",
+                "type": "malicious"
             },
             "ClamAV": {
                 "details": null,
@@ -513,8 +513,8 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": null,
-                "type": "undetected"
+                "details": "Artemis",
+                "type": "malicious"
             },
             "Sophos": {
                 "details": null,
@@ -787,8 +787,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -2144,10 +2144,6 @@
             }
         },
         "flowkeeper-1.0.1-windows-2025-nuitka-portable.exe": {
-            "ALYac": {
-                "details": "Gen:Variant.Cerbu.259885",
-                "type": "malicious"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2213,8 +2209,8 @@
                 "type": "undetected"
             },
             "CTX": {
-                "details": null,
-                "type": "undetected"
+                "details": "exe.trojan.cerbu",
+                "type": "malicious"
             },
             "ClamAV": {
                 "details": null,
@@ -2317,7 +2313,7 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
+                "details": "Program:Win32/Wacapew.C!ml",
                 "type": "malicious"
             },
             "NANO-Antivirus": {
@@ -2349,8 +2345,8 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": null,
-                "type": "undetected"
+                "details": "Artemis",
+                "type": "malicious"
             },
             "Sophos": {
                 "details": null,
@@ -2623,8 +2619,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -3340,7 +3336,7 @@
             },
             "Yandex": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Zillya": {
                 "details": null,
@@ -3352,7 +3348,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "alibabacloud": {
                 "details": null,
@@ -3541,8 +3537,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Program:Win32/Wacapew.C!ml",
+                "type": "malicious"
             },
             "NANO-Antivirus": {
                 "details": null,
