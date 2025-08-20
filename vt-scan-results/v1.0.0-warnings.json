@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-19 01:47:48.048351+00:00",
+    "date": "2025-08-20 01:46:21.255009+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "Ikarus": {
@@ -8,18 +8,6 @@
             }
         },
         "flowkeeper-1.0.1-windows-2022-nuitka-portable.exe": {
-            "ALYac": {
-                "details": "Gen:Variant.Cerbu.259885",
-                "type": "malicious"
-            },
-            "Arcabit": {
-                "details": "Trojan.Cerbu.D3F72D",
-                "type": "malicious"
-            },
-            "BitDefender": {
-                "details": "Gen:Variant.Cerbu.259885",
-                "type": "malicious"
-            },
             "CTX": {
                 "details": "exe.trojan.cerbu",
                 "type": "malicious"
@@ -28,16 +16,8 @@
                 "details": "MALICIOUS",
                 "type": "malicious"
             },
-            "Emsisoft": {
-                "details": "Gen:Variant.Cerbu.259885 (B)",
-                "type": "malicious"
-            },
             "Fortinet": {
                 "details": "W32/PossibleThreat",
-                "type": "malicious"
-            },
-            "GData": {
-                "details": "Gen:Variant.Cerbu.259885",
                 "type": "malicious"
             },
             "Google": {
@@ -48,12 +28,12 @@
                 "details": "Trojan.Win64.Agent",
                 "type": "malicious"
             },
-            "McAfeeD": {
-                "details": "ti!36427F3032FF",
+            "MaxSecure": {
+                "details": "Trojan.Malware.218665838.susgen",
                 "type": "malicious"
             },
-            "MicroWorld-eScan": {
-                "details": "Gen:Variant.Cerbu.259885",
+            "McAfeeD": {
+                "details": "ti!36427F3032FF",
                 "type": "malicious"
             },
             "Microsoft": {
@@ -68,8 +48,8 @@
                 "details": "Artemis",
                 "type": "malicious"
             },
-            "VIPRE": {
-                "details": "Gen:Variant.Cerbu.259885",
+            "Varist": {
+                "details": "W64/ABTrojan.TLVC-4876",
                 "type": "malicious"
             }
         },
@@ -84,6 +64,10 @@
             },
             "Ikarus": {
                 "details": "Trojan.Python.Psw",
+                "type": "malicious"
+            },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             }
         },
@@ -114,32 +98,12 @@
             }
         },
         "flowkeeper-1.0.1-windows-2025-nuitka-portable.exe": {
-            "Arcabit": {
-                "details": "Trojan.Cerbu.D3F72D",
-                "type": "malicious"
-            },
-            "BitDefender": {
-                "details": "Gen:Variant.Cerbu.259885",
-                "type": "malicious"
-            },
-            "CTX": {
-                "details": "exe.trojan.cerbu",
-                "type": "malicious"
-            },
             "DeepInstinct": {
                 "details": "MALICIOUS",
                 "type": "malicious"
             },
-            "Emsisoft": {
-                "details": "Gen:Variant.Cerbu.259885 (B)",
-                "type": "malicious"
-            },
             "Fortinet": {
                 "details": "W32/PossibleThreat",
-                "type": "malicious"
-            },
-            "GData": {
-                "details": "Gen:Variant.Cerbu.259885",
                 "type": "malicious"
             },
             "Google": {
@@ -150,12 +114,8 @@
                 "details": "Trojan.Win64.Agent",
                 "type": "malicious"
             },
-            "MicroWorld-eScan": {
-                "details": "Gen:Variant.Cerbu.259885",
-                "type": "malicious"
-            },
-            "Microsoft": {
-                "details": "Program:Win32/Wacapew.C!ml",
+            "MaxSecure": {
+                "details": "Trojan.Malware.218665838.susgen",
                 "type": "malicious"
             },
             "Paloalto": {
@@ -164,10 +124,6 @@
             },
             "Skyhigh": {
                 "details": "Artemis",
-                "type": "malicious"
-            },
-            "VIPRE": {
-                "details": "Gen:Variant.Cerbu.259885",
                 "type": "malicious"
             }
         },
@@ -198,6 +154,10 @@
             },
             "Microsoft": {
                 "details": "Program:Win32/Wacapew.C!ml",
+                "type": "malicious"
+            },
+            "TrellixENS": {
+                "details": "Artemis!F9AA48E2FEBE",
                 "type": "malicious"
             },
             "Zillya": {
