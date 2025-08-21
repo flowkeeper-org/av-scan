@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-20 01:46:21.255009+00:00",
+    "date": "2025-08-21 01:43:45.542878+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -131,7 +131,7 @@
                 "type": "undetected"
             },
             "Ikarus": {
-                "details": "Trojan.Python.Psw",
+                "details": "Win32.Outbreak",
                 "type": "malicious"
             },
             "Jiangmin": {
@@ -317,8 +317,8 @@
                 "type": "undetected"
             },
             "AVG": {
-                "details": null,
-                "type": "undetected"
+                "details": "MalwareX-gen [Misc]",
+                "type": "malicious"
             },
             "Acronis": {
                 "details": null,
@@ -341,8 +341,8 @@
                 "type": "undetected"
             },
             "Avast": {
-                "details": null,
-                "type": "undetected"
+                "details": "MalwareX-gen [Misc]",
+                "type": "malicious"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -377,8 +377,8 @@
                 "type": "undetected"
             },
             "CTX": {
-                "details": "exe.trojan.cerbu",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "ClamAV": {
                 "details": null,
@@ -437,7 +437,7 @@
                 "type": "undetected"
             },
             "Ikarus": {
-                "details": "Trojan.Win64.Agent",
+                "details": "Win32.Outbreak",
                 "type": "malicious"
             },
             "Jiangmin": {
@@ -481,7 +481,7 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
+                "details": "Program:Win32/Wacapew.C!ml",
                 "type": "malicious"
             },
             "NANO-Antivirus": {
@@ -513,8 +513,8 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": "Artemis",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -565,8 +565,8 @@
                 "type": "undetected"
             },
             "Varist": {
-                "details": "W64/ABTrojan.TLVC-4876",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "ViRobot": {
                 "details": null,
@@ -1348,7 +1348,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Gridinsoft": {
                 "details": null,
@@ -2153,8 +2153,8 @@
                 "type": "undetected"
             },
             "AVG": {
-                "details": null,
-                "type": "undetected"
+                "details": "MalwareX-gen [Misc]",
+                "type": "malicious"
             },
             "Acronis": {
                 "details": null,
@@ -2177,8 +2177,8 @@
                 "type": "undetected"
             },
             "Avast": {
-                "details": null,
-                "type": "undetected"
+                "details": "MalwareX-gen [Misc]",
+                "type": "malicious"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -2230,7 +2230,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
@@ -2273,7 +2273,7 @@
                 "type": "undetected"
             },
             "Ikarus": {
-                "details": "Trojan.Win64.Agent",
+                "details": "Trojan.Python.Psw",
                 "type": "malicious"
             },
             "Jiangmin": {
@@ -2305,8 +2305,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": "Trojan.Malware.218665838.susgen",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": null,
@@ -2349,8 +2349,8 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": "Artemis",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -3368,10 +3368,6 @@
             }
         },
         "flowkeeper-1.0.1-windows-2025-pyinstaller-standalone.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"

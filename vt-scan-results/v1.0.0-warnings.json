@@ -1,15 +1,19 @@
 {
-    "date": "2025-08-20 01:46:21.255009+00:00",
+    "date": "2025-08-21 01:43:45.542878+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "Ikarus": {
-                "details": "Trojan.Python.Psw",
+                "details": "Win32.Outbreak",
                 "type": "malicious"
             }
         },
         "flowkeeper-1.0.1-windows-2022-nuitka-portable.exe": {
-            "CTX": {
-                "details": "exe.trojan.cerbu",
+            "AVG": {
+                "details": "MalwareX-gen [Misc]",
+                "type": "malicious"
+            },
+            "Avast": {
+                "details": "MalwareX-gen [Misc]",
                 "type": "malicious"
             },
             "DeepInstinct": {
@@ -25,7 +29,7 @@
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Trojan.Win64.Agent",
+                "details": "Win32.Outbreak",
                 "type": "malicious"
             },
             "MaxSecure": {
@@ -37,19 +41,11 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
+                "details": "Program:Win32/Wacapew.C!ml",
                 "type": "malicious"
             },
             "Paloalto": {
                 "details": "generic.ml",
-                "type": "malicious"
-            },
-            "Skyhigh": {
-                "details": "Artemis",
-                "type": "malicious"
-            },
-            "Varist": {
-                "details": "W64/ABTrojan.TLVC-4876",
                 "type": "malicious"
             }
         },
@@ -98,6 +94,14 @@
             }
         },
         "flowkeeper-1.0.1-windows-2025-nuitka-portable.exe": {
+            "AVG": {
+                "details": "MalwareX-gen [Misc]",
+                "type": "malicious"
+            },
+            "Avast": {
+                "details": "MalwareX-gen [Misc]",
+                "type": "malicious"
+            },
             "DeepInstinct": {
                 "details": "MALICIOUS",
                 "type": "malicious"
@@ -111,19 +115,11 @@
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Trojan.Win64.Agent",
-                "type": "malicious"
-            },
-            "MaxSecure": {
-                "details": "Trojan.Malware.218665838.susgen",
+                "details": "Trojan.Python.Psw",
                 "type": "malicious"
             },
             "Paloalto": {
                 "details": "generic.ml",
-                "type": "malicious"
-            },
-            "Skyhigh": {
-                "details": "Artemis",
                 "type": "malicious"
             }
         },
