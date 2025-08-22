@@ -1,23 +1,27 @@
 {
-    "date": "2025-08-21 01:43:45.542878+00:00",
+    "date": "2025-08-22 01:45:00.024471+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "Ikarus": {
-                "details": "Win32.Outbreak",
+                "details": "Trojan.Python.Psw",
                 "type": "malicious"
             }
         },
         "flowkeeper-1.0.1-windows-2022-nuitka-portable.exe": {
             "AVG": {
-                "details": "MalwareX-gen [Misc]",
+                "details": "Win64:MalwareX-gen [Misc]",
                 "type": "malicious"
             },
             "Avast": {
-                "details": "MalwareX-gen [Misc]",
+                "details": "Win64:MalwareX-gen [Misc]",
                 "type": "malicious"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
+                "type": "malicious"
+            },
+            "Elastic": {
+                "details": "malicious (moderate confidence)",
                 "type": "malicious"
             },
             "Fortinet": {
@@ -29,19 +33,15 @@
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Win32.Outbreak",
+                "details": "Trojan.Python.Psw",
                 "type": "malicious"
             },
             "MaxSecure": {
                 "details": "Trojan.Malware.218665838.susgen",
                 "type": "malicious"
             },
-            "McAfeeD": {
-                "details": "ti!36427F3032FF",
-                "type": "malicious"
-            },
             "Microsoft": {
-                "details": "Program:Win32/Wacapew.C!ml",
+                "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             },
             "Paloalto": {
@@ -60,10 +60,6 @@
             },
             "Ikarus": {
                 "details": "Trojan.Python.Psw",
-                "type": "malicious"
-            },
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             }
         },
@@ -95,15 +91,19 @@
         },
         "flowkeeper-1.0.1-windows-2025-nuitka-portable.exe": {
             "AVG": {
-                "details": "MalwareX-gen [Misc]",
+                "details": "Win64:MalwareX-gen [Misc]",
                 "type": "malicious"
             },
             "Avast": {
-                "details": "MalwareX-gen [Misc]",
+                "details": "Win64:MalwareX-gen [Misc]",
                 "type": "malicious"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
+                "type": "malicious"
+            },
+            "Elastic": {
+                "details": "malicious (moderate confidence)",
                 "type": "malicious"
             },
             "Fortinet": {
@@ -116,6 +116,10 @@
             },
             "Ikarus": {
                 "details": "Trojan.Python.Psw",
+                "type": "malicious"
+            },
+            "MaxSecure": {
+                "details": "Trojan.Malware.218665838.susgen",
                 "type": "malicious"
             },
             "Paloalto": {
@@ -135,6 +139,10 @@
             "Ikarus": {
                 "details": "Trojan.Python.Psw",
                 "type": "malicious"
+            },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.1-windows-2025-pyinstaller-installer.exe": {},
@@ -146,10 +154,6 @@
             },
             "Jiangmin": {
                 "details": "Trojan.Tedy.fp",
-                "type": "malicious"
-            },
-            "Microsoft": {
-                "details": "Program:Win32/Wacapew.C!ml",
                 "type": "malicious"
             },
             "TrellixENS": {

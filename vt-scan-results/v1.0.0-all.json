@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-21 01:43:45.542878+00:00",
+    "date": "2025-08-22 01:45:00.024471+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -131,7 +131,7 @@
                 "type": "undetected"
             },
             "Ikarus": {
-                "details": "Win32.Outbreak",
+                "details": "Trojan.Python.Psw",
                 "type": "malicious"
             },
             "Jiangmin": {
@@ -317,7 +317,7 @@
                 "type": "undetected"
             },
             "AVG": {
-                "details": "MalwareX-gen [Misc]",
+                "details": "Win64:MalwareX-gen [Misc]",
                 "type": "malicious"
             },
             "Acronis": {
@@ -341,7 +341,7 @@
                 "type": "undetected"
             },
             "Avast": {
-                "details": "MalwareX-gen [Misc]",
+                "details": "Win64:MalwareX-gen [Misc]",
                 "type": "malicious"
             },
             "Avast-Mobile": {
@@ -409,8 +409,8 @@
                 "type": "undetected"
             },
             "Elastic": {
-                "details": null,
-                "type": "undetected"
+                "details": "malicious (moderate confidence)",
+                "type": "malicious"
             },
             "Emsisoft": {
                 "details": null,
@@ -437,7 +437,7 @@
                 "type": "undetected"
             },
             "Ikarus": {
-                "details": "Win32.Outbreak",
+                "details": "Trojan.Python.Psw",
                 "type": "malicious"
             },
             "Jiangmin": {
@@ -473,15 +473,15 @@
                 "type": "malicious"
             },
             "McAfeeD": {
-                "details": "ti!36427F3032FF",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "MicroWorld-eScan": {
                 "details": null,
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": "Program:Win32/Wacapew.C!ml",
+                "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             },
             "NANO-Antivirus": {
@@ -787,8 +787,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -2153,7 +2153,7 @@
                 "type": "undetected"
             },
             "AVG": {
-                "details": "MalwareX-gen [Misc]",
+                "details": "Win64:MalwareX-gen [Misc]",
                 "type": "malicious"
             },
             "Acronis": {
@@ -2177,7 +2177,7 @@
                 "type": "undetected"
             },
             "Avast": {
-                "details": "MalwareX-gen [Misc]",
+                "details": "Win64:MalwareX-gen [Misc]",
                 "type": "malicious"
             },
             "Avast-Mobile": {
@@ -2245,8 +2245,8 @@
                 "type": "undetected"
             },
             "Elastic": {
-                "details": null,
-                "type": "undetected"
+                "details": "malicious (moderate confidence)",
+                "type": "malicious"
             },
             "Emsisoft": {
                 "details": null,
@@ -2305,8 +2305,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Malware.218665838.susgen",
+                "type": "malicious"
             },
             "McAfeeD": {
                 "details": null,
@@ -2450,10 +2450,6 @@
             }
         },
         "flowkeeper-1.0.1-windows-2025-nuitka-standalone.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2623,8 +2619,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -3046,7 +3042,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "alibabacloud": {
                 "details": null,
@@ -3368,6 +3364,10 @@
             }
         },
         "flowkeeper-1.0.1-windows-2025-pyinstaller-standalone.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -3537,8 +3537,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": "Program:Win32/Wacapew.C!ml",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "NANO-Antivirus": {
                 "details": null,
