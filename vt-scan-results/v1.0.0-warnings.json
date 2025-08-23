@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-22 01:45:00.024471+00:00",
+    "date": "2025-08-23 01:42:40.005567+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "Ikarus": {
@@ -14,6 +14,10 @@
             },
             "Avast": {
                 "details": "Win64:MalwareX-gen [Misc]",
+                "type": "malicious"
+            },
+            "CAT-QuickHeal": {
+                "details": "Trojan.Agent",
                 "type": "malicious"
             },
             "DeepInstinct": {
@@ -98,6 +102,10 @@
                 "details": "Win64:MalwareX-gen [Misc]",
                 "type": "malicious"
             },
+            "CAT-QuickHeal": {
+                "details": "Trojan.Agent",
+                "type": "malicious"
+            },
             "DeepInstinct": {
                 "details": "MALICIOUS",
                 "type": "malicious"
@@ -124,6 +132,10 @@
             },
             "Paloalto": {
                 "details": "generic.ml",
+                "type": "malicious"
+            },
+            "Skyhigh": {
+                "details": "Artemis",
                 "type": "malicious"
             }
         },

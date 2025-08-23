@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-22 01:45:00.024471+00:00",
+    "date": "2025-08-23 01:42:40.005567+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -308,10 +308,6 @@
             }
         },
         "flowkeeper-1.0.1-windows-2022-nuitka-portable.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -369,8 +365,8 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Agent",
+                "type": "malicious"
             },
             "CMC": {
                 "details": null,
@@ -394,7 +390,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
@@ -614,10 +610,6 @@
             }
         },
         "flowkeeper-1.0.1-windows-2022-nuitka-standalone.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -920,10 +912,6 @@
             }
         },
         "flowkeeper-1.0.1-windows-2022-pyinstaller-installer.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -1838,10 +1826,6 @@
             }
         },
         "flowkeeper-1.0.1-windows-2025-nuitka-installer.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2205,8 +2189,8 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Agent",
+                "type": "malicious"
             },
             "CMC": {
                 "details": null,
@@ -2349,8 +2333,8 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": null,
-                "type": "undetected"
+                "details": "Artemis",
+                "type": "malicious"
             },
             "Sophos": {
                 "details": null,
@@ -2450,6 +2434,10 @@
             }
         },
         "flowkeeper-1.0.1-windows-2025-nuitka-standalone.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -3042,7 +3030,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "alibabacloud": {
                 "details": null,
