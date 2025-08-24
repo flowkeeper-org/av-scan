@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-23 01:42:40.005567+00:00",
+    "date": "2025-08-24 01:55:03.943425+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "Ikarus": {
@@ -40,16 +40,16 @@
                 "details": "Trojan.Python.Psw",
                 "type": "malicious"
             },
-            "MaxSecure": {
-                "details": "Trojan.Malware.218665838.susgen",
-                "type": "malicious"
-            },
             "Microsoft": {
                 "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             },
             "Paloalto": {
                 "details": "generic.ml",
+                "type": "malicious"
+            },
+            "Varist": {
+                "details": "W64/ABTrojan.TLVC-4876",
                 "type": "malicious"
             }
         },
@@ -72,10 +72,6 @@
         "flowkeeper-1.0.1-windows-2022-pyinstaller-standalone.exe": {
             "APEX": {
                 "details": "Malicious",
-                "type": "malicious"
-            },
-            "Gridinsoft": {
-                "details": "PUP.Win64.Gen.oa!s1",
                 "type": "malicious"
             },
             "Jiangmin": {
@@ -160,10 +156,6 @@
         "flowkeeper-1.0.1-windows-2025-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.1-windows-2025-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.1-windows-2025-pyinstaller-standalone.exe": {
-            "Gridinsoft": {
-                "details": "PUP.Win64.Gen.oa!s1",
-                "type": "malicious"
-            },
             "Jiangmin": {
                 "details": "Trojan.Tedy.fp",
                 "type": "malicious"
