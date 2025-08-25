@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-24 01:55:03.943425+00:00",
+    "date": "2025-08-25 01:49:28.800591+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "Ikarus": {
@@ -40,16 +40,16 @@
                 "details": "Trojan.Python.Psw",
                 "type": "malicious"
             },
+            "MaxSecure": {
+                "details": "Trojan.Malware.218665838.susgen",
+                "type": "malicious"
+            },
             "Microsoft": {
                 "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             },
             "Paloalto": {
                 "details": "generic.ml",
-                "type": "malicious"
-            },
-            "Varist": {
-                "details": "W64/ABTrojan.TLVC-4876",
                 "type": "malicious"
             }
         },
@@ -76,10 +76,6 @@
             },
             "Jiangmin": {
                 "details": "Trojan.Tedy.fp",
-                "type": "malicious"
-            },
-            "Zillya": {
-                "details": "Backdoor.Crysan.Win32.8934",
                 "type": "malicious"
             }
         },
@@ -114,10 +110,6 @@
                 "details": "W32/PossibleThreat",
                 "type": "malicious"
             },
-            "Google": {
-                "details": "Detected",
-                "type": "malicious"
-            },
             "Ikarus": {
                 "details": "Trojan.Python.Psw",
                 "type": "malicious"
@@ -146,10 +138,6 @@
             },
             "Ikarus": {
                 "details": "Trojan.Python.Psw",
-                "type": "malicious"
-            },
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             }
         },
