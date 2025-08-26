@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-25 01:49:28.800591+00:00",
+    "date": "2025-08-26 01:45:57.527922+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "Ikarus": {
@@ -77,6 +77,10 @@
             "Jiangmin": {
                 "details": "Trojan.Tedy.fp",
                 "type": "malicious"
+            },
+            "Zillya": {
+                "details": "Backdoor.Crysan.Win32.8934",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.1-windows-2025-nuitka-installer.exe": {
@@ -108,6 +112,10 @@
             },
             "Fortinet": {
                 "details": "W32/PossibleThreat",
+                "type": "malicious"
+            },
+            "Google": {
+                "details": "Detected",
                 "type": "malicious"
             },
             "Ikarus": {

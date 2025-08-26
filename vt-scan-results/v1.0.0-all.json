@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-25 01:49:28.800591+00:00",
+    "date": "2025-08-26 01:45:57.527922+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -284,7 +284,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -1170,7 +1170,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": null,
@@ -1460,7 +1460,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -1813,8 +1813,8 @@
                 "type": "undetected"
             },
             "Zillya": {
-                "details": null,
-                "type": "failure"
+                "details": "Backdoor.Crysan.Win32.8934",
+                "type": "malicious"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -2265,8 +2265,8 @@
                 "type": "undetected"
             },
             "Google": {
-                "details": null,
-                "type": "undetected"
+                "details": "Detected",
+                "type": "malicious"
             },
             "Gridinsoft": {
                 "details": null,
@@ -2394,7 +2394,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": null,
