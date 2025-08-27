@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-26 01:45:57.527922+00:00",
+    "date": "2025-08-27 01:42:07.440611+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "Ikarus": {
@@ -154,10 +154,6 @@
         "flowkeeper-1.0.1-windows-2025-pyinstaller-standalone.exe": {
             "Jiangmin": {
                 "details": "Trojan.Tedy.fp",
-                "type": "malicious"
-            },
-            "TrellixENS": {
-                "details": "Artemis!F9AA48E2FEBE",
                 "type": "malicious"
             },
             "Zillya": {
