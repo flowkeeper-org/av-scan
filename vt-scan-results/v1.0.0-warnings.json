@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-27 01:42:07.440611+00:00",
+    "date": "2025-08-28 01:41:45.022675+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "Ikarus": {
@@ -17,7 +17,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Agent",
+                "details": "Trojan.Ghanarava.1756337414095a9f",
                 "type": "malicious"
             },
             "DeepInstinct": {
@@ -44,12 +44,12 @@
                 "details": "Trojan.Malware.218665838.susgen",
                 "type": "malicious"
             },
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
-            },
             "Paloalto": {
                 "details": "generic.ml",
+                "type": "malicious"
+            },
+            "Varist": {
+                "details": "W64/ABTrojan.TLVC-4876",
                 "type": "malicious"
             }
         },
@@ -99,7 +99,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Agent",
+                "details": "Trojan.Ghanarava.1756337414f6fe1b",
                 "type": "malicious"
             },
             "DeepInstinct": {
@@ -132,6 +132,10 @@
             },
             "Skyhigh": {
                 "details": "Artemis",
+                "type": "malicious"
+            },
+            "Varist": {
+                "details": "W64/ABTrojan.CETF-0682",
                 "type": "malicious"
             }
         },

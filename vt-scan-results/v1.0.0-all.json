@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-27 01:42:07.440611+00:00",
+    "date": "2025-08-28 01:41:45.022675+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -60,7 +60,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -369,7 +369,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Agent",
+                "details": "Trojan.Ghanarava.1756337414095a9f",
                 "type": "malicious"
             },
             "CMC": {
@@ -481,8 +481,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -565,8 +565,8 @@
                 "type": "undetected"
             },
             "Varist": {
-                "details": null,
-                "type": "undetected"
+                "details": "W64/ABTrojan.TLVC-4876",
+                "type": "malicious"
             },
             "ViRobot": {
                 "details": null,
@@ -920,10 +920,6 @@
             }
         },
         "flowkeeper-1.0.1-windows-2022-pyinstaller-installer.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2205,7 +2201,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Agent",
+                "details": "Trojan.Ghanarava.1756337414f6fe1b",
                 "type": "malicious"
             },
             "CMC": {
@@ -2401,8 +2397,8 @@
                 "type": "undetected"
             },
             "Varist": {
-                "details": null,
-                "type": "undetected"
+                "details": "W64/ABTrojan.CETF-0682",
+                "type": "malicious"
             },
             "ViRobot": {
                 "details": null,
@@ -2756,6 +2752,10 @@
             }
         },
         "flowkeeper-1.0.1-windows-2025-pyinstaller-installer.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2826,7 +2826,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3598,7 +3598,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -3630,7 +3630,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Webroot": {
                 "details": null,
