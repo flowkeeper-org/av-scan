@@ -1,9 +1,9 @@
 {
-    "date": "2025-08-28 01:41:45.022675+00:00",
+    "date": "2025-08-29 01:43:22.696777+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "Ikarus": {
-                "details": "Trojan.Python.Psw",
+                "details": "Trojan.Win64.Agent",
                 "type": "malicious"
             }
         },
@@ -17,7 +17,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1756337414095a9f",
+                "details": "Trojan.Ghanarava.1756421392095a9f",
                 "type": "malicious"
             },
             "DeepInstinct": {
@@ -37,19 +37,19 @@
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Trojan.Python.Psw",
+                "details": "Trojan.Win64.Agent",
                 "type": "malicious"
             },
             "MaxSecure": {
                 "details": "Trojan.Malware.218665838.susgen",
                 "type": "malicious"
             },
-            "Paloalto": {
-                "details": "generic.ml",
+            "Microsoft": {
+                "details": "Program:Win32/Wacapew.C!ml",
                 "type": "malicious"
             },
-            "Varist": {
-                "details": "W64/ABTrojan.TLVC-4876",
+            "Paloalto": {
+                "details": "generic.ml",
                 "type": "malicious"
             }
         },
@@ -63,7 +63,7 @@
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Trojan.Python.Psw",
+                "details": "Trojan.Win64.Agent",
                 "type": "malicious"
             }
         },
@@ -85,7 +85,7 @@
         },
         "flowkeeper-1.0.1-windows-2025-nuitka-installer.exe": {
             "Ikarus": {
-                "details": "Trojan.Python.Psw",
+                "details": "Trojan.Win64.Agent",
                 "type": "malicious"
             }
         },
@@ -99,7 +99,7 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1756337414f6fe1b",
+                "details": "Trojan.Ghanarava.1756421392f6fe1b",
                 "type": "malicious"
             },
             "DeepInstinct": {
@@ -119,7 +119,7 @@
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Trojan.Python.Psw",
+                "details": "Trojan.Win64.Agent",
                 "type": "malicious"
             },
             "MaxSecure": {
@@ -133,10 +133,6 @@
             "Skyhigh": {
                 "details": "Artemis",
                 "type": "malicious"
-            },
-            "Varist": {
-                "details": "W64/ABTrojan.CETF-0682",
-                "type": "malicious"
             }
         },
         "flowkeeper-1.0.1-windows-2025-nuitka-standalone.exe": {
@@ -149,7 +145,7 @@
                 "type": "malicious"
             },
             "Ikarus": {
-                "details": "Trojan.Python.Psw",
+                "details": "Trojan.Win64.Agent",
                 "type": "malicious"
             }
         },
