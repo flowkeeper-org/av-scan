@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-29 01:43:22.696777+00:00",
+    "date": "2025-08-30 01:29:49.339951+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -310,7 +310,7 @@
         "flowkeeper-1.0.1-windows-2022-nuitka-portable.exe": {
             "ALYac": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "APEX": {
                 "details": null,
@@ -337,8 +337,8 @@
                 "type": "undetected"
             },
             "Arcabit": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Mikey.D2C549",
+                "type": "malicious"
             },
             "Avast": {
                 "details": "Win64:MalwareX-gen [Misc]",
@@ -357,8 +357,8 @@
                 "type": "undetected"
             },
             "BitDefender": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Mikey.181577",
+                "type": "malicious"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -369,16 +369,16 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1756421392095a9f",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "CMC": {
                 "details": null,
                 "type": "undetected"
             },
             "CTX": {
-                "details": null,
-                "type": "undetected"
+                "details": "exe.trojan.generic",
+                "type": "malicious"
             },
             "ClamAV": {
                 "details": null,
@@ -402,19 +402,19 @@
             },
             "DrWeb": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "ESET-NOD32": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Elastic": {
                 "details": "malicious (moderate confidence)",
                 "type": "malicious"
             },
             "Emsisoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Mikey.181577 (B)",
+                "type": "malicious"
             },
             "F-Secure": {
                 "details": null,
@@ -425,8 +425,8 @@
                 "type": "malicious"
             },
             "GData": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Mikey.181577",
+                "type": "malicious"
             },
             "Google": {
                 "details": "Detected",
@@ -477,11 +477,11 @@
                 "type": "undetected"
             },
             "MicroWorld-eScan": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Mikey.181577",
+                "type": "malicious"
             },
             "Microsoft": {
-                "details": "Program:Win32/Wacapew.C!ml",
+                "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             },
             "NANO-Antivirus": {
@@ -558,11 +558,11 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "VIPRE": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Mikey.181577",
+                "type": "malicious"
             },
             "Varist": {
                 "details": null,
@@ -688,7 +688,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -848,7 +848,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -1284,7 +1284,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -1300,7 +1300,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1388,7 +1388,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": null,
@@ -1424,7 +1424,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SentinelOne": {
                 "details": null,
@@ -1460,7 +1460,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -2145,8 +2145,8 @@
         },
         "flowkeeper-1.0.1-windows-2025-nuitka-portable.exe": {
             "ALYac": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Mikey.181577",
+                "type": "malicious"
             },
             "APEX": {
                 "details": null,
@@ -2173,8 +2173,8 @@
                 "type": "undetected"
             },
             "Arcabit": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Mikey.D2C549",
+                "type": "malicious"
             },
             "Avast": {
                 "details": "Win64:MalwareX-gen [Misc]",
@@ -2193,8 +2193,8 @@
                 "type": "undetected"
             },
             "BitDefender": {
-                "details": null,
-                "type": "undetected"
+                "details": "QD:Trojan.GenericKDQ.32B9E46F3B",
+                "type": "malicious"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -2205,7 +2205,7 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1756421392f6fe1b",
+                "details": "Trojan.Ghanarava.1756507546f6fe1b",
                 "type": "malicious"
             },
             "CMC": {
@@ -2213,8 +2213,8 @@
                 "type": "undetected"
             },
             "CTX": {
-                "details": null,
-                "type": "undetected"
+                "details": "exe.trojan.generic",
+                "type": "malicious"
             },
             "ClamAV": {
                 "details": null,
@@ -2249,8 +2249,8 @@
                 "type": "malicious"
             },
             "Emsisoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "QD:Trojan.GenericKDQ.32B9E46F3B (B)",
+                "type": "malicious"
             },
             "F-Secure": {
                 "details": null,
@@ -2261,8 +2261,8 @@
                 "type": "malicious"
             },
             "GData": {
-                "details": null,
-                "type": "undetected"
+                "details": "QD:Trojan.GenericKDQ.32B9E46F3B",
+                "type": "malicious"
             },
             "Google": {
                 "details": "Detected",
@@ -2313,8 +2313,8 @@
                 "type": "undetected"
             },
             "MicroWorld-eScan": {
-                "details": null,
-                "type": "undetected"
+                "details": "QD:Trojan.GenericKDQ.32B9E46F3B",
+                "type": "malicious"
             },
             "Microsoft": {
                 "details": null,
@@ -2397,8 +2397,8 @@
                 "type": "undetected"
             },
             "VIPRE": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Mikey.181577",
+                "type": "malicious"
             },
             "Varist": {
                 "details": null,
@@ -2623,8 +2623,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -3378,7 +3378,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -3402,7 +3402,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -3442,7 +3442,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3574,7 +3574,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -3602,7 +3602,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
