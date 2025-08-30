@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-30 01:29:49.339951+00:00",
+    "date": "2025-08-30 20:19:16.843510+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -131,8 +131,8 @@
                 "type": "undetected"
             },
             "Ikarus": {
-                "details": "Trojan.Win64.Agent",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Jiangmin": {
                 "details": null,
@@ -310,15 +310,15 @@
         "flowkeeper-1.0.1-windows-2022-nuitka-portable.exe": {
             "ALYac": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "APEX": {
                 "details": null,
                 "type": "undetected"
             },
             "AVG": {
-                "details": "Win64:MalwareX-gen [Misc]",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -337,12 +337,12 @@
                 "type": "undetected"
             },
             "Arcabit": {
-                "details": "Trojan.Mikey.D2C549",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Avast": {
-                "details": "Win64:MalwareX-gen [Misc]",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -357,8 +357,8 @@
                 "type": "undetected"
             },
             "BitDefender": {
-                "details": "Gen:Variant.Mikey.181577",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -370,15 +370,15 @@
             },
             "CAT-QuickHeal": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CMC": {
                 "details": null,
                 "type": "undetected"
             },
             "CTX": {
-                "details": "exe.trojan.generic",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "ClamAV": {
                 "details": null,
@@ -397,48 +397,48 @@
                 "type": "undetected"
             },
             "DeepInstinct": {
-                "details": "MALICIOUS",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "DrWeb": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ESET-NOD32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Elastic": {
-                "details": "malicious (moderate confidence)",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Emsisoft": {
-                "details": "Gen:Variant.Mikey.181577 (B)",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "F-Secure": {
                 "details": null,
                 "type": "undetected"
             },
             "Fortinet": {
-                "details": "W32/PossibleThreat",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "GData": {
-                "details": "Gen:Variant.Mikey.181577",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Google": {
-                "details": "Detected",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Gridinsoft": {
                 "details": null,
                 "type": "undetected"
             },
             "Ikarus": {
-                "details": "Trojan.Win64.Agent",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Jiangmin": {
                 "details": null,
@@ -469,28 +469,28 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": "Trojan.Malware.218665838.susgen",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": null,
                 "type": "undetected"
             },
             "MicroWorld-eScan": {
-                "details": "Gen:Variant.Mikey.181577",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "NANO-Antivirus": {
                 "details": null,
                 "type": "undetected"
             },
             "Paloalto": {
-                "details": "generic.ml",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Panda": {
                 "details": null,
@@ -558,11 +558,11 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "VIPRE": {
-                "details": "Gen:Variant.Mikey.181577",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Varist": {
                 "details": null,
@@ -731,20 +731,20 @@
                 "type": "undetected"
             },
             "GData": {
-                "details": "Win64.Trojan.Agent.VEDYKK",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Google": {
-                "details": "Detected",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Gridinsoft": {
                 "details": null,
                 "type": "undetected"
             },
             "Ikarus": {
-                "details": "Trojan.Win64.Agent",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Jiangmin": {
                 "details": null,
@@ -1042,7 +1042,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Gridinsoft": {
                 "details": null,
@@ -1228,7 +1228,7 @@
         "flowkeeper-1.0.1-windows-2022-pyinstaller-portable.exe": {
             "ALYac": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "APEX": {
                 "details": null,
@@ -1236,7 +1236,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -1256,11 +1256,11 @@
             },
             "Arcabit": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -1276,7 +1276,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -1296,7 +1296,7 @@
             },
             "CTX": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "ClamAV": {
                 "details": null,
@@ -1320,7 +1320,7 @@
             },
             "DrWeb": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "ESET-NOD32": {
                 "details": null,
@@ -1328,7 +1328,7 @@
             },
             "Elastic": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "timeout"
             },
             "Emsisoft": {
                 "details": null,
@@ -1340,7 +1340,7 @@
             },
             "Fortinet": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "GData": {
                 "details": null,
@@ -1372,7 +1372,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Kingsoft": {
                 "details": null,
@@ -1416,7 +1416,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -1424,7 +1424,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SentinelOne": {
                 "details": null,
@@ -1432,7 +1432,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -1460,7 +1460,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -1476,7 +1476,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "VIPRE": {
                 "details": null,
@@ -1484,7 +1484,7 @@
             },
             "Varist": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "ViRobot": {
                 "details": null,
@@ -1967,8 +1967,8 @@
                 "type": "undetected"
             },
             "Ikarus": {
-                "details": "Trojan.Win64.Agent",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Jiangmin": {
                 "details": null,
@@ -2145,16 +2145,16 @@
         },
         "flowkeeper-1.0.1-windows-2025-nuitka-portable.exe": {
             "ALYac": {
-                "details": "Gen:Variant.Mikey.181577",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "APEX": {
                 "details": null,
                 "type": "undetected"
             },
             "AVG": {
-                "details": "Win64:MalwareX-gen [Misc]",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -2173,12 +2173,12 @@
                 "type": "undetected"
             },
             "Arcabit": {
-                "details": "Trojan.Mikey.D2C549",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Avast": {
-                "details": "Win64:MalwareX-gen [Misc]",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -2193,8 +2193,8 @@
                 "type": "undetected"
             },
             "BitDefender": {
-                "details": "QD:Trojan.GenericKDQ.32B9E46F3B",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -2205,16 +2205,16 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": "Trojan.Ghanarava.1756507546f6fe1b",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "CMC": {
                 "details": null,
                 "type": "undetected"
             },
             "CTX": {
-                "details": "exe.trojan.generic",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "ClamAV": {
                 "details": null,
@@ -2233,8 +2233,8 @@
                 "type": "undetected"
             },
             "DeepInstinct": {
-                "details": "MALICIOUS",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "DrWeb": {
                 "details": null,
@@ -2245,36 +2245,36 @@
                 "type": "undetected"
             },
             "Elastic": {
-                "details": "malicious (moderate confidence)",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Emsisoft": {
-                "details": "QD:Trojan.GenericKDQ.32B9E46F3B (B)",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "F-Secure": {
                 "details": null,
                 "type": "undetected"
             },
             "Fortinet": {
-                "details": "W32/PossibleThreat",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "GData": {
-                "details": "QD:Trojan.GenericKDQ.32B9E46F3B",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Google": {
-                "details": "Detected",
-                "type": "malicious"
+                "details": null,
+                "type": "failure"
             },
             "Gridinsoft": {
                 "details": null,
                 "type": "undetected"
             },
             "Ikarus": {
-                "details": "Trojan.Win64.Agent",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Jiangmin": {
                 "details": null,
@@ -2305,16 +2305,16 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": "Trojan.Malware.218665838.susgen",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": null,
                 "type": "undetected"
             },
             "MicroWorld-eScan": {
-                "details": "QD:Trojan.GenericKDQ.32B9E46F3B",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Microsoft": {
                 "details": null,
@@ -2325,8 +2325,8 @@
                 "type": "undetected"
             },
             "Paloalto": {
-                "details": "generic.ml",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Panda": {
                 "details": null,
@@ -2349,8 +2349,8 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": "Artemis",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -2397,8 +2397,8 @@
                 "type": "undetected"
             },
             "VIPRE": {
-                "details": "Gen:Variant.Mikey.181577",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Varist": {
                 "details": null,
@@ -2460,7 +2460,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -2484,7 +2484,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -2524,7 +2524,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2567,20 +2567,20 @@
                 "type": "undetected"
             },
             "GData": {
-                "details": "Win64.Trojan.Agent.VIG3FZ",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Google": {
-                "details": "Detected",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Gridinsoft": {
                 "details": null,
                 "type": "undetected"
             },
             "Ikarus": {
-                "details": "Trojan.Win64.Agent",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Jiangmin": {
                 "details": null,
@@ -2623,8 +2623,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -2648,7 +2648,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SentinelOne": {
                 "details": null,
@@ -2656,7 +2656,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -2684,11 +2684,11 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro-HouseCall": {
                 "details": null,
@@ -2716,7 +2716,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Webroot": {
                 "details": null,
@@ -3136,7 +3136,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3373,8 +3373,8 @@
                 "type": "undetected"
             },
             "APEX": {
-                "details": null,
-                "type": "undetected"
+                "details": "Malicious",
+                "type": "malicious"
             },
             "AVG": {
                 "details": null,
