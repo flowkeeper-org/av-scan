@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-31 01:47:33.167447+00:00",
+    "date": "2025-09-01 01:56:44.995308+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {},
         "flowkeeper-1.0.1-windows-2022-nuitka-portable.exe": {},
@@ -15,8 +15,8 @@
                 "details": "Trojan.Tedy.fp",
                 "type": "malicious"
             },
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.C!ml",
+            "TrellixENS": {
+                "details": "Artemis!83D52CB413C4",
                 "type": "malicious"
             },
             "Zillya": {

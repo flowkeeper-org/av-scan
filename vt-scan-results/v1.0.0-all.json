@@ -1,5 +1,5 @@
 {
-    "date": "2025-08-31 01:47:33.167447+00:00",
+    "date": "2025-09-01 01:56:44.995308+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -308,6 +308,10 @@
             }
         },
         "flowkeeper-1.0.1-windows-2022-nuitka-portable.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -610,10 +614,6 @@
             }
         },
         "flowkeeper-1.0.1-windows-2022-nuitka-standalone.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -1232,7 +1232,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -1256,7 +1256,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -1316,7 +1316,7 @@
             },
             "DrWeb": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "ESET-NOD32": {
                 "details": null,
@@ -1412,7 +1412,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -1701,8 +1701,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.C!ml",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -1761,8 +1761,8 @@
                 "type": "undetected"
             },
             "TrellixENS": {
-                "details": null,
-                "type": "undetected"
+                "details": "Artemis!83D52CB413C4",
+                "type": "malicious"
             },
             "TrendMicro": {
                 "details": null,
@@ -3340,7 +3340,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "ZoneAlarm": {
                 "details": null,
