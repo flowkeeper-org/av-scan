@@ -1,5 +1,5 @@
 {
-    "date": "2025-09-01 01:56:44.995308+00:00",
+    "date": "2025-09-02 01:55:16.079023+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -614,6 +614,10 @@
             }
         },
         "flowkeeper-1.0.1-windows-2022-nuitka-standalone.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -974,7 +978,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -1252,7 +1256,7 @@
             },
             "Arcabit": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast": {
                 "details": null,
@@ -1272,7 +1276,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -1312,11 +1316,11 @@
             },
             "DeepInstinct": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "DrWeb": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ESET-NOD32": {
                 "details": null,
@@ -1368,7 +1372,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Kingsoft": {
                 "details": null,
@@ -1408,11 +1412,11 @@
             },
             "Panda": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -1428,7 +1432,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -1456,7 +1460,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -1516,7 +1520,7 @@
             },
             "alibabacloud": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "huorong": {
                 "details": null,
@@ -2446,10 +2450,6 @@
             }
         },
         "flowkeeper-1.0.1-windows-2025-nuitka-standalone.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2762,7 +2762,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -2782,11 +2782,11 @@
             },
             "Arcabit": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -2802,7 +2802,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -2842,7 +2842,7 @@
             },
             "DeepInstinct": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "DrWeb": {
                 "details": null,
@@ -2870,7 +2870,7 @@
             },
             "GData": {
                 "details": null,
-                "type": "undetected"
+                "type": "confirmed-timeout"
             },
             "Google": {
                 "details": null,
@@ -2898,7 +2898,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Kingsoft": {
                 "details": null,
@@ -2938,7 +2938,7 @@
             },
             "Panda": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Rising": {
                 "details": null,
@@ -2958,7 +2958,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -2986,7 +2986,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -3046,7 +3046,7 @@
             },
             "alibabacloud": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "huorong": {
                 "details": null,
@@ -3340,7 +3340,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
