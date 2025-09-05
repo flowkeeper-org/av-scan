@@ -1,5 +1,5 @@
 {
-    "date": "2025-09-04 01:29:17.895232+00:00",
+    "date": "2025-09-05 01:48:34.518500+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -195,10 +195,6 @@
                 "type": "undetected"
             },
             "SUPERAntiSpyware": {
-                "details": null,
-                "type": "undetected"
-            },
-            "Sangfor": {
                 "details": null,
                 "type": "undetected"
             },
@@ -504,10 +500,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Sangfor": {
-                "details": null,
-                "type": "undetected"
-            },
             "SentinelOne": {
                 "details": null,
                 "type": "undetected"
@@ -807,10 +799,6 @@
                 "type": "undetected"
             },
             "SUPERAntiSpyware": {
-                "details": null,
-                "type": "undetected"
-            },
-            "Sangfor": {
                 "details": null,
                 "type": "undetected"
             },
@@ -1116,10 +1104,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Sangfor": {
-                "details": null,
-                "type": "undetected"
-            },
             "SentinelOne": {
                 "details": null,
                 "type": "undetected"
@@ -1210,7 +1194,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "alibabacloud": {
                 "details": null,
@@ -1419,10 +1403,6 @@
                 "type": "undetected"
             },
             "SUPERAntiSpyware": {
-                "details": null,
-                "type": "undetected"
-            },
-            "Sangfor": {
                 "details": null,
                 "type": "undetected"
             },
@@ -1728,10 +1708,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Sangfor": {
-                "details": null,
-                "type": "undetected"
-            },
             "SentinelOne": {
                 "details": null,
                 "type": "undetected"
@@ -2034,10 +2010,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Sangfor": {
-                "details": null,
-                "type": "undetected"
-            },
             "SentinelOne": {
                 "details": null,
                 "type": "undetected"
@@ -2128,7 +2100,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "alibabacloud": {
                 "details": null,
@@ -2340,10 +2312,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Sangfor": {
-                "details": null,
-                "type": "undetected"
-            },
             "SentinelOne": {
                 "details": null,
                 "type": "undetected"
@@ -2450,6 +2418,10 @@
             }
         },
         "flowkeeper-1.0.1-windows-2025-nuitka-standalone.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2639,10 +2611,6 @@
                 "type": "undetected"
             },
             "SUPERAntiSpyware": {
-                "details": null,
-                "type": "undetected"
-            },
-            "Sangfor": {
                 "details": null,
                 "type": "undetected"
             },
@@ -2948,10 +2916,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Sangfor": {
-                "details": null,
-                "type": "undetected"
-            },
             "SentinelOne": {
                 "details": null,
                 "type": "undetected"
@@ -3254,10 +3218,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Sangfor": {
-                "details": null,
-                "type": "undetected"
-            },
             "SentinelOne": {
                 "details": null,
                 "type": "undetected"
@@ -3557,10 +3517,6 @@
                 "type": "undetected"
             },
             "SUPERAntiSpyware": {
-                "details": null,
-                "type": "undetected"
-            },
-            "Sangfor": {
                 "details": null,
                 "type": "undetected"
             },
