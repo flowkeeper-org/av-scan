@@ -1,5 +1,5 @@
 {
-    "date": "2025-09-05 01:48:34.518500+00:00",
+    "date": "2025-09-06 01:29:17.650133+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {},
         "flowkeeper-1.0.1-windows-2022-nuitka-portable.exe": {},
@@ -9,10 +9,6 @@
         "flowkeeper-1.0.1-windows-2022-pyinstaller-standalone.exe": {
             "APEX": {
                 "details": "Malicious",
-                "type": "malicious"
-            },
-            "Jiangmin": {
-                "details": "Trojan.Tedy.fp",
                 "type": "malicious"
             },
             "TrellixENS": {
@@ -32,10 +28,6 @@
         "flowkeeper-1.0.1-windows-2025-pyinstaller-standalone.exe": {
             "APEX": {
                 "details": "Malicious",
-                "type": "malicious"
-            },
-            "Jiangmin": {
-                "details": "Trojan.Tedy.fp",
                 "type": "malicious"
             },
             "Zillya": {

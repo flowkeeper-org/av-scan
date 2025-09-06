@@ -1,11 +1,7 @@
 {
-    "date": "2025-09-05 01:48:34.518500+00:00",
+    "date": "2025-09-06 01:29:17.650133+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -195,6 +191,10 @@
                 "type": "undetected"
             },
             "SUPERAntiSpyware": {
+                "details": null,
+                "type": "undetected"
+            },
+            "Sangfor": {
                 "details": null,
                 "type": "undetected"
             },
@@ -500,6 +500,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "Sangfor": {
+                "details": null,
+                "type": "undetected"
+            },
             "SentinelOne": {
                 "details": null,
                 "type": "undetected"
@@ -799,6 +803,10 @@
                 "type": "undetected"
             },
             "SUPERAntiSpyware": {
+                "details": null,
+                "type": "undetected"
+            },
+            "Sangfor": {
                 "details": null,
                 "type": "undetected"
             },
@@ -1104,6 +1112,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "Sangfor": {
+                "details": null,
+                "type": "undetected"
+            },
             "SentinelOne": {
                 "details": null,
                 "type": "undetected"
@@ -1194,7 +1206,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "alibabacloud": {
                 "details": null,
@@ -1403,6 +1415,10 @@
                 "type": "undetected"
             },
             "SUPERAntiSpyware": {
+                "details": null,
+                "type": "undetected"
+            },
+            "Sangfor": {
                 "details": null,
                 "type": "undetected"
             },
@@ -1645,8 +1661,8 @@
                 "type": "undetected"
             },
             "Jiangmin": {
-                "details": "Trojan.Tedy.fp",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "K7AntiVirus": {
                 "details": null,
@@ -1705,6 +1721,10 @@
                 "type": "undetected"
             },
             "SUPERAntiSpyware": {
+                "details": null,
+                "type": "undetected"
+            },
+            "Sangfor": {
                 "details": null,
                 "type": "undetected"
             },
@@ -2010,6 +2030,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "Sangfor": {
+                "details": null,
+                "type": "undetected"
+            },
             "SentinelOne": {
                 "details": null,
                 "type": "undetected"
@@ -2100,7 +2124,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "alibabacloud": {
                 "details": null,
@@ -2116,10 +2140,6 @@
             }
         },
         "flowkeeper-1.0.1-windows-2025-nuitka-portable.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2309,6 +2329,10 @@
                 "type": "undetected"
             },
             "SUPERAntiSpyware": {
+                "details": null,
+                "type": "undetected"
+            },
+            "Sangfor": {
                 "details": null,
                 "type": "undetected"
             },
@@ -2614,6 +2638,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "Sangfor": {
+                "details": null,
+                "type": "undetected"
+            },
             "SentinelOne": {
                 "details": null,
                 "type": "undetected"
@@ -2913,6 +2941,10 @@
                 "type": "undetected"
             },
             "SUPERAntiSpyware": {
+                "details": null,
+                "type": "undetected"
+            },
+            "Sangfor": {
                 "details": null,
                 "type": "undetected"
             },
@@ -3218,6 +3250,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "Sangfor": {
+                "details": null,
+                "type": "undetected"
+            },
             "SentinelOne": {
                 "details": null,
                 "type": "undetected"
@@ -3457,8 +3493,8 @@
                 "type": "undetected"
             },
             "Jiangmin": {
-                "details": "Trojan.Tedy.fp",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "K7AntiVirus": {
                 "details": null,
@@ -3517,6 +3553,10 @@
                 "type": "undetected"
             },
             "SUPERAntiSpyware": {
+                "details": null,
+                "type": "undetected"
+            },
+            "Sangfor": {
                 "details": null,
                 "type": "undetected"
             },
