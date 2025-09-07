@@ -1,7 +1,11 @@
 {
-    "date": "2025-09-06 01:29:17.650133+00:00",
+    "date": "2025-09-07 01:44:48.686749+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -916,10 +920,6 @@
             }
         },
         "flowkeeper-1.0.1-windows-2022-pyinstaller-installer.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -1761,8 +1761,8 @@
                 "type": "undetected"
             },
             "TrellixENS": {
-                "details": "Artemis!83D52CB413C4",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -1834,10 +1834,6 @@
             }
         },
         "flowkeeper-1.0.1-windows-2025-nuitka-installer.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
