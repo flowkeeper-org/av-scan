@@ -1,5 +1,5 @@
 {
-    "date": "2025-09-12 01:29:14.672225+00:00",
+    "date": "2025-09-13 01:25:55.199154+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -920,10 +920,6 @@
             }
         },
         "flowkeeper-1.0.1-windows-2022-pyinstaller-installer.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2450,10 +2446,6 @@
             }
         },
         "flowkeeper-1.0.1-windows-2025-nuitka-standalone.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -3046,7 +3038,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "alibabacloud": {
                 "details": null,
