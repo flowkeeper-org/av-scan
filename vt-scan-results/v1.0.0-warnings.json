@@ -1,5 +1,5 @@
 {
-    "date": "2025-09-14 01:43:45.400057+00:00",
+    "date": "2025-09-15 01:47:12.729397+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {},
         "flowkeeper-1.0.1-windows-2022-nuitka-portable.exe": {},
@@ -9,10 +9,6 @@
         "flowkeeper-1.0.1-windows-2022-pyinstaller-standalone.exe": {
             "APEX": {
                 "details": "Malicious",
-                "type": "malicious"
-            },
-            "Zillya": {
-                "details": "Backdoor.Crysan.Win32.8934",
                 "type": "malicious"
             }
         },
