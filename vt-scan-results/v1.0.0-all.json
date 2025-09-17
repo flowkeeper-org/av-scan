@@ -1,5 +1,5 @@
 {
-    "date": "2025-09-16 01:29:17.755855+00:00",
+    "date": "2025-09-17 01:39:21.329307+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -12,11 +12,11 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "AhnLab-V3": {
                 "details": null,
@@ -36,7 +36,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -92,15 +92,15 @@
             },
             "DeepInstinct": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "DrWeb": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "ESET-NOD32": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Elastic": {
                 "details": null,
@@ -124,7 +124,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Gridinsoft": {
                 "details": null,
@@ -148,7 +148,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Kingsoft": {
                 "details": null,
@@ -192,7 +192,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -208,7 +208,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -236,7 +236,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -252,7 +252,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "VIPRE": {
                 "details": null,
@@ -260,7 +260,7 @@
             },
             "Varist": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "ViRobot": {
                 "details": null,
@@ -284,7 +284,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -978,7 +978,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -1516,7 +1516,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "alibabacloud": {
                 "details": null,
@@ -1590,7 +1590,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -1694,7 +1694,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -2230,7 +2230,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -2450,10 +2450,6 @@
             }
         },
         "flowkeeper-1.0.1-windows-2025-nuitka-standalone.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2814,7 +2810,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -3046,7 +3042,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "alibabacloud": {
                 "details": null,
@@ -3062,6 +3058,10 @@
             }
         },
         "flowkeeper-1.0.1-windows-2025-pyinstaller-portable.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -3422,7 +3422,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "CAT-QuickHeal": {
                 "details": null,
