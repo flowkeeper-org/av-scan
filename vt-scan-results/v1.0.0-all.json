@@ -1,11 +1,7 @@
 {
-    "date": "2025-09-23 01:38:44.596023+00:00",
+    "date": "2025-09-25 01:40:48.574988+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -308,10 +304,6 @@
             }
         },
         "flowkeeper-1.0.1-windows-2022-nuitka-portable.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -688,7 +680,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -812,7 +804,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SentinelOne": {
                 "details": null,
@@ -848,7 +840,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -1328,7 +1320,7 @@
             },
             "Elastic": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "failure"
             },
             "Emsisoft": {
                 "details": null,
@@ -1634,7 +1626,7 @@
             },
             "Elastic": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Emsisoft": {
                 "details": null,
