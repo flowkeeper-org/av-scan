@@ -1,7 +1,11 @@
 {
-    "date": "2025-09-25 01:40:48.574988+00:00",
+    "date": "2025-09-26 01:40:10.668075+00:00",
     "results": {
         "flowkeeper-1.0.1-windows-2022-nuitka-installer.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -304,6 +308,10 @@
             }
         },
         "flowkeeper-1.0.1-windows-2022-nuitka-portable.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -1320,7 +1328,7 @@
             },
             "Elastic": {
                 "details": null,
-                "type": "failure"
+                "type": "type-unsupported"
             },
             "Emsisoft": {
                 "details": null,
@@ -1626,7 +1634,7 @@
             },
             "Elastic": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Emsisoft": {
                 "details": null,
@@ -1830,10 +1838,6 @@
             }
         },
         "flowkeeper-1.0.1-windows-2025-nuitka-installer.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -3050,7 +3054,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             }
         },
         "flowkeeper-1.0.1-windows-2025-pyinstaller-portable.exe": {
