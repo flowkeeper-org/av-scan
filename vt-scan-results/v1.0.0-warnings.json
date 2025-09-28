@@ -1,5 +1,5 @@
 {
-    "date": "2025-09-27 01:29:33.480379+00:00",
+    "date": "2025-09-28 01:56:30.144587+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {},
         "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {},
@@ -31,15 +31,14 @@
             "Avast": {
                 "details": "Win64:Malware-gen",
                 "type": "malicious"
-            }
-        },
-        "flowkeeper-1.0.2-windows-2025-nuitka-installer.exe": {},
-        "flowkeeper-1.0.2-windows-2025-nuitka-portable.exe": {
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
+            },
+            "TrellixENS": {
+                "details": "Artemis!5F1531BF0C0F",
                 "type": "malicious"
             }
         },
+        "flowkeeper-1.0.2-windows-2025-nuitka-installer.exe": {},
+        "flowkeeper-1.0.2-windows-2025-nuitka-portable.exe": {},
         "flowkeeper-1.0.2-windows-2025-nuitka-standalone.exe": {},
         "flowkeeper-1.0.2-windows-2025-pyinstaller-installer.exe": {
             "AVG": {
