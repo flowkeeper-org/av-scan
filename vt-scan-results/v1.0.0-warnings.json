@@ -1,5 +1,5 @@
 {
-    "date": "2025-09-29 01:42:46.686891+00:00",
+    "date": "2025-09-30 01:37:58.743603+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {},
         "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {},
@@ -34,6 +34,10 @@
             },
             "TrellixENS": {
                 "details": "Artemis!5F1531BF0C0F",
+                "type": "malicious"
+            },
+            "Zillya": {
+                "details": "Trojan.Blank.Script.950",
                 "type": "malicious"
             }
         },
@@ -70,6 +74,10 @@
             },
             "TrellixENS": {
                 "details": "Artemis!291740AE710E",
+                "type": "malicious"
+            },
+            "Zillya": {
+                "details": "Trojan.Blank.Script.950",
                 "type": "malicious"
             }
         }

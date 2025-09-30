@@ -1,5 +1,5 @@
 {
-    "date": "2025-09-29 01:42:46.686891+00:00",
+    "date": "2025-09-30 01:37:58.743603+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -1532,6 +1532,10 @@
             }
         },
         "flowkeeper-1.0.2-windows-2022-pyinstaller-standalone.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": "Malicious",
                 "type": "malicious"
@@ -1809,8 +1813,8 @@
                 "type": "undetected"
             },
             "Zillya": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Blank.Script.950",
+                "type": "malicious"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -1834,10 +1838,6 @@
             }
         },
         "flowkeeper-1.0.2-windows-2025-nuitka-installer.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2446,10 +2446,6 @@
             }
         },
         "flowkeeper-1.0.2-windows-2025-nuitka-standalone.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -3645,8 +3641,8 @@
                 "type": "undetected"
             },
             "Zillya": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Blank.Script.950",
+                "type": "malicious"
             },
             "ZoneAlarm": {
                 "details": null,
