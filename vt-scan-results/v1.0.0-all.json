@@ -1,5 +1,5 @@
 {
-    "date": "2025-09-30 01:37:58.743603+00:00",
+    "date": "2025-10-01 01:49:53.618878+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -1528,7 +1528,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "undetected"
+                "type": "confirmed-timeout"
             }
         },
         "flowkeeper-1.0.2-windows-2022-pyinstaller-standalone.exe": {
@@ -1838,6 +1838,10 @@
             }
         },
         "flowkeeper-1.0.2-windows-2025-nuitka-installer.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -2446,6 +2450,10 @@
             }
         },
         "flowkeeper-1.0.2-windows-2025-nuitka-standalone.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -3050,7 +3058,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "undetected"
+                "type": "confirmed-timeout"
             }
         },
         "flowkeeper-1.0.2-windows-2025-pyinstaller-portable.exe": {
@@ -3356,7 +3364,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "undetected"
+                "type": "confirmed-timeout"
             }
         },
         "flowkeeper-1.0.2-windows-2025-pyinstaller-standalone.exe": {
