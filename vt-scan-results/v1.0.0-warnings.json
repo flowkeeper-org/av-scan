@@ -1,16 +1,16 @@
 {
-    "date": "2025-10-01 01:49:53.618878+00:00",
+    "date": "2025-10-02 01:30:50.843790+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {},
         "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {},
         "flowkeeper-1.0.2-windows-2022-nuitka-standalone.exe": {},
         "flowkeeper-1.0.2-windows-2022-pyinstaller-installer.exe": {
             "AVG": {
-                "details": "Win64:Malware-gen",
+                "details": "Win64:PUP-gen [PUP]",
                 "type": "malicious"
             },
             "Avast": {
-                "details": "Win64:Malware-gen",
+                "details": "Win64:PUP-gen [PUP]",
                 "type": "malicious"
             },
             "Skyhigh": {
@@ -25,11 +25,11 @@
                 "type": "malicious"
             },
             "AVG": {
-                "details": "Win64:Malware-gen",
+                "details": "Win64:PUP-gen [PUP]",
                 "type": "malicious"
             },
             "Avast": {
-                "details": "Win64:Malware-gen",
+                "details": "Win64:PUP-gen [PUP]",
                 "type": "malicious"
             },
             "TrellixENS": {
@@ -46,11 +46,11 @@
         "flowkeeper-1.0.2-windows-2025-nuitka-standalone.exe": {},
         "flowkeeper-1.0.2-windows-2025-pyinstaller-installer.exe": {
             "AVG": {
-                "details": "Win64:Malware-gen",
+                "details": "Win64:PUP-gen [PUP]",
                 "type": "malicious"
             },
             "Avast": {
-                "details": "Win64:Malware-gen",
+                "details": "Win64:PUP-gen [PUP]",
                 "type": "malicious"
             },
             "Skyhigh": {
@@ -65,11 +65,11 @@
                 "type": "malicious"
             },
             "AVG": {
-                "details": "Win64:Malware-gen",
+                "details": "Win64:PUP-gen [PUP]",
                 "type": "malicious"
             },
             "Avast": {
-                "details": "Win64:Malware-gen",
+                "details": "Win64:PUP-gen [PUP]",
                 "type": "malicious"
             },
             "TrellixENS": {

@@ -1,5 +1,5 @@
 {
-    "date": "2025-10-01 01:49:53.618878+00:00",
+    "date": "2025-10-02 01:30:50.843790+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -382,7 +382,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -929,7 +929,7 @@
                 "type": "undetected"
             },
             "AVG": {
-                "details": "Win64:Malware-gen",
+                "details": "Win64:PUP-gen [PUP]",
                 "type": "malicious"
             },
             "Acronis": {
@@ -953,7 +953,7 @@
                 "type": "undetected"
             },
             "Avast": {
-                "details": "Win64:Malware-gen",
+                "details": "Win64:PUP-gen [PUP]",
                 "type": "malicious"
             },
             "Avast-Mobile": {
@@ -1528,7 +1528,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.0.2-windows-2022-pyinstaller-standalone.exe": {
@@ -1541,7 +1541,7 @@
                 "type": "malicious"
             },
             "AVG": {
-                "details": "Win64:Malware-gen",
+                "details": "Win64:PUP-gen [PUP]",
                 "type": "malicious"
             },
             "Acronis": {
@@ -1565,7 +1565,7 @@
                 "type": "undetected"
             },
             "Avast": {
-                "details": "Win64:Malware-gen",
+                "details": "Win64:PUP-gen [PUP]",
                 "type": "malicious"
             },
             "Avast-Mobile": {
@@ -2765,7 +2765,7 @@
                 "type": "undetected"
             },
             "AVG": {
-                "details": "Win64:Malware-gen",
+                "details": "Win64:PUP-gen [PUP]",
                 "type": "malicious"
             },
             "Acronis": {
@@ -2789,7 +2789,7 @@
                 "type": "undetected"
             },
             "Avast": {
-                "details": "Win64:Malware-gen",
+                "details": "Win64:PUP-gen [PUP]",
                 "type": "malicious"
             },
             "Avast-Mobile": {
@@ -3058,7 +3058,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.0.2-windows-2025-pyinstaller-portable.exe": {
@@ -3364,7 +3364,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.0.2-windows-2025-pyinstaller-standalone.exe": {
@@ -3377,7 +3377,7 @@
                 "type": "malicious"
             },
             "AVG": {
-                "details": "Win64:Malware-gen",
+                "details": "Win64:PUP-gen [PUP]",
                 "type": "malicious"
             },
             "Acronis": {
@@ -3401,7 +3401,7 @@
                 "type": "undetected"
             },
             "Avast": {
-                "details": "Win64:Malware-gen",
+                "details": "Win64:PUP-gen [PUP]",
                 "type": "malicious"
             },
             "Avast-Mobile": {
@@ -3442,7 +3442,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
