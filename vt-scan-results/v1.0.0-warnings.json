@@ -1,5 +1,5 @@
 {
-    "date": "2025-10-07 01:48:38.014270+00:00",
+    "date": "2025-10-08 01:39:38.656594+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {},
         "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {},
@@ -34,6 +34,10 @@
             },
             "TrellixENS": {
                 "details": "Artemis!5F1531BF0C0F",
+                "type": "malicious"
+            },
+            "Yandex": {
+                "details": "Riskware.PyInstaller!8SbeUXZyUpU",
                 "type": "malicious"
             }
         },
@@ -70,6 +74,10 @@
             },
             "TrellixENS": {
                 "details": "Artemis!291740AE710E",
+                "type": "malicious"
+            },
+            "Yandex": {
+                "details": "Riskware.PyInstaller!8SbeUXZyUpU",
                 "type": "malicious"
             }
         }

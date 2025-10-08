@@ -1,5 +1,5 @@
 {
-    "date": "2025-10-07 01:48:38.014270+00:00",
+    "date": "2025-10-08 01:39:38.656594+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -920,10 +920,6 @@
             }
         },
         "flowkeeper-1.0.2-windows-2022-pyinstaller-installer.exe": {
-            "ALYac": {
-                "details": null,
-                "type": "undetected"
-            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
@@ -994,7 +990,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1082,7 +1078,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -1532,6 +1528,10 @@
             }
         },
         "flowkeeper-1.0.2-windows-2022-pyinstaller-standalone.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": "Malicious",
                 "type": "malicious"
@@ -1805,8 +1805,8 @@
                 "type": "undetected"
             },
             "Yandex": {
-                "details": null,
-                "type": "undetected"
+                "details": "Riskware.PyInstaller!8SbeUXZyUpU",
+                "type": "malicious"
             },
             "Zillya": {
                 "details": null,
@@ -3641,8 +3641,8 @@
                 "type": "undetected"
             },
             "Yandex": {
-                "details": null,
-                "type": "undetected"
+                "details": "Riskware.PyInstaller!8SbeUXZyUpU",
+                "type": "malicious"
             },
             "Zillya": {
                 "details": null,
