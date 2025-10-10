@@ -1,5 +1,5 @@
 {
-    "date": "2025-10-08 01:39:38.656594+00:00",
+    "date": "2025-10-10 01:40:38.606527+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -920,13 +920,17 @@
             }
         },
         "flowkeeper-1.0.2-windows-2022-pyinstaller-installer.exe": {
+            "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
             "APEX": {
                 "details": null,
                 "type": "undetected"
             },
             "AVG": {
-                "details": "Win64:PUP-gen [PUP]",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -949,8 +953,8 @@
                 "type": "undetected"
             },
             "Avast": {
-                "details": "Win64:PUP-gen [PUP]",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -990,7 +994,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1078,7 +1082,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": null,
@@ -1121,8 +1125,8 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": "Artemis",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -1537,8 +1541,8 @@
                 "type": "malicious"
             },
             "AVG": {
-                "details": "Win64:PUP-gen [PUP]",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -1561,8 +1565,8 @@
                 "type": "undetected"
             },
             "Avast": {
-                "details": "Win64:PUP-gen [PUP]",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -1761,8 +1765,8 @@
                 "type": "undetected"
             },
             "TrellixENS": {
-                "details": "Artemis!5F1531BF0C0F",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -2346,7 +2350,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -2406,7 +2410,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Webroot": {
                 "details": null,
@@ -2761,8 +2765,8 @@
                 "type": "undetected"
             },
             "AVG": {
-                "details": "Win64:PUP-gen [PUP]",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -2785,8 +2789,8 @@
                 "type": "undetected"
             },
             "Avast": {
-                "details": "Win64:PUP-gen [PUP]",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -3373,8 +3377,8 @@
                 "type": "malicious"
             },
             "AVG": {
-                "details": "Win64:PUP-gen [PUP]",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -3397,8 +3401,8 @@
                 "type": "undetected"
             },
             "Avast": {
-                "details": "Win64:PUP-gen [PUP]",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,

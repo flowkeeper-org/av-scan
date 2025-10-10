@@ -1,39 +1,14 @@
 {
-    "date": "2025-10-08 01:39:38.656594+00:00",
+    "date": "2025-10-10 01:40:38.606527+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {},
         "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {},
         "flowkeeper-1.0.2-windows-2022-nuitka-standalone.exe": {},
-        "flowkeeper-1.0.2-windows-2022-pyinstaller-installer.exe": {
-            "AVG": {
-                "details": "Win64:PUP-gen [PUP]",
-                "type": "malicious"
-            },
-            "Avast": {
-                "details": "Win64:PUP-gen [PUP]",
-                "type": "malicious"
-            },
-            "Skyhigh": {
-                "details": "Artemis",
-                "type": "malicious"
-            }
-        },
+        "flowkeeper-1.0.2-windows-2022-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.2-windows-2022-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.2-windows-2022-pyinstaller-standalone.exe": {
             "APEX": {
                 "details": "Malicious",
-                "type": "malicious"
-            },
-            "AVG": {
-                "details": "Win64:PUP-gen [PUP]",
-                "type": "malicious"
-            },
-            "Avast": {
-                "details": "Win64:PUP-gen [PUP]",
-                "type": "malicious"
-            },
-            "TrellixENS": {
-                "details": "Artemis!5F1531BF0C0F",
                 "type": "malicious"
             },
             "Yandex": {
@@ -45,14 +20,6 @@
         "flowkeeper-1.0.2-windows-2025-nuitka-portable.exe": {},
         "flowkeeper-1.0.2-windows-2025-nuitka-standalone.exe": {},
         "flowkeeper-1.0.2-windows-2025-pyinstaller-installer.exe": {
-            "AVG": {
-                "details": "Win64:PUP-gen [PUP]",
-                "type": "malicious"
-            },
-            "Avast": {
-                "details": "Win64:PUP-gen [PUP]",
-                "type": "malicious"
-            },
             "Skyhigh": {
                 "details": "Artemis",
                 "type": "malicious"
@@ -62,14 +29,6 @@
         "flowkeeper-1.0.2-windows-2025-pyinstaller-standalone.exe": {
             "APEX": {
                 "details": "Malicious",
-                "type": "malicious"
-            },
-            "AVG": {
-                "details": "Win64:PUP-gen [PUP]",
-                "type": "malicious"
-            },
-            "Avast": {
-                "details": "Win64:PUP-gen [PUP]",
                 "type": "malicious"
             },
             "TrellixENS": {
