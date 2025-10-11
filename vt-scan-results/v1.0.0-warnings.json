@@ -1,5 +1,5 @@
 {
-    "date": "2025-10-10 01:40:38.606527+00:00",
+    "date": "2025-10-11 01:28:20.024894+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {},
         "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {},
@@ -19,20 +19,11 @@
         "flowkeeper-1.0.2-windows-2025-nuitka-installer.exe": {},
         "flowkeeper-1.0.2-windows-2025-nuitka-portable.exe": {},
         "flowkeeper-1.0.2-windows-2025-nuitka-standalone.exe": {},
-        "flowkeeper-1.0.2-windows-2025-pyinstaller-installer.exe": {
-            "Skyhigh": {
-                "details": "Artemis",
-                "type": "malicious"
-            }
-        },
+        "flowkeeper-1.0.2-windows-2025-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.2-windows-2025-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.2-windows-2025-pyinstaller-standalone.exe": {
             "APEX": {
                 "details": "Malicious",
-                "type": "malicious"
-            },
-            "TrellixENS": {
-                "details": "Artemis!291740AE710E",
                 "type": "malicious"
             },
             "Yandex": {

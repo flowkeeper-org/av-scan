@@ -1,5 +1,5 @@
 {
-    "date": "2025-10-10 01:40:38.606527+00:00",
+    "date": "2025-10-11 01:28:20.024894+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -2104,7 +2104,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Webroot": {
                 "details": null,
@@ -2350,7 +2350,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -2410,7 +2410,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Webroot": {
                 "details": null,
@@ -2716,7 +2716,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Webroot": {
                 "details": null,
@@ -2961,8 +2961,8 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": "Artemis",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -3601,8 +3601,8 @@
                 "type": "undetected"
             },
             "TrellixENS": {
-                "details": "Artemis!291740AE710E",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
