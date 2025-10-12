@@ -1,5 +1,5 @@
 {
-    "date": "2025-10-11 01:28:20.024894+00:00",
+    "date": "2025-10-12 01:43:27.037962+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -2104,7 +2104,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Webroot": {
                 "details": null,
@@ -2716,7 +2716,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Webroot": {
                 "details": null,
@@ -3046,7 +3046,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "alibabacloud": {
                 "details": null,
