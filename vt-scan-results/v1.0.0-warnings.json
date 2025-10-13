@@ -1,5 +1,5 @@
 {
-    "date": "2025-10-12 01:43:27.037962+00:00",
+    "date": "2025-10-13 01:46:55.044840+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {},
         "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {},
@@ -9,10 +9,6 @@
         "flowkeeper-1.0.2-windows-2022-pyinstaller-standalone.exe": {
             "APEX": {
                 "details": "Malicious",
-                "type": "malicious"
-            },
-            "Yandex": {
-                "details": "Riskware.PyInstaller!8SbeUXZyUpU",
                 "type": "malicious"
             }
         },
@@ -24,10 +20,6 @@
         "flowkeeper-1.0.2-windows-2025-pyinstaller-standalone.exe": {
             "APEX": {
                 "details": "Malicious",
-                "type": "malicious"
-            },
-            "Yandex": {
-                "details": "Riskware.PyInstaller!8SbeUXZyUpU",
                 "type": "malicious"
             }
         }
