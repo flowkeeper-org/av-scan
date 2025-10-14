@@ -1,5 +1,5 @@
 {
-    "date": "2025-10-13 01:46:55.044840+00:00",
+    "date": "2025-10-14 01:42:27.913962+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -268,7 +268,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Webroot": {
                 "details": null,
@@ -926,7 +926,7 @@
             },
             "APEX": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "AVG": {
                 "details": null,
@@ -990,7 +990,7 @@
             },
             "CTX": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "ClamAV": {
                 "details": null,
@@ -1006,7 +1006,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "failure"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -1026,7 +1026,7 @@
             },
             "Emsisoft": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "F-Secure": {
                 "details": null,
@@ -1138,7 +1138,7 @@
             },
             "SymantecMobileInsight": {
                 "details": null,
-                "type": "failure"
+                "type": "type-unsupported"
             },
             "TACHYON": {
                 "details": null,
@@ -1809,8 +1809,8 @@
                 "type": "undetected"
             },
             "Yandex": {
-                "details": null,
-                "type": "undetected"
+                "details": "Riskware.PyInstaller!8SbeUXZyUpU",
+                "type": "malicious"
             },
             "Zillya": {
                 "details": null,
@@ -1860,7 +1860,7 @@
             },
             "Alibaba": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Antiy-AVL": {
                 "details": null,
@@ -1884,11 +1884,11 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -1908,7 +1908,7 @@
             },
             "CTX": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "ClamAV": {
                 "details": null,
@@ -1924,7 +1924,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "failure"
             },
             "DeepInstinct": {
                 "details": null,
@@ -1944,7 +1944,7 @@
             },
             "Emsisoft": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "F-Secure": {
                 "details": null,
@@ -1972,7 +1972,7 @@
             },
             "Jiangmin": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "K7AntiVirus": {
                 "details": null,
@@ -2000,7 +2000,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "McAfeeD": {
                 "details": null,
@@ -2036,11 +2036,11 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "SentinelOne": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Skyhigh": {
                 "details": null,
@@ -2056,7 +2056,7 @@
             },
             "SymantecMobileInsight": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "failure"
             },
             "TACHYON": {
                 "details": null,
@@ -2076,7 +2076,7 @@
             },
             "TrendMicro": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "TrendMicro-HouseCall": {
                 "details": null,
@@ -2112,7 +2112,7 @@
             },
             "Xcitium": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Yandex": {
                 "details": null,
@@ -2120,7 +2120,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -2766,7 +2766,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -2790,7 +2790,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -2818,7 +2818,7 @@
             },
             "CAT-QuickHeal": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CMC": {
                 "details": null,
@@ -2902,7 +2902,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Kingsoft": {
                 "details": null,
@@ -2946,7 +2946,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -2954,7 +2954,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SentinelOne": {
                 "details": null,
@@ -2962,7 +2962,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -2990,7 +2990,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -3084,11 +3084,11 @@
             },
             "Alibaba": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Antiy-AVL": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Arcabit": {
                 "details": null,
@@ -3132,11 +3132,11 @@
             },
             "CTX": {
                 "details": null,
-                "type": "undetected"
+                "type": "confirmed-timeout"
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3148,7 +3148,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "failure"
             },
             "DeepInstinct": {
                 "details": null,
@@ -3168,7 +3168,7 @@
             },
             "Emsisoft": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "F-Secure": {
                 "details": null,
@@ -3264,7 +3264,7 @@
             },
             "SentinelOne": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Skyhigh": {
                 "details": null,
@@ -3276,19 +3276,19 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SymantecMobileInsight": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "failure"
             },
             "TACHYON": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Tencent": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Trapmine": {
                 "details": null,
@@ -3336,7 +3336,7 @@
             },
             "Xcitium": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Yandex": {
                 "details": null,
@@ -3442,7 +3442,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3645,8 +3645,8 @@
                 "type": "undetected"
             },
             "Yandex": {
-                "details": null,
-                "type": "undetected"
+                "details": "Riskware.PyInstaller!8SbeUXZyUpU",
+                "type": "malicious"
             },
             "Zillya": {
                 "details": null,
