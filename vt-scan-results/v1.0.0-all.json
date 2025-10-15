@@ -1,5 +1,5 @@
 {
-    "date": "2025-10-14 01:42:27.913962+00:00",
+    "date": "2025-10-15 01:44:32.509831+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -268,7 +268,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Webroot": {
                 "details": null,
@@ -533,8 +533,8 @@
                 "type": "undetected"
             },
             "Tencent": {
-                "details": null,
-                "type": "undetected"
+                "details": "OB:Trojan.Win64.Shellcode.16002449",
+                "type": "malicious"
             },
             "Trapmine": {
                 "details": null,
@@ -839,8 +839,8 @@
                 "type": "undetected"
             },
             "Tencent": {
-                "details": null,
-                "type": "undetected"
+                "details": "OB:Trojan.Win64.Shellcode.16002449",
+                "type": "malicious"
             },
             "Trapmine": {
                 "details": null,
@@ -848,7 +848,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -1451,8 +1451,8 @@
                 "type": "undetected"
             },
             "Tencent": {
-                "details": null,
-                "type": "undetected"
+                "details": "OB:Trojan.Win64.Shellcode.16002449",
+                "type": "malicious"
             },
             "Trapmine": {
                 "details": null,
@@ -1757,8 +1757,8 @@
                 "type": "undetected"
             },
             "Tencent": {
-                "details": null,
-                "type": "undetected"
+                "details": "OB:Trojan.Win64.Shellcode.16002449",
+                "type": "malicious"
             },
             "Trapmine": {
                 "details": null,
@@ -1860,7 +1860,7 @@
             },
             "Alibaba": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Antiy-AVL": {
                 "details": null,
@@ -1884,11 +1884,11 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "BitDefender": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -1908,7 +1908,7 @@
             },
             "CTX": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "ClamAV": {
                 "details": null,
@@ -1924,7 +1924,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "failure"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -1944,7 +1944,7 @@
             },
             "Emsisoft": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "F-Secure": {
                 "details": null,
@@ -1972,7 +1972,7 @@
             },
             "Jiangmin": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "K7AntiVirus": {
                 "details": null,
@@ -2000,7 +2000,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": null,
@@ -2036,11 +2036,11 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "SentinelOne": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Skyhigh": {
                 "details": null,
@@ -2056,7 +2056,7 @@
             },
             "SymantecMobileInsight": {
                 "details": null,
-                "type": "failure"
+                "type": "type-unsupported"
             },
             "TACHYON": {
                 "details": null,
@@ -2076,7 +2076,7 @@
             },
             "TrendMicro": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "TrendMicro-HouseCall": {
                 "details": null,
@@ -2112,7 +2112,7 @@
             },
             "Xcitium": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Yandex": {
                 "details": null,
@@ -2120,7 +2120,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -2369,8 +2369,8 @@
                 "type": "undetected"
             },
             "Tencent": {
-                "details": null,
-                "type": "undetected"
+                "details": "OB:Trojan.Win64.Shellcode.16002449",
+                "type": "malicious"
             },
             "Trapmine": {
                 "details": null,
@@ -2675,8 +2675,8 @@
                 "type": "undetected"
             },
             "Tencent": {
-                "details": null,
-                "type": "undetected"
+                "details": "OB:Trojan.Win64.Shellcode.16002449",
+                "type": "malicious"
             },
             "Trapmine": {
                 "details": null,
@@ -3084,11 +3084,11 @@
             },
             "Alibaba": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Antiy-AVL": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Arcabit": {
                 "details": null,
@@ -3132,11 +3132,11 @@
             },
             "CTX": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             },
             "ClamAV": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3148,7 +3148,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "failure"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -3168,7 +3168,7 @@
             },
             "Emsisoft": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "F-Secure": {
                 "details": null,
@@ -3264,7 +3264,7 @@
             },
             "SentinelOne": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Skyhigh": {
                 "details": null,
@@ -3276,19 +3276,19 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
-                "type": "failure"
+                "type": "type-unsupported"
             },
             "TACHYON": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Tencent": {
-                "details": null,
-                "type": "timeout"
+                "details": "OB:Trojan.Win64.Shellcode.16002449",
+                "type": "malicious"
             },
             "Trapmine": {
                 "details": null,
@@ -3336,7 +3336,7 @@
             },
             "Xcitium": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Yandex": {
                 "details": null,
@@ -3442,7 +3442,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3593,8 +3593,8 @@
                 "type": "undetected"
             },
             "Tencent": {
-                "details": null,
-                "type": "undetected"
+                "details": "OB:Trojan.Win64.Shellcode.16002449",
+                "type": "malicious"
             },
             "Trapmine": {
                 "details": null,
