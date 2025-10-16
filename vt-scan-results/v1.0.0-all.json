@@ -1,5 +1,5 @@
 {
-    "date": "2025-10-15 01:44:32.509831+00:00",
+    "date": "2025-10-16 01:44:33.893873+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -533,8 +533,8 @@
                 "type": "undetected"
             },
             "Tencent": {
-                "details": "OB:Trojan.Win64.Shellcode.16002449",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Trapmine": {
                 "details": null,
@@ -688,7 +688,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -803,8 +803,8 @@
                 "type": "undetected"
             },
             "Rising": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Generic!8.C3 (CLOUD)",
+                "type": "malicious"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -839,8 +839,8 @@
                 "type": "undetected"
             },
             "Tencent": {
-                "details": "OB:Trojan.Win64.Shellcode.16002449",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Trapmine": {
                 "details": null,
@@ -848,7 +848,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -1451,8 +1451,8 @@
                 "type": "undetected"
             },
             "Tencent": {
-                "details": "OB:Trojan.Win64.Shellcode.16002449",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Trapmine": {
                 "details": null,
@@ -1757,8 +1757,8 @@
                 "type": "undetected"
             },
             "Tencent": {
-                "details": "OB:Trojan.Win64.Shellcode.16002449",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Trapmine": {
                 "details": null,
@@ -2154,7 +2154,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -2178,7 +2178,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -2238,7 +2238,7 @@
             },
             "DrWeb": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "ESET-NOD32": {
                 "details": null,
@@ -2290,7 +2290,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Kingsoft": {
                 "details": null,
@@ -2334,7 +2334,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -2350,7 +2350,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -2369,8 +2369,8 @@
                 "type": "undetected"
             },
             "Tencent": {
-                "details": "OB:Trojan.Win64.Shellcode.16002449",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Trapmine": {
                 "details": null,
@@ -2378,7 +2378,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -2402,7 +2402,7 @@
             },
             "Varist": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "ViRobot": {
                 "details": null,
@@ -2639,8 +2639,8 @@
                 "type": "undetected"
             },
             "Rising": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Generic!8.C3 (CLOUD)",
+                "type": "malicious"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -2675,8 +2675,8 @@
                 "type": "undetected"
             },
             "Tencent": {
-                "details": "OB:Trojan.Win64.Shellcode.16002449",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Trapmine": {
                 "details": null,
@@ -2732,7 +2732,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -2814,7 +2814,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -3287,8 +3287,8 @@
                 "type": "undetected"
             },
             "Tencent": {
-                "details": "OB:Trojan.Win64.Shellcode.16002449",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Trapmine": {
                 "details": null,
@@ -3593,8 +3593,8 @@
                 "type": "undetected"
             },
             "Tencent": {
-                "details": "OB:Trojan.Win64.Shellcode.16002449",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Trapmine": {
                 "details": null,

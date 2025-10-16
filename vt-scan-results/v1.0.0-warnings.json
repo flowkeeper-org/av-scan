@@ -1,33 +1,19 @@
 {
-    "date": "2025-10-15 01:44:32.509831+00:00",
+    "date": "2025-10-16 01:44:33.893873+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {},
-        "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {
-            "Tencent": {
-                "details": "OB:Trojan.Win64.Shellcode.16002449",
-                "type": "malicious"
-            }
-        },
+        "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {},
         "flowkeeper-1.0.2-windows-2022-nuitka-standalone.exe": {
-            "Tencent": {
-                "details": "OB:Trojan.Win64.Shellcode.16002449",
+            "Rising": {
+                "details": "Trojan.Generic!8.C3 (CLOUD)",
                 "type": "malicious"
             }
         },
         "flowkeeper-1.0.2-windows-2022-pyinstaller-installer.exe": {},
-        "flowkeeper-1.0.2-windows-2022-pyinstaller-portable.exe": {
-            "Tencent": {
-                "details": "OB:Trojan.Win64.Shellcode.16002449",
-                "type": "malicious"
-            }
-        },
+        "flowkeeper-1.0.2-windows-2022-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.2-windows-2022-pyinstaller-standalone.exe": {
             "APEX": {
                 "details": "Malicious",
-                "type": "malicious"
-            },
-            "Tencent": {
-                "details": "OB:Trojan.Win64.Shellcode.16002449",
                 "type": "malicious"
             },
             "Yandex": {
@@ -36,32 +22,18 @@
             }
         },
         "flowkeeper-1.0.2-windows-2025-nuitka-installer.exe": {},
-        "flowkeeper-1.0.2-windows-2025-nuitka-portable.exe": {
-            "Tencent": {
-                "details": "OB:Trojan.Win64.Shellcode.16002449",
-                "type": "malicious"
-            }
-        },
+        "flowkeeper-1.0.2-windows-2025-nuitka-portable.exe": {},
         "flowkeeper-1.0.2-windows-2025-nuitka-standalone.exe": {
-            "Tencent": {
-                "details": "OB:Trojan.Win64.Shellcode.16002449",
+            "Rising": {
+                "details": "Trojan.Generic!8.C3 (CLOUD)",
                 "type": "malicious"
             }
         },
         "flowkeeper-1.0.2-windows-2025-pyinstaller-installer.exe": {},
-        "flowkeeper-1.0.2-windows-2025-pyinstaller-portable.exe": {
-            "Tencent": {
-                "details": "OB:Trojan.Win64.Shellcode.16002449",
-                "type": "malicious"
-            }
-        },
+        "flowkeeper-1.0.2-windows-2025-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.2-windows-2025-pyinstaller-standalone.exe": {
             "APEX": {
                 "details": "Malicious",
-                "type": "malicious"
-            },
-            "Tencent": {
-                "details": "OB:Trojan.Win64.Shellcode.16002449",
                 "type": "malicious"
             },
             "Yandex": {
