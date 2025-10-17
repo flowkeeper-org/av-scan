@@ -1,14 +1,9 @@
 {
-    "date": "2025-10-16 01:44:33.893873+00:00",
+    "date": "2025-10-17 01:42:44.680833+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {},
         "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {},
-        "flowkeeper-1.0.2-windows-2022-nuitka-standalone.exe": {
-            "Rising": {
-                "details": "Trojan.Generic!8.C3 (CLOUD)",
-                "type": "malicious"
-            }
-        },
+        "flowkeeper-1.0.2-windows-2022-nuitka-standalone.exe": {},
         "flowkeeper-1.0.2-windows-2022-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.2-windows-2022-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.2-windows-2022-pyinstaller-standalone.exe": {
@@ -23,12 +18,7 @@
         },
         "flowkeeper-1.0.2-windows-2025-nuitka-installer.exe": {},
         "flowkeeper-1.0.2-windows-2025-nuitka-portable.exe": {},
-        "flowkeeper-1.0.2-windows-2025-nuitka-standalone.exe": {
-            "Rising": {
-                "details": "Trojan.Generic!8.C3 (CLOUD)",
-                "type": "malicious"
-            }
-        },
+        "flowkeeper-1.0.2-windows-2025-nuitka-standalone.exe": {},
         "flowkeeper-1.0.2-windows-2025-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.2-windows-2025-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.2-windows-2025-pyinstaller-standalone.exe": {

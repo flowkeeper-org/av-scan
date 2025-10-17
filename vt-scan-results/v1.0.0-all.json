@@ -1,5 +1,5 @@
 {
-    "date": "2025-10-16 01:44:33.893873+00:00",
+    "date": "2025-10-17 01:42:44.680833+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -803,8 +803,8 @@
                 "type": "undetected"
             },
             "Rising": {
-                "details": "Trojan.Generic!8.C3 (CLOUD)",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -820,7 +820,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -848,7 +848,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -896,7 +896,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -2154,7 +2154,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -2178,7 +2178,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -2238,7 +2238,7 @@
             },
             "DrWeb": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ESET-NOD32": {
                 "details": null,
@@ -2290,7 +2290,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Kingsoft": {
                 "details": null,
@@ -2334,7 +2334,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -2350,7 +2350,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -2378,7 +2378,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -2402,7 +2402,7 @@
             },
             "Varist": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ViRobot": {
                 "details": null,
@@ -2639,8 +2639,8 @@
                 "type": "undetected"
             },
             "Rising": {
-                "details": "Trojan.Generic!8.C3 (CLOUD)",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -2732,7 +2732,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -2814,7 +2814,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -2846,7 +2846,7 @@
             },
             "DeepInstinct": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "DrWeb": {
                 "details": null,
