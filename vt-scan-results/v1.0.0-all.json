@@ -1,5 +1,5 @@
 {
-    "date": "2025-10-19 01:51:55.057487+00:00",
+    "date": "2025-10-20 01:49:53.513723+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -292,7 +292,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "alibabacloud": {
                 "details": null,
@@ -382,7 +382,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -470,7 +470,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -820,7 +820,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Sophos": {
                 "details": null,
@@ -1210,7 +1210,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "alibabacloud": {
                 "details": null,
@@ -1844,7 +1844,7 @@
             },
             "APEX": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "AVG": {
                 "details": null,
@@ -1868,7 +1868,7 @@
             },
             "Arcabit": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast": {
                 "details": null,
@@ -1884,11 +1884,11 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -1908,7 +1908,7 @@
             },
             "CTX": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "ClamAV": {
                 "details": null,
@@ -1924,7 +1924,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "failure"
             },
             "DeepInstinct": {
                 "details": null,
@@ -1940,11 +1940,11 @@
             },
             "Elastic": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Emsisoft": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "F-Secure": {
                 "details": null,
@@ -1984,7 +1984,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Kingsoft": {
                 "details": null,
@@ -2000,7 +2000,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "McAfeeD": {
                 "details": null,
@@ -2056,7 +2056,7 @@
             },
             "SymantecMobileInsight": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "failure"
             },
             "TACHYON": {
                 "details": null,
@@ -2132,7 +2132,7 @@
             },
             "alibabacloud": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "huorong": {
                 "details": null,
@@ -2524,7 +2524,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3442,7 +3442,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3658,7 +3658,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "alibabacloud": {
                 "details": null,
