@@ -1,27 +1,17 @@
 {
-    "date": "2025-10-30 01:49:44.794358+00:00",
+    "date": "2025-10-31 01:45:34.299117+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {},
         "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {},
         "flowkeeper-1.0.2-windows-2022-nuitka-standalone.exe": {},
         "flowkeeper-1.0.2-windows-2022-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.2-windows-2022-pyinstaller-portable.exe": {},
-        "flowkeeper-1.0.2-windows-2022-pyinstaller-standalone.exe": {
-            "APEX": {
-                "details": "Malicious",
-                "type": "malicious"
-            }
-        },
+        "flowkeeper-1.0.2-windows-2022-pyinstaller-standalone.exe": {},
         "flowkeeper-1.0.2-windows-2025-nuitka-installer.exe": {},
         "flowkeeper-1.0.2-windows-2025-nuitka-portable.exe": {},
         "flowkeeper-1.0.2-windows-2025-nuitka-standalone.exe": {},
         "flowkeeper-1.0.2-windows-2025-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.2-windows-2025-pyinstaller-portable.exe": {},
-        "flowkeeper-1.0.2-windows-2025-pyinstaller-standalone.exe": {
-            "APEX": {
-                "details": "Malicious",
-                "type": "malicious"
-            }
-        }
+        "flowkeeper-1.0.2-windows-2025-pyinstaller-standalone.exe": {}
     }
 }
