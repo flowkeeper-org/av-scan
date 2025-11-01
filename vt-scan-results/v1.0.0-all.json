@@ -1,8 +1,12 @@
 {
-    "date": "2025-10-31 01:45:34.299117+00:00",
+    "date": "2025-11-01 01:48:34.825064+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
+            "APEX": {
                 "details": null,
                 "type": "undetected"
             },
@@ -204,7 +208,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Sophos": {
                 "details": null,
@@ -305,6 +309,10 @@
         },
         "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {
             "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
+            "APEX": {
                 "details": null,
                 "type": "undetected"
             },
@@ -610,6 +618,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "APEX": {
+                "details": null,
+                "type": "undetected"
+            },
             "AVG": {
                 "details": null,
                 "type": "undetected"
@@ -676,7 +688,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -764,7 +776,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": null,
@@ -909,6 +921,10 @@
         },
         "flowkeeper-1.0.2-windows-2022-pyinstaller-installer.exe": {
             "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
+            "APEX": {
                 "details": null,
                 "type": "undetected"
             },
@@ -1214,6 +1230,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "APEX": {
+                "details": null,
+                "type": "undetected"
+            },
             "AVG": {
                 "details": null,
                 "type": "undetected"
@@ -1516,6 +1536,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "APEX": {
+                "details": "Malicious",
+                "type": "malicious"
+            },
             "AVG": {
                 "details": null,
                 "type": "undetected"
@@ -1815,6 +1839,10 @@
         },
         "flowkeeper-1.0.2-windows-2025-nuitka-installer.exe": {
             "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
+            "APEX": {
                 "details": null,
                 "type": "undetected"
             },
@@ -2120,6 +2148,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "APEX": {
+                "details": null,
+                "type": "undetected"
+            },
             "AVG": {
                 "details": null,
                 "type": "undetected"
@@ -2419,6 +2451,10 @@
         },
         "flowkeeper-1.0.2-windows-2025-nuitka-standalone.exe": {
             "ALYac": {
+                "details": null,
+                "type": "undetected"
+            },
+            "APEX": {
                 "details": null,
                 "type": "undetected"
             },
@@ -2724,6 +2760,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "APEX": {
+                "details": null,
+                "type": "undetected"
+            },
             "AVG": {
                 "details": null,
                 "type": "undetected"
@@ -2922,7 +2962,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -2930,7 +2970,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -3026,6 +3066,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "APEX": {
+                "details": null,
+                "type": "undetected"
+            },
             "AVG": {
                 "details": null,
                 "type": "undetected"
@@ -3104,7 +3148,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -3328,6 +3372,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "APEX": {
+                "details": "Malicious",
+                "type": "malicious"
+            },
             "AVG": {
                 "details": null,
                 "type": "undetected"
@@ -3482,7 +3530,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
