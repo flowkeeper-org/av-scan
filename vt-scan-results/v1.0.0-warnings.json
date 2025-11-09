@@ -1,5 +1,5 @@
 {
-    "date": "2025-11-08 01:41:56.127365+00:00",
+    "date": "2025-11-09 01:50:25.680627+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {},
         "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {},
@@ -21,7 +21,12 @@
         "flowkeeper-1.0.2-windows-2025-nuitka-portable.exe": {},
         "flowkeeper-1.0.2-windows-2025-nuitka-standalone.exe": {},
         "flowkeeper-1.0.2-windows-2025-pyinstaller-installer.exe": {},
-        "flowkeeper-1.0.2-windows-2025-pyinstaller-portable.exe": {},
+        "flowkeeper-1.0.2-windows-2025-pyinstaller-portable.exe": {
+            "Zillya": {
+                "details": "Trojan.Xeno.Win32.102",
+                "type": "malicious"
+            }
+        },
         "flowkeeper-1.0.2-windows-2025-pyinstaller-standalone.exe": {
             "APEX": {
                 "details": "Malicious",
