@@ -1,5 +1,5 @@
 {
-    "date": "2025-11-23 02:00:28.530582+00:00",
+    "date": "2025-11-24 01:56:02.201777+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -59,14 +59,6 @@
                 "type": "type-unsupported"
             },
             "Bkav": {
-                "details": null,
-                "type": "undetected"
-            },
-            "CAT-QuickHeal": {
-                "details": null,
-                "type": "undetected"
-            },
-            "CMC": {
                 "details": null,
                 "type": "undetected"
             },
@@ -368,14 +360,6 @@
                 "details": "W64.AIDetectMalware",
                 "type": "malicious"
             },
-            "CAT-QuickHeal": {
-                "details": null,
-                "type": "undetected"
-            },
-            "CMC": {
-                "details": null,
-                "type": "undetected"
-            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
@@ -671,14 +655,6 @@
                 "type": "type-unsupported"
             },
             "Bkav": {
-                "details": null,
-                "type": "undetected"
-            },
-            "CAT-QuickHeal": {
-                "details": null,
-                "type": "undetected"
-            },
-            "CMC": {
                 "details": null,
                 "type": "undetected"
             },
@@ -980,14 +956,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "CAT-QuickHeal": {
-                "details": null,
-                "type": "undetected"
-            },
-            "CMC": {
-                "details": null,
-                "type": "undetected"
-            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
@@ -1286,14 +1254,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "CAT-QuickHeal": {
-                "details": null,
-                "type": "undetected"
-            },
-            "CMC": {
-                "details": null,
-                "type": "undetected"
-            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
@@ -1534,7 +1494,7 @@
         "flowkeeper-1.0.2-windows-2022-pyinstaller-standalone.exe": {
             "ALYac": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "APEX": {
                 "details": "Malicious",
@@ -1592,14 +1552,6 @@
                 "details": "W64.AIDetectMalware",
                 "type": "malicious"
             },
-            "CAT-QuickHeal": {
-                "details": null,
-                "type": "timeout"
-            },
-            "CMC": {
-                "details": null,
-                "type": "undetected"
-            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
@@ -1626,7 +1578,7 @@
             },
             "DrWeb": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ESET-NOD32": {
                 "details": null,
@@ -1646,11 +1598,11 @@
             },
             "Fortinet": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "GData": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             },
             "Google": {
                 "details": null,
@@ -1678,7 +1630,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Kingsoft": {
                 "details": null,
@@ -1710,7 +1662,7 @@
             },
             "NANO-Antivirus": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Paloalto": {
                 "details": null,
@@ -1721,8 +1673,8 @@
                 "type": "undetected"
             },
             "Rising": {
-                "details": null,
-                "type": "timeout"
+                "details": "Trojan.Generic!8.C3 (CLOUD)",
+                "type": "malicious"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -1730,15 +1682,15 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SentinelOne": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -1770,7 +1722,7 @@
             },
             "TrendMicro": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro-HouseCall": {
                 "details": null,
@@ -1782,7 +1734,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": null,
@@ -1790,7 +1742,7 @@
             },
             "Varist": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ViRobot": {
                 "details": null,
@@ -1802,15 +1754,15 @@
             },
             "Webroot": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Xcitium": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Yandex": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Zillya": {
                 "details": null,
@@ -1895,14 +1847,6 @@
                 "type": "type-unsupported"
             },
             "Bkav": {
-                "details": null,
-                "type": "undetected"
-            },
-            "CAT-QuickHeal": {
-                "details": null,
-                "type": "undetected"
-            },
-            "CMC": {
                 "details": null,
                 "type": "undetected"
             },
@@ -2204,21 +2148,13 @@
                 "details": "W64.AIDetectMalware",
                 "type": "malicious"
             },
-            "CAT-QuickHeal": {
-                "details": null,
-                "type": "undetected"
-            },
-            "CMC": {
-                "details": null,
-                "type": "undetected"
-            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2507,14 +2443,6 @@
                 "type": "type-unsupported"
             },
             "Bkav": {
-                "details": null,
-                "type": "undetected"
-            },
-            "CAT-QuickHeal": {
-                "details": null,
-                "type": "undetected"
-            },
-            "CMC": {
                 "details": null,
                 "type": "undetected"
             },
@@ -2816,14 +2744,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "CAT-QuickHeal": {
-                "details": null,
-                "type": "undetected"
-            },
-            "CMC": {
-                "details": null,
-                "type": "undetected"
-            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
@@ -3122,14 +3042,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "CAT-QuickHeal": {
-                "details": null,
-                "type": "undetected"
-            },
-            "CMC": {
-                "details": null,
-                "type": "undetected"
-            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
@@ -3364,7 +3276,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             }
         },
         "flowkeeper-1.0.2-windows-2025-pyinstaller-standalone.exe": {
@@ -3427,14 +3339,6 @@
             "Bkav": {
                 "details": "W64.AIDetectMalware",
                 "type": "malicious"
-            },
-            "CAT-QuickHeal": {
-                "details": null,
-                "type": "undetected"
-            },
-            "CMC": {
-                "details": null,
-                "type": "undetected"
             },
             "CTX": {
                 "details": null,
