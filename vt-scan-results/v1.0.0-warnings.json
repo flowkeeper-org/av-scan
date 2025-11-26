@@ -1,5 +1,5 @@
 {
-    "date": "2025-11-25 01:50:12.341210+00:00",
+    "date": "2025-11-26 01:49:09.863014+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {},
         "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {
@@ -14,7 +14,12 @@
         },
         "flowkeeper-1.0.2-windows-2022-nuitka-standalone.exe": {},
         "flowkeeper-1.0.2-windows-2022-pyinstaller-installer.exe": {},
-        "flowkeeper-1.0.2-windows-2022-pyinstaller-portable.exe": {},
+        "flowkeeper-1.0.2-windows-2022-pyinstaller-portable.exe": {
+            "Zillya": {
+                "details": "Trojan.Xeno.Win32.102",
+                "type": "malicious"
+            }
+        },
         "flowkeeper-1.0.2-windows-2022-pyinstaller-standalone.exe": {
             "APEX": {
                 "details": "Malicious",
@@ -33,10 +38,6 @@
         "flowkeeper-1.0.2-windows-2025-nuitka-portable.exe": {
             "Bkav": {
                 "details": "W64.AIDetectMalware",
-                "type": "malicious"
-            },
-            "Rising": {
-                "details": "Trojan.Generic!8.C3 (C64:YzY0OvirdmsTEMCv)",
                 "type": "malicious"
             }
         },
