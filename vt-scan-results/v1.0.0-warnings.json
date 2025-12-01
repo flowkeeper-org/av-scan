@@ -1,14 +1,10 @@
 {
-    "date": "2025-11-30 01:59:20.991914+00:00",
+    "date": "2025-12-01 02:16:35.524254+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {},
         "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {
             "Bkav": {
                 "details": "W64.AIDetectMalware",
-                "type": "malicious"
-            },
-            "Rising": {
-                "details": "Trojan.Generic!8.C3 (C64:YzY0OokPK0gcA3bj)",
                 "type": "malicious"
             }
         },
@@ -56,10 +52,6 @@
             },
             "Bkav": {
                 "details": "W64.AIDetectMalware",
-                "type": "malicious"
-            },
-            "Rising": {
-                "details": "Trojan.Generic!8.C3 (CLOUD)",
                 "type": "malicious"
             }
         }
