@@ -1,5 +1,5 @@
 {
-    "date": "2025-12-02 01:50:34.153217+00:00",
+    "date": "2025-12-03 01:50:14.090991+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -88,7 +88,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -1312,7 +1312,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -3148,7 +3148,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -3276,7 +3276,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SymantecMobileInsight": {
                 "details": null,
