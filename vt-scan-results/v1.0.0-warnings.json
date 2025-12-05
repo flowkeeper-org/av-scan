@@ -1,5 +1,5 @@
 {
-    "date": "2025-12-04 01:50:46.088586+00:00",
+    "date": "2025-12-05 01:59:58.052280+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {},
         "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {
@@ -35,7 +35,12 @@
             }
         },
         "flowkeeper-1.0.2-windows-2025-nuitka-installer.exe": {},
-        "flowkeeper-1.0.2-windows-2025-nuitka-portable.exe": {},
+        "flowkeeper-1.0.2-windows-2025-nuitka-portable.exe": {
+            "Bkav": {
+                "details": "W64.AIDetectMalware",
+                "type": "malicious"
+            }
+        },
         "flowkeeper-1.0.2-windows-2025-nuitka-standalone.exe": {},
         "flowkeeper-1.0.2-windows-2025-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.2-windows-2025-pyinstaller-portable.exe": {
