@@ -1,5 +1,5 @@
 {
-    "date": "2025-12-11 01:56:10.627299+00:00",
+    "date": "2025-12-12 01:54:01.908247+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -394,7 +394,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -522,7 +522,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -676,7 +676,7 @@
             },
             "CAT-QuickHeal": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CMC": {
                 "details": null,
@@ -776,7 +776,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -828,7 +828,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -930,7 +930,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -954,7 +954,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -994,7 +994,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1210,7 +1210,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "alibabacloud": {
                 "details": null,
@@ -1440,7 +1440,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -1900,7 +1900,7 @@
             },
             "CAT-QuickHeal": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CMC": {
                 "details": null,
@@ -1912,7 +1912,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2206,7 +2206,7 @@
             },
             "CAT-QuickHeal": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CMC": {
                 "details": null,
@@ -2230,7 +2230,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -2358,7 +2358,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -2524,7 +2524,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2612,7 +2612,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -3124,7 +3124,7 @@
             },
             "CAT-QuickHeal": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CMC": {
                 "details": null,
@@ -3136,7 +3136,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3148,7 +3148,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -3430,7 +3430,7 @@
             },
             "CAT-QuickHeal": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CMC": {
                 "details": null,
