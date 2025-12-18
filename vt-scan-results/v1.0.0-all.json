@@ -1,5 +1,5 @@
 {
-    "date": "2025-12-17 01:50:40.518066+00:00",
+    "date": "2025-12-18 01:50:26.103709+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -66,10 +66,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "CMC": {
-                "details": null,
-                "type": "undetected"
-            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
@@ -88,7 +84,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -372,10 +368,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "CMC": {
-                "details": null,
-                "type": "undetected"
-            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
@@ -394,7 +386,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -675,10 +667,6 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
-                "details": null,
-                "type": "undetected"
-            },
-            "CMC": {
                 "details": null,
                 "type": "undetected"
             },
@@ -984,10 +972,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "CMC": {
-                "details": null,
-                "type": "undetected"
-            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
@@ -1290,17 +1274,13 @@
                 "details": null,
                 "type": "undetected"
             },
-            "CMC": {
-                "details": null,
-                "type": "undetected"
-            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1312,7 +1292,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -1593,10 +1573,6 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": null,
-                "type": "undetected"
-            },
-            "CMC": {
                 "details": null,
                 "type": "undetected"
             },
@@ -1902,17 +1878,13 @@
                 "details": null,
                 "type": "undetected"
             },
-            "CMC": {
-                "details": null,
-                "type": "undetected"
-            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2205,10 +2177,6 @@
                 "type": "malicious"
             },
             "CAT-QuickHeal": {
-                "details": null,
-                "type": "undetected"
-            },
-            "CMC": {
                 "details": null,
                 "type": "undetected"
             },
@@ -2514,10 +2482,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "CMC": {
-                "details": null,
-                "type": "undetected"
-            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
@@ -2820,10 +2784,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "CMC": {
-                "details": null,
-                "type": "undetected"
-            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
@@ -3072,7 +3032,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -3096,7 +3056,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -3126,17 +3086,13 @@
                 "details": null,
                 "type": "undetected"
             },
-            "CMC": {
-                "details": null,
-                "type": "undetected"
-            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3224,7 +3180,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": null,
@@ -3344,7 +3300,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -3425,14 +3381,10 @@
                 "type": "type-unsupported"
             },
             "Bkav": {
-                "details": "W64.AIDetectMalware",
-                "type": "malicious"
-            },
-            "CAT-QuickHeal": {
                 "details": null,
                 "type": "undetected"
             },
-            "CMC": {
+            "CAT-QuickHeal": {
                 "details": null,
                 "type": "undetected"
             },
