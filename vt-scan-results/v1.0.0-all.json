@@ -1,5 +1,5 @@
 {
-    "date": "2025-12-18 01:50:26.103709+00:00",
+    "date": "2025-12-19 01:52:58.446473+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -66,6 +66,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "CMC": {
+                "details": null,
+                "type": "undetected"
+            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
@@ -84,7 +88,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -368,6 +372,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "CMC": {
+                "details": null,
+                "type": "undetected"
+            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
@@ -386,7 +394,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -667,6 +675,10 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
+                "details": null,
+                "type": "undetected"
+            },
+            "CMC": {
                 "details": null,
                 "type": "undetected"
             },
@@ -972,13 +984,17 @@
                 "details": null,
                 "type": "undetected"
             },
+            "CMC": {
+                "details": null,
+                "type": "undetected"
+            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1271,6 +1287,10 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
+                "details": null,
+                "type": "undetected"
+            },
+            "CMC": {
                 "details": null,
                 "type": "undetected"
             },
@@ -1576,6 +1596,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "CMC": {
+                "details": null,
+                "type": "undetected"
+            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
@@ -1875,6 +1899,10 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
+                "details": null,
+                "type": "undetected"
+            },
+            "CMC": {
                 "details": null,
                 "type": "undetected"
             },
@@ -2180,6 +2208,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "CMC": {
+                "details": null,
+                "type": "undetected"
+            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
@@ -2482,13 +2514,17 @@
                 "details": null,
                 "type": "undetected"
             },
+            "CMC": {
+                "details": null,
+                "type": "undetected"
+            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2730,7 +2766,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -2754,7 +2790,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -2781,6 +2817,10 @@
                 "type": "undetected"
             },
             "CAT-QuickHeal": {
+                "details": null,
+                "type": "undetected"
+            },
+            "CMC": {
                 "details": null,
                 "type": "undetected"
             },
@@ -2954,11 +2994,11 @@
             },
             "TrendMicro": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro-HouseCall": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Trustlook": {
                 "details": null,
@@ -3086,6 +3126,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "CMC": {
+                "details": null,
+                "type": "undetected"
+            },
             "CTX": {
                 "details": null,
                 "type": "undetected"
@@ -3104,7 +3148,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -3381,10 +3425,14 @@
                 "type": "type-unsupported"
             },
             "Bkav": {
+                "details": "W64.AIDetectMalware",
+                "type": "malicious"
+            },
+            "CAT-QuickHeal": {
                 "details": null,
                 "type": "undetected"
             },
-            "CAT-QuickHeal": {
+            "CMC": {
                 "details": null,
                 "type": "undetected"
             },
