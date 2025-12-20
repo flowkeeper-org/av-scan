@@ -1,7 +1,24 @@
 {
-    "date": "2025-12-19 01:52:58.446473+00:00",
+    "date": "2025-12-20 01:56:48.321475+00:00",
     "results": {
-        "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {},
+        "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
+            "Arcabit": {
+                "details": "Trojan.Application.Barys.D10F2F",
+                "type": "malicious"
+            },
+            "BitDefender": {
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
+            },
+            "Emsisoft": {
+                "details": "Gen:Variant.Application.Barys.69423 (B)",
+                "type": "malicious"
+            },
+            "GData": {
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
+            }
+        },
         "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {
             "Bkav": {
                 "details": "W64.AIDetectMalware",
@@ -29,10 +46,47 @@
                 "type": "malicious"
             }
         },
-        "flowkeeper-1.0.2-windows-2025-nuitka-installer.exe": {},
+        "flowkeeper-1.0.2-windows-2025-nuitka-installer.exe": {
+            "Arcabit": {
+                "details": "Trojan.Application.Barys.D10F2F",
+                "type": "malicious"
+            },
+            "BitDefender": {
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
+            },
+            "Emsisoft": {
+                "details": "Gen:Variant.Application.Barys.69423 (B)",
+                "type": "malicious"
+            },
+            "GData": {
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
+            }
+        },
         "flowkeeper-1.0.2-windows-2025-nuitka-portable.exe": {
+            "Arcabit": {
+                "details": "Trojan.Application.Barys.D10F2F",
+                "type": "malicious"
+            },
+            "BitDefender": {
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
+            },
             "Bkav": {
                 "details": "W64.AIDetectMalware",
+                "type": "malicious"
+            },
+            "CTX": {
+                "details": "exe.unknown.barys",
+                "type": "malicious"
+            },
+            "Emsisoft": {
+                "details": "Gen:Variant.Application.Barys.69423 (B)",
+                "type": "malicious"
+            },
+            "GData": {
+                "details": "Gen:Variant.Application.Barys.69423",
                 "type": "malicious"
             }
         },

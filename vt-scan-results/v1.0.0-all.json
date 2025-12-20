@@ -1,5 +1,5 @@
 {
-    "date": "2025-12-19 01:52:58.446473+00:00",
+    "date": "2025-12-20 01:56:48.321475+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -31,8 +31,8 @@
                 "type": "undetected"
             },
             "Arcabit": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Application.Barys.D10F2F",
+                "type": "malicious"
             },
             "Avast": {
                 "details": null,
@@ -51,8 +51,8 @@
                 "type": "undetected"
             },
             "BitDefender": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -107,8 +107,8 @@
                 "type": "undetected"
             },
             "Emsisoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Application.Barys.69423 (B)",
+                "type": "malicious"
             },
             "F-Secure": {
                 "details": null,
@@ -119,8 +119,8 @@
                 "type": "undetected"
             },
             "GData": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
             },
             "Google": {
                 "details": null,
@@ -382,7 +382,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "CrowdStrike": {
                 "details": null,
@@ -688,7 +688,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "CrowdStrike": {
                 "details": null,
@@ -994,7 +994,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1312,7 +1312,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -1867,8 +1867,8 @@
                 "type": "undetected"
             },
             "Arcabit": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Application.Barys.D10F2F",
+                "type": "malicious"
             },
             "Avast": {
                 "details": null,
@@ -1887,8 +1887,8 @@
                 "type": "undetected"
             },
             "BitDefender": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -1943,8 +1943,8 @@
                 "type": "undetected"
             },
             "Emsisoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Application.Barys.69423 (B)",
+                "type": "malicious"
             },
             "F-Secure": {
                 "details": null,
@@ -1955,8 +1955,8 @@
                 "type": "undetected"
             },
             "GData": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
             },
             "Google": {
                 "details": null,
@@ -2173,8 +2173,8 @@
                 "type": "undetected"
             },
             "Arcabit": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Application.Barys.D10F2F",
+                "type": "malicious"
             },
             "Avast": {
                 "details": null,
@@ -2193,8 +2193,8 @@
                 "type": "undetected"
             },
             "BitDefender": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -2213,12 +2213,12 @@
                 "type": "undetected"
             },
             "CTX": {
-                "details": null,
-                "type": "undetected"
+                "details": "exe.unknown.barys",
+                "type": "malicious"
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2249,8 +2249,8 @@
                 "type": "undetected"
             },
             "Emsisoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Application.Barys.69423 (B)",
+                "type": "malicious"
             },
             "F-Secure": {
                 "details": null,
@@ -2261,8 +2261,8 @@
                 "type": "undetected"
             },
             "GData": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
             },
             "Google": {
                 "details": null,
@@ -2766,7 +2766,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -2790,7 +2790,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -2830,7 +2830,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2994,11 +2994,11 @@
             },
             "TrendMicro": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro-HouseCall": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Trustlook": {
                 "details": null,
@@ -3442,7 +3442,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
