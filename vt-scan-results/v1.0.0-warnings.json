@@ -1,7 +1,11 @@
 {
-    "date": "2025-12-20 01:56:48.321475+00:00",
+    "date": "2025-12-21 02:00:22.697578+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
+            "ALYac": {
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
+            },
             "Arcabit": {
                 "details": "Trojan.Application.Barys.D10F2F",
                 "type": "malicious"
@@ -15,6 +19,10 @@
                 "type": "malicious"
             },
             "GData": {
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
+            },
+            "VIPRE": {
                 "details": "Gen:Variant.Application.Barys.69423",
                 "type": "malicious"
             }
@@ -47,6 +55,10 @@
             }
         },
         "flowkeeper-1.0.2-windows-2025-nuitka-installer.exe": {
+            "ALYac": {
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
+            },
             "Arcabit": {
                 "details": "Trojan.Application.Barys.D10F2F",
                 "type": "malicious"
@@ -62,9 +74,17 @@
             "GData": {
                 "details": "Gen:Variant.Application.Barys.69423",
                 "type": "malicious"
+            },
+            "VIPRE": {
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.2-windows-2025-nuitka-portable.exe": {
+            "ALYac": {
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
+            },
             "Arcabit": {
                 "details": "Trojan.Application.Barys.D10F2F",
                 "type": "malicious"
@@ -77,15 +97,15 @@
                 "details": "W64.AIDetectMalware",
                 "type": "malicious"
             },
-            "CTX": {
-                "details": "exe.unknown.barys",
-                "type": "malicious"
-            },
             "Emsisoft": {
                 "details": "Gen:Variant.Application.Barys.69423 (B)",
                 "type": "malicious"
             },
             "GData": {
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
+            },
+            "VIPRE": {
                 "details": "Gen:Variant.Application.Barys.69423",
                 "type": "malicious"
             }

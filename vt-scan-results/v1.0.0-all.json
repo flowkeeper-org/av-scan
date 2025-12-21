@@ -1,10 +1,10 @@
 {
-    "date": "2025-12-20 01:56:48.321475+00:00",
+    "date": "2025-12-21 02:00:22.697578+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
             },
             "APEX": {
                 "details": null,
@@ -255,8 +255,8 @@
                 "type": "undetected"
             },
             "VIPRE": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
             },
             "Varist": {
                 "details": null,
@@ -382,7 +382,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -688,7 +688,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "failure"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1312,7 +1312,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -1839,8 +1839,8 @@
         },
         "flowkeeper-1.0.2-windows-2025-nuitka-installer.exe": {
             "ALYac": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
             },
             "APEX": {
                 "details": null,
@@ -2091,8 +2091,8 @@
                 "type": "undetected"
             },
             "VIPRE": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
             },
             "Varist": {
                 "details": null,
@@ -2145,8 +2145,8 @@
         },
         "flowkeeper-1.0.2-windows-2025-nuitka-portable.exe": {
             "ALYac": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
             },
             "APEX": {
                 "details": null,
@@ -2213,12 +2213,12 @@
                 "type": "undetected"
             },
             "CTX": {
-                "details": "exe.unknown.barys",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2397,8 +2397,8 @@
                 "type": "undetected"
             },
             "VIPRE": {
-                "details": null,
-                "type": "undetected"
+                "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
             },
             "Varist": {
                 "details": null,
@@ -2830,7 +2830,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3136,7 +3136,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3148,7 +3148,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -3442,7 +3442,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
