@@ -1,5 +1,5 @@
 {
-    "date": "2025-12-21 02:00:22.697578+00:00",
+    "date": "2025-12-22 01:59:32.935380+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -95,6 +95,10 @@
             },
             "Bkav": {
                 "details": "W64.AIDetectMalware",
+                "type": "malicious"
+            },
+            "DeepInstinct": {
+                "details": "MALICIOUS",
                 "type": "malicious"
             },
             "Emsisoft": {
