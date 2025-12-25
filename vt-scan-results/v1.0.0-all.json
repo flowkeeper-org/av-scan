@@ -1,5 +1,5 @@
 {
-    "date": "2025-12-24 01:52:51.163895+00:00",
+    "date": "2025-12-25 01:54:49.577488+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -91,8 +91,8 @@
                 "type": "type-unsupported"
             },
             "DeepInstinct": {
-                "details": null,
-                "type": "undetected"
+                "details": "MALICIOUS",
+                "type": "malicious"
             },
             "DrWeb": {
                 "details": null,
@@ -1927,8 +1927,8 @@
                 "type": "type-unsupported"
             },
             "DeepInstinct": {
-                "details": null,
-                "type": "undetected"
+                "details": "MALICIOUS",
+                "type": "malicious"
             },
             "DrWeb": {
                 "details": null,
@@ -1959,8 +1959,8 @@
                 "type": "malicious"
             },
             "Google": {
-                "details": null,
-                "type": "undetected"
+                "details": "Detected",
+                "type": "malicious"
             },
             "Gridinsoft": {
                 "details": null,
@@ -2095,8 +2095,8 @@
                 "type": "malicious"
             },
             "Varist": {
-                "details": null,
-                "type": "undetected"
+                "details": "W64/ABRisk.HESA-3206",
+                "type": "malicious"
             },
             "ViRobot": {
                 "details": null,
@@ -2213,8 +2213,8 @@
                 "type": "undetected"
             },
             "CTX": {
-                "details": null,
-                "type": "undetected"
+                "details": "exe.trojan.barys",
+                "type": "malicious"
             },
             "ClamAV": {
                 "details": null,
@@ -3072,7 +3072,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -3096,7 +3096,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -3112,7 +3112,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -3252,7 +3252,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -3268,7 +3268,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -3296,7 +3296,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -3574,7 +3574,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,

@@ -1,5 +1,5 @@
 {
-    "date": "2025-12-24 01:52:51.163895+00:00",
+    "date": "2025-12-25 01:54:49.577488+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -12,6 +12,10 @@
             },
             "BitDefender": {
                 "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
+            },
+            "DeepInstinct": {
+                "details": "MALICIOUS",
                 "type": "malicious"
             },
             "Emsisoft": {
@@ -71,6 +75,10 @@
                 "details": "Gen:Variant.Application.Barys.69423",
                 "type": "malicious"
             },
+            "DeepInstinct": {
+                "details": "MALICIOUS",
+                "type": "malicious"
+            },
             "Emsisoft": {
                 "details": "Gen:Variant.Application.Barys.69423 (B)",
                 "type": "malicious"
@@ -79,12 +87,20 @@
                 "details": "Gen:Variant.Application.Barys.69423",
                 "type": "malicious"
             },
+            "Google": {
+                "details": "Detected",
+                "type": "malicious"
+            },
             "MaxSecure": {
                 "details": "Trojan.Malware.4397318.susgen",
                 "type": "malicious"
             },
             "VIPRE": {
                 "details": "Gen:Variant.Application.Barys.69423",
+                "type": "malicious"
+            },
+            "Varist": {
+                "details": "W64/ABRisk.HESA-3206",
                 "type": "malicious"
             }
         },
@@ -103,6 +119,10 @@
             },
             "Bkav": {
                 "details": "W64.AIDetectMalware",
+                "type": "malicious"
+            },
+            "CTX": {
+                "details": "exe.trojan.barys",
                 "type": "malicious"
             },
             "DeepInstinct": {
