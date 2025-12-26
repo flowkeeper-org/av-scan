@@ -1,5 +1,5 @@
 {
-    "date": "2025-12-25 01:54:49.577488+00:00",
+    "date": "2025-12-26 01:55:23.115210+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -1907,8 +1907,8 @@
                 "type": "undetected"
             },
             "CTX": {
-                "details": null,
-                "type": "undetected"
+                "details": "exe.trojan.barys",
+                "type": "malicious"
             },
             "ClamAV": {
                 "details": null,
@@ -2524,7 +2524,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2564,7 +2564,7 @@
             },
             "Fortinet": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "GData": {
                 "details": null,
@@ -2612,7 +2612,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -2664,7 +2664,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -2684,7 +2684,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
