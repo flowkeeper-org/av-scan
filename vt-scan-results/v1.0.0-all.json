@@ -1,5 +1,5 @@
 {
-    "date": "2025-12-27 01:53:05.856592+00:00",
+    "date": "2025-12-28 02:05:26.937804+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -497,8 +497,8 @@
                 "type": "undetected"
             },
             "Rising": {
-                "details": "Trojan.Generic!8.C3 (C64:YzY0OokPK0gcA3bj)",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -776,7 +776,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -1300,7 +1300,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1312,7 +1312,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -2524,7 +2524,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3136,7 +3136,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3148,7 +3148,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
