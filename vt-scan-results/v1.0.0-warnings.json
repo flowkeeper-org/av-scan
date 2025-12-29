@@ -1,5 +1,5 @@
 {
-    "date": "2025-12-28 02:05:26.937804+00:00",
+    "date": "2025-12-29 02:05:37.249593+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -38,6 +38,10 @@
         "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {
             "Bkav": {
                 "details": "W64.AIDetectMalware",
+                "type": "malicious"
+            },
+            "Rising": {
+                "details": "Trojan.Generic!8.C3 (C64:YzY0OokPK0gcA3bj)",
                 "type": "malicious"
             }
         },
@@ -135,10 +139,6 @@
             },
             "GData": {
                 "details": "Gen:Variant.Application.Barys.69423",
-                "type": "malicious"
-            },
-            "MaxSecure": {
-                "details": "Trojan.Malware.219104223.susgen",
                 "type": "malicious"
             },
             "VIPRE": {
