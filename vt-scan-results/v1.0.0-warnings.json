@@ -1,21 +1,13 @@
 {
-    "date": "2025-12-30 01:56:09.155022+00:00",
+    "date": "2025-12-31 01:56:53.355346+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
-            "ALYac": {
-                "details": "Gen:Variant.Application.Barys.69423",
-                "type": "malicious"
-            },
             "DeepInstinct": {
                 "details": "MALICIOUS",
                 "type": "malicious"
             },
             "MaxSecure": {
                 "details": "Trojan.Malware.4397318.susgen",
-                "type": "malicious"
-            },
-            "VIPRE": {
-                "details": "Gen:Variant.Application.Barys.69423",
                 "type": "malicious"
             }
         },
@@ -47,10 +39,6 @@
             }
         },
         "flowkeeper-1.0.2-windows-2025-nuitka-installer.exe": {
-            "ALYac": {
-                "details": "Gen:Variant.Application.Barys.69423",
-                "type": "malicious"
-            },
             "DeepInstinct": {
                 "details": "MALICIOUS",
                 "type": "malicious"
@@ -63,20 +51,12 @@
                 "details": "Trojan.Malware.4397318.susgen",
                 "type": "malicious"
             },
-            "VIPRE": {
-                "details": "Gen:Variant.Application.Barys.69423",
-                "type": "malicious"
-            },
             "Varist": {
                 "details": "W64/ABRisk.HESA-3206",
                 "type": "malicious"
             }
         },
         "flowkeeper-1.0.2-windows-2025-nuitka-portable.exe": {
-            "ALYac": {
-                "details": "Gen:Variant.Application.Barys.69423",
-                "type": "malicious"
-            },
             "Bkav": {
                 "details": "W64.AIDetectMalware",
                 "type": "malicious"
@@ -87,10 +67,6 @@
             },
             "MaxSecure": {
                 "details": "Trojan.Malware.219104223.susgen",
-                "type": "malicious"
-            },
-            "VIPRE": {
-                "details": "Gen:Variant.Application.Barys.69423",
                 "type": "malicious"
             }
         },
