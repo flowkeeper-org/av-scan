@@ -1,5 +1,5 @@
 {
-    "date": "2026-01-01 02:06:37.468735+00:00",
+    "date": "2026-01-02 01:57:12.524269+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -163,8 +163,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Malware.4397318.susgen",
+                "type": "malicious"
             },
             "McAfeeD": {
                 "details": null,
@@ -688,7 +688,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -978,7 +978,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -1214,7 +1214,7 @@
             },
             "alibabacloud": {
                 "details": null,
-                "type": "undetected"
+                "type": "confirmed-timeout"
             },
             "huorong": {
                 "details": null,
@@ -1896,7 +1896,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -1999,8 +1999,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": null,
-                "type": "timeout"
+                "details": "Trojan.Malware.4397318.susgen",
+                "type": "malicious"
             },
             "McAfeeD": {
                 "details": null,
@@ -2201,8 +2201,8 @@
                 "type": "type-unsupported"
             },
             "Bkav": {
-                "details": "W64.AIDetectMalware",
-                "type": "malicious"
+                "details": null,
+                "type": "failure"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -2218,7 +2218,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2612,7 +2612,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": null,
