@@ -1,5 +1,5 @@
 {
-    "date": "2026-01-02 01:57:12.524269+00:00",
+    "date": "2026-01-03 01:51:19.250779+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -76,7 +76,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "CrowdStrike": {
                 "details": null,
@@ -978,7 +978,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -1214,7 +1214,7 @@
             },
             "alibabacloud": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             },
             "huorong": {
                 "details": null,
@@ -1896,7 +1896,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -2201,8 +2201,8 @@
                 "type": "type-unsupported"
             },
             "Bkav": {
-                "details": null,
-                "type": "failure"
+                "details": "W64.AIDetectMalware",
+                "type": "malicious"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -3148,7 +3148,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -3582,7 +3582,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SymantecMobileInsight": {
                 "details": null,
