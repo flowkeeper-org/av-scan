@@ -1,5 +1,5 @@
 {
-    "date": "2026-01-05 02:09:00.281130+00:00",
+    "date": "2026-01-06 01:58:38.215211+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -88,7 +88,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
@@ -175,10 +175,6 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
-            },
-            "NANO-Antivirus": {
                 "details": null,
                 "type": "undetected"
             },
@@ -484,10 +480,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "NANO-Antivirus": {
-                "details": null,
-                "type": "undetected"
-            },
             "Paloalto": {
                 "details": null,
                 "type": "undetected"
@@ -787,10 +779,6 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
-            },
-            "NANO-Antivirus": {
                 "details": null,
                 "type": "undetected"
             },
@@ -1096,10 +1084,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "NANO-Antivirus": {
-                "details": null,
-                "type": "undetected"
-            },
             "Paloalto": {
                 "details": null,
                 "type": "undetected"
@@ -1300,7 +1284,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1402,10 +1386,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "NANO-Antivirus": {
-                "details": null,
-                "type": "undetected"
-            },
             "Paloalto": {
                 "details": null,
                 "type": "undetected"
@@ -1472,7 +1452,7 @@
             },
             "Trustlook": {
                 "details": null,
-                "type": "timeout"
+                "type": "type-unsupported"
             },
             "VBA32": {
                 "details": null,
@@ -1705,10 +1685,6 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
-            },
-            "NANO-Antivirus": {
                 "details": null,
                 "type": "undetected"
             },
@@ -2014,10 +1990,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "NANO-Antivirus": {
-                "details": null,
-                "type": "undetected"
-            },
             "Paloalto": {
                 "details": null,
                 "type": "undetected"
@@ -2218,7 +2190,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2230,7 +2202,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
@@ -2305,8 +2277,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": "Trojan.Malware.219104223.susgen",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -2317,10 +2289,6 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
-            },
-            "NANO-Antivirus": {
                 "details": null,
                 "type": "undetected"
             },
@@ -2350,7 +2318,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -2358,7 +2326,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -2378,7 +2346,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -2524,7 +2492,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2623,10 +2591,6 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
-            },
-            "NANO-Antivirus": {
                 "details": null,
                 "type": "undetected"
             },
@@ -2932,10 +2896,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "NANO-Antivirus": {
-                "details": null,
-                "type": "undetected"
-            },
             "Paloalto": {
                 "details": null,
                 "type": "undetected"
@@ -3148,7 +3108,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -3235,10 +3195,6 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
-            },
-            "NANO-Antivirus": {
                 "details": null,
                 "type": "undetected"
             },
@@ -3541,10 +3497,6 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
-            },
-            "NANO-Antivirus": {
                 "details": null,
                 "type": "undetected"
             },
