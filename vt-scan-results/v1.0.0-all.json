@@ -1,5 +1,5 @@
 {
-    "date": "2026-01-06 01:58:38.215211+00:00",
+    "date": "2026-01-07 01:58:16.923416+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -12,7 +12,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -36,7 +36,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -48,7 +48,7 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefender": {
                 "details": null,
@@ -76,7 +76,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -163,8 +163,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": "Trojan.Malware.4397318.susgen",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -1284,7 +1284,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1372,7 +1372,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -1522,7 +1522,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -1546,7 +1546,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -1586,7 +1586,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1824,7 +1824,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -1848,7 +1848,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -1860,7 +1860,7 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefender": {
                 "details": null,
@@ -1888,7 +1888,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1975,8 +1975,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": "Trojan.Malware.4397318.susgen",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -2104,7 +2104,7 @@
             },
             "alibabacloud": {
                 "details": null,
-                "type": "undetected"
+                "type": "confirmed-timeout"
             },
             "huorong": {
                 "details": null,
@@ -2190,7 +2190,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2202,7 +2202,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
@@ -2277,8 +2277,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": null,
-                "type": "timeout"
+                "details": "Trojan.Malware.219104223.susgen",
+                "type": "malicious"
             },
             "McAfeeD": {
                 "details": null,
@@ -2318,7 +2318,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -2326,7 +2326,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -2346,7 +2346,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -2492,7 +2492,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
