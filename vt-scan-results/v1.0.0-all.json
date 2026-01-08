@@ -1,5 +1,5 @@
 {
-    "date": "2026-01-07 01:58:16.923416+00:00",
+    "date": "2026-01-08 01:58:17.060489+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -12,7 +12,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -36,7 +36,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -48,7 +48,7 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefender": {
                 "details": null,
@@ -76,7 +76,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -163,8 +163,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": null,
-                "type": "timeout"
+                "details": "Trojan.Malware.4397318.susgen",
+                "type": "malicious"
             },
             "McAfeeD": {
                 "details": null,
@@ -1296,7 +1296,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -1372,7 +1372,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": null,
@@ -1586,7 +1586,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1697,8 +1697,8 @@
                 "type": "undetected"
             },
             "Rising": {
-                "details": "Trojan.Generic!8.C3 (CLOUD)",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -1714,7 +1714,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -1790,7 +1790,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -1824,7 +1824,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -1848,7 +1848,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -1860,7 +1860,7 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefender": {
                 "details": null,
@@ -1975,8 +1975,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": null,
-                "type": "timeout"
+                "details": "Trojan.Malware.4397318.susgen",
+                "type": "malicious"
             },
             "McAfeeD": {
                 "details": null,
@@ -2104,7 +2104,7 @@
             },
             "alibabacloud": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             },
             "huorong": {
                 "details": null,
@@ -2794,7 +2794,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
