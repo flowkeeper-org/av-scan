@@ -1,5 +1,5 @@
 {
-    "date": "2026-01-10 02:03:03.646365+00:00",
+    "date": "2026-01-11 02:07:34.085379+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -314,7 +314,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -338,7 +338,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -378,7 +378,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -390,7 +390,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -506,7 +506,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -1296,7 +1296,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -1824,7 +1824,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -1848,7 +1848,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -1888,7 +1888,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2016,7 +2016,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -2126,7 +2126,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -2150,7 +2150,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -2166,7 +2166,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -2262,7 +2262,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Kingsoft": {
                 "details": null,
@@ -2302,7 +2302,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -2318,7 +2318,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -2346,7 +2346,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -2370,7 +2370,7 @@
             },
             "Varist": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "ViRobot": {
                 "details": null,
@@ -2428,7 +2428,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -2452,7 +2452,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -2468,7 +2468,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -2564,7 +2564,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Kingsoft": {
                 "details": null,
@@ -2604,7 +2604,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -2620,7 +2620,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -2648,7 +2648,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -2672,7 +2672,7 @@
             },
             "Varist": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "ViRobot": {
                 "details": null,
@@ -2922,7 +2922,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -3032,7 +3032,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -3056,7 +3056,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -3096,7 +3096,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3224,7 +3224,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -3398,7 +3398,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
