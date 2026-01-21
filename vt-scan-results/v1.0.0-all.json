@@ -1,5 +1,5 @@
 {
-    "date": "2026-01-20 01:59:17.833748+00:00",
+    "date": "2026-01-21 02:03:23.218956+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -214,10 +214,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "SymantecMobileInsight": {
-                "details": null,
-                "type": "type-unsupported"
-            },
             "TACHYON": {
                 "details": null,
                 "type": "undetected"
@@ -314,7 +310,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -338,7 +334,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -390,7 +386,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -506,7 +502,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -514,11 +510,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
-            },
-            "SymantecMobileInsight": {
-                "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "TACHYON": {
                 "details": null,
@@ -534,7 +526,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -616,7 +608,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -640,7 +632,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -680,7 +672,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -808,7 +800,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -817,10 +809,6 @@
             "Symantec": {
                 "details": null,
                 "type": "undetected"
-            },
-            "SymantecMobileInsight": {
-                "details": null,
-                "type": "type-unsupported"
             },
             "TACHYON": {
                 "details": null,
@@ -860,7 +848,7 @@
             },
             "Varist": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "ViRobot": {
                 "details": null,
@@ -1119,10 +1107,6 @@
             "Symantec": {
                 "details": null,
                 "type": "undetected"
-            },
-            "SymantecMobileInsight": {
-                "details": null,
-                "type": "type-unsupported"
             },
             "TACHYON": {
                 "details": null,
@@ -1420,11 +1404,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "undetected"
-            },
-            "SymantecMobileInsight": {
-                "details": null,
-                "type": "type-unsupported"
+                "type": "timeout"
             },
             "TACHYON": {
                 "details": null,
@@ -1722,11 +1702,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "failure"
-            },
-            "SymantecMobileInsight": {
-                "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "TACHYON": {
                 "details": null,
@@ -1824,7 +1800,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -1848,7 +1824,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -2016,7 +1992,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -2024,11 +2000,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
-            },
-            "SymantecMobileInsight": {
-                "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "TACHYON": {
                 "details": null,
@@ -2044,7 +2016,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -2205,8 +2177,8 @@
                 "type": "type-unsupported"
             },
             "DeepInstinct": {
-                "details": "MALICIOUS",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "DrWeb": {
                 "details": null,
@@ -2318,7 +2290,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Sophos": {
                 "details": null,
@@ -2326,11 +2298,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
-            },
-            "SymantecMobileInsight": {
-                "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "TACHYON": {
                 "details": null,
@@ -2630,10 +2598,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "SymantecMobileInsight": {
-                "details": null,
-                "type": "type-unsupported"
-            },
             "TACHYON": {
                 "details": null,
                 "type": "undetected"
@@ -2932,10 +2896,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "SymantecMobileInsight": {
-                "details": null,
-                "type": "type-unsupported"
-            },
             "TACHYON": {
                 "details": null,
                 "type": "undetected"
@@ -3032,7 +2992,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -3056,7 +3016,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -3068,11 +3028,11 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -3096,7 +3056,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3168,7 +3128,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Kingsoft": {
                 "details": null,
@@ -3224,7 +3184,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Sophos": {
                 "details": null,
@@ -3233,10 +3193,6 @@
             "Symantec": {
                 "details": null,
                 "type": "undetected"
-            },
-            "SymantecMobileInsight": {
-                "details": null,
-                "type": "type-unsupported"
             },
             "TACHYON": {
                 "details": null,
@@ -3252,7 +3208,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -3535,10 +3491,6 @@
             "Symantec": {
                 "details": null,
                 "type": "undetected"
-            },
-            "SymantecMobileInsight": {
-                "details": null,
-                "type": "type-unsupported"
             },
             "TACHYON": {
                 "details": null,
