@@ -1,5 +1,5 @@
 {
-    "date": "2026-02-04 02:26:08.829466+00:00",
+    "date": "2026-02-05 02:26:46.148289+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -216,7 +216,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "failure"
+                "type": "timeout"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -522,7 +522,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -700,7 +700,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -820,7 +820,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -930,7 +930,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -954,7 +954,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -1134,7 +1134,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -1312,7 +1312,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -1848,7 +1848,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -1872,7 +1872,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -2052,7 +2052,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -2128,7 +2128,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "alibabacloud": {
                 "details": null,
@@ -2154,7 +2154,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -2178,7 +2178,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -2190,7 +2190,7 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefender": {
                 "details": null,
@@ -2218,7 +2218,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2230,7 +2230,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
@@ -2238,7 +2238,7 @@
             },
             "DrWeb": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ESET-NOD32": {
                 "details": null,
@@ -2278,7 +2278,7 @@
             },
             "Jiangmin": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "K7AntiVirus": {
                 "details": null,
@@ -2290,7 +2290,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Kingsoft": {
                 "details": null,
@@ -2305,8 +2305,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Malware.219104223.susgen",
+                "type": "malicious"
             },
             "McAfeeD": {
                 "details": null,
@@ -2330,11 +2330,11 @@
             },
             "Panda": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -2358,7 +2358,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -2378,11 +2378,11 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro-HouseCall": {
                 "details": null,
@@ -2402,7 +2402,7 @@
             },
             "Varist": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ViRobot": {
                 "details": null,
@@ -2664,7 +2664,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -2766,7 +2766,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "failure"
             },
             "Acronis": {
                 "details": null,
@@ -2790,7 +2790,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "failure"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -2802,11 +2802,11 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -2902,7 +2902,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Kingsoft": {
                 "details": null,
@@ -2954,7 +2954,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SentinelOne": {
                 "details": null,
@@ -2962,7 +2962,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Sophos": {
                 "details": null,
@@ -2970,7 +2970,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -2990,7 +2990,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "TrendMicro": {
                 "details": null,
@@ -3002,11 +3002,11 @@
             },
             "Trustlook": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "timeout"
             },
             "VBA32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": null,
@@ -3276,7 +3276,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -3658,7 +3658,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "alibabacloud": {
                 "details": null,
