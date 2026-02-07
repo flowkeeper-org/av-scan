@@ -1,5 +1,5 @@
 {
-    "date": "2026-02-06 02:26:47.717635+00:00",
+    "date": "2026-02-07 02:17:30.433709+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "DeepInstinct": {
@@ -39,16 +39,8 @@
             }
         },
         "flowkeeper-1.0.2-windows-2025-nuitka-installer.exe": {
-            "DeepInstinct": {
-                "details": "MALICIOUS",
-                "type": "malicious"
-            },
             "MaxSecure": {
                 "details": "Trojan.Malware.4397318.susgen",
-                "type": "malicious"
-            },
-            "Varist": {
-                "details": "W64/ABRisk.HESA-3206",
                 "type": "malicious"
             }
         },
@@ -76,10 +68,6 @@
             },
             "Bkav": {
                 "details": "W64.AIDetectMalware",
-                "type": "malicious"
-            },
-            "Rising": {
-                "details": "Trojan.Generic!8.C3 (CLOUD)",
                 "type": "malicious"
             }
         }
