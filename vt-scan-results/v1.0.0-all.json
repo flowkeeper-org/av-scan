@@ -1,5 +1,5 @@
 {
-    "date": "2026-02-08 02:47:36.406703+00:00",
+    "date": "2026-02-09 02:32:57.478682+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -216,7 +216,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -930,7 +930,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -954,7 +954,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -970,7 +970,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -1066,7 +1066,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Kingsoft": {
                 "details": null,
@@ -1110,7 +1110,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -1170,7 +1170,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": null,
@@ -1312,7 +1312,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -1738,7 +1738,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -1746,7 +1746,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -1848,7 +1848,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -1872,7 +1872,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -1888,7 +1888,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -1984,7 +1984,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Kingsoft": {
                 "details": null,
@@ -2088,7 +2088,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": null,
@@ -2230,7 +2230,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
@@ -2358,7 +2358,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -2496,7 +2496,7 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefender": {
                 "details": null,
@@ -2524,7 +2524,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2612,7 +2612,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": null,
@@ -3038,7 +3038,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -3072,7 +3072,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -3096,7 +3096,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -3112,7 +3112,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -3148,7 +3148,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -3208,7 +3208,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Kingsoft": {
                 "details": null,
@@ -3312,7 +3312,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": null,
