@@ -1,13 +1,9 @@
 {
-    "date": "2026-02-11 02:39:12.768874+00:00",
+    "date": "2026-02-12 02:34:43.280365+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "DeepInstinct": {
                 "details": "MALICIOUS",
-                "type": "malicious"
-            },
-            "MaxSecure": {
-                "details": "Trojan.Malware.4397318.susgen",
                 "type": "malicious"
             }
         },
@@ -56,6 +52,10 @@
             "DeepInstinct": {
                 "details": "MALICIOUS",
                 "type": "malicious"
+            },
+            "MaxSecure": {
+                "details": "Trojan.Malware.219104223.susgen",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.2-windows-2025-nuitka-standalone.exe": {},
@@ -64,6 +64,10 @@
         "flowkeeper-1.0.2-windows-2025-pyinstaller-standalone.exe": {
             "APEX": {
                 "details": "Malicious",
+                "type": "malicious"
+            },
+            "Bkav": {
+                "details": "W64.AIDetectMalware",
                 "type": "malicious"
             },
             "Rising": {
