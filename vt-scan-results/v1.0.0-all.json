@@ -1,5 +1,5 @@
 {
-    "date": "2026-02-15 02:34:59.054383+00:00",
+    "date": "2026-02-16 02:39:34.479358+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -318,7 +318,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -342,7 +342,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -542,7 +542,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -1312,7 +1312,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -2230,7 +2230,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
@@ -2434,7 +2434,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "alibabacloud": {
                 "details": null,
@@ -3072,11 +3072,11 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "AhnLab-V3": {
                 "details": null,
@@ -3096,7 +3096,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -3112,7 +3112,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -3124,7 +3124,7 @@
             },
             "CAT-QuickHeal": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CMC": {
                 "details": null,
@@ -3156,11 +3156,11 @@
             },
             "DrWeb": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "ESET-NOD32": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Elastic": {
                 "details": null,
@@ -3176,7 +3176,7 @@
             },
             "Fortinet": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "GData": {
                 "details": null,
@@ -3208,7 +3208,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Kingsoft": {
                 "details": null,
@@ -3252,7 +3252,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -3260,7 +3260,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SentinelOne": {
                 "details": null,
@@ -3268,7 +3268,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -3276,7 +3276,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -3296,7 +3296,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -3328,7 +3328,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Webroot": {
                 "details": null,
@@ -3378,7 +3378,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -3402,7 +3402,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -3602,7 +3602,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
