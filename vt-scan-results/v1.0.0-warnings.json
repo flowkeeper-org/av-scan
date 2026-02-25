@@ -1,19 +1,19 @@
 {
-    "date": "2026-02-24 02:29:55.820792+00:00",
+    "date": "2026-02-25 02:38:41.020419+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "DeepInstinct": {
                 "details": "MALICIOUS",
+                "type": "malicious"
+            },
+            "MaxSecure": {
+                "details": "Trojan.Malware.4397318.susgen",
                 "type": "malicious"
             }
         },
         "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {
             "Bkav": {
                 "details": "W64.AIDetectMalware",
-                "type": "malicious"
-            },
-            "Rising": {
-                "details": "Trojan.Generic!8.C3 (C64:YzY0OokPK0gcA3bj)",
                 "type": "malicious"
             }
         },
@@ -38,6 +38,10 @@
             "DeepInstinct": {
                 "details": "MALICIOUS",
                 "type": "malicious"
+            },
+            "MaxSecure": {
+                "details": "Trojan.Malware.4397318.susgen",
+                "type": "malicious"
             }
         },
         "flowkeeper-1.0.2-windows-2025-nuitka-portable.exe": {
@@ -47,10 +51,6 @@
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
-                "type": "malicious"
-            },
-            "MaxSecure": {
-                "details": "Trojan.Malware.219104223.susgen",
                 "type": "malicious"
             }
         },
@@ -64,10 +64,6 @@
             },
             "Bkav": {
                 "details": "W64.AIDetectMalware",
-                "type": "malicious"
-            },
-            "Rising": {
-                "details": "Trojan.Generic!8.C3 (CLOUD)",
                 "type": "malicious"
             }
         }
