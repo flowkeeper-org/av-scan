@@ -1,5 +1,5 @@
 {
-    "date": "2026-03-04 02:16:23.775387+00:00",
+    "date": "2026-03-05 02:26:15.402826+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -522,7 +522,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -624,7 +624,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -648,7 +648,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -852,11 +852,11 @@
             },
             "TrendMicro": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro-HouseCall": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Trustlook": {
                 "details": null,
@@ -864,7 +864,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "VIPRE": {
                 "details": null,
@@ -1210,7 +1210,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "alibabacloud": {
                 "details": null,
@@ -1312,7 +1312,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -1606,7 +1606,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1999,8 +1999,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": "Trojan.Malware.4397318.susgen",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -2460,7 +2460,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -2484,7 +2484,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -2496,7 +2496,7 @@
             },
             "Baidu": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefender": {
                 "details": null,
@@ -2524,7 +2524,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2656,7 +2656,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Sophos": {
                 "details": null,
@@ -2664,7 +2664,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -2732,7 +2732,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -2766,7 +2766,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -2790,7 +2790,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -2902,7 +2902,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Kingsoft": {
                 "details": null,
@@ -2962,7 +2962,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -2970,7 +2970,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -2990,7 +2990,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -3276,7 +3276,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -3442,7 +3442,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
