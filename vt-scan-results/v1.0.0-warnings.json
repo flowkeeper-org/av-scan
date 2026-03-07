@@ -1,12 +1,7 @@
 {
-    "date": "2026-03-06 02:25:07.543689+00:00",
+    "date": "2026-03-07 02:18:56.580052+00:00",
     "results": {
-        "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
-            "MaxSecure": {
-                "details": "Trojan.Malware.4397318.susgen",
-                "type": "malicious"
-            }
-        },
+        "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {},
         "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {
             "Bkav": {
                 "details": "W64.AIDetectMalware",
