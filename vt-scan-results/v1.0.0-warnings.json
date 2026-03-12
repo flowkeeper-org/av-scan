@@ -1,5 +1,5 @@
 {
-    "date": "2026-03-11 02:14:33.827208+00:00",
+    "date": "2026-03-12 02:33:15.893481+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "MaxSecure": {
@@ -10,10 +10,6 @@
         "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {
             "Bkav": {
                 "details": "W64.AIDetectMalware",
-                "type": "malicious"
-            },
-            "Rising": {
-                "details": "Trojan.Generic!8.C3 (C64:YzY0OokPK0gcA3bj)",
                 "type": "malicious"
             }
         },
