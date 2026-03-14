@@ -1,5 +1,5 @@
 {
-    "date": "2026-03-13 02:26:05.980746+00:00",
+    "date": "2026-03-14 02:23:47.297518+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "MaxSecure": {
@@ -23,10 +23,6 @@
         "flowkeeper-1.0.2-windows-2022-pyinstaller-standalone.exe": {
             "APEX": {
                 "details": "Malicious",
-                "type": "malicious"
-            },
-            "Bkav": {
-                "details": "W64.AIDetectMalware",
                 "type": "malicious"
             },
             "Rising": {
