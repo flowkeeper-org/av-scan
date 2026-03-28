@@ -1,5 +1,5 @@
 {
-    "date": "2026-03-27 02:40:55.844713+00:00",
+    "date": "2026-03-28 02:33:30.123352+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "APEX": {
@@ -84,7 +84,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -386,7 +386,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -514,7 +514,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -582,7 +582,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -1110,7 +1110,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -1153,8 +1153,8 @@
                 "type": "type-unsupported"
             },
             "VBA32": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Win64.Agent",
+                "type": "malicious"
             },
             "VIPRE": {
                 "details": null,
@@ -1757,8 +1757,8 @@
                 "type": "type-unsupported"
             },
             "VBA32": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Win64.Agent",
+                "type": "malicious"
             },
             "VIPRE": {
                 "details": null,
@@ -1928,7 +1928,7 @@
             },
             "GData": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Google": {
                 "details": null,
@@ -2092,7 +2092,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -2100,7 +2100,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "alibabacloud": {
                 "details": null,
@@ -2198,7 +2198,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
@@ -2326,7 +2326,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -2965,8 +2965,8 @@
                 "type": "type-unsupported"
             },
             "VBA32": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Win64.Agent",
+                "type": "malicious"
             },
             "VIPRE": {
                 "details": null,
@@ -3232,7 +3232,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -3569,8 +3569,8 @@
                 "type": "type-unsupported"
             },
             "VBA32": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Win64.Agent",
+                "type": "malicious"
             },
             "VIPRE": {
                 "details": null,

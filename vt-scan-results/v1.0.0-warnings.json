@@ -1,5 +1,5 @@
 {
-    "date": "2026-03-27 02:40:55.844713+00:00",
+    "date": "2026-03-28 02:33:30.123352+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "MaxSecure": {
@@ -18,7 +18,12 @@
             }
         },
         "flowkeeper-1.0.2-windows-2022-nuitka-standalone.exe": {},
-        "flowkeeper-1.0.2-windows-2022-pyinstaller-installer.exe": {},
+        "flowkeeper-1.0.2-windows-2022-pyinstaller-installer.exe": {
+            "VBA32": {
+                "details": "Trojan.Win64.Agent",
+                "type": "malicious"
+            }
+        },
         "flowkeeper-1.0.2-windows-2022-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.2-windows-2022-pyinstaller-standalone.exe": {
             "APEX": {
@@ -31,6 +36,10 @@
             },
             "Rising": {
                 "details": "Trojan.Generic!8.C3 (CLOUD)",
+                "type": "malicious"
+            },
+            "VBA32": {
+                "details": "Trojan.Win64.Agent",
                 "type": "malicious"
             }
         },
@@ -59,7 +68,12 @@
             }
         },
         "flowkeeper-1.0.2-windows-2025-nuitka-standalone.exe": {},
-        "flowkeeper-1.0.2-windows-2025-pyinstaller-installer.exe": {},
+        "flowkeeper-1.0.2-windows-2025-pyinstaller-installer.exe": {
+            "VBA32": {
+                "details": "Trojan.Win64.Agent",
+                "type": "malicious"
+            }
+        },
         "flowkeeper-1.0.2-windows-2025-pyinstaller-portable.exe": {
             "Bkav": {
                 "details": "W64.AIDetectMalware",
@@ -77,6 +91,10 @@
             },
             "Rising": {
                 "details": "Trojan.Generic!8.C3 (CLOUD)",
+                "type": "malicious"
+            },
+            "VBA32": {
+                "details": "Trojan.Win64.Agent",
                 "type": "malicious"
             }
         }
