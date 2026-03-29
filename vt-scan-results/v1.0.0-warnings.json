@@ -1,5 +1,5 @@
 {
-    "date": "2026-03-28 02:33:30.123352+00:00",
+    "date": "2026-03-29 02:42:41.404764+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "MaxSecure": {
@@ -60,10 +60,6 @@
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
-                "type": "malicious"
-            },
-            "MaxSecure": {
-                "details": "Trojan.Malware.219104223.susgen",
                 "type": "malicious"
             }
         },

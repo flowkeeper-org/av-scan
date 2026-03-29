@@ -1,5 +1,5 @@
 {
-    "date": "2026-03-28 02:33:30.123352+00:00",
+    "date": "2026-03-29 02:42:41.404764+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "APEX": {
@@ -1110,7 +1110,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -1292,7 +1292,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -1928,7 +1928,7 @@
             },
             "GData": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Google": {
                 "details": null,
@@ -2024,7 +2024,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -2092,7 +2092,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -2273,8 +2273,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": "Trojan.Malware.219104223.susgen",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -3104,7 +3104,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -3534,7 +3534,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "SymantecMobileInsight": {
                 "details": null,
