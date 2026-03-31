@@ -1,19 +1,25 @@
 {
-    "date": "2026-03-30 02:49:05.704978+00:00",
+    "date": "2026-03-31 02:42:09.175359+00:00",
     "results": {
-        "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {},
+        "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
+            "MaxSecure": {
+                "details": "Trojan.Malware.4397318.susgen",
+                "type": "malicious"
+            }
+        },
         "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {
             "Bkav": {
                 "details": "W64.AIDetectMalware",
                 "type": "malicious"
-            },
-            "Rising": {
-                "details": "Trojan.Generic!8.C3 (C64:YzY0OokPK0gcA3bj)",
-                "type": "malicious"
             }
         },
         "flowkeeper-1.0.2-windows-2022-nuitka-standalone.exe": {},
-        "flowkeeper-1.0.2-windows-2022-pyinstaller-installer.exe": {},
+        "flowkeeper-1.0.2-windows-2022-pyinstaller-installer.exe": {
+            "VBA32": {
+                "details": "Trojan.Win64.Agent",
+                "type": "malicious"
+            }
+        },
         "flowkeeper-1.0.2-windows-2022-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.2-windows-2022-pyinstaller-standalone.exe": {
             "APEX": {
