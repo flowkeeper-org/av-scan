@@ -1,5 +1,5 @@
 {
-    "date": "2026-04-06 02:49:58.405819+00:00",
+    "date": "2026-04-07 02:42:21.843891+00:00",
     "results": {
         "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
             "ALYac": {
@@ -163,8 +163,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Malware.4397318.susgen",
+                "type": "malicious"
             },
             "McAfeeD": {
                 "details": null,
@@ -904,7 +904,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "alibabacloud": {
                 "details": null,
@@ -1169,8 +1169,8 @@
                 "type": "type-unsupported"
             },
             "VBA32": {
-                "details": "Trojan.Win64.Agent",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": null,
@@ -1746,7 +1746,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -1781,8 +1781,8 @@
                 "type": "type-unsupported"
             },
             "VBA32": {
-                "details": "Trojan.Win64.Agent",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": null,
@@ -1822,7 +1822,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "alibabacloud": {
                 "details": null,
@@ -2230,7 +2230,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
@@ -2358,7 +2358,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -2664,7 +2664,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -2830,7 +2830,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2918,7 +2918,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -3005,8 +3005,8 @@
                 "type": "type-unsupported"
             },
             "VBA32": {
-                "details": "Trojan.Win64.Agent",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "VIPRE": {
                 "details": null,
@@ -3072,11 +3072,11 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "AhnLab-V3": {
                 "details": null,
@@ -3092,11 +3092,11 @@
             },
             "Arcabit": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -3112,7 +3112,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -3124,15 +3124,15 @@
             },
             "CAT-QuickHeal": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CMC": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CTX": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ClamAV": {
                 "details": null,
@@ -3148,27 +3148,27 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "DrWeb": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ESET-NOD32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Elastic": {
                 "details": null,
-                "type": "timeout"
+                "type": "type-unsupported"
             },
             "Emsisoft": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "F-Secure": {
                 "details": null,
@@ -3176,7 +3176,7 @@
             },
             "Fortinet": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "GData": {
                 "details": null,
@@ -3196,7 +3196,7 @@
             },
             "Jiangmin": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "K7AntiVirus": {
                 "details": null,
@@ -3208,7 +3208,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Kingsoft": {
                 "details": null,
@@ -3240,7 +3240,7 @@
             },
             "NANO-Antivirus": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Paloalto": {
                 "details": null,
@@ -3248,11 +3248,11 @@
             },
             "Panda": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -3264,15 +3264,15 @@
             },
             "SentinelOne": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Symantec": {
                 "details": null,
@@ -3296,7 +3296,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -3312,7 +3312,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": null,
@@ -3320,7 +3320,7 @@
             },
             "Varist": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ViRobot": {
                 "details": null,
@@ -3336,15 +3336,15 @@
             },
             "Xcitium": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Yandex": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Zillya": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -3617,8 +3617,8 @@
                 "type": "type-unsupported"
             },
             "VBA32": {
-                "details": "Trojan.Win64.Agent",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": null,

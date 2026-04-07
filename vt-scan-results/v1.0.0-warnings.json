@@ -1,7 +1,12 @@
 {
-    "date": "2026-04-06 02:49:58.405819+00:00",
+    "date": "2026-04-07 02:42:21.843891+00:00",
     "results": {
-        "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {},
+        "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
+            "MaxSecure": {
+                "details": "Trojan.Malware.4397318.susgen",
+                "type": "malicious"
+            }
+        },
         "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {
             "Bkav": {
                 "details": "W64.AIDetectMalware",
@@ -13,12 +18,7 @@
             }
         },
         "flowkeeper-1.0.2-windows-2022-nuitka-standalone.exe": {},
-        "flowkeeper-1.0.2-windows-2022-pyinstaller-installer.exe": {
-            "VBA32": {
-                "details": "Trojan.Win64.Agent",
-                "type": "malicious"
-            }
-        },
+        "flowkeeper-1.0.2-windows-2022-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.2-windows-2022-pyinstaller-portable.exe": {},
         "flowkeeper-1.0.2-windows-2022-pyinstaller-standalone.exe": {
             "APEX": {
@@ -31,10 +31,6 @@
             },
             "Rising": {
                 "details": "Trojan.Generic!8.C3 (CLOUD)",
-                "type": "malicious"
-            },
-            "VBA32": {
-                "details": "Trojan.Win64.Agent",
                 "type": "malicious"
             }
         },
@@ -63,12 +59,7 @@
             }
         },
         "flowkeeper-1.0.2-windows-2025-nuitka-standalone.exe": {},
-        "flowkeeper-1.0.2-windows-2025-pyinstaller-installer.exe": {
-            "VBA32": {
-                "details": "Trojan.Win64.Agent",
-                "type": "malicious"
-            }
-        },
+        "flowkeeper-1.0.2-windows-2025-pyinstaller-installer.exe": {},
         "flowkeeper-1.0.2-windows-2025-pyinstaller-portable.exe": {
             "Bkav": {
                 "details": "W64.AIDetectMalware",
@@ -86,10 +77,6 @@
             },
             "Rising": {
                 "details": "Trojan.Generic!8.C3 (CLOUD)",
-                "type": "malicious"
-            },
-            "VBA32": {
-                "details": "Trojan.Win64.Agent",
                 "type": "malicious"
             }
         }
