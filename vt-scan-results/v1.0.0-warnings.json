@@ -1,84 +1,61 @@
 {
-    "date": "2026-04-15 02:48:42.571392+00:00",
+    "date": "2026-04-21 02:51:46.800984+00:00",
     "results": {
-        "flowkeeper-1.0.2-windows-2022-nuitka-installer.exe": {
-            "MaxSecure": {
-                "details": "Trojan.Malware.4397318.susgen",
-                "type": "malicious"
-            }
-        },
-        "flowkeeper-1.0.2-windows-2022-nuitka-portable.exe": {
-            "Bkav": {
-                "details": "W64.AIDetectMalware",
+        "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {},
+        "flowkeeper-1.1.0-windows-2025-nuitka-portable.exe": {
+            "ALYac": {
+                "details": "Gen:Variant.Giant.Tedy.3234",
                 "type": "malicious"
             },
-            "Rising": {
-                "details": "Trojan.Generic!8.C3 (C64:YzY0OokPK0gcA3bj)",
-                "type": "malicious"
-            }
-        },
-        "flowkeeper-1.0.2-windows-2022-nuitka-standalone.exe": {},
-        "flowkeeper-1.0.2-windows-2022-pyinstaller-installer.exe": {},
-        "flowkeeper-1.0.2-windows-2022-pyinstaller-portable.exe": {},
-        "flowkeeper-1.0.2-windows-2022-pyinstaller-standalone.exe": {
             "APEX": {
                 "details": "Malicious",
                 "type": "malicious"
             },
-            "Bkav": {
-                "details": "W64.AIDetectMalware",
+            "Arcabit": {
+                "details": "Trojan.Giant.Tedy.DCA2",
                 "type": "malicious"
             },
-            "Rising": {
-                "details": "Trojan.Generic!8.C3 (CLOUD)",
-                "type": "malicious"
-            }
-        },
-        "flowkeeper-1.0.2-windows-2025-nuitka-installer.exe": {
-            "DeepInstinct": {
-                "details": "MALICIOUS",
-                "type": "malicious"
-            },
-            "MaxSecure": {
-                "details": "Trojan.Malware.4397318.susgen",
-                "type": "malicious"
-            }
-        },
-        "flowkeeper-1.0.2-windows-2025-nuitka-portable.exe": {
-            "Bkav": {
-                "details": "W64.AIDetectMalware",
-                "type": "malicious"
-            },
-            "DeepInstinct": {
-                "details": "MALICIOUS",
-                "type": "malicious"
-            },
-            "MaxSecure": {
-                "details": "Trojan.Malware.219104223.susgen",
-                "type": "malicious"
-            }
-        },
-        "flowkeeper-1.0.2-windows-2025-nuitka-standalone.exe": {},
-        "flowkeeper-1.0.2-windows-2025-pyinstaller-installer.exe": {},
-        "flowkeeper-1.0.2-windows-2025-pyinstaller-portable.exe": {
-            "Bkav": {
-                "details": "W64.AIDetectMalware",
-                "type": "malicious"
-            }
-        },
-        "flowkeeper-1.0.2-windows-2025-pyinstaller-standalone.exe": {
-            "APEX": {
-                "details": "Malicious",
+            "BitDefender": {
+                "details": "Gen:Variant.Giant.Tedy.3234",
                 "type": "malicious"
             },
             "Bkav": {
                 "details": "W64.AIDetectMalware",
                 "type": "malicious"
             },
-            "Rising": {
-                "details": "Trojan.Generic!8.C3 (CLOUD)",
+            "CTX": {
+                "details": "exe.unknown.giant",
+                "type": "malicious"
+            },
+            "Elastic": {
+                "details": "malicious (moderate confidence)",
+                "type": "malicious"
+            },
+            "Emsisoft": {
+                "details": "Gen:Variant.Giant.Tedy.3234 (B)",
+                "type": "malicious"
+            },
+            "GData": {
+                "details": "Gen:Variant.Giant.Tedy.3234",
+                "type": "malicious"
+            },
+            "MicroWorld-eScan": {
+                "details": "Gen:Variant.Giant.Tedy.3234",
+                "type": "malicious"
+            },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
+            },
+            "Trapmine": {
+                "details": "malicious.moderate.ml.score",
+                "type": "malicious"
+            },
+            "VIPRE": {
+                "details": "Gen:Variant.Giant.Tedy.3234",
                 "type": "malicious"
             }
-        }
+        },
+        "flowkeeper-1.1.0-windows-2025-nuitka-standalone.exe": {}
     }
 }
