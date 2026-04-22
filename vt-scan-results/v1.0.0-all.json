@@ -1,5 +1,5 @@
 {
-    "date": "2026-04-21 02:51:46.800984+00:00",
+    "date": "2026-04-22 02:50:37.068122+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -377,7 +377,7 @@
                 "type": "undetected"
             },
             "CTX": {
-                "details": "exe.unknown.giant",
+                "details": "exe.trojan.giant",
                 "type": "malicious"
             },
             "ClamAV": {
@@ -389,16 +389,16 @@
                 "type": "undetected"
             },
             "Cylance": {
-                "details": null,
-                "type": "undetected"
+                "details": "Unsafe",
+                "type": "malicious"
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
-                "details": null,
-                "type": "undetected"
+                "details": "MALICIOUS",
+                "type": "malicious"
             },
             "DrWeb": {
                 "details": null,
@@ -489,8 +489,8 @@
                 "type": "undetected"
             },
             "Paloalto": {
-                "details": null,
-                "type": "undetected"
+                "details": "generic.ml",
+                "type": "malicious"
             },
             "Panda": {
                 "details": null,
@@ -498,7 +498,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -521,8 +521,8 @@
                 "type": "undetected"
             },
             "Symantec": {
-                "details": null,
-                "type": "timeout"
+                "details": "ML.Attribute.HighConfidence",
+                "type": "malicious"
             },
             "SymantecMobileInsight": {
                 "details": null,
