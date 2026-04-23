@@ -1,5 +1,5 @@
 {
-    "date": "2026-04-22 02:50:37.068122+00:00",
+    "date": "2026-04-23 02:52:18.432935+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -429,8 +429,8 @@
                 "type": "malicious"
             },
             "Google": {
-                "details": null,
-                "type": "undetected"
+                "details": "Detected",
+                "type": "malicious"
             },
             "Gridinsoft": {
                 "details": null,
@@ -469,8 +469,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Malware.325836546.susgen",
+                "type": "malicious"
             },
             "McAfeeD": {
                 "details": null,
@@ -498,7 +498,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -565,8 +565,8 @@
                 "type": "malicious"
             },
             "Varist": {
-                "details": null,
-                "type": "undetected"
+                "details": "W64/ABTrojan.BCTE-5828",
+                "type": "malicious"
             },
             "ViRobot": {
                 "details": null,
@@ -820,7 +820,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -828,7 +828,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
