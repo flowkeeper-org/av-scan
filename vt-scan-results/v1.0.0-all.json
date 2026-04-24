@@ -1,5 +1,5 @@
 {
-    "date": "2026-04-23 02:52:18.432935+00:00",
+    "date": "2026-04-24 02:53:33.922741+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -498,7 +498,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
