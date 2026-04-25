@@ -1,5 +1,5 @@
 {
-    "date": "2026-04-24 02:53:33.922741+00:00",
+    "date": "2026-04-25 02:41:32.141698+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -43,10 +43,6 @@
                 "type": "type-unsupported"
             },
             "Avira": {
-                "details": null,
-                "type": "undetected"
-            },
-            "Baidu": {
                 "details": null,
                 "type": "undetected"
             },
@@ -352,10 +348,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Baidu": {
-                "details": null,
-                "type": "undetected"
-            },
             "BitDefender": {
                 "details": "Gen:Variant.Giant.Tedy.3234",
                 "type": "malicious"
@@ -409,7 +401,7 @@
                 "type": "undetected"
             },
             "Elastic": {
-                "details": "malicious (moderate confidence)",
+                "details": "malicious (high confidence)",
                 "type": "malicious"
             },
             "Emsisoft": {
@@ -498,7 +490,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -658,10 +650,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Baidu": {
-                "details": null,
-                "type": "undetected"
-            },
             "BitDefender": {
                 "details": null,
                 "type": "undetected"
@@ -764,7 +752,7 @@
             },
             "Kingsoft": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Lionic": {
                 "details": null,
