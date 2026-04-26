@@ -1,5 +1,5 @@
 {
-    "date": "2026-04-25 02:41:32.141698+00:00",
+    "date": "2026-04-26 02:58:18.693896+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -413,8 +413,8 @@
                 "type": "undetected"
             },
             "Fortinet": {
-                "details": null,
-                "type": "undetected"
+                "details": "W32/PossibleThreat",
+                "type": "malicious"
             },
             "GData": {
                 "details": "Gen:Variant.Giant.Tedy.3234",
@@ -453,8 +453,8 @@
                 "type": "undetected"
             },
             "Lionic": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Win32.Generic.4!c",
+                "type": "malicious"
             },
             "Malwarebytes": {
                 "details": null,
@@ -752,7 +752,7 @@
             },
             "Kingsoft": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Lionic": {
                 "details": null,
@@ -808,7 +808,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Sophos": {
                 "details": null,

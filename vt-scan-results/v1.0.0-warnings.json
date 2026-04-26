@@ -1,5 +1,5 @@
 {
-    "date": "2026-04-25 02:41:32.141698+00:00",
+    "date": "2026-04-26 02:58:18.693896+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {},
         "flowkeeper-1.1.0-windows-2025-nuitka-portable.exe": {
@@ -43,12 +43,20 @@
                 "details": "Gen:Variant.Giant.Tedy.3234 (B)",
                 "type": "malicious"
             },
+            "Fortinet": {
+                "details": "W32/PossibleThreat",
+                "type": "malicious"
+            },
             "GData": {
                 "details": "Gen:Variant.Giant.Tedy.3234",
                 "type": "malicious"
             },
             "Google": {
                 "details": "Detected",
+                "type": "malicious"
+            },
+            "Lionic": {
+                "details": "Trojan.Win32.Generic.4!c",
                 "type": "malicious"
             },
             "MaxSecure": {
