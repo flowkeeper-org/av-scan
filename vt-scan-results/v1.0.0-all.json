@@ -1,5 +1,5 @@
 {
-    "date": "2026-04-27 03:23:06.095009+00:00",
+    "date": "2026-04-28 03:31:10.275002+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -188,7 +188,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -204,7 +204,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -421,8 +421,8 @@
                 "type": "malicious"
             },
             "Google": {
-                "details": "Detected",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "Gridinsoft": {
                 "details": null,
@@ -465,8 +465,8 @@
                 "type": "malicious"
             },
             "McAfeeD": {
-                "details": null,
-                "type": "undetected"
+                "details": "ti!E91A45E9D7F6",
+                "type": "malicious"
             },
             "MicroWorld-eScan": {
                 "details": "Gen:Variant.Giant.Tedy.3234",
@@ -616,7 +616,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -640,7 +640,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
