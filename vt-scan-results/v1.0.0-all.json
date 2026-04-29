@@ -1,5 +1,5 @@
 {
-    "date": "2026-04-28 03:31:10.275002+00:00",
+    "date": "2026-04-29 03:29:10.882996+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -421,8 +421,8 @@
                 "type": "malicious"
             },
             "Google": {
-                "details": null,
-                "type": "timeout"
+                "details": "Detected",
+                "type": "malicious"
             },
             "Gridinsoft": {
                 "details": null,
@@ -616,7 +616,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -640,7 +640,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
