@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-02 02:55:03.616141+00:00",
+    "date": "2026-05-03 03:31:09.290130+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -219,10 +219,6 @@
                 "type": "type-unsupported"
             },
             "TACHYON": {
-                "details": null,
-                "type": "undetected"
-            },
-            "Tencent": {
                 "details": null,
                 "type": "undetected"
             },
@@ -524,10 +520,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Tencent": {
-                "details": null,
-                "type": "undetected"
-            },
             "Trapmine": {
                 "details": "malicious.moderate.ml.score",
                 "type": "malicious"
@@ -823,10 +815,6 @@
                 "type": "type-unsupported"
             },
             "TACHYON": {
-                "details": null,
-                "type": "undetected"
-            },
-            "Tencent": {
                 "details": null,
                 "type": "undetected"
             },
