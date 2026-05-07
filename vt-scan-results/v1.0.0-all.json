@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-06 03:27:49.045478+00:00",
+    "date": "2026-05-07 03:28:14.701410+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -53,10 +53,6 @@
             "BitDefenderFalx": {
                 "details": null,
                 "type": "type-unsupported"
-            },
-            "Bkav": {
-                "details": null,
-                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -219,6 +215,10 @@
                 "type": "type-unsupported"
             },
             "TACHYON": {
+                "details": null,
+                "type": "undetected"
+            },
+            "Tencent": {
                 "details": null,
                 "type": "undetected"
             },
@@ -314,7 +314,7 @@
             },
             "Acronis": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "AhnLab-V3": {
                 "details": null,
@@ -352,10 +352,6 @@
                 "details": null,
                 "type": "type-unsupported"
             },
-            "Bkav": {
-                "details": "W64.AIDetectMalware",
-                "type": "malicious"
-            },
             "CAT-QuickHeal": {
                 "details": null,
                 "type": "undetected"
@@ -370,7 +366,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -382,7 +378,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
@@ -457,8 +453,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": null,
-                "type": "timeout"
+                "details": "Trojan.Malware.325836546.susgen",
+                "type": "malicious"
             },
             "McAfeeD": {
                 "details": "ti!E91A45E9D7F6",
@@ -469,7 +465,7 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
+                "details": "Trojan:Win32/Wacatac.C!ml",
                 "type": "malicious"
             },
             "NANO-Antivirus": {
@@ -501,16 +497,16 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": "Artemis",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
                 "type": "undetected"
             },
             "Symantec": {
-                "details": null,
-                "type": "timeout"
+                "details": "ML.Attribute.HighConfidence",
+                "type": "malicious"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -520,13 +516,17 @@
                 "details": null,
                 "type": "undetected"
             },
+            "Tencent": {
+                "details": null,
+                "type": "undetected"
+            },
             "Trapmine": {
                 "details": "malicious.moderate.ml.score",
                 "type": "malicious"
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -558,7 +558,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Webroot": {
                 "details": null,
@@ -650,10 +650,6 @@
                 "details": null,
                 "type": "type-unsupported"
             },
-            "Bkav": {
-                "details": null,
-                "type": "undetected"
-            },
             "CAT-QuickHeal": {
                 "details": null,
                 "type": "undetected"
@@ -800,7 +796,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -815,6 +811,10 @@
                 "type": "type-unsupported"
             },
             "TACHYON": {
+                "details": null,
+                "type": "undetected"
+            },
+            "Tencent": {
                 "details": null,
                 "type": "undetected"
             },
