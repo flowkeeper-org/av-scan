@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-08 03:24:44.730535+00:00",
+    "date": "2026-05-09 03:23:54.257360+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -56,7 +56,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -386,7 +386,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
@@ -509,8 +509,8 @@
                 "type": "malicious"
             },
             "Sophos": {
-                "details": "Mal/Generic-S",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Symantec": {
                 "details": "ML.Attribute.HighConfidence",
@@ -616,7 +616,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -640,7 +640,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -660,7 +660,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -808,7 +808,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -816,7 +816,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "failure"
+                "type": "timeout"
             },
             "SymantecMobileInsight": {
                 "details": null,
