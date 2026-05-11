@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-10 03:37:46.083001+00:00",
+    "date": "2026-05-11 03:49:05.364204+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {},
         "flowkeeper-1.1.0-windows-2025-nuitka-portable.exe": {
@@ -13,6 +13,10 @@
             },
             "Arcabit": {
                 "details": "Trojan.Giant.Tedy.DCA2",
+                "type": "malicious"
+            },
+            "BitDefender": {
+                "details": "Gen:Variant.Giant.Tedy.3234",
                 "type": "malicious"
             },
             "Bkav": {
@@ -75,8 +79,8 @@
                 "details": "generic.ml",
                 "type": "malicious"
             },
-            "Sophos": {
-                "details": "Generic Reputation PUA (PUA)",
+            "Skyhigh": {
+                "details": "Artemis",
                 "type": "malicious"
             },
             "Symantec": {
