@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-13 03:43:05.488915+00:00",
+    "date": "2026-05-14 03:39:31.662118+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -12,7 +12,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -36,7 +36,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -88,11 +88,11 @@
             },
             "DeepInstinct": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "DrWeb": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ESET-NOD32": {
                 "details": null,
@@ -120,7 +120,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Gridinsoft": {
                 "details": null,
@@ -188,7 +188,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -204,7 +204,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "failure"
             },
             "Sophos": {
                 "details": null,
@@ -212,7 +212,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -232,7 +232,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -248,7 +248,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": null,
@@ -280,7 +280,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -453,16 +453,16 @@
                 "type": "undetected"
             },
             "Lionic": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Win32.Generic.4!c",
+                "type": "malicious"
             },
             "Malwarebytes": {
                 "details": null,
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Malware.325836546.susgen",
+                "type": "malicious"
             },
             "McAfeeD": {
                 "details": "ti!E91A45E9D7F6",
@@ -473,7 +473,7 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
+                "details": "Program:Win32/Wacapew.A!ml",
                 "type": "malicious"
             },
             "NANO-Antivirus": {
@@ -505,8 +505,8 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": "Artemis",
-                "type": "malicious"
+                "details": null,
+                "type": "failure"
             },
             "Sophos": {
                 "details": null,
@@ -538,7 +538,7 @@
             },
             "TrendMicro": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro-HouseCall": {
                 "details": null,
@@ -816,7 +816,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
