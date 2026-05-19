@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-18 03:56:08.267093+00:00",
+    "date": "2026-05-19 03:50:42.972653+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -808,7 +808,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Sophos": {
                 "details": null,
