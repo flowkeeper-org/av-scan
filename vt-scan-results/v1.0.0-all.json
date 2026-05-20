@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-19 03:50:42.972653+00:00",
+    "date": "2026-05-20 03:52:26.851098+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -72,7 +72,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -160,7 +160,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -264,7 +264,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Webroot": {
                 "details": null,
@@ -386,7 +386,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
@@ -425,8 +425,8 @@
                 "type": "malicious"
             },
             "Gridinsoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Win64.Wacatac.oa!s1",
+                "type": "malicious"
             },
             "Ikarus": {
                 "details": null,
@@ -461,8 +461,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": "Trojan.Malware.325836546.susgen",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": "ti!E91A45E9D7F6",
@@ -505,16 +505,16 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": "Artemis",
-                "type": "malicious"
+                "details": null,
+                "type": "failure"
             },
             "Sophos": {
                 "details": null,
                 "type": "undetected"
             },
             "Symantec": {
-                "details": "ML.Attribute.HighConfidence",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -808,7 +808,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
