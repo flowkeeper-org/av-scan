@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-22 03:56:22.933353+00:00",
+    "date": "2026-05-23 03:31:27.292504+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -288,7 +288,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "alibabacloud": {
                 "details": null,
@@ -386,7 +386,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
@@ -490,7 +490,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -505,16 +505,16 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": null,
-                "type": "timeout"
+                "details": "Artemis",
+                "type": "malicious"
             },
             "Sophos": {
-                "details": null,
-                "type": "undetected"
+                "details": "Generic Reputation PUA (PUA)",
+                "type": "malicious"
             },
             "Symantec": {
-                "details": null,
-                "type": "timeout"
+                "details": "ML.Attribute.HighConfidence",
+                "type": "malicious"
             },
             "SymantecMobileInsight": {
                 "details": null,
