@@ -1,7 +1,12 @@
 {
-    "date": "2026-05-23 03:31:27.292504+00:00",
+    "date": "2026-05-24 03:54:35.457326+00:00",
     "results": {
-        "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {},
+        "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
+            "NANO-Antivirus": {
+                "details": "Trojan.Win32.Mlw.lhjeaf",
+                "type": "malicious"
+            }
+        },
         "flowkeeper-1.1.0-windows-2025-nuitka-portable.exe": {
             "ALYac": {
                 "details": "Gen:Variant.Giant.Tedy.3234",
