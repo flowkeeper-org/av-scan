@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-24 03:54:35.457326+00:00",
+    "date": "2026-05-25 04:04:27.345962+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "NANO-Antivirus": {
@@ -81,7 +81,7 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Program:Win32/Wacapew.C!ml",
+                "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             },
             "Paloalto": {
@@ -90,10 +90,6 @@
             },
             "Skyhigh": {
                 "details": "Artemis",
-                "type": "malicious"
-            },
-            "Sophos": {
-                "details": "Generic Reputation PUA (PUA)",
                 "type": "malicious"
             },
             "Symantec": {
