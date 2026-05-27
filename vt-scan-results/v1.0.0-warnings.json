@@ -1,14 +1,22 @@
 {
-    "date": "2026-05-26 03:53:39.084635+00:00",
+    "date": "2026-05-27 04:05:36.564914+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {},
         "flowkeeper-1.1.0-windows-2025-nuitka-portable.exe": {
+            "ALYac": {
+                "details": "Gen:Variant.Giant.Tedy.3234",
+                "type": "malicious"
+            },
             "APEX": {
                 "details": "Malicious",
                 "type": "malicious"
             },
             "Arcabit": {
                 "details": "Trojan.Giant.Tedy.DCA2",
+                "type": "malicious"
+            },
+            "BitDefender": {
+                "details": "Gen:Variant.Giant.Tedy.3234",
                 "type": "malicious"
             },
             "Bkav": {
@@ -28,7 +36,7 @@
                 "type": "malicious"
             },
             "Elastic": {
-                "details": "malicious (high confidence)",
+                "details": "malicious (moderate confidence)",
                 "type": "malicious"
             },
             "Emsisoft": {
@@ -55,6 +63,10 @@
                 "details": "Trojan.Win32.Generic.4!c",
                 "type": "malicious"
             },
+            "MaxSecure": {
+                "details": "Trojan.Malware.325836546.susgen",
+                "type": "malicious"
+            },
             "McAfeeD": {
                 "details": "ti!E91A45E9D7F6",
                 "type": "malicious"
@@ -71,8 +83,20 @@
                 "details": "generic.ml",
                 "type": "malicious"
             },
+            "Skyhigh": {
+                "details": "Artemis",
+                "type": "malicious"
+            },
             "Trapmine": {
                 "details": "malicious.moderate.ml.score",
+                "type": "malicious"
+            },
+            "VIPRE": {
+                "details": "Gen:Variant.Giant.Tedy.3234",
+                "type": "malicious"
+            },
+            "Varist": {
+                "details": "W64/ABTrojan.BCTE-5828",
                 "type": "malicious"
             }
         },
