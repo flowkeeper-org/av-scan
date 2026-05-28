@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-27 04:05:36.564914+00:00",
+    "date": "2026-05-28 03:53:44.420914+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {},
         "flowkeeper-1.1.0-windows-2025-nuitka-portable.exe": {
@@ -76,7 +76,7 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
+                "details": "Program:Win32/Wacapew.C!ml",
                 "type": "malicious"
             },
             "Paloalto": {
