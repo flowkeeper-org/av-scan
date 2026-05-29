@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-28 03:53:44.420914+00:00",
+    "date": "2026-05-29 03:56:58.381334+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -204,7 +204,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Sophos": {
                 "details": null,
@@ -212,7 +212,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -232,7 +232,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "TrendMicro": {
                 "details": null,
@@ -461,8 +461,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": "Trojan.Malware.325836546.susgen",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": "ti!E91A45E9D7F6",
@@ -473,7 +473,7 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Program:Win32/Wacapew.C!ml",
+                "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             },
             "NANO-Antivirus": {
@@ -509,8 +509,8 @@
                 "type": "malicious"
             },
             "Sophos": {
-                "details": null,
-                "type": "undetected"
+                "details": "Generic Reputation PUA (PUA)",
+                "type": "malicious"
             },
             "Symantec": {
                 "details": null,
@@ -582,7 +582,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -816,7 +816,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
