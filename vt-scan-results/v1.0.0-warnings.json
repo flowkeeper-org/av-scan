@@ -1,5 +1,5 @@
 {
-    "date": "2026-05-30 03:38:55.181444+00:00",
+    "date": "2026-05-31 04:05:45.513042+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {},
         "flowkeeper-1.1.0-windows-2025-nuitka-portable.exe": {
@@ -85,10 +85,6 @@
             },
             "Skyhigh": {
                 "details": "Artemis",
-                "type": "malicious"
-            },
-            "Symantec": {
-                "details": "ML.Attribute.HighConfidence",
                 "type": "malicious"
             },
             "Trapmine": {
