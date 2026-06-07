@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-06 03:43:26.222887+00:00",
+    "date": "2026-06-07 04:11:08.836407+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {},
         "flowkeeper-1.1.0-windows-2025-nuitka-portable.exe": {
@@ -69,10 +69,6 @@
             },
             "MicroWorld-eScan": {
                 "details": "Gen:Variant.Giant.Tedy.3234",
-                "type": "malicious"
-            },
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             },
             "Paloalto": {
