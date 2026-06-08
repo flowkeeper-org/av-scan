@@ -1,30 +1,14 @@
 {
-    "date": "2026-06-07 04:11:08.836407+00:00",
+    "date": "2026-06-08 04:17:21.414912+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {},
         "flowkeeper-1.1.0-windows-2025-nuitka-portable.exe": {
-            "ALYac": {
-                "details": "Gen:Variant.Giant.Tedy.3234",
-                "type": "malicious"
-            },
             "APEX": {
                 "details": "Malicious",
                 "type": "malicious"
             },
-            "Arcabit": {
-                "details": "Trojan.Giant.Tedy.DCA2",
-                "type": "malicious"
-            },
-            "BitDefender": {
-                "details": "Gen:Variant.Giant.Tedy.3234",
-                "type": "malicious"
-            },
             "Bkav": {
                 "details": "W32.Malware.43CBFDA2",
-                "type": "malicious"
-            },
-            "CTX": {
-                "details": "exe.trojan.giant",
                 "type": "malicious"
             },
             "Cylance": {
@@ -39,16 +23,8 @@
                 "details": "malicious (moderate confidence)",
                 "type": "malicious"
             },
-            "Emsisoft": {
-                "details": "Gen:Variant.Giant.Tedy.3234 (B)",
-                "type": "malicious"
-            },
             "GData": {
                 "details": "Gen:Variant.Giant.Tedy.3234",
-                "type": "malicious"
-            },
-            "Google": {
-                "details": "Detected",
                 "type": "malicious"
             },
             "Gridinsoft": {
@@ -73,10 +49,6 @@
             },
             "Paloalto": {
                 "details": "generic.ml",
-                "type": "malicious"
-            },
-            "Skyhigh": {
-                "details": "Artemis",
                 "type": "malicious"
             },
             "Symantec": {
