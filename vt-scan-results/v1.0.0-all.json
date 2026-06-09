@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-08 04:17:21.414912+00:00",
+    "date": "2026-06-09 03:43:57.486882+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -128,7 +128,7 @@
             },
             "Ikarus": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Jiangmin": {
                 "details": null,
@@ -305,8 +305,8 @@
         },
         "flowkeeper-1.1.0-windows-2025-nuitka-portable.exe": {
             "ALYac": {
-                "details": null,
-                "type": "timeout"
+                "details": "Gen:Variant.Giant.Tedy.3234",
+                "type": "malicious"
             },
             "APEX": {
                 "details": "Malicious",
@@ -314,7 +314,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -333,12 +333,12 @@
                 "type": "undetected"
             },
             "Arcabit": {
-                "details": null,
-                "type": "timeout"
+                "details": "Trojan.Giant.Tedy.DCA2",
+                "type": "malicious"
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -349,8 +349,8 @@
                 "type": "undetected"
             },
             "BitDefender": {
-                "details": null,
-                "type": "timeout"
+                "details": "Gen:Variant.Giant.Tedy.3234",
+                "type": "malicious"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -369,8 +369,8 @@
                 "type": "undetected"
             },
             "CTX": {
-                "details": null,
-                "type": "timeout"
+                "details": "exe.trojan.giant",
+                "type": "malicious"
             },
             "ClamAV": {
                 "details": null,
@@ -394,23 +394,23 @@
             },
             "DrWeb": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ESET-NOD32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Elastic": {
                 "details": "malicious (moderate confidence)",
                 "type": "malicious"
             },
             "Emsisoft": {
-                "details": null,
-                "type": "timeout"
+                "details": "Gen:Variant.Giant.Tedy.3234 (B)",
+                "type": "malicious"
             },
             "F-Secure": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Fortinet": {
                 "details": null,
@@ -421,8 +421,8 @@
                 "type": "malicious"
             },
             "Google": {
-                "details": null,
-                "type": "timeout"
+                "details": "Detected",
+                "type": "malicious"
             },
             "Gridinsoft": {
                 "details": "Trojan.Win64.Wacatac.oa!s1",
@@ -430,11 +430,11 @@
             },
             "Ikarus": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Jiangmin": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "K7AntiVirus": {
                 "details": null,
@@ -446,7 +446,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Kingsoft": {
                 "details": null,
@@ -486,11 +486,11 @@
             },
             "Panda": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -506,11 +506,11 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Symantec": {
                 "details": "ML.Attribute.HighConfidence",
@@ -534,11 +534,11 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro-HouseCall": {
                 "details": null,
@@ -550,7 +550,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": "Gen:Variant.Giant.Tedy.3234",
@@ -582,7 +582,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
