@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-10 03:58:41.009585+00:00",
+    "date": "2026-06-11 04:12:51.340662+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -128,7 +128,7 @@
             },
             "Ikarus": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Jiangmin": {
                 "details": null,
@@ -314,7 +314,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -338,7 +338,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -357,8 +357,8 @@
                 "type": "type-unsupported"
             },
             "Bkav": {
-                "details": "W32.Malware.43CBFDA2",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -430,7 +430,7 @@
             },
             "Ikarus": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Jiangmin": {
                 "details": null,
@@ -461,8 +461,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": "Trojan.Malware.325836546.susgen",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": "ti!E91A45E9D7F6",
@@ -473,7 +473,7 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
+                "details": "Program:Win32/Wacapew.C!ml",
                 "type": "malicious"
             },
             "NANO-Antivirus": {
@@ -506,7 +506,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -534,7 +534,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -732,7 +732,7 @@
             },
             "Ikarus": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Jiangmin": {
                 "details": null,
@@ -808,7 +808,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -816,7 +816,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "SymantecMobileInsight": {
                 "details": null,
