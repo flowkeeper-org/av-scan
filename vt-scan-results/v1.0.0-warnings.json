@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-11 04:12:51.340662+00:00",
+    "date": "2026-06-12 04:16:11.758700+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {},
         "flowkeeper-1.1.0-windows-2025-nuitka-portable.exe": {
@@ -17,6 +17,10 @@
             },
             "BitDefender": {
                 "details": "Gen:Variant.Giant.Tedy.3234",
+                "type": "malicious"
+            },
+            "Bkav": {
+                "details": "W32.Malware.43CBFDA2",
                 "type": "malicious"
             },
             "CTX": {
@@ -64,11 +68,15 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Program:Win32/Wacapew.C!ml",
+                "details": "Trojan:Win32/Wacatac.C!ml",
                 "type": "malicious"
             },
             "Paloalto": {
                 "details": "generic.ml",
+                "type": "malicious"
+            },
+            "Sophos": {
+                "details": "Generic Reputation PUA (PUA)",
                 "type": "malicious"
             },
             "Symantec": {
