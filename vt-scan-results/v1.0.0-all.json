@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-12 04:16:11.758700+00:00",
+    "date": "2026-06-13 04:02:30.272959+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -357,8 +357,8 @@
                 "type": "type-unsupported"
             },
             "Bkav": {
-                "details": "W32.Malware.43CBFDA2",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -473,7 +473,7 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.C!ml",
+                "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             },
             "NANO-Antivirus": {
@@ -509,7 +509,7 @@
                 "type": "undetected"
             },
             "Sophos": {
-                "details": "Generic Reputation PUA (PUA)",
+                "details": "Mal/Generic-S",
                 "type": "malicious"
             },
             "Symantec": {
@@ -616,7 +616,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -640,7 +640,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -660,7 +660,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -676,7 +676,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -808,7 +808,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -816,7 +816,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "failure"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -836,7 +836,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
