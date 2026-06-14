@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-13 04:02:30.272959+00:00",
+    "date": "2026-06-14 04:29:42.512925+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {},
         "flowkeeper-1.1.0-windows-2025-nuitka-portable.exe": {
@@ -17,6 +17,10 @@
             },
             "BitDefender": {
                 "details": "Gen:Variant.Giant.Tedy.3234",
+                "type": "malicious"
+            },
+            "Bkav": {
+                "details": "W32.Malware.43CBFDA2",
                 "type": "malicious"
             },
             "CTX": {
@@ -37,6 +41,10 @@
             },
             "Emsisoft": {
                 "details": "Gen:Variant.Giant.Tedy.3234 (B)",
+                "type": "malicious"
+            },
+            "Fortinet": {
+                "details": "W32/PossibleThreat",
                 "type": "malicious"
             },
             "GData": {
@@ -69,10 +77,6 @@
             },
             "Paloalto": {
                 "details": "generic.ml",
-                "type": "malicious"
-            },
-            "Sophos": {
-                "details": "Mal/Generic-S",
                 "type": "malicious"
             },
             "Symantec": {
