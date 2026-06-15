@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-14 04:29:42.512925+00:00",
+    "date": "2026-06-15 04:44:26.859074+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -430,7 +430,7 @@
             },
             "Ikarus": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Jiangmin": {
                 "details": null,
@@ -660,7 +660,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -676,7 +676,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
