@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-17 04:21:34.914954+00:00",
+    "date": "2026-06-18 04:15:31.222564+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {},
         "flowkeeper-1.1.0-windows-2025-nuitka-portable.exe": {
@@ -55,12 +55,12 @@
                 "details": "Detected",
                 "type": "malicious"
             },
-            "Gridinsoft": {
-                "details": "Trojan.Win64.Wacatac.oa!s1",
-                "type": "malicious"
-            },
             "Lionic": {
                 "details": "Trojan.Win32.Generic.4!c",
+                "type": "malicious"
+            },
+            "MaxSecure": {
+                "details": "Trojan.Malware.325836546.susgen",
                 "type": "malicious"
             },
             "McAfeeD": {
@@ -77,10 +77,6 @@
             },
             "Paloalto": {
                 "details": "generic.ml",
-                "type": "malicious"
-            },
-            "Symantec": {
-                "details": "ML.Attribute.HighConfidence",
                 "type": "malicious"
             },
             "Trapmine": {

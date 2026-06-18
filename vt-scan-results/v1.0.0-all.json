@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-17 04:21:34.914954+00:00",
+    "date": "2026-06-18 04:15:31.222564+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -119,10 +119,6 @@
                 "type": "undetected"
             },
             "Google": {
-                "details": null,
-                "type": "undetected"
-            },
-            "Gridinsoft": {
                 "details": null,
                 "type": "undetected"
             },
@@ -386,7 +382,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
@@ -424,10 +420,6 @@
                 "details": "Detected",
                 "type": "malicious"
             },
-            "Gridinsoft": {
-                "details": "Trojan.Win64.Wacatac.oa!s1",
-                "type": "malicious"
-            },
             "Ikarus": {
                 "details": null,
                 "type": "failure"
@@ -461,8 +453,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Malware.325836546.susgen",
+                "type": "malicious"
             },
             "McAfeeD": {
                 "details": "ti!E91A45E9D7F6",
@@ -513,8 +505,8 @@
                 "type": "undetected"
             },
             "Symantec": {
-                "details": "ML.Attribute.HighConfidence",
-                "type": "malicious"
+                "details": null,
+                "type": "failure"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -660,7 +652,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -676,7 +668,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -723,10 +715,6 @@
                 "type": "undetected"
             },
             "Google": {
-                "details": null,
-                "type": "undetected"
-            },
-            "Gridinsoft": {
                 "details": null,
                 "type": "undetected"
             },
@@ -816,7 +804,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
