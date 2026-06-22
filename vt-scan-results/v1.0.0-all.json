@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-21 04:26:32.480118+00:00",
+    "date": "2026-06-22 04:43:12.365000+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -124,7 +124,7 @@
             },
             "Ikarus": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Jiangmin": {
                 "details": null,
@@ -184,7 +184,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -465,8 +465,8 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -482,7 +482,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -501,8 +501,8 @@
                 "type": "malicious"
             },
             "Sophos": {
-                "details": "Generic Reputation PUA (PUA)",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Symantec": {
                 "details": "ML.Attribute.HighConfidence",
