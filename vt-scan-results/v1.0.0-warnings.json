@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-22 04:43:12.365000+00:00",
+    "date": "2026-06-23 03:48:52.841730+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {},
         "flowkeeper-1.1.0-windows-2025-nuitka-portable.exe": {
@@ -9,18 +9,6 @@
             },
             "APEX": {
                 "details": "Malicious",
-                "type": "malicious"
-            },
-            "Arcabit": {
-                "details": "Trojan.Giant.Tedy.DCA2",
-                "type": "malicious"
-            },
-            "BitDefender": {
-                "details": "Gen:Variant.Giant.Tedy.3234",
-                "type": "malicious"
-            },
-            "Bkav": {
-                "details": "W32.Malware.43CBFDA2",
                 "type": "malicious"
             },
             "CTX": {
@@ -39,16 +27,8 @@
                 "details": "malicious (moderate confidence)",
                 "type": "malicious"
             },
-            "Emsisoft": {
-                "details": "Gen:Variant.Giant.Tedy.3234 (B)",
-                "type": "malicious"
-            },
             "Fortinet": {
                 "details": "W32/PossibleThreat",
-                "type": "malicious"
-            },
-            "GData": {
-                "details": "Gen:Variant.Giant.Tedy.3234",
                 "type": "malicious"
             },
             "Google": {
@@ -67,20 +47,8 @@
                 "details": "ti!E91A45E9D7F6",
                 "type": "malicious"
             },
-            "MicroWorld-eScan": {
-                "details": "Gen:Variant.Giant.Tedy.3234",
-                "type": "malicious"
-            },
             "Paloalto": {
                 "details": "generic.ml",
-                "type": "malicious"
-            },
-            "Skyhigh": {
-                "details": "Artemis",
-                "type": "malicious"
-            },
-            "Symantec": {
-                "details": "ML.Attribute.HighConfidence",
                 "type": "malicious"
             },
             "Trapmine": {
