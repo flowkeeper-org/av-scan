@@ -1,18 +1,14 @@
 {
-    "date": "2026-06-23 03:48:52.841730+00:00",
+    "date": "2026-06-24 03:50:50.173154+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {},
         "flowkeeper-1.1.0-windows-2025-nuitka-portable.exe": {
-            "ALYac": {
-                "details": "Gen:Variant.Giant.Tedy.3234",
-                "type": "malicious"
-            },
             "APEX": {
                 "details": "Malicious",
                 "type": "malicious"
             },
-            "CTX": {
-                "details": "exe.trojan.giant",
+            "Bkav": {
+                "details": "W32.Malware.43CBFDA2",
                 "type": "malicious"
             },
             "Cylance": {
@@ -31,10 +27,6 @@
                 "details": "W32/PossibleThreat",
                 "type": "malicious"
             },
-            "Google": {
-                "details": "Detected",
-                "type": "malicious"
-            },
             "Lionic": {
                 "details": "Trojan.Win32.Generic.4!c",
                 "type": "malicious"
@@ -51,16 +43,12 @@
                 "details": "generic.ml",
                 "type": "malicious"
             },
+            "Symantec": {
+                "details": "ML.Attribute.HighConfidence",
+                "type": "malicious"
+            },
             "Trapmine": {
                 "details": "malicious.moderate.ml.score",
-                "type": "malicious"
-            },
-            "VIPRE": {
-                "details": "Gen:Variant.Giant.Tedy.3234",
-                "type": "malicious"
-            },
-            "Varist": {
-                "details": "W64/ABTrojan.BCTE-5828",
                 "type": "malicious"
             }
         },

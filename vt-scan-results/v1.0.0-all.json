@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-23 03:48:52.841730+00:00",
+    "date": "2026-06-24 03:50:50.173154+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -12,7 +12,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -36,7 +36,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -56,7 +56,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -200,7 +200,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -208,13 +208,17 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
                 "type": "type-unsupported"
             },
             "TACHYON": {
+                "details": null,
+                "type": "undetected"
+            },
+            "Tencent": {
                 "details": null,
                 "type": "undetected"
             },
@@ -297,8 +301,8 @@
         },
         "flowkeeper-1.1.0-windows-2025-nuitka-portable.exe": {
             "ALYac": {
-                "details": "Gen:Variant.Giant.Tedy.3234",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "APEX": {
                 "details": "Malicious",
@@ -306,7 +310,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -330,7 +334,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -349,8 +353,8 @@
                 "type": "type-unsupported"
             },
             "Bkav": {
-                "details": null,
-                "type": "timeout"
+                "details": "W32.Malware.43CBFDA2",
+                "type": "malicious"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -361,8 +365,8 @@
                 "type": "undetected"
             },
             "CTX": {
-                "details": "exe.trojan.giant",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "ClamAV": {
                 "details": null,
@@ -413,12 +417,12 @@
                 "type": "undetected"
             },
             "Google": {
-                "details": "Detected",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Ikarus": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Jiangmin": {
                 "details": null,
@@ -478,7 +482,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -494,21 +498,25 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
                 "type": "undetected"
             },
             "Symantec": {
-                "details": null,
-                "type": "timeout"
+                "details": "ML.Attribute.HighConfidence",
+                "type": "malicious"
             },
             "SymantecMobileInsight": {
                 "details": null,
                 "type": "type-unsupported"
             },
             "TACHYON": {
+                "details": null,
+                "type": "undetected"
+            },
+            "Tencent": {
                 "details": null,
                 "type": "undetected"
             },
@@ -537,12 +545,12 @@
                 "type": "undetected"
             },
             "VIPRE": {
-                "details": "Gen:Variant.Giant.Tedy.3234",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "Varist": {
-                "details": "W64/ABTrojan.BCTE-5828",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "ViRobot": {
                 "details": null,
@@ -796,13 +804,17 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "SymantecMobileInsight": {
                 "details": null,
                 "type": "type-unsupported"
             },
             "TACHYON": {
+                "details": null,
+                "type": "undetected"
+            },
+            "Tencent": {
                 "details": null,
                 "type": "undetected"
             },
@@ -860,7 +872,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
