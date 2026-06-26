@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-25 03:52:32.619990+00:00",
+    "date": "2026-06-26 04:00:01.050888+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -188,7 +188,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -236,7 +236,7 @@
             },
             "TrendMicro": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro-HouseCall": {
                 "details": null,
@@ -314,7 +314,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -338,7 +338,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -350,15 +350,15 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
                 "type": "type-unsupported"
             },
             "Bkav": {
-                "details": "W32.Malware.43CBFDA2",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -413,8 +413,8 @@
                 "type": "undetected"
             },
             "Fortinet": {
-                "details": "W32/PossibleThreat",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "GData": {
                 "details": null,
@@ -446,7 +446,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Kingsoft": {
                 "details": null,
@@ -506,7 +506,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -534,7 +534,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -550,7 +550,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "VIPRE": {
                 "details": null,
@@ -816,7 +816,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
