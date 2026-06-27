@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-26 04:00:01.050888+00:00",
+    "date": "2026-06-27 03:40:46.623941+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -314,7 +314,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -338,7 +338,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -350,15 +350,15 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefenderFalx": {
                 "details": null,
                 "type": "type-unsupported"
             },
             "Bkav": {
-                "details": null,
-                "type": "timeout"
+                "details": "W32.Malware.43CBFDA2",
+                "type": "malicious"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -386,7 +386,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": "MALICIOUS",
@@ -413,8 +413,8 @@
                 "type": "undetected"
             },
             "Fortinet": {
-                "details": null,
-                "type": "timeout"
+                "details": "W32/PossibleThreat",
+                "type": "malicious"
             },
             "GData": {
                 "details": null,
@@ -430,7 +430,7 @@
             },
             "Ikarus": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Jiangmin": {
                 "details": null,
@@ -446,7 +446,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Kingsoft": {
                 "details": null,
@@ -490,7 +490,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -506,15 +506,15 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
                 "type": "undetected"
             },
             "Symantec": {
-                "details": null,
-                "type": "timeout"
+                "details": "ML.Attribute.HighConfidence",
+                "type": "malicious"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -534,7 +534,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -550,7 +550,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": null,
@@ -732,7 +732,7 @@
             },
             "Ikarus": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Jiangmin": {
                 "details": null,
