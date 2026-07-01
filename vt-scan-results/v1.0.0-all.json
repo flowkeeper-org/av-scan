@@ -1,5 +1,5 @@
 {
-    "date": "2026-06-30 03:55:07.496461+00:00",
+    "date": "2026-07-01 04:08:46.648858+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -83,10 +83,6 @@
                 "type": "undetected"
             },
             "Cynet": {
-                "details": null,
-                "type": "type-unsupported"
-            },
-            "DeepInstinct": {
                 "details": null,
                 "type": "undetected"
             },
@@ -188,7 +184,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -212,7 +208,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -388,10 +384,6 @@
                 "details": null,
                 "type": "type-unsupported"
             },
-            "DeepInstinct": {
-                "details": "MALICIOUS",
-                "type": "malicious"
-            },
             "DrWeb": {
                 "details": null,
                 "type": "undetected"
@@ -461,8 +453,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Malware.325836546.susgen",
+                "type": "malicious"
             },
             "McAfeeD": {
                 "details": "ti!E91A45E9D7F6",
@@ -490,7 +482,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -690,10 +682,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "DeepInstinct": {
-                "details": null,
-                "type": "undetected"
-            },
             "DrWeb": {
                 "details": null,
                 "type": "undetected"
@@ -732,7 +720,7 @@
             },
             "Ikarus": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Jiangmin": {
                 "details": null,
@@ -792,7 +780,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -816,7 +804,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SymantecMobileInsight": {
                 "details": null,
