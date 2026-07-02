@@ -1,5 +1,5 @@
 {
-    "date": "2026-07-01 04:08:46.648858+00:00",
+    "date": "2026-07-02 04:00:25.392124+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -72,7 +72,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -84,7 +84,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DrWeb": {
                 "details": null,
@@ -370,7 +370,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -382,7 +382,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DrWeb": {
                 "details": null,
@@ -453,8 +453,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": "Trojan.Malware.325836546.susgen",
-                "type": "malicious"
+                "details": null,
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": "ti!E91A45E9D7F6",
@@ -465,8 +465,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -498,15 +498,15 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
                 "type": "undetected"
             },
             "Symantec": {
-                "details": null,
-                "type": "timeout"
+                "details": "ML.Attribute.HighConfidence",
+                "type": "malicious"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -558,7 +558,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Webroot": {
                 "details": null,
@@ -574,7 +574,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -720,7 +720,7 @@
             },
             "Ikarus": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Jiangmin": {
                 "details": null,
