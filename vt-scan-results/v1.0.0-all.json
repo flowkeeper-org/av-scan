@@ -1,5 +1,5 @@
 {
-    "date": "2026-07-02 04:00:25.392124+00:00",
+    "date": "2026-07-03 03:32:20.721903+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -72,7 +72,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -116,7 +116,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Gridinsoft": {
                 "details": null,
@@ -370,7 +370,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -414,7 +414,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Gridinsoft": {
                 "details": "Trojan.Win64.Wacatac.oa!s1",
@@ -453,8 +453,8 @@
                 "type": "undetected"
             },
             "MaxSecure": {
-                "details": null,
-                "type": "timeout"
+                "details": "Trojan.Malware.325836546.susgen",
+                "type": "malicious"
             },
             "McAfeeD": {
                 "details": "ti!E91A45E9D7F6",
@@ -482,7 +482,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -498,7 +498,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -558,7 +558,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Webroot": {
                 "details": null,
@@ -574,7 +574,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -804,7 +804,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SymantecMobileInsight": {
                 "details": null,
