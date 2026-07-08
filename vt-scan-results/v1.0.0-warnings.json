@@ -1,14 +1,10 @@
 {
-    "date": "2026-07-07 03:49:00.648126+00:00",
+    "date": "2026-07-08 02:57:51.603181+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {},
         "flowkeeper-1.1.0-windows-2025-nuitka-portable.exe": {
             "APEX": {
                 "details": "Malicious",
-                "type": "malicious"
-            },
-            "Bkav": {
-                "details": "W32.Malware.43CBFDA2",
                 "type": "malicious"
             },
             "Cylance": {
@@ -31,20 +27,8 @@
                 "details": "ti!E91A45E9D7F6",
                 "type": "malicious"
             },
-            "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
-                "type": "malicious"
-            },
             "Paloalto": {
                 "details": "generic.ml",
-                "type": "malicious"
-            },
-            "Symantec": {
-                "details": "ML.Attribute.HighConfidence",
-                "type": "malicious"
-            },
-            "Trapmine": {
-                "details": "malicious.moderate.ml.score",
                 "type": "malicious"
             }
         },
