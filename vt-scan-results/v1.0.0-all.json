@@ -1,5 +1,5 @@
 {
-    "date": "2026-07-09 03:31:47.233613+00:00",
+    "date": "2026-07-10 03:34:51.424694+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -124,7 +124,7 @@
             },
             "Ikarus": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Jiangmin": {
                 "details": null,
@@ -219,6 +219,10 @@
                 "type": "undetected"
             },
             "Tencent": {
+                "details": null,
+                "type": "undetected"
+            },
+            "Trapmine": {
                 "details": null,
                 "type": "undetected"
             },
@@ -349,8 +353,8 @@
                 "type": "type-unsupported"
             },
             "Bkav": {
-                "details": null,
-                "type": "timeout"
+                "details": "W32.Malware.43CBFDA2",
+                "type": "malicious"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -366,7 +370,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -378,7 +382,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DrWeb": {
                 "details": null,
@@ -493,16 +497,16 @@
                 "type": "undetected"
             },
             "Skyhigh": {
-                "details": null,
-                "type": "undetected"
+                "details": "Artemis",
+                "type": "malicious"
             },
             "Sophos": {
                 "details": null,
                 "type": "undetected"
             },
             "Symantec": {
-                "details": "ML.Attribute.HighConfidence",
-                "type": "malicious"
+                "details": null,
+                "type": "failure"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -515,6 +519,10 @@
             "Tencent": {
                 "details": null,
                 "type": "undetected"
+            },
+            "Trapmine": {
+                "details": "malicious.moderate.ml.score",
+                "type": "malicious"
             },
             "TrellixENS": {
                 "details": null,
@@ -600,7 +608,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Acronis": {
                 "details": null,
@@ -624,7 +632,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -788,7 +796,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -796,7 +804,7 @@
             },
             "Symantec": {
                 "details": null,
-                "type": "timeout"
+                "type": "failure"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -810,9 +818,13 @@
                 "details": null,
                 "type": "undetected"
             },
-            "TrellixENS": {
+            "Trapmine": {
                 "details": null,
                 "type": "undetected"
+            },
+            "TrellixENS": {
+                "details": null,
+                "type": "failure"
             },
             "TrendMicro": {
                 "details": null,
