@@ -1,5 +1,5 @@
 {
-    "date": "2026-07-11 02:49:14.123295+00:00",
+    "date": "2026-07-12 02:58:09.040634+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -276,7 +276,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -422,7 +422,7 @@
             },
             "Ikarus": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Jiangmin": {
                 "details": null,
@@ -720,7 +720,7 @@
             },
             "Ikarus": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Jiangmin": {
                 "details": null,
