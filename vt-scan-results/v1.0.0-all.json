@@ -1,5 +1,5 @@
 {
-    "date": "2026-07-15 02:38:56.868955+00:00",
+    "date": "2026-07-16 02:47:26.884785+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
             "ALYac": {
@@ -382,7 +382,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DrWeb": {
                 "details": null,
@@ -422,7 +422,7 @@
             },
             "Ikarus": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Jiangmin": {
                 "details": null,
@@ -465,7 +465,7 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
+                "details": "Trojan:Win32/Wacatac.C!ml",
                 "type": "malicious"
             },
             "NANO-Antivirus": {
@@ -482,7 +482,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -505,8 +505,8 @@
                 "type": "undetected"
             },
             "Symantec": {
-                "details": null,
-                "type": "timeout"
+                "details": "ML.Attribute.HighConfidence",
+                "type": "malicious"
             },
             "SymantecMobileInsight": {
                 "details": null,
@@ -752,7 +752,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
