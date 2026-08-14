@@ -1,61 +1,46 @@
 {
-    "date": "2026-07-17 02:49:53.811988+00:00",
+    "date": "2026-08-14 21:44:41.234411+00:00",
     "results": {
-        "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {},
-        "flowkeeper-1.1.0-windows-2025-nuitka-portable.exe": {
+        "flowkeeper-1.1.0-windows-11-arm-pyinstaller-installer.exe": {},
+        "flowkeeper-1.1.0-windows-11-arm-pyinstaller-portable.exe": {},
+        "flowkeeper-1.1.0-windows-11-arm-pyinstaller-standalone.exe": {},
+        "flowkeeper-1.1.0-windows-2022-nuitka-installer.exe": {},
+        "flowkeeper-1.1.0-windows-2022-nuitka-portable.exe": {},
+        "flowkeeper-1.1.0-windows-2022-nuitka-standalone.exe": {},
+        "flowkeeper-1.1.0-windows-2022-pyinstaller-installer.exe": {},
+        "flowkeeper-1.1.0-windows-2022-pyinstaller-portable.exe": {},
+        "flowkeeper-1.1.0-windows-2022-pyinstaller-standalone.exe": {
             "APEX": {
                 "details": "Malicious",
                 "type": "malicious"
             },
-            "Bkav": {
-                "details": "W32.Malware.43CBFDA2",
-                "type": "malicious"
-            },
-            "Cylance": {
-                "details": "Unsafe",
-                "type": "malicious"
-            },
             "Elastic": {
-                "details": "malicious (high confidence)",
-                "type": "malicious"
-            },
-            "Fortinet": {
-                "details": "W32/PossibleThreat",
-                "type": "malicious"
-            },
-            "Gridinsoft": {
-                "details": "Trojan.Win64.Wacatac.oa!s1",
-                "type": "malicious"
-            },
-            "MaxSecure": {
-                "details": "Trojan.Malware.325836546.susgen",
-                "type": "malicious"
-            },
-            "McAfeeD": {
-                "details": "ti!E91A45E9D7F6",
+                "details": "malicious (moderate confidence)",
                 "type": "malicious"
             },
             "Microsoft": {
                 "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
-            },
-            "Paloalto": {
-                "details": "generic.ml",
-                "type": "malicious"
-            },
-            "Skyhigh": {
-                "details": "Artemis",
-                "type": "malicious"
-            },
-            "Symantec": {
-                "details": "ML.Attribute.HighConfidence",
-                "type": "malicious"
-            },
-            "Trapmine": {
-                "details": "malicious.moderate.ml.score",
-                "type": "malicious"
             }
         },
-        "flowkeeper-1.1.0-windows-2025-nuitka-standalone.exe": {}
+        "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {},
+        "flowkeeper-1.1.0-windows-2025-nuitka-portable.exe": {},
+        "flowkeeper-1.1.0-windows-2025-nuitka-standalone.exe": {},
+        "flowkeeper-1.1.0-windows-2025-pyinstaller-installer.exe": {},
+        "flowkeeper-1.1.0-windows-2025-pyinstaller-portable.exe": {},
+        "flowkeeper-1.1.0-windows-2025-pyinstaller-standalone.exe": {
+            "APEX": {
+                "details": "Malicious",
+                "type": "malicious"
+            },
+            "Elastic": {
+                "details": "malicious (moderate confidence)",
+                "type": "malicious"
+            },
+            "Zillya": {
+                "details": "Trojan.Blank.Script.2113",
+                "type": "malicious"
+            }
+        }
     }
 }
