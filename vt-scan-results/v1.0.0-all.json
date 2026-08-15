@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-14 21:44:41.234411+00:00",
+    "date": "2026-08-15 01:23:41.587300+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-11-arm-pyinstaller-installer.exe": {
             "ALYac": {
@@ -386,7 +386,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -1336,7 +1336,7 @@
             },
             "Ikarus": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Jiangmin": {
                 "details": null,
@@ -1582,7 +1582,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2198,7 +2198,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -2242,7 +2242,7 @@
             },
             "Ikarus": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Jiangmin": {
                 "details": null,
@@ -2604,7 +2604,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -2620,7 +2620,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Sophos": {
                 "details": null,
@@ -2695,8 +2695,8 @@
                 "type": "undetected"
             },
             "Zillya": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Blank.Script.2113",
+                "type": "malicious"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -2846,7 +2846,7 @@
             },
             "Ikarus": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Jiangmin": {
                 "details": null,
@@ -2906,7 +2906,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -3450,7 +3450,7 @@
             },
             "Ikarus": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Jiangmin": {
                 "details": null,
@@ -3636,11 +3636,11 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "AhnLab-V3": {
                 "details": null,
@@ -3660,7 +3660,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -3828,7 +3828,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -3856,7 +3856,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -3904,7 +3904,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "failure"
+                "type": "timeout"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -4399,8 +4399,8 @@
                 "type": "undetected"
             },
             "Microsoft": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan:Win32/Wacatac.B!ml",
+                "type": "malicious"
             },
             "NANO-Antivirus": {
                 "details": null,
@@ -4507,8 +4507,8 @@
                 "type": "undetected"
             },
             "Zillya": {
-                "details": "Trojan.Blank.Script.2113",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
