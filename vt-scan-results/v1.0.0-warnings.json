@@ -1,5 +1,5 @@
 {
-    "date": "2026-08-17 01:25:01.677190+00:00",
+    "date": "2026-08-18 01:24:01.225278+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-11-arm-pyinstaller-installer.exe": {},
         "flowkeeper-1.1.0-windows-11-arm-pyinstaller-portable.exe": {},
@@ -16,6 +16,10 @@
             },
             "Elastic": {
                 "details": "malicious (moderate confidence)",
+                "type": "malicious"
+            },
+            "Microsoft": {
+                "details": "Trojan:Win32/Wacatac.B!ml",
                 "type": "malicious"
             },
             "Zillya": {
@@ -38,7 +42,7 @@
                 "type": "malicious"
             },
             "Microsoft": {
-                "details": "Trojan:Win32/Wacatac.B!ml",
+                "details": "Trojan:Win32/Wacatac.C!ml",
                 "type": "malicious"
             },
             "Zillya": {
