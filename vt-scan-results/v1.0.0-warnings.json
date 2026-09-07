@@ -1,5 +1,5 @@
 {
-    "date": "2026-09-06 03:32:59.280659+00:00",
+    "date": "2026-09-07 03:35:49.134845+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-11-arm-pyinstaller-installer.exe": {},
         "flowkeeper-1.1.0-windows-11-arm-pyinstaller-portable.exe": {},
@@ -23,6 +23,10 @@
         "flowkeeper-1.1.0-windows-2025-pyinstaller-standalone.exe": {
             "APEX": {
                 "details": "Malicious",
+                "type": "malicious"
+            },
+            "Zillya": {
+                "details": "Trojan.Blank.Script.2113",
                 "type": "malicious"
             }
         }
