@@ -1,5 +1,5 @@
 {
-    "date": "2026-09-21 03:57:57.297060+00:00",
+    "date": "2026-09-22 03:55:01.784353+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-11-arm-pyinstaller-installer.exe": {
             "ALYac": {
@@ -223,6 +223,10 @@
                 "type": "undetected"
             },
             "Tencent": {
+                "details": null,
+                "type": "undetected"
+            },
+            "Trapmine": {
                 "details": null,
                 "type": "undetected"
             },
@@ -524,6 +528,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "Trapmine": {
+                "details": null,
+                "type": "undetected"
+            },
             "TrellixENS": {
                 "details": null,
                 "type": "undetected"
@@ -684,7 +692,7 @@
             },
             "DeepInstinct": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "DrWeb": {
                 "details": null,
@@ -716,7 +724,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Gridinsoft": {
                 "details": null,
@@ -819,6 +827,10 @@
                 "type": "undetected"
             },
             "Tencent": {
+                "details": null,
+                "type": "undetected"
+            },
+            "Trapmine": {
                 "details": null,
                 "type": "undetected"
             },
@@ -1120,6 +1132,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "Trapmine": {
+                "details": null,
+                "type": "undetected"
+            },
             "TrellixENS": {
                 "details": null,
                 "type": "undetected"
@@ -1418,6 +1434,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "Trapmine": {
+                "details": null,
+                "type": "undetected"
+            },
             "TrellixENS": {
                 "details": null,
                 "type": "undetected"
@@ -1678,7 +1698,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -1713,6 +1733,10 @@
                 "type": "undetected"
             },
             "Tencent": {
+                "details": null,
+                "type": "undetected"
+            },
+            "Trapmine": {
                 "details": null,
                 "type": "undetected"
             },
@@ -2014,6 +2038,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "Trapmine": {
+                "details": null,
+                "type": "undetected"
+            },
             "TrellixENS": {
                 "details": null,
                 "type": "undetected"
@@ -2206,7 +2234,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Gridinsoft": {
                 "details": null,
@@ -2274,7 +2302,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -2309,6 +2337,10 @@
                 "type": "undetected"
             },
             "Tencent": {
+                "details": null,
+                "type": "undetected"
+            },
+            "Trapmine": {
                 "details": null,
                 "type": "undetected"
             },
@@ -2504,7 +2536,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Gridinsoft": {
                 "details": null,
@@ -2610,6 +2642,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "Trapmine": {
+                "details": null,
+                "type": "undetected"
+            },
             "TrellixENS": {
                 "details": null,
                 "type": "undetected"
@@ -2659,8 +2695,8 @@
                 "type": "undetected"
             },
             "Zillya": {
-                "details": "Trojan.Blank.Script.2113",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -2694,11 +2730,11 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "AhnLab-V3": {
                 "details": null,
@@ -2718,7 +2754,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -2730,7 +2766,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -2738,7 +2774,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -2774,7 +2810,7 @@
             },
             "DrWeb": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "ESET-NOD32": {
                 "details": null,
@@ -2826,7 +2862,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Kingsoft": {
                 "details": null,
@@ -2886,7 +2922,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -2908,9 +2944,13 @@
                 "details": null,
                 "type": "undetected"
             },
-            "TrellixENS": {
+            "Trapmine": {
                 "details": null,
                 "type": "undetected"
+            },
+            "TrellixENS": {
+                "details": null,
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -3100,7 +3140,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Gridinsoft": {
                 "details": null,
@@ -3168,7 +3208,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -3203,6 +3243,10 @@
                 "type": "undetected"
             },
             "Tencent": {
+                "details": null,
+                "type": "undetected"
+            },
+            "Trapmine": {
                 "details": null,
                 "type": "undetected"
             },
@@ -3466,7 +3510,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -3501,6 +3545,10 @@
                 "type": "undetected"
             },
             "Tencent": {
+                "details": null,
+                "type": "undetected"
+            },
+            "Trapmine": {
                 "details": null,
                 "type": "undetected"
             },
@@ -3802,6 +3850,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "Trapmine": {
+                "details": null,
+                "type": "undetected"
+            },
             "TrellixENS": {
                 "details": null,
                 "type": "undetected"
@@ -3958,7 +4010,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -4097,6 +4149,10 @@
                 "type": "undetected"
             },
             "Tencent": {
+                "details": null,
+                "type": "undetected"
+            },
+            "Trapmine": {
                 "details": null,
                 "type": "undetected"
             },
@@ -4395,6 +4451,10 @@
                 "type": "undetected"
             },
             "Tencent": {
+                "details": null,
+                "type": "undetected"
+            },
+            "Trapmine": {
                 "details": null,
                 "type": "undetected"
             },
