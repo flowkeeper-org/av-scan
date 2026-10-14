@@ -1,5 +1,5 @@
 {
-    "date": "2026-10-13 06:00:55.813783+00:00",
+    "date": "2026-10-14 04:03:22.946565+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-11-arm-pyinstaller-installer.exe": {
             "ALYac": {
@@ -12,7 +12,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -36,7 +36,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -188,7 +188,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -204,7 +204,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -358,7 +358,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -374,7 +374,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -462,7 +462,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": null,
@@ -490,7 +490,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -808,7 +808,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Sophos": {
                 "details": null,
@@ -836,7 +836,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -884,7 +884,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -1280,11 +1280,11 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Cylance": {
                 "details": null,
@@ -1522,7 +1522,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Acronis": {
                 "details": null,
@@ -1546,7 +1546,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -1742,7 +1742,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "TrendMicro": {
                 "details": null,
@@ -1790,7 +1790,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -1884,7 +1884,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2016,7 +2016,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -2190,7 +2190,7 @@
             },
             "CrowdStrike": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Cylance": {
                 "details": null,
@@ -2198,7 +2198,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -2695,8 +2695,8 @@
                 "type": "undetected"
             },
             "Zillya": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Blank.Script.2113",
+                "type": "malicious"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -2790,7 +2790,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2838,7 +2838,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Gridinsoft": {
                 "details": null,
@@ -2906,7 +2906,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -2998,7 +2998,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -3104,7 +3104,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -3224,7 +3224,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -3300,7 +3300,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -3696,7 +3696,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3812,7 +3812,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -3904,7 +3904,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -4002,7 +4002,7 @@
             },
             "CrowdStrike": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Cylance": {
                 "details": null,
@@ -4010,7 +4010,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -4114,7 +4114,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -4300,7 +4300,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -4388,7 +4388,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -4432,7 +4432,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -4507,8 +4507,8 @@
                 "type": "undetected"
             },
             "Zillya": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Blank.Script.2113",
+                "type": "malicious"
             },
             "ZoneAlarm": {
                 "details": null,
