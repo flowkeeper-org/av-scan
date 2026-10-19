@@ -1,5 +1,5 @@
 {
-    "date": "2026-10-18 03:46:04.010044+00:00",
+    "date": "2026-10-19 03:49:35.048674+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-11-arm-pyinstaller-installer.exe": {
             "ALYac": {
@@ -132,7 +132,7 @@
             },
             "Jiangmin": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "K7AntiVirus": {
                 "details": null,
@@ -148,7 +148,7 @@
             },
             "Kingsoft": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Lionic": {
                 "details": null,
@@ -196,7 +196,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "SentinelOne": {
                 "details": null,
@@ -204,7 +204,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Sophos": {
                 "details": null,
@@ -232,7 +232,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "TrendMicro": {
                 "details": null,
@@ -276,7 +276,7 @@
             },
             "Yandex": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Zillya": {
                 "details": null,
@@ -288,7 +288,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "alibabacloud": {
                 "details": null,
@@ -1094,7 +1094,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -1138,7 +1138,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "TrendMicro": {
                 "details": null,
@@ -1340,7 +1340,7 @@
             },
             "Jiangmin": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "K7AntiVirus": {
                 "details": null,
@@ -1356,7 +1356,7 @@
             },
             "Kingsoft": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Lionic": {
                 "details": null,
@@ -1440,7 +1440,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "TrendMicro": {
                 "details": null,
@@ -1484,11 +1484,11 @@
             },
             "Yandex": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Zillya": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -1496,7 +1496,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "alibabacloud": {
                 "details": null,
@@ -1642,7 +1642,7 @@
             },
             "Jiangmin": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "K7AntiVirus": {
                 "details": null,
@@ -1658,7 +1658,7 @@
             },
             "Kingsoft": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Lionic": {
                 "details": null,
@@ -1706,7 +1706,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "SentinelOne": {
                 "details": null,
@@ -1742,7 +1742,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "TrendMicro": {
                 "details": null,
@@ -1786,7 +1786,7 @@
             },
             "Yandex": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Zillya": {
                 "details": null,
@@ -1798,7 +1798,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "alibabacloud": {
                 "details": null,
@@ -1944,7 +1944,7 @@
             },
             "Jiangmin": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "K7AntiVirus": {
                 "details": null,
@@ -1960,7 +1960,7 @@
             },
             "Kingsoft": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Lionic": {
                 "details": null,
@@ -2000,7 +2000,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -2044,7 +2044,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -2100,7 +2100,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "alibabacloud": {
                 "details": null,
@@ -2186,7 +2186,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2198,7 +2198,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -2274,7 +2274,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": null,
@@ -2302,7 +2302,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -2548,7 +2548,7 @@
             },
             "Jiangmin": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "K7AntiVirus": {
                 "details": null,
@@ -2648,7 +2648,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "TrendMicro": {
                 "details": null,
@@ -2692,7 +2692,7 @@
             },
             "Yandex": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Zillya": {
                 "details": "Trojan.Blank.Script.2113",
@@ -2802,7 +2802,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -3252,7 +3252,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -3308,7 +3308,7 @@
             },
             "Zoner": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "alibabacloud": {
                 "details": null,
@@ -3772,7 +3772,7 @@
             },
             "Kingsoft": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Lionic": {
                 "details": null,
@@ -3812,7 +3812,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -4114,7 +4114,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -4130,7 +4130,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -4158,7 +4158,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "TrendMicro": {
                 "details": null,
@@ -4206,7 +4206,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -4507,8 +4507,8 @@
                 "type": "undetected"
             },
             "Zillya": {
-                "details": "Trojan.Blank.Script.2113",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
