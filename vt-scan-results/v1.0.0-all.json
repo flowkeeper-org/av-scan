@@ -1,5 +1,5 @@
 {
-    "date": "2026-10-26 03:51:06.472196+00:00",
+    "date": "2026-10-27 04:12:14.390372+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-11-arm-pyinstaller-installer.exe": {
             "ALYac": {
@@ -188,7 +188,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -300,7 +300,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.1.0-windows-11-arm-pyinstaller-portable.exe": {
@@ -386,7 +386,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -490,7 +490,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -602,7 +602,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.1.0-windows-11-arm-pyinstaller-standalone.exe": {
@@ -676,7 +676,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "failure"
             },
             "CrowdStrike": {
                 "details": null,
@@ -764,7 +764,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "McAfeeD": {
                 "details": null,
@@ -808,7 +808,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -836,11 +836,11 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro-HouseCall": {
                 "details": null,
@@ -904,7 +904,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.1.0-windows-2022-nuitka-installer.exe": {
@@ -954,7 +954,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -1050,7 +1050,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Kingsoft": {
                 "details": null,
@@ -1094,7 +1094,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -1102,7 +1102,7 @@
             },
             "Sangfor": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SentinelOne": {
                 "details": null,
@@ -1154,7 +1154,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "VIPRE": {
                 "details": null,
@@ -1206,7 +1206,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.1.0-windows-2022-nuitka-portable.exe": {
@@ -1280,7 +1280,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1292,7 +1292,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -1396,7 +1396,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -1440,7 +1440,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -1508,7 +1508,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.1.0-windows-2022-nuitka-standalone.exe": {
@@ -1714,7 +1714,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -1810,7 +1810,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.1.0-windows-2022-pyinstaller-installer.exe": {
@@ -2112,7 +2112,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.1.0-windows-2022-pyinstaller-portable.exe": {
@@ -2414,7 +2414,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.1.0-windows-2022-pyinstaller-standalone.exe": {
@@ -2620,7 +2620,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -2716,7 +2716,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.1.0-windows-2025-nuitka-installer.exe": {
@@ -2838,7 +2838,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Gridinsoft": {
                 "details": null,
@@ -3018,7 +3018,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.1.0-windows-2025-nuitka-portable.exe": {
@@ -3208,7 +3208,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -3320,7 +3320,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.1.0-windows-2025-nuitka-standalone.exe": {
@@ -3622,7 +3622,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.1.0-windows-2025-pyinstaller-installer.exe": {
@@ -3812,7 +3812,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -3828,7 +3828,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -3860,7 +3860,7 @@
             },
             "TrendMicro": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro-HouseCall": {
                 "details": null,
@@ -3924,7 +3924,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.1.0-windows-2025-pyinstaller-portable.exe": {
@@ -4226,7 +4226,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.1.0-windows-2025-pyinstaller-standalone.exe": {
@@ -4316,7 +4316,7 @@
             },
             "DeepInstinct": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "DrWeb": {
                 "details": null,
@@ -4348,7 +4348,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Gridinsoft": {
                 "details": null,
@@ -4432,7 +4432,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "failure"
             },
             "Sophos": {
                 "details": null,
@@ -4460,11 +4460,11 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro-HouseCall": {
                 "details": null,
@@ -4507,8 +4507,8 @@
                 "type": "undetected"
             },
             "Zillya": {
-                "details": "Trojan.Blank.Script.2113",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -4528,7 +4528,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             }
         }
     }
