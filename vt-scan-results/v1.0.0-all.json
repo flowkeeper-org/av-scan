@@ -1,5 +1,5 @@
 {
-    "date": "2026-10-28 04:41:17.220038+00:00",
+    "date": "2026-10-29 04:56:06.001860+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-11-arm-pyinstaller-installer.exe": {
             "ALYac": {
@@ -188,7 +188,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -602,7 +602,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             }
         },
         "flowkeeper-1.1.0-windows-11-arm-pyinstaller-standalone.exe": {
@@ -1488,7 +1488,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -1522,7 +1522,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -1546,7 +1546,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -1566,7 +1566,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -1582,7 +1582,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1670,7 +1670,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -1698,7 +1698,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -1714,7 +1714,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -1742,7 +1742,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -1824,7 +1824,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -1848,7 +1848,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -1868,7 +1868,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -1884,7 +1884,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -1972,7 +1972,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -2000,7 +2000,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -2016,7 +2016,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -2044,7 +2044,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -2112,7 +2112,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.1.0-windows-2022-pyinstaller-portable.exe": {
@@ -2302,7 +2302,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -2774,7 +2774,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -2790,7 +2790,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -2922,7 +2922,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -2966,7 +2966,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": null,
@@ -3104,7 +3104,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -3442,7 +3442,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Gridinsoft": {
                 "details": null,
@@ -3636,7 +3636,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -3660,7 +3660,7 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Avast-Mobile": {
                 "details": null,
@@ -3768,7 +3768,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Kingsoft": {
                 "details": null,
@@ -3812,7 +3812,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -3828,7 +3828,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -3872,7 +3872,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": null,
@@ -3924,7 +3924,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.1.0-windows-2025-pyinstaller-portable.exe": {
@@ -4226,7 +4226,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.1.0-windows-2025-pyinstaller-standalone.exe": {
