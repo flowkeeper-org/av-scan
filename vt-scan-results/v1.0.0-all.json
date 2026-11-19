@@ -1,5 +1,5 @@
 {
-    "date": "2026-11-18 06:30:42.631344+00:00",
+    "date": "2026-11-19 06:29:16.018100+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-11-arm-pyinstaller-installer.exe": {
             "ALYac": {
@@ -296,7 +296,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.1.0-windows-11-arm-pyinstaller-portable.exe": {
@@ -366,7 +366,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -378,7 +378,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -574,7 +574,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -1272,7 +1272,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -1452,7 +1452,7 @@
             },
             "VirIT": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Webroot": {
                 "details": null,
@@ -1758,7 +1758,7 @@
             },
             "Xcitium": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Yandex": {
                 "details": null,
@@ -1972,7 +1972,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -2382,7 +2382,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.1.0-windows-2022-pyinstaller-standalone.exe": {
@@ -2652,15 +2652,15 @@
             },
             "Xcitium": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "Yandex": {
                 "details": null,
                 "type": "undetected"
             },
             "Zillya": {
-                "details": null,
-                "type": "undetected"
+                "details": "Trojan.Blank.Script.2113",
+                "type": "malicious"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -2978,7 +2978,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.1.0-windows-2025-nuitka-portable.exe": {
@@ -3060,7 +3060,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -3256,7 +3256,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -3462,7 +3462,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -3990,7 +3990,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Gridinsoft": {
                 "details": null,
@@ -4170,7 +4170,7 @@
             },
             "tehtris": {
                 "details": null,
-                "type": "confirmed-timeout"
+                "type": "undetected"
             }
         },
         "flowkeeper-1.1.0-windows-2025-pyinstaller-standalone.exe": {
@@ -4447,8 +4447,8 @@
                 "type": "undetected"
             },
             "Zillya": {
-                "details": null,
-                "type": "failure"
+                "details": "Trojan.Blank.Script.2113",
+                "type": "malicious"
             },
             "ZoneAlarm": {
                 "details": null,
