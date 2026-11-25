@@ -1,5 +1,5 @@
 {
-    "date": "2026-11-24 09:00:22.360679+00:00",
+    "date": "2026-11-25 07:43:49.225779+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-11-arm-pyinstaller-installer.exe": {
             "ALYac": {
@@ -33,6 +33,10 @@
             "Avast": {
                 "details": null,
                 "type": "undetected"
+            },
+            "Avast-Mobile": {
+                "details": null,
+                "type": "type-unsupported"
             },
             "Avira": {
                 "details": null,
@@ -180,7 +184,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -272,7 +276,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "undetected"
+                "type": "failure"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -306,7 +310,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -326,7 +330,11 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
+            },
+            "Avast-Mobile": {
+                "details": null,
+                "type": "type-unsupported"
             },
             "Avira": {
                 "details": null,
@@ -334,7 +342,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -342,7 +350,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -358,7 +366,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CrowdStrike": {
                 "details": null,
@@ -490,7 +498,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -518,7 +526,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -621,6 +629,10 @@
             "Avast": {
                 "details": null,
                 "type": "undetected"
+            },
+            "Avast-Mobile": {
+                "details": null,
+                "type": "type-unsupported"
             },
             "Avira": {
                 "details": null,
@@ -916,6 +928,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "Avast-Mobile": {
+                "details": null,
+                "type": "type-unsupported"
+            },
             "Avira": {
                 "details": null,
                 "type": "undetected"
@@ -1188,7 +1204,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
@@ -1208,7 +1224,11 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
+            },
+            "Avast-Mobile": {
+                "details": null,
+                "type": "type-unsupported"
             },
             "Avira": {
                 "details": null,
@@ -1216,7 +1236,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -1256,7 +1276,7 @@
             },
             "DeepInstinct": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "DrWeb": {
                 "details": null,
@@ -1288,7 +1308,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Gridinsoft": {
                 "details": null,
@@ -1312,7 +1332,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Kingsoft": {
                 "details": null,
@@ -1356,7 +1376,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -1404,7 +1424,7 @@
             },
             "TrendMicro": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro-HouseCall": {
                 "details": null,
@@ -1416,7 +1436,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": null,
@@ -1504,6 +1524,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "Avast-Mobile": {
+                "details": null,
+                "type": "type-unsupported"
+            },
             "Avira": {
                 "details": null,
                 "type": "undetected"
@@ -1650,7 +1674,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -1797,6 +1821,10 @@
             "Avast": {
                 "details": null,
                 "type": "undetected"
+            },
+            "Avast-Mobile": {
+                "details": null,
+                "type": "type-unsupported"
             },
             "Avira": {
                 "details": null,
@@ -2092,6 +2120,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "Avast-Mobile": {
+                "details": null,
+                "type": "type-unsupported"
+            },
             "Avira": {
                 "details": null,
                 "type": "undetected"
@@ -2238,7 +2270,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -2254,7 +2286,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -2386,6 +2418,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "Avast-Mobile": {
+                "details": null,
+                "type": "type-unsupported"
+            },
             "Avira": {
                 "details": null,
                 "type": "undetected"
@@ -2548,7 +2584,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -2680,6 +2716,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "Avast-Mobile": {
+                "details": null,
+                "type": "type-unsupported"
+            },
             "Avira": {
                 "details": null,
                 "type": "undetected"
@@ -2694,7 +2734,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -2974,6 +3014,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "Avast-Mobile": {
+                "details": null,
+                "type": "type-unsupported"
+            },
             "Avira": {
                 "details": null,
                 "type": "undetected"
@@ -2988,7 +3032,7 @@
             },
             "Bkav": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CAT-QuickHeal": {
                 "details": null,
@@ -3016,7 +3060,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -3238,7 +3282,7 @@
         "flowkeeper-1.1.0-windows-2025-nuitka-standalone.exe": {
             "ALYac": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "APEX": {
                 "details": null,
@@ -3246,11 +3290,11 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "AhnLab-V3": {
                 "details": null,
@@ -3266,7 +3310,11 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
+            },
+            "Avast-Mobile": {
+                "details": null,
+                "type": "type-unsupported"
             },
             "Avira": {
                 "details": null,
@@ -3274,7 +3322,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -3290,7 +3338,7 @@
             },
             "CMC": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CTX": {
                 "details": null,
@@ -3314,15 +3362,15 @@
             },
             "DeepInstinct": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "DrWeb": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ESET-NOD32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Elastic": {
                 "details": null,
@@ -3370,7 +3418,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Kingsoft": {
                 "details": null,
@@ -3410,11 +3458,11 @@
             },
             "Panda": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -3430,7 +3478,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -3458,7 +3506,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -3474,7 +3522,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": null,
@@ -3506,7 +3554,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -3562,6 +3610,10 @@
                 "details": null,
                 "type": "undetected"
             },
+            "Avast-Mobile": {
+                "details": null,
+                "type": "type-unsupported"
+            },
             "Avira": {
                 "details": null,
                 "type": "undetected"
@@ -3592,7 +3644,7 @@
             },
             "ClamAV": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "CrowdStrike": {
                 "details": null,
@@ -3834,7 +3886,7 @@
             },
             "AVG": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Acronis": {
                 "details": null,
@@ -3854,7 +3906,11 @@
             },
             "Avast": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
+            },
+            "Avast-Mobile": {
+                "details": null,
+                "type": "type-unsupported"
             },
             "Avira": {
                 "details": null,
@@ -3862,7 +3918,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -3898,7 +3954,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "undetected"
+                "type": "type-unsupported"
             },
             "DeepInstinct": {
                 "details": null,
@@ -3958,7 +4014,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Kingsoft": {
                 "details": null,
@@ -3974,7 +4030,7 @@
             },
             "MaxSecure": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "McAfeeD": {
                 "details": null,
@@ -4002,7 +4058,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -4018,7 +4074,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Sophos": {
                 "details": null,
@@ -4046,7 +4102,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "TrendMicro": {
                 "details": null,
@@ -4090,7 +4146,7 @@
             },
             "Yandex": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Zillya": {
                 "details": null,
@@ -4120,7 +4176,7 @@
         "flowkeeper-1.1.0-windows-2025-pyinstaller-standalone.exe": {
             "ALYac": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "APEX": {
                 "details": "Malicious",
@@ -4128,11 +4184,11 @@
             },
             "AVG": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Acronis": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "AhnLab-V3": {
                 "details": null,
@@ -4148,7 +4204,11 @@
             },
             "Avast": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
+            },
+            "Avast-Mobile": {
+                "details": null,
+                "type": "type-unsupported"
             },
             "Avira": {
                 "details": null,
@@ -4156,7 +4216,7 @@
             },
             "BitDefender": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "BitDefenderFalx": {
                 "details": null,
@@ -4172,7 +4232,7 @@
             },
             "CMC": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "CTX": {
                 "details": null,
@@ -4196,15 +4256,15 @@
             },
             "DeepInstinct": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "DrWeb": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "ESET-NOD32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Elastic": {
                 "details": null,
@@ -4228,7 +4288,7 @@
             },
             "Google": {
                 "details": null,
-                "type": "undetected"
+                "type": "timeout"
             },
             "Gridinsoft": {
                 "details": null,
@@ -4252,7 +4312,7 @@
             },
             "Kaspersky": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Kingsoft": {
                 "details": null,
@@ -4292,11 +4352,11 @@
             },
             "Panda": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -4312,7 +4372,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -4340,7 +4400,7 @@
             },
             "TrellixENS": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "TrendMicro": {
                 "details": null,
@@ -4356,7 +4416,7 @@
             },
             "VBA32": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "VIPRE": {
                 "details": null,
@@ -4388,7 +4448,7 @@
             },
             "Zillya": {
                 "details": null,
-                "type": "failure"
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
