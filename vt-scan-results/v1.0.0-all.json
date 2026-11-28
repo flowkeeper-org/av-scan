@@ -1,5 +1,5 @@
 {
-    "date": "2026-11-27 07:20:02.722725+00:00",
+    "date": "2026-11-28 06:52:08.826572+00:00",
     "results": {
         "flowkeeper-1.1.0-windows-11-arm-pyinstaller-installer.exe": {
             "ALYac": {
@@ -222,10 +222,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Trapmine": {
-                "details": null,
-                "type": "undetected"
-            },
             "TrellixENS": {
                 "details": null,
                 "type": "undetected"
@@ -291,10 +287,6 @@
                 "type": "undetected"
             },
             "huorong": {
-                "details": null,
-                "type": "undetected"
-            },
-            "tehtris": {
                 "details": null,
                 "type": "undetected"
             }
@@ -482,7 +474,7 @@
             },
             "Rising": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "SUPERAntiSpyware": {
                 "details": null,
@@ -517,10 +509,6 @@
                 "type": "undetected"
             },
             "Tencent": {
-                "details": null,
-                "type": "undetected"
-            },
-            "Trapmine": {
                 "details": null,
                 "type": "undetected"
             },
@@ -589,10 +577,6 @@
                 "type": "undetected"
             },
             "huorong": {
-                "details": null,
-                "type": "undetected"
-            },
-            "tehtris": {
                 "details": null,
                 "type": "undetected"
             }
@@ -818,10 +802,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Trapmine": {
-                "details": null,
-                "type": "undetected"
-            },
             "TrellixENS": {
                 "details": null,
                 "type": "undetected"
@@ -887,10 +867,6 @@
                 "type": "undetected"
             },
             "huorong": {
-                "details": null,
-                "type": "undetected"
-            },
-            "tehtris": {
                 "details": null,
                 "type": "undetected"
             }
@@ -974,7 +950,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -1116,10 +1092,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Trapmine": {
-                "details": null,
-                "type": "undetected"
-            },
             "TrellixENS": {
                 "details": null,
                 "type": "undetected"
@@ -1185,10 +1157,6 @@
                 "type": "undetected"
             },
             "huorong": {
-                "details": null,
-                "type": "undetected"
-            },
-            "tehtris": {
                 "details": null,
                 "type": "undetected"
             }
@@ -1272,7 +1240,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -1392,7 +1360,7 @@
             },
             "Skyhigh": {
                 "details": null,
-                "type": "timeout"
+                "type": "undetected"
             },
             "Sophos": {
                 "details": null,
@@ -1411,10 +1379,6 @@
                 "type": "undetected"
             },
             "Tencent": {
-                "details": null,
-                "type": "undetected"
-            },
-            "Trapmine": {
                 "details": null,
                 "type": "undetected"
             },
@@ -1483,10 +1447,6 @@
                 "type": "undetected"
             },
             "huorong": {
-                "details": null,
-                "type": "undetected"
-            },
-            "tehtris": {
                 "details": null,
                 "type": "undetected"
             }
@@ -1712,10 +1672,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Trapmine": {
-                "details": null,
-                "type": "undetected"
-            },
             "TrellixENS": {
                 "details": null,
                 "type": "undetected"
@@ -1781,10 +1737,6 @@
                 "type": "undetected"
             },
             "huorong": {
-                "details": null,
-                "type": "undetected"
-            },
-            "tehtris": {
                 "details": null,
                 "type": "undetected"
             }
@@ -2010,10 +1962,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Trapmine": {
-                "details": null,
-                "type": "undetected"
-            },
             "TrellixENS": {
                 "details": null,
                 "type": "undetected"
@@ -2079,10 +2027,6 @@
                 "type": "undetected"
             },
             "huorong": {
-                "details": null,
-                "type": "undetected"
-            },
-            "tehtris": {
                 "details": null,
                 "type": "undetected"
             }
@@ -2166,7 +2110,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -2308,10 +2252,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Trapmine": {
-                "details": null,
-                "type": "undetected"
-            },
             "TrellixENS": {
                 "details": null,
                 "type": "undetected"
@@ -2377,10 +2317,6 @@
                 "type": "undetected"
             },
             "huorong": {
-                "details": null,
-                "type": "undetected"
-            },
-            "tehtris": {
                 "details": null,
                 "type": "undetected"
             }
@@ -2606,10 +2542,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Trapmine": {
-                "details": null,
-                "type": "undetected"
-            },
             "TrellixENS": {
                 "details": null,
                 "type": "undetected"
@@ -2659,8 +2591,8 @@
                 "type": "undetected"
             },
             "Zillya": {
-                "details": "Trojan.Blank.Script.2113",
-                "type": "malicious"
+                "details": null,
+                "type": "undetected"
             },
             "ZoneAlarm": {
                 "details": null,
@@ -2675,10 +2607,6 @@
                 "type": "undetected"
             },
             "huorong": {
-                "details": null,
-                "type": "undetected"
-            },
-            "tehtris": {
                 "details": null,
                 "type": "undetected"
             }
@@ -2762,7 +2690,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -2904,10 +2832,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Trapmine": {
-                "details": null,
-                "type": "undetected"
-            },
             "TrellixENS": {
                 "details": null,
                 "type": "undetected"
@@ -2973,10 +2897,6 @@
                 "type": "undetected"
             },
             "huorong": {
-                "details": null,
-                "type": "undetected"
-            },
-            "tehtris": {
                 "details": null,
                 "type": "undetected"
             }
@@ -3202,10 +3122,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Trapmine": {
-                "details": null,
-                "type": "undetected"
-            },
             "TrellixENS": {
                 "details": null,
                 "type": "undetected"
@@ -3271,10 +3187,6 @@
                 "type": "undetected"
             },
             "huorong": {
-                "details": null,
-                "type": "undetected"
-            },
-            "tehtris": {
                 "details": null,
                 "type": "undetected"
             }
@@ -3500,10 +3412,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Trapmine": {
-                "details": null,
-                "type": "undetected"
-            },
             "TrellixENS": {
                 "details": null,
                 "type": "undetected"
@@ -3569,10 +3477,6 @@
                 "type": "undetected"
             },
             "huorong": {
-                "details": null,
-                "type": "undetected"
-            },
-            "tehtris": {
                 "details": null,
                 "type": "undetected"
             }
@@ -3798,10 +3702,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Trapmine": {
-                "details": null,
-                "type": "undetected"
-            },
             "TrellixENS": {
                 "details": null,
                 "type": "undetected"
@@ -3867,10 +3767,6 @@
                 "type": "undetected"
             },
             "huorong": {
-                "details": null,
-                "type": "undetected"
-            },
-            "tehtris": {
                 "details": null,
                 "type": "undetected"
             }
@@ -3954,7 +3850,7 @@
             },
             "Cynet": {
                 "details": null,
-                "type": "type-unsupported"
+                "type": "undetected"
             },
             "DeepInstinct": {
                 "details": null,
@@ -4096,10 +3992,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Trapmine": {
-                "details": null,
-                "type": "undetected"
-            },
             "TrellixENS": {
                 "details": null,
                 "type": "undetected"
@@ -4165,10 +4057,6 @@
                 "type": "undetected"
             },
             "huorong": {
-                "details": null,
-                "type": "undetected"
-            },
-            "tehtris": {
                 "details": null,
                 "type": "undetected"
             }
@@ -4394,10 +4282,6 @@
                 "details": null,
                 "type": "undetected"
             },
-            "Trapmine": {
-                "details": null,
-                "type": "undetected"
-            },
             "TrellixENS": {
                 "details": null,
                 "type": "undetected"
@@ -4463,10 +4347,6 @@
                 "type": "undetected"
             },
             "huorong": {
-                "details": null,
-                "type": "undetected"
-            },
-            "tehtris": {
                 "details": null,
                 "type": "undetected"
             }
